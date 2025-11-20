@@ -60,3 +60,11 @@
         "rss": "https://sspai.com/feed"
     }
 ]
+[
+    {
+        "name": "eyeworld",
+        "category": "眼科",
+        "language": "zh",
+        "rss": "https://www.eyeworld.org"
+    }
+]
