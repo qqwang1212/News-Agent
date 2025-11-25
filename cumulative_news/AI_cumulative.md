@@ -1,7 +1,85 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-11-19 23:19
+**最后更新时间**: 2025-11-25 03:28
+
+---
+
+## 🆕 最新更新 (2025-11-25 03:28)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [xLLM社区重磅首秀，揭秘大模型推理全景图与开源AI Infra生态](https://www.jiqizhixin.com/articles/2025-11-25-3)
+**发布时间**: 2025-11-25 10:43
+
+#### [刚刚，智能体&编程新王Claude Opus 4.5震撼登场，定价大降2/3](https://www.jiqizhixin.com/articles/2025-11-25-2)
+**发布时间**: 2025-11-25 10:20
+
+#### [新型AI芯片能耗重大突破，已登Nature子刊](https://www.jiqizhixin.com/articles/2025-11-25)
+**发布时间**: 2025-11-25 10:14
+
+#### [LUMA AI完成由HUMAIN领投的9亿美元C轮融资，并将在沙特阿拉伯合作建设2吉瓦AI超级集群](https://www.jiqizhixin.com/articles/2025-11-24-16)
+**发布时间**: 2025-11-24 17:48
+
+#### [NeurIPS 2025 | UniLumos: 引入物理反馈的统一图像视频重打光框架，实现20倍加速的真实光影重塑!](https://www.jiqizhixin.com/articles/2025-11-24-15)
+**发布时间**: 2025-11-24 17:45
+
+#### [虚实共振：模型×终端技术沙龙圆满举办](https://www.jiqizhixin.com/articles/2025-11-24-14)
+**发布时间**: 2025-11-24 17:41
+
+#### [与爱为舞「AI导师」学习效果显著，规模化「因材施教」成为现实](https://www.jiqizhixin.com/articles/2025-11-24-13)
+**发布时间**: 2025-11-24 17:15
+
+#### [人形机器人的落地难题，竟被一顿「九宫格」火锅解开？](https://www.jiqizhixin.com/articles/2025-11-24-12)
+**发布时间**: 2025-11-24 15:59
+
+#### [OpenAI与Anthropic联手力推：MCP Apps提案发布，告别纯文本交互](https://www.jiqizhixin.com/articles/2025-11-24-11)
+**发布时间**: 2025-11-24 15:55
+
+#### [AAAI 2026 Oral | 通过视觉安全提示与深度对齐实现大型视觉语言模型的安全对齐](https://www.jiqizhixin.com/articles/2025-11-24-10)
+**发布时间**: 2025-11-24 15:44
+
+#### [清华大学牵头国际团队提出全新人工智能框架，突破传统推理局限性，登Nature子刊](https://www.jiqizhixin.com/articles/2025-11-24-8-1)
+**发布时间**: 2025-11-24 14:07
+
+#### [2025宝山·智能机器人产业大会成功举办，「具身智能与机器人主题论坛」聚焦技术突破与产业落地](https://www.jiqizhixin.com/articles/2025-11-24-7)
+**发布时间**: 2025-11-24 11:21
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [Claude Opus 4.5发布！2小时工程测试超人类，前代Sonnet搞不定的活它轻松拿捏](https://www.qbitai.com/2025/11/355949.html)
+**发布时间**: 2025-11-25 01:30
+
+#### [顶流设计Agent能用Nano Banana Pro了！一句话BlackPink变东北翠花](https://www.qbitai.com/2025/11/355876.html)
+**发布时间**: 2025-11-24 18:29
+
+#### [xLLM社区重磅首秀，揭秘大模型推理全景图与开源AI Infra生态](https://www.qbitai.com/2025/11/355873.html)
+**发布时间**: 2025-11-24 12:34
+
+#### [睿尔曼开源全球首个高质量、模态数量最多的真机数据集](https://www.qbitai.com/2025/11/355861.html)
+**发布时间**: 2025-11-24 11:15
+
+#### [青年科学家数量创新高！35位新一期“新基石研究员”获资助](https://www.qbitai.com/2025/11/355844.html)
+**发布时间**: 2025-11-24 08:43
+
+#### [奥特曼承认谷歌威胁到OpenAI！即将推出新模型“Shallotpeat”](https://www.qbitai.com/2025/11/355790.html)
+**发布时间**: 2025-11-24 07:23
+
+#### [上线4天下载破百万，蚂蚁CTO：灵光要做AGI时代的“支付宝”](https://www.qbitai.com/2025/11/355767.html)
+**发布时间**: 2025-11-24 07:10
+
+#### [谢赛宁李飞飞LeCun搞的寒武纪，究竟是个啥？](https://www.qbitai.com/2025/11/355728.html)
+**发布时间**: 2025-11-24 06:29
+
+#### [「创业初期全靠人工」，AI笔记独角兽自曝了](https://www.qbitai.com/2025/11/355715.html)
+**发布时间**: 2025-11-24 06:01
+
+#### [田渊栋卡帕西力荐Nano Banana新玩法：论文变漫画、手写解题以假乱真，谷歌这波赢麻了](https://www.qbitai.com/2025/11/355602.html)
+**发布时间**: 2025-11-24 05:50
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Reducing EV range anxiety: How a simple AI model predicts port availability](https://research.google/blog/reducing-ev-range-anxiety-how-a-simple-ai-model-predicts-port-availability/)
+**发布时间**: 2025-11-21 16:27
 
 ---
 

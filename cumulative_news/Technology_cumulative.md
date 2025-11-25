@@ -1,7 +1,251 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-19 23:19
+**最后更新时间**: 2025-11-25 03:28
+
+---
+
+## 🆕 最新更新 (2025-11-25 03:28)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [时隔七年，谷歌以Jetpack Navigation 3重塑Android导航体验](https://www.infoq.cn/article/8FwMaadEzb7WNd3xCwvd?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 11:27
+
+#### [AWS Lambda 正式支持 Rust，开发者最关心的性能与编译痛点仍在路上](https://www.infoq.cn/article/Ohxr3qF2l4L802T9B1XF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 10:49
+
+#### [软硬协同、开源共建：英特尔与龙蜥携手打造 AI 时代的可信计算底座](https://www.infoq.cn/article/2VRoXwQCgfrfL851IQGj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 10:47
+
+#### [35岁外包被裁，他选择“一键复仇”：“黑”进系统重置 2500 个密码，直接让前东家损失600多万 ！](https://www.infoq.cn/article/WkrFLy2XGOBZ6srjo2ql?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 09:46
+
+#### [AI Agent在微软的Magentic Marketplace模拟中未能通过操纵测试](https://www.infoq.cn/article/ShWHEKia3Z6OapsRY6IM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 09:42
+
+#### [亚马逊云科技服务中断暴露了关键云基础设施的脆弱性](https://www.infoq.cn/article/9RhZudqHqsKcGWsFyyLq?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 18:28
+
+#### [从训练数据、代码到构建细节，LLaVA-OneVision-1.5要做“全开源”](https://www.infoq.cn/article/vWB51xQStGHyURhIRgdd?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 17:17
+
+#### [Cloudflare Workflows为持久化的AI管道提供了Python支持](https://www.infoq.cn/article/qwDSlBQuG3TT8Gwp0ffe?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 16:53
+
+#### [报告发现：AI生成的代码将引发新一轮技术债务浪潮](https://www.infoq.cn/article/z9BzTyFywGx3IlKfRLjo?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 16:20
+
+#### [从模型到智能体：Snowflake 的企业级 Agentic AI 工程化之路](https://www.infoq.cn/article/rFuqHmzyCVdTEJ7oQQem?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 15:58
+
+#### [IT员工抄公司量化代码赚8千万，被罚1.7亿；传毫末智行停工解散、赔偿不明；实习生抽中显卡被公司要求上交？回应来了 | AI周报](https://www.infoq.cn/article/dGj4STCTAj8cuFlpH6ch?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 14:27
+
+#### [CameraX 1.5为Android版本带来了高级视频录制和图像捕获功能](https://www.infoq.cn/article/j3s6l4QjgsiIMb0vidYo?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 14:25
+
+#### [非技术用户构建生产级应用的 AI Coding 实践｜AICon北京](https://www.infoq.cn/article/0uKvb5FHHhOG23pyGQ1M?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 12:30
+
+#### [F# 10带来的性能提升](https://www.infoq.cn/article/3PW8IpKhpOj2paT8XWgf?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 11:44
+
+#### [新的IBM Granite 4模型通过可高效推理的混合Mamba-2架构降低人工智能成本](https://www.infoq.cn/article/2G9xcZlsrvyWqkziqRcM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 11:21
+
+#### [Java内存排查太难？阿里云操作系统控制台上线「内存诊断」新利器](https://www.infoq.cn/article/bEVT6qXLN7u8xYrugb54?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 11:07
+
+#### [汇聚全球顶尖科学力量，中关村两院发布全球首个科研智能体系统，并公布2025前沿科技进展与2026未来重大突破预测](https://www.infoq.cn/article/zGe8HYVVkzcZxHevF2HK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 10:36
+
+#### [谷歌24亿美元买个壳？劈柴哥力推的王牌IDE被爆“复制”Windsurf，连Bug一起](https://www.infoq.cn/article/RDsRAq2SPCwrOZdUlHID?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 10:36
+
+#### [2025深圳国际金融科技大赛十强名单揭晓，12月6日深圳大学决赛见！](https://www.infoq.cn/article/b5bP7kH7NMujy5qTYCzM?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 10:30
+
+#### [Java近期新闻：Spring Framework 7.0、Spring Data、Spring AI、Payara Platform、OpenJDK、JobRunr](https://www.infoq.cn/article/RNtNHhFOI4DWYDdp2Grl?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-24 09:39
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [马云督战，阿里又跑出一个AI新玩家](https://www.tmtpost.com/7779689.html)
+**发布时间**: 2025-11-25 10:52
+
+#### [AtomGit正式上线，中国开源AI雏形已现](https://www.tmtpost.com/7779348.html)
+**发布时间**: 2025-11-25 10:45
+
+#### [Autonomous Driving Pioneer Says Autonomous Driving Nears Commercial Inflection as Industry Weighs Pure Vision, Robotics Futures](https://www.tmtpost.com/7780495.html)
+**发布时间**: 2025-11-25 10:28
+
+#### [创新药下一个风口浮现](https://www.tmtpost.com/7780443.html)
+**发布时间**: 2025-11-25 10:24
+
+#### [阿里谷歌AI齐反超：中美巨头的全栈默契与开源分野](https://www.tmtpost.com/7780078.html)
+**发布时间**: 2025-11-25 10:00
+
+#### [Amazon to Invest Up to $50 Billion to Build AI infrastructure for U.S. Government, Pour An Extra $15 billion in Indiana Datacenters](https://www.tmtpost.com/7780374.html)
+**发布时间**: 2025-11-25 09:36
+
+#### [China's Moonshot AI in Talks for New Funding Round That May Value Firm at $4 Billion](https://www.tmtpost.com/7780294.html)
+**发布时间**: 2025-11-25 09:05
+
+#### [欧盟的数字监管开始给美国大厂放水了？](https://www.tmtpost.com/7779682.html)
+**发布时间**: 2025-11-25 09:00
+
+#### [Trump Launches Genesis Mission to Accelerate AI for Scientific Discovery](https://www.tmtpost.com/7780256.html)
+**发布时间**: 2025-11-25 08:51
+
+#### [一本新书的猛料，让ASML陷入国际舆论漩涡，多次下场“对线”](https://www.tmtpost.com/7780176.html)
+**发布时间**: 2025-11-25 08:40
+
+#### [大厂加码、创业公司竞逐，人形机器人迎来iPhone时刻了吗？](https://www.tmtpost.com/7780065.html)
+**发布时间**: 2025-11-25 08:30
+
+#### [小鹏炫技背后，一批人形机器人企业已经开始倒闭了](https://www.tmtpost.com/7779932.html)
+**发布时间**: 2025-11-25 08:00
+
+#### [【钛晨报】10000亿元！央行今日再出手MLF操作；一则传闻掀翻万亿AI龙头？工业富联紧急辟谣；雷军斥资超1亿港元增持小米](https://www.tmtpost.com/7779920.html)
+**发布时间**: 2025-11-25 07:20
+
+#### [长城“亲儿子”陨落，毫末智行没撑到 IPO](https://www.tmtpost.com/7780162.html)
+**发布时间**: 2025-11-25 06:43
+
+#### [芯德半导体：核心业务“亏本卖”，5年累计“烧了”14亿｜IPO观察](https://www.tmtpost.com/7774013.html)
+**发布时间**: 2025-11-24 20:53
+
+#### [AI催热高速线缆，“瓶盖大王”金富科技业绩承压下跨界收购谋变｜并购一线](https://www.tmtpost.com/7779766.html)
+**发布时间**: 2025-11-24 20:28
+
+#### [镭萌科技马丁：市场需要的不是陪伴机器人，而是AI潮玩2.0 | AI Founder 请回答 | 巴伦精选](https://www.tmtpost.com/7779818.html)
+**发布时间**: 2025-11-24 20:15
+
+#### [招商银行与常熟银行为何“掉队”了？](https://www.tmtpost.com/7778913.html)
+**发布时间**: 2025-11-24 19:11
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [切割中国、狂舔美国，松下电池走向深渊](http://www.huxiu.com/article/4808626.html?f=wangzhan)
+**发布时间**: 2025-11-25 10:15
+
+#### [2025年餐饮店平均生命周期仅15个月？](http://www.huxiu.com/article/4808048.html?f=wangzhan)
+**发布时间**: 2025-11-25 08:00
+
+#### [我们的数字生活已被巨头垄断？去中心化是唯一出路吗？](http://www.huxiu.com/article/4807574.html?f=wangzhan)
+**发布时间**: 2025-11-23 10:00
+
+#### [精准三刀砍中日本经济命门，日本能撑多久？](http://www.huxiu.com/article/4807685.html?f=wangzhan)
+**发布时间**: 2025-11-21 15:00
+
+#### [改款不仅是为了进化，还有勿忘旧人｜阿维塔07深度体验](http://www.huxiu.com/article/4807369.html?f=wangzhan)
+**发布时间**: 2025-11-21 13:00
+
+#### [避孕套滞销、玩具销量翻倍，当代年轻人不再需要“双人成行”？](http://www.huxiu.com/article/4807653.html?f=wangzhan)
+**发布时间**: 2025-11-20 18:24
+
+#### [雷军连发三博，只为一份“安全感”](http://www.huxiu.com/article/4807480.html?f=wangzhan)
+**发布时间**: 2025-11-20 16:30
+
+#### [又一轻食巨头暴雷！曾融资过亿，如今创始人被悬赏“追债”？](http://www.huxiu.com/article/4807163.html?f=wangzhan)
+**发布时间**: 2025-11-20 14:16
+
+#### [“低价神话”萨莉亚，遭北上广打工人“集体抛弃”？](http://www.huxiu.com/article/4807176.html?f=wangzhan)
+**发布时间**: 2025-11-20 12:00
+
+#### [从小就开始投喂资金支持？深圳金融科技企业杀疯了](http://www.huxiu.com/article/4807360.html?f=wangzhan)
+**发布时间**: 2025-11-20 11:38
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [特朗普签署行政令，启动人工智能「创世纪计划」；苹果罕见裁员，数十个销售部门岗位被裁；理想高管回应理想汽车为什么没终身质保｜极客早知道](http://www.geekpark.net/news/356847)
+**发布时间**: 2025-11-25 08:37
+
+#### [机器人下鱼塘、救膝盖？这场机器人“脱口秀”路子太野了](http://www.geekpark.net/news/356848)
+**发布时间**: 2025-11-25 00:13
+
+#### [是的！这就是我们的王炸！](http://www.geekpark.net/news/356834)
+**发布时间**: 2025-11-24 17:29
+
+#### [AI 医生、AI 伴侣和 AI 同事，你准备好迎接了吗？](http://www.geekpark.net/news/356833)
+**发布时间**: 2025-11-24 17:25
+
+#### [罗永浩的下一个路口，是什么？](http://www.geekpark.net/news/356827)
+**发布时间**: 2025-11-24 15:46
+
+#### [极客公园创新大会 2026 全议程公布！](http://www.geekpark.net/news/356826)
+**发布时间**: 2025-11-24 15:43
+
+#### [Blackwell全面量产，AI芯片「美国造」真能行？](http://www.geekpark.net/news/356815)
+**发布时间**: 2025-11-24 13:07
+
+#### [「AI 手机元年」过去了，我们并不想念它](http://www.geekpark.net/news/356804)
+**发布时间**: 2025-11-24 11:23
+
+#### [他们没在追风口，而是在造下一个](http://www.geekpark.net/news/356805)
+**发布时间**: 2025-11-24 11:21
+
+#### [雷军：辅助驾驶不是自动驾驶；继续干！传库克明年不退休；Altman：谷歌复苏，OpenAI进入艰难时刻](http://www.geekpark.net/news/356777)
+**发布时间**: 2025-11-24 08:26
+
+#### [罗永浩：当年如果不做 TNT，锤子科技有可能多撑几年；灵光上线 4 天下载突破 100 万；谷歌 AI 搜索出现赞助广告](http://www.geekpark.net/news/356776)
+**发布时间**: 2025-11-23 08:30
+
+#### [美团宣布在全国建设「骑手公寓」；2026 款苹果 iPad Air 曝光；月之暗面被曝计划明年下半年 IPO](http://www.geekpark.net/news/356768)
+**发布时间**: 2025-11-22 09:00
+
+#### [小米汽车第 50 万辆整车下线；谷歌推出 Nana Banana Pro；华为正式推出乾崑境系列旗舰 | 极客早知道](http://www.geekpark.net/news/356753)
+**发布时间**: 2025-11-21 18:35
+
+#### [字节这个「消失」了几年的 App，悄悄杀回苹果商城排行榜](http://www.geekpark.net/news/356642)
+**发布时间**: 2025-11-21 18:04
+
+#### [​「数字分身」白菜价：每月 998 元，雇一个 AI 帮你直播 8 小时](http://www.geekpark.net/news/356718)
+**发布时间**: 2025-11-21 15:08
+
+#### [OpenAI 的「群聊」，可能比你想得更重要！](http://www.geekpark.net/news/356681)
+**发布时间**: 2025-11-20 18:19
+
+#### [字节张楠、张宏江、田渊栋······极客公园创新大会 2026 嘉宾阵容更新！](http://www.geekpark.net/news/356673)
+**发布时间**: 2025-11-20 16:33
+
+#### [为什么说在 AI 时代，「想象」比「记录」更费劲？](http://www.geekpark.net/news/356672)
+**发布时间**: 2025-11-20 16:26
+
+#### [杨立昆宣布离开 Meta「自立门户」；荷兰暂停干预安世半导体；TikTok 将支持用户设置减少 AI 内容](http://www.geekpark.net/news/356639)
+**发布时间**: 2025-11-20 08:41
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：荣耀发布 500 系列手机，抖音发布《抖音社区法律行业公约》等](https://sspai.com/post/104063)
+**发布时间**: 2025-11-25 07:56
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/104054)
+**发布时间**: 2025-11-24 17:58
+
+#### [智能手机的「最后一道保险」：卫星通讯的过去、现在与未来](https://sspai.com/post/103797)
+**发布时间**: 2025-11-24 15:00
+
+#### [代码人生的碎碎念：写在 PicGo 八周年之际](https://sspai.com/post/104040)
+**发布时间**: 2025-11-24 11:21
+
+#### [派早报：微软因反复鼓吹 Copilot 频招批评](https://sspai.com/post/104042)
+**发布时间**: 2025-11-24 08:57
+
+#### [城市漫步指南：炎热、精致、昂贵？我想带你探寻狮城的建筑物语](https://sspai.com/post/103861)
+**发布时间**: 2025-11-23 13:16
+
+#### [一日一技｜将豆瓣书影音记录迁移至 Obsidian](https://sspai.com/post/103817)
+**发布时间**: 2025-11-22 15:46
+
+#### [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/103994)
+**发布时间**: 2025-11-21 17:39
+
+#### [技术语境中那些熟悉又陌生的英语动词（三）](https://sspai.com/prime/story/interesting-verbs-in-computing-03)
+**发布时间**: 2025-11-21 17:26
+
+#### [一日一技 | 让 Mac 邮箱也用上自动化摘要](https://sspai.com/post/103972)
+**发布时间**: 2025-11-21 15:02
 
 ---
 
