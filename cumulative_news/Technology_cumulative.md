@@ -1,7 +1,67 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-25 03:28
+**最后更新时间**: 2025-11-25 05:42
+
+---
+
+## 🆕 最新更新 (2025-11-25 05:42)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“新国标”来了，雅迪、爱玛要给骑手“打工”？](https://www.tmtpost.com/7780389.html)
+**发布时间**: 2025-11-25 13:26
+
+#### [幸运咖门店突破一万家，产品定价比9块9更低](https://www.tmtpost.com/7780700.html)
+**发布时间**: 2025-11-25 12:27
+
+#### [开除，字节打响“AI军纪”第一枪](https://www.tmtpost.com/7780472.html)
+**发布时间**: 2025-11-25 12:03
+
+#### [峰飞航空发布eVTOL零碳水上机场  全球首创“海空一体”低空经济解决方案 | 公司动态](https://www.tmtpost.com/7780603.html)
+**发布时间**: 2025-11-25 11:51
+
+#### [140亿“风投女王”，豪掷3亿美元弥补遗憾](https://www.tmtpost.com/7780292.html)
+**发布时间**: 2025-11-25 11:40
+
+#### [Strategy周一更新比特币持有动态，为何这对其股票及加密货币市场意义重大？](https://www.tmtpost.com/7780622.html)
+**发布时间**: 2025-11-25 11:27
+
+#### [QuantumScape被下调评级，股价却上涨](https://www.tmtpost.com/7780584.html)
+**发布时间**: 2025-11-25 11:06
+
+#### [市场反弹或将持续：乌克兰局势、美联储降息预期为何盖过了对AI的担忧——今日还有这5件大事值得了解](https://www.tmtpost.com/7780570.html)
+**发布时间**: 2025-11-25 10:56
+
+#### [为何股市低迷正是抄底良机？](https://www.tmtpost.com/7780567.html)
+**发布时间**: 2025-11-25 10:56
+
+#### [Inspire Medical股票今年下跌了41%，为何周一又突然大涨？](https://www.tmtpost.com/7780561.html)
+**发布时间**: 2025-11-25 10:54
+
+#### [汽车市场状况不佳，但分析师建议仍可买入Carvana股票](https://www.tmtpost.com/7780559.html)
+**发布时间**: 2025-11-25 10:53
+
+#### [消费品板块股票成为焦点，沃尔玛、塔吉特、可口可乐股价走势图透露了哪些信息？](https://www.tmtpost.com/7780333.html)
+**发布时间**: 2025-11-25 09:22
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Grafana 最新发布：日志更智能、MCP 服务器首秀、TraceQL 全面升级](https://www.infoq.cn/article/TIyix3ryIeOPrkbEyAh2?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 13:00
+
+#### [Nexla 发布对话式 AI 数据工程平台  Express](https://www.infoq.cn/article/ov2zwJWhsCPV8lL90MaG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 12:30
+
+#### [Spring Framework 7和Spring Boot 4引入API版本控制、韧性和Null-Safe注解](https://www.infoq.cn/article/Wv28jmj304XeIypPGAgR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 11:57
+
+#### [不仅是适配，更是定义标准：中兴新支点操作系统在龙蜥大会交出的“2025 答卷”](https://www.infoq.cn/article/8mW6xpOfK6kyWJDrLLuJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 11:34
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [习惯养成 ABC：要如何克服内心的静摩擦力？](https://sspai.com/post/103458)
+**发布时间**: 2025-11-25 11:33
 
 ---
 
