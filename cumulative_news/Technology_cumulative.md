@@ -1,7 +1,64 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-25 05:42
+**最后更新时间**: 2025-11-25 09:02
+
+---
+
+## 🆕 最新更新 (2025-11-25 09:02)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [二十五载聚智启新章，中国股权投资年度大会深圳将启](https://www.tmtpost.com/7780713.html)
+**发布时间**: 2025-11-25 16:50
+
+#### [西式快餐偏保守，中式餐饮爱折腾？](https://www.tmtpost.com/7780549.html)
+**发布时间**: 2025-11-25 15:39
+
+#### [蚂蚁另起炉灶，「灵光」向外求AI to C入口](https://www.tmtpost.com/7780001.html)
+**发布时间**: 2025-11-25 15:39
+
+#### [千问、灵光、夸克，阿里AI疯狂“补课”](https://www.tmtpost.com/7780451.html)
+**发布时间**: 2025-11-25 15:39
+
+#### [特朗普启动AI“创世纪计划”，对标“曼哈顿工程”，英伟达等巨头又迎政策盛宴](https://www.tmtpost.com/7780236.html)
+**发布时间**: 2025-11-25 14:30
+
+#### [外资品牌集体 “改姓中”：星巴克、汉堡王易主背后，中国资本手术刀如何改写全球规则？](https://www.tmtpost.com/7780483.html)
+**发布时间**: 2025-11-25 14:20
+
+#### [“监控中国客户”：一本新书引发ASML“风暴眼”的背后](https://www.tmtpost.com/7780122.html)
+**发布时间**: 2025-11-25 14:20
+
+#### [Zoom发布财报，投资者希望其加大AI应用](https://www.tmtpost.com/7780832.html)
+**发布时间**: 2025-11-25 14:09
+
+#### [Tencent-backed Prosus Posts 99% Jump in Half-Year Profit as Digital Services and E-Commerce Surge](https://www.tmtpost.com/7780829.html)
+**发布时间**: 2025-11-25 14:09
+
+#### [JingDong Industrials Targets Up to $500 Million in Hong Kong IPO Next Week, Sources Say](https://www.tmtpost.com/7780811.html)
+**发布时间**: 2025-11-25 13:57
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [直播预告｜飞傲 DM15 R2R 便携蓝牙 CD 播放机 正式发售](https://sspai.com/post/104065)
+**发布时间**: 2025-11-25 16:00
+
+#### [用 Tasker 在桌面上随机回顾微信读书笔记](https://sspai.com/prime/story/wechat-read-annotations-widget-tasker)
+**发布时间**: 2025-11-25 15:42
+
+#### [Matrix 圆桌｜聊聊那些让你离不开的「平台独占」](https://sspai.com/post/104030)
+**发布时间**: 2025-11-25 15:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [携手共进，共赴“星河”-2025年“星河产业应用创新奖”火热申报中！](https://www.infoq.cn/article/RgKvdm2FKy2SkjbwB2Mt?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 15:06
+
+#### [Claude Opus 4.5夺回编程王座，超Gemini 3 Pro和GPT-5.1](https://www.infoq.cn/article/H1by6aKbLrDp7MBuRU1M?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 14:33
+
+#### [又一家AI创企爆雷：CEO 宣称估值近千亿，但融资和投资人凭空消失，网友还扒出创始人学历造假](https://www.infoq.cn/article/DD39QKaztoNKtoFjvgqc?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-25 14:17
 
 ---
 

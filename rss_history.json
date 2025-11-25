@@ -1152,27 +1152,27 @@
         "link": "https://www.qbitai.com/2025/11/356060.html",
         "published_date": "Tue, 25 Nov 2025 03:30:00 GMT",
         "first_seen": "2025-11-25T05:42:50.613365"
+      },
+      "fd46428a55728d6c6cc8673d647af613e9e461b751a9bdb0b5b818699fc5d8f7": {
+        "title": "学生3年投稿6次被拒，于是吴恩达亲手搓了个评审Agent",
+        "link": "https://www.qbitai.com/2025/11/356247.html",
+        "published_date": "Tue, 25 Nov 2025 06:48:00 GMT",
+        "first_seen": "2025-11-25T09:02:15.975766"
+      },
+      "99383688b92ce2b83af7132fe7732cdb1521bffbcc3d0b7cc18832637b25ebcf": {
+        "title": "波士顿动力前CTO加盟DeepMind，Gemini要做机器人界的安卓",
+        "link": "https://www.qbitai.com/2025/11/356219.html",
+        "published_date": "Tue, 25 Nov 2025 06:42:00 GMT",
+        "first_seen": "2025-11-25T09:02:15.975939"
+      },
+      "14499f4b61565116f087edf97c591196fbbe4cb3f0d642157c20e88710dcc2fa": {
+        "title": "马斯克开始用Grok替代员工了！最惨部门裁员90%",
+        "link": "https://www.qbitai.com/2025/11/356162.html",
+        "published_date": "Tue, 25 Nov 2025 06:24:00 GMT",
+        "first_seen": "2025-11-25T09:02:15.976084"
       }
     },
     "Technology": {
-      "e1d54e5f5bdf0877fc174de71aa9fc4587ab56fa1edc0583754ada4066b04fe2": {
-        "title": "谁会成为AI时代的苹果公司？",
-        "link": "https://www.tmtpost.com/7738355.html",
-        "published_date": "Sun, 26 Oct 2025 16:17:00 GMT",
-        "first_seen": "2025-10-26T08:24:30.366652"
-      },
-      "40669868ac1da459bc01148a141ef1cceb93dd1d77754aca1f079a4ad358d2f2": {
-        "title": "AI视频，抖音的又一批门徒",
-        "link": "https://www.tmtpost.com/7738202.html",
-        "published_date": "Sun, 26 Oct 2025 15:19:00 GMT",
-        "first_seen": "2025-10-26T08:24:30.366797"
-      },
-      "2ea0672a0e258f59f72aa6087195624aeb31d7bdc9c252d849b0fb04e4b3314f": {
-        "title": "谁还在为李佳琦们买单？",
-        "link": "https://www.tmtpost.com/7738353.html",
-        "published_date": "Sun, 26 Oct 2025 13:57:00 GMT",
-        "first_seen": "2025-10-26T08:24:30.366916"
-      },
       "ff1ab64132aafb62599587cbf2da9116371b341b4f3e397c65a17763818fdd90": {
         "title": "8888元一桌的高端婚宴，全是预制菜？",
         "link": "http://www.huxiu.com/article/4796518.html?f=wangzhan",
@@ -10508,13 +10508,109 @@
         "link": "https://sspai.com/post/104063",
         "published_date": "Tue, 25 Nov 2025 07:56:00 GMT",
         "first_seen": "2025-11-25T05:43:39.102887"
+      },
+      "19d19bf84f58459544aedb2856c92e51dec358e90cb371d98b032585f74de9ff": {
+        "title": "二十五载聚智启新章，中国股权投资年度大会深圳将启",
+        "link": "https://www.tmtpost.com/7780713.html",
+        "published_date": "Tue, 25 Nov 2025 16:50:00 GMT",
+        "first_seen": "2025-11-25T09:03:04.447870"
+      },
+      "446430a06ebcced5f9a7a7058faf3aca774940f3e8cddbe2abb97e6a4a0442b6": {
+        "title": "西式快餐偏保守，中式餐饮爱折腾？",
+        "link": "https://www.tmtpost.com/7780549.html",
+        "published_date": "Tue, 25 Nov 2025 15:39:00 GMT",
+        "first_seen": "2025-11-25T09:03:04.447880"
+      },
+      "4c88bba0a808bd06ec9488d8418e9ad6eec8016482bc7374ba224cde641a0346": {
+        "title": "蚂蚁另起炉灶，「灵光」向外求AI to C入口",
+        "link": "https://www.tmtpost.com/7780001.html",
+        "published_date": "Tue, 25 Nov 2025 15:39:00 GMT",
+        "first_seen": "2025-11-25T09:03:04.447890"
+      },
+      "71be6b11358d8532f0c74dcdaa1a9a589882a8ff5413c02ebde60c35caae89d8": {
+        "title": "千问、灵光、夸克，阿里AI疯狂“补课”",
+        "link": "https://www.tmtpost.com/7780451.html",
+        "published_date": "Tue, 25 Nov 2025 15:39:00 GMT",
+        "first_seen": "2025-11-25T09:03:04.447899"
+      },
+      "ea08c3721c9c6240ff5055ffc593992aece8bb6f67ff0b0245e7a216c5a37a8d": {
+        "title": "特朗普启动AI“创世纪计划”，对标“曼哈顿工程”，英伟达等巨头又迎政策盛宴",
+        "link": "https://www.tmtpost.com/7780236.html",
+        "published_date": "Tue, 25 Nov 2025 14:30:00 GMT",
+        "first_seen": "2025-11-25T09:03:04.447909"
+      },
+      "d1a2f3d0b0f42d724af9505119d2151c1027422252cf6c1cea204ff6cbbace04": {
+        "title": "外资品牌集体 “改姓中”：星巴克、汉堡王易主背后，中国资本手术刀如何改写全球规则？",
+        "link": "https://www.tmtpost.com/7780483.html",
+        "published_date": "Tue, 25 Nov 2025 14:20:00 GMT",
+        "first_seen": "2025-11-25T09:03:04.447918"
+      },
+      "df25755086120ba5ae5741a00353e646c949a7a07d79b3f0d949f5623ca5f9ba": {
+        "title": "“监控中国客户”：一本新书引发ASML“风暴眼”的背后",
+        "link": "https://www.tmtpost.com/7780122.html",
+        "published_date": "Tue, 25 Nov 2025 14:20:00 GMT",
+        "first_seen": "2025-11-25T09:03:04.447927"
+      },
+      "5d74d8cb1363807393cdd311ad7527e5094030f787a684c47b8efd09b0f2de87": {
+        "title": "Zoom发布财报，投资者希望其加大AI应用",
+        "link": "https://www.tmtpost.com/7780832.html",
+        "published_date": "Tue, 25 Nov 2025 14:09:00 GMT",
+        "first_seen": "2025-11-25T09:03:04.447821"
+      },
+      "1ae73fbafa0fffc1d0d3c0f34d0d127ac89ed957c41bdb667ca25921e5b6a895": {
+        "title": "Tencent-backed Prosus Posts 99% Jump in Half-Year Profit as Digital Services and E-Commerce Surge",
+        "link": "https://www.tmtpost.com/7780829.html",
+        "published_date": "Tue, 25 Nov 2025 14:09:00 GMT",
+        "first_seen": "2025-11-25T09:02:16.119081"
+      },
+      "0db275f9935fe43221c39b95e98476804327aace482b5de57c38a61445877606": {
+        "title": "JingDong Industrials Targets Up to $500 Million in Hong Kong IPO Next Week, Sources Say",
+        "link": "https://www.tmtpost.com/7780811.html",
+        "published_date": "Tue, 25 Nov 2025 13:57:00 GMT",
+        "first_seen": "2025-11-25T09:02:16.120221"
+      },
+      "e6d4c586135b02ccda4c3437abb31b83d96db902d8c65885ed075c2fc5cbe7b2": {
+        "title": "直播预告｜飞傲 DM15 R2R 便携蓝牙 CD 播放机 正式发售",
+        "link": "https://sspai.com/post/104065",
+        "published_date": "Tue, 25 Nov 2025 16:00:00 GMT",
+        "first_seen": "2025-11-25T09:02:16.121033"
+      },
+      "d6ea7c07544d0f04cfefa4a5e7f44386e18a462593ee59dc82f7b7612deb2689": {
+        "title": "用 Tasker 在桌面上随机回顾微信读书笔记",
+        "link": "https://sspai.com/prime/story/wechat-read-annotations-widget-tasker",
+        "published_date": "Tue, 25 Nov 2025 15:42:00 GMT",
+        "first_seen": "2025-11-25T09:02:16.121644"
+      },
+      "df8d1788dd00410e89ee53098453aeeafbc1604d3890452b424417c4b552d350": {
+        "title": "Matrix 圆桌｜聊聊那些让你离不开的「平台独占」",
+        "link": "https://sspai.com/post/104030",
+        "published_date": "Tue, 25 Nov 2025 15:00:00 GMT",
+        "first_seen": "2025-11-25T09:03:04.447846"
+      },
+      "ef309d718d46196fc95eff05c290bbbc5bf4c3ec1477b9b022f1d8567b6cbcbf": {
+        "title": "携手共进，共赴“星河”-2025年“星河产业应用创新奖”火热申报中！",
+        "link": "https://www.infoq.cn/article/RgKvdm2FKy2SkjbwB2Mt?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 25 Nov 2025 15:06:00 GMT",
+        "first_seen": "2025-11-25T09:03:04.447860"
+      },
+      "7382b2afe389f2ce93a3d629afa3c53dc138ee66a7a22d151fa4ce9b32a11084": {
+        "title": "Claude Opus 4.5夺回编程王座，超Gemini 3 Pro和GPT-5.1",
+        "link": "https://www.infoq.cn/article/H1by6aKbLrDp7MBuRU1M?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 25 Nov 2025 14:33:00 GMT",
+        "first_seen": "2025-11-25T09:02:16.124771"
+      },
+      "6ffc456d940302e835d894a409004d7f6302d0a289477d32fced6bfdc7fe36d3": {
+        "title": "又一家AI创企爆雷：CEO 宣称估值近千亿，但融资和投资人凭空消失，网友还扒出创始人学历造假",
+        "link": "https://www.infoq.cn/article/DD39QKaztoNKtoFjvgqc?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 25 Nov 2025 14:17:00 GMT",
+        "first_seen": "2025-11-25T09:02:16.126027"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-11-25T05:42:50.651336",
-    "Technology": "2025-11-25T05:43:39.104461",
-    "Finance": "2025-11-25T05:42:50.504328"
+    "AI": "2025-11-25T09:02:16.082128",
+    "Technology": "2025-11-25T09:03:04.449491",
+    "Finance": "2025-11-25T09:02:15.867436"
   }
 }
