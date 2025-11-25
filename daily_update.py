@@ -1125,40 +1125,69 @@ RSS_LINKS_PLACEHOLDER
     rss_links = ""
     total_size = 0
     feed_count = 0
-
+    
     if os.path.exists('feed'):
         if os.getenv('GITHUB_ACTIONS') == 'true':
-            base_url = "https://zskksz.asia/News-Agent"
+            # 动态获取GitHub用户名和仓库名
+            github_repo = os.getenv('GITHUB_REPOSITORY', 'username/News-Agent')
+            if '/' in github_repo:
+                username, repo_name = github_repo.split('/', 1)
+            else:
+                username = github_repo
+                repo_name = 'News-Agent'
+            base_url = f"https://{username}.github.io/{repo_name}"
         else:
             base_url = "."  # 本地预览
 
         # 定义增强版RSS文件映射，包含更多元数据
-        rss_mapping = {
-            'aifreenewsagent.xml': {
-                'name': 'AI-人工智能',
-                'icon': '🤖',
-                'category': 'ai',
-                'description': '人工智能、机器学习、深度学习等前沿技术资讯',
-                'sources': ['机器之心', '量子位', 'MIT Technology Review', 'Google Research', 'arXiv AI'],
-                'update_frequency': '每日3次'
-            },
-            'technologyfreenewsagent.xml': {
-                'name': 'Technology-科技',
-                'icon': '💻',
-                'category': 'technology',
-                'description': '科技行业动态、产品发布、技术趋势分析',
-                'sources': ['InfoQ', '极客公园', 'TechCrunch', 'The Verge', 'WIRED'],
-                'update_frequency': '每日3次'
-            },
-            'financefreenewsagent.xml': {
-                'name': 'Finance-财经',
-                'icon': '💰',
-                'category': 'finance',
-                'description': '金融市场、投资理财、经济政策解读',
-                'sources': ['MarketWatch', '新浪财经', 'Financial Times'],
-                'update_frequency': '每日3次'
+        # ✅ 动态加载RSS配置，支持所有分类
+        from src.load_rss_url import load_rss_sources
+        
+        try:
+            rss_sources = load_rss_sources("RSS feed URL/rss_feed_url.json")
+            
+            # 按分类分组
+            from collections import defaultdict
+            categories = defaultdict(list)
+            for source in rss_sources:
+                categories[source['category']].append(source)
+            
+            # 动态生成RSS映射
+            rss_mapping = {}
+            # 图标映射（可扩展）
+            icon_map = {
+                'AI': '🤖',
+                'Technology': '💻',
+                'Finance': '💰',
+                'Education': '🎓'
             }
-        }
+            
+            for category, sources in categories.items():
+                safe_category = category.lower().replace(' ', '_')
+                filename = f"{safe_category}freenewsagent.xml"
+                rss_mapping[filename] = {
+                    'name': f'{category}',
+                    'icon': icon_map.get(category, '📰'),  # 默认图标
+                    'category': safe_category,
+                    'description': f'{category}领域新闻聚合',
+                    'sources': [s['name'] for s in sources][:5],  # 最多显示5个来源
+                    'update_frequency': '每日3次'
+                }
+                
+        except Exception as e:
+            print(f"   ❌ 加载RSS配置失败: {e}")
+            # 回退到硬编码
+            rss_mapping = {
+                'aifreenewsagent.xml': {
+                    'name': 'AI-人工智能',
+                    'icon': '🤖',
+                    'category': 'ai',
+                    'description': '人工智能领域新闻',
+                    'sources': ['机器之心', '量子位'],
+                    'update_frequency': '每日3次'
+                }
+            }
+
 
         for filename, feed_info in rss_mapping.items():
             file_path = os.path.join('feed', filename)
