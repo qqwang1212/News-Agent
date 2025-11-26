@@ -1,7 +1,107 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-26 05:46
+**最后更新时间**: 2025-11-26 08:55
+
+---
+
+## 🆕 最新更新 (2025-11-26 08:55)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [抢到票的各位，看看你们将要面临什么！](http://www.geekpark.net/news/356961)
+**发布时间**: 2025-11-26 16:45
+
+#### [抢到票的各位，看看你们将要面临什么！](http://www.geekpark.net/news/356960)
+**发布时间**: 2025-11-26 16:44
+
+#### [下一代 AI 产品长什么样？7 个 AI 新物种将给你答案](http://www.geekpark.net/news/356943)
+**发布时间**: 2025-11-26 16:16
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [麦肯锡最新AI报告：23%的企业启动AI Agents，扩展部署的仍是少数派](https://www.tmtpost.com/7782862.html)
+**发布时间**: 2025-11-26 16:31
+
+#### [押注无人客货与商用赛道，大通想告别“传统汽车制造商”的标签](https://www.tmtpost.com/7783208.html)
+**发布时间**: 2025-11-26 16:17
+
+#### [堆算力无效了？AI大神llya发声：超级AI靠的不是规模，而是新研究](https://www.tmtpost.com/7783077.html)
+**发布时间**: 2025-11-26 16:03
+
+#### [第三次叩响资本大门，海辰储能IPO生死局来了](https://www.tmtpost.com/7782286.html)
+**发布时间**: 2025-11-26 15:59
+
+#### [抓小三的生意过时了，分离小三才是王炸](https://www.tmtpost.com/7781504.html)
+**发布时间**: 2025-11-26 15:58
+
+#### [80亿独角兽被曝停摆，魏建军放弃智驾“亲儿子”？](https://www.tmtpost.com/7782156.html)
+**发布时间**: 2025-11-26 15:58
+
+#### [出手就对标马斯克，中国00后正扎堆改变世界](https://www.tmtpost.com/7782695.html)
+**发布时间**: 2025-11-26 15:56
+
+#### [从资本视角聊聊万亿大基建钱从哪儿来，以及电力破局的六条路径](https://www.tmtpost.com/7782880.html)
+**发布时间**: 2025-11-26 15:55
+
+#### [跨境电商的运营们今年的旺季提成，彻底凉了](https://www.tmtpost.com/7782896.html)
+**发布时间**: 2025-11-26 15:48
+
+#### [阿里升维AI和消费之战](https://www.tmtpost.com/7783074.html)
+**发布时间**: 2025-11-26 15:42
+
+#### [马斯克的新狂人愿景：自造万亿AI芯片](https://www.tmtpost.com/7782977.html)
+**发布时间**: 2025-11-26 15:40
+
+#### [钼市观察：价格下行通道下的破与立](https://www.tmtpost.com/7783055.html)
+**发布时间**: 2025-11-26 15:40
+
+#### [32天揽金9319万元，上海大厂出手，二游赛道新趋势？情况如何？](https://www.tmtpost.com/7782940.html)
+**发布时间**: 2025-11-26 15:35
+
+#### [Meta and ByteDance Escalate AI Talent War in Silicon Valley](https://www.tmtpost.com/7783107.html)
+**发布时间**: 2025-11-26 15:35
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Win11 已近乎“残废”？微软承认多个核心功能崩盘，锅要甩给 AI 编程吗？](https://www.infoq.cn/article/P8e96Y4uDRGHSgPhtIyk?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-26 16:15
+
+#### [Olmo 3 发布：模型开发与训练全程透明开放](https://www.infoq.cn/article/Mah23P0FX0LKva0zIGcZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-26 16:02
+
+#### [xLLM社区重磅首秀，揭秘大模型推理全景图与开源AI Infra生态](https://www.infoq.cn/article/rYR9d4r7Q8cR5hZUhfhO?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-26 16:02
+
+#### [工作场景AI化，一个月花100美元订阅AI工具值吗？](https://www.infoq.cn/article/P4LBQJIK5dY17awsxh0K?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-26 15:34
+
+#### [阿里千问进入电脑桌面，与夸克AI浏览器深度融合](https://www.infoq.cn/article/DipaG6owXBmQ8ZZdtzb0?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-26 14:54
+
+#### [开发者怒扒200家AI公司，73%“套壳”拿融资、服务溢价甚至高达千倍！创始人直接认了：大家都在撒谎](https://www.infoq.cn/article/h5a2HyCvqhIjI4Mfj97I?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-26 14:28
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [10个月狂开5000家门店，又一餐饮万店品牌诞生](http://www.huxiu.com/article/4809394.html?f=wangzhan)
+**发布时间**: 2025-11-26 15:49
+
+#### [机器人学会“思考”后，以后真能在家帮我们干活了吗？](http://www.huxiu.com/article/4809737.html?f=wangzhan)
+**发布时间**: 2025-11-26 14:40
+
+#### [如果开战它能撑多久？乌克兰能撑三年，日本未必能撑得过三周](http://www.huxiu.com/article/4808283.html?f=wangzhan)
+**发布时间**: 2025-11-26 11:00
+
+#### [开到美国的费大厨，“抛弃”辣椒炒肉了？](http://www.huxiu.com/article/4809392.html?f=wangzhan)
+**发布时间**: 2025-11-26 10:30
+
+#### [梁建章有底气](http://www.huxiu.com/article/4809050.html?f=wangzhan)
+**发布时间**: 2025-11-26 07:24
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [入门到精通：从今天开始成为感冒专家](https://sspai.com/post/84574)
+**发布时间**: 2025-11-26 15:16
 
 ---
 
