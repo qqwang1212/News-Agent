@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-11-25 23:34
+**最后更新时间**: 2025-11-26 05:46
+
+---
+
+## 🆕 最新更新 (2025-11-26 05:46)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI争霸战再生变：谷歌兵临城下，英伟达王座岌岌可危](https://www.tmtpost.com/7782008.html)
+**发布时间**: 2025-11-26 13:29
+
+#### [宏盟将部分程序化广告预算，从TTD挪到亚马逊DSP](https://www.tmtpost.com/7781885.html)
+**发布时间**: 2025-11-26 13:04
+
+#### [游戏比赛，没人看了？](https://www.tmtpost.com/7782618.html)
+**发布时间**: 2025-11-26 13:03
+
+#### [宏盟挪仓，TTD需要重新证明自己](https://www.tmtpost.com/7782746.html)
+**发布时间**: 2025-11-26 13:03
+
+#### [Ilya Sutskever Says AI's 'Scaling Era' is Ending; Research, Not Bigger Models, Will Drive the Next Wave](https://www.tmtpost.com/7782787.html)
+**发布时间**: 2025-11-26 12:36
+
+#### [合资燃油车集体“开窍”，杀回“智能化”牌桌](https://www.tmtpost.com/7782744.html)
+**发布时间**: 2025-11-26 12:09
+
+#### [Fei-Fei Li Lays Out Vision for Spatial Intelligence and Hybrid World Models](https://www.tmtpost.com/7782739.html)
+**发布时间**: 2025-11-26 12:07
+
+#### [Apple to First Reclaim World's Top Smartphone Maker in More than a Decade, Research Firm](https://www.tmtpost.com/7782721.html)
+**发布时间**: 2025-11-26 12:01
+
+#### [回顾与展望：谁需要人工智能？](https://www.tmtpost.com/7782712.html)
+**发布时间**: 2025-11-26 11:56
+
+#### [甲骨文与OpenAI达成协议的三种可能走向：只有一种对股价有利](https://www.tmtpost.com/7782709.html)
+**发布时间**: 2025-11-26 11:55
+
+#### [阿里云营收大增34%创新高，吴泳铭如何讲好“越投越涨”的故事？](https://www.tmtpost.com/7782542.html)
+**发布时间**: 2025-11-26 11:52
+
+#### [Musk's xAI Said to Secure $15 Billion Funding in December with Pre-Money Valuation of $230 Billion](https://www.tmtpost.com/7782685.html)
+**发布时间**: 2025-11-26 11:47
+
+#### [Ilya两万字最新访谈：人类的情感并非累赘，而是 AI 缺失的“终极算法”](https://www.tmtpost.com/7782430.html)
+**发布时间**: 2025-11-26 11:29
+
+#### [Nvidia Highlights "A Generation Ahead" in AI Chip Industry as Google Challenge Intensifies](https://www.tmtpost.com/7782648.html)
+**发布时间**: 2025-11-26 11:27
+
+#### [霸总们的“爹妈”不够用了，短剧市场中老年演员荒](https://www.tmtpost.com/7782556.html)
+**发布时间**: 2025-11-26 11:26
+
+#### [从“对标”到“被对标”：问界M9为何定义豪华车竞争新范式？](https://www.tmtpost.com/7782262.html)
+**发布时间**: 2025-11-26 11:25
+
+#### [宏盟和IPG合并只是序幕，广告格局变动才刚刚开始](https://www.tmtpost.com/7782464.html)
+**发布时间**: 2025-11-26 11:21
+
+#### [ED江湖](https://www.tmtpost.com/7782492.html)
+**发布时间**: 2025-11-26 11:21
+
+#### [60+品牌入局：疯狂动物城，联名更疯狂](https://www.tmtpost.com/7782525.html)
+**发布时间**: 2025-11-26 11:12
+
+#### [NIO Stock Fall Over 4% after Q3 Revenue Misses While Loss Narrowed More Than Expected](https://www.tmtpost.com/7782543.html)
+**发布时间**: 2025-11-26 10:59
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从静态到自适应：Airbnb键值存储系统应对流量峰值的控制机制](https://www.infoq.cn/article/eWSakGM5N3GeIS21VEBG?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-26 12:30
+
+#### [谷歌推出Code Wiki：一个基于AI的持续交互式代码文档系统](https://www.infoq.cn/article/121hBlz8wNi77TfyRGho?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-26 11:45
+
+#### [KubeCon NA 2025：探讨生成式AI时代的工具](https://www.infoq.cn/article/MEdhC6BKA4V4ZSqS1eh4?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-26 11:23
+
+#### [跨多云边界构建分布式事件驱动架构](https://www.infoq.cn/article/vKhJjlqTUTxGYOCbzdFj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-26 10:11
+
+#### [InfraTalk直播第二期完整版｜AI Infra如何以Agent为载体，构建算力的极致性价比方案](https://www.infoq.cn/video/VelpaCIEoBCQTkKOlxQb?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-11-26 09:42
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [谈谈不自律的良好生活](https://sspai.com/post/103819)
+**发布时间**: 2025-11-26 11:28
+
+#### [派早报：华为发布多款新品等](https://sspai.com/post/104095)
+**发布时间**: 2025-11-26 07:30
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [李想：将发布 AI 眼镜；可折叠屏 iPhone 预计明年三季度亮相；最严充电宝安全标准出台，淘汰七成现有产能](http://www.geekpark.net/news/356903)
+**发布时间**: 2025-11-26 08:42
 
 ---
 
