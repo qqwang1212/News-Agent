@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2025-12-03 08:58
+**最后更新时间**: 2025-12-03 23:32
+
+---
+
+## 🆕 最新更新 (2025-12-03 23:32)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [From Waveforms to Wisdom: The New Benchmark for Auditory Intelligence](https://research.google/blog/from-waveforms-to-wisdom-the-new-benchmark-for-auditory-intelligence/)
+**发布时间**: 2025-12-03 22:47
+
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [刚刚，理想AI眼镜Livis正式发布，最强人工智能配件现售价1699元起](https://www.jiqizhixin.com/articles/2025-12-03-11)
+**发布时间**: 2025-12-03 22:00
+
+#### [AI时代，时空智能需求爆发式增长！千寻时空服务每月调用量突破万亿次](https://www.jiqizhixin.com/articles/2025-12-03-10)
+**发布时间**: 2025-12-03 17:32
 
 ---
 
