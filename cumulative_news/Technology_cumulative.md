@@ -1,7 +1,101 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-03 23:32
+**最后更新时间**: 2025-12-04 05:42
+
+---
+
+## 🆕 最新更新 (2025-12-04 05:42)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [InfraTalk第三期直播完整版｜模型训推需求升级，AI 存储如何解题？](https://www.infoq.cn/video/YoSOtRV4Hxe0C7Y62q5G?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-04 13:33
+
+#### [豆包手机底层系统被曝是锤子SmartisanOS！官方深夜回应微信登录异常等](https://www.infoq.cn/article/yAN18620m69IeFwYZrMB?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-04 12:27
+
+#### [AI 早已不是远方的科技，而是触手可及的 “在手之物”](https://www.infoq.cn/video/8kzetKHNAy0UN1iDkD2I?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-04 12:05
+
+#### [Private AI Compute通过硬件隔离与临时数据设计实现谷歌推理](https://www.infoq.cn/article/OYVo4fpuBIcxHiC1Bi1m?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-04 10:57
+
+#### [模型驱动的用户研究 Agent：真实业务的实践与挑战 ｜AICon北京](https://www.infoq.cn/article/JrMk88RKd8oLj1BKHMMA?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-04 10:18
+
+#### [OpenAI 收购了自己的“甲方”公司](https://www.infoq.cn/article/BLFmOOSbboOPNmcdg98y?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-04 10:00
+
+#### [“天才少年”5年0收入造JS核武！Claude天价收购Bun，Node.js生态地震，AI工具链战争正式打响！](https://www.infoq.cn/article/sWqprHLPoHcXJx9dKJ6u?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-04 09:40
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [拼命化债的香港郑氏家族，要卖瑰丽酒店？](https://www.tmtpost.com/7795239.html)
+**发布时间**: 2025-12-04 13:30
+
+#### [对话造梦次元沈洽金：用AI打造Z世代的迪士尼｜AI Founder请回答 | 巴伦精选](https://www.tmtpost.com/7795558.html)
+**发布时间**: 2025-12-04 13:02
+
+#### [项目管理Agent的智力源泉与价值体现](https://www.tmtpost.com/7795046.html)
+**发布时间**: 2025-12-04 12:55
+
+#### [拆解华为Mate80系列，怎么又把天花板捅破了？](https://www.tmtpost.com/7793625.html)
+**发布时间**: 2025-12-04 12:36
+
+#### [豆包手机助手，智能体协同的超前实验](https://www.tmtpost.com/7795397.html)
+**发布时间**: 2025-12-04 11:31
+
+#### [iPhone 17 Will Boost Apple Shipments to Record High in 2025, IDC Projects](https://www.tmtpost.com/7795414.html)
+**发布时间**: 2025-12-04 11:26
+
+#### [Microsoft Stock Dives after Report on AI Software Sales Target Downgraded](https://www.tmtpost.com/7795362.html)
+**发布时间**: 2025-12-04 10:55
+
+#### [净利暴跌“补仓”新能源，雪天盐业动刀纯碱依赖｜并购一线](https://www.tmtpost.com/7795213.html)
+**发布时间**: 2025-12-04 10:35
+
+#### [郭台铭还在餐桌上](https://www.tmtpost.com/7794830.html)
+**发布时间**: 2025-12-04 10:35
+
+#### [穗升科技完成红杉种子领投数百万美元天使轮融资，前安克全球CMO王时远进军AI记忆赛道 | 融资速递](https://www.tmtpost.com/7795129.html)
+**发布时间**: 2025-12-04 10:27
+
+#### [威马、极越、高合都要复活了](https://www.tmtpost.com/7794479.html)
+**发布时间**: 2025-12-04 10:00
+
+#### [涨薪150元，万亿“宁王”放留人大招](https://www.tmtpost.com/7794740.html)
+**发布时间**: 2025-12-04 09:41
+
+#### [黄仁勋与特朗普会面，对华芯片出口管制或将放松](https://www.tmtpost.com/7794936.html)
+**发布时间**: 2025-12-04 09:23
+
+#### [豆包和OpenAI，都在押注同一个未来](https://www.tmtpost.com/7794524.html)
+**发布时间**: 2025-12-04 08:40
+
+#### [起底炒币骗局全套路：网红喊单、下乡洗脑、造“暴富神话”](https://www.tmtpost.com/7794514.html)
+**发布时间**: 2025-12-04 08:20
+
+#### [靠“情绪价值”年赚20亿，Soul的社交生意经灵不灵？](https://www.tmtpost.com/7794439.html)
+**发布时间**: 2025-12-04 08:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [冷冬将至，你可能需要的取暖秘笈](https://sspai.com/post/63395)
+**发布时间**: 2025-12-04 11:34
+
+#### [派早报：一加推出 Ace 6T、理想发布 Livis 智能眼镜等](https://sspai.com/post/104291)
+**发布时间**: 2025-12-04 08:32
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [​豆包手机或存「隐私问题」，官方：不在云端存储画面；理想发布 AI 眼镜，1699 元；美光推出零售存储，专注 AI 存储](http://www.geekpark.net/news/357588)
+**发布时间**: 2025-12-04 08:36
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [美国新生儿还没学会叫爸爸，他们这一生就要先跟股市绑定了？](http://www.huxiu.com/article/4812892.html?f=wangzhan)
+**发布时间**: 2025-12-04 08:00
 
 ---
 
