@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "3e368e5a47641eccc104b16a5703d73725231d2e6e9a3d12e1d9c6730fa6be29": {
-        "title": "熬夜后走神不是你的错，而是自救机制在“洗脑” | Nature",
-        "link": "https://www.qbitai.com/2025/11/349379.html",
-        "published_date": "Thu, 06 Nov 2025 07:21:00 GMT",
-        "first_seen": "2025-11-06T08:29:31.106855"
-      },
       "39de9df3273ca760664c7fe9e7f616dc59f36c89e53c7176ba15a9286a778061": {
         "title": "DS-STAR: A state-of-the-art versatile data science agent",
         "link": "https://research.google/blog/ds-star-a-state-of-the-art-versatile-data-science-agent/",
@@ -1914,87 +1908,21 @@
         "link": "https://www.qbitai.com/2025/12/359261.html",
         "published_date": "Sat, 06 Dec 2025 02:38:00 GMT",
         "first_seen": "2025-12-06T05:40:11.675309"
+      },
+      "80db44f8090fd25c7c4f78fc0e2e32cb8756d3de313fcc3121b6f140b33d4f04": {
+        "title": "英伟达巧用8B模型秒掉GPT-5，开源了",
+        "link": "https://www.qbitai.com/2025/12/359417.html",
+        "published_date": "Sat, 06 Dec 2025 06:10:00 GMT",
+        "first_seen": "2025-12-06T08:47:55.850536"
+      },
+      "0ce472949f5054c4aba6c2fa7da682b84cd6cd268886b817763c2275f6b03183": {
+        "title": "SpaceX估值8000亿美元超OpenAI，IPO就在明年",
+        "link": "https://www.qbitai.com/2025/12/359371.html",
+        "published_date": "Sat, 06 Dec 2025 06:04:00 GMT",
+        "first_seen": "2025-12-06T08:47:55.850708"
       }
     },
     "Technology": {
-      "223a968f1459b32eada98d4d167e33b2dbe52bff56d338bbd3b659861eb7cfba": {
-        "title": "华为、联想追随苹果入局，但超薄手机只是“偏科生”的小众生意",
-        "link": "https://www.tmtpost.com/7751963.html",
-        "published_date": "Thu, 06 Nov 2025 16:21:00 GMT",
-        "first_seen": "2025-11-06T08:30:19.566424"
-      },
-      "3909017047bc4a4742e71afde56fb715510202e1a644dde5c5bfe5a00ec39a1e": {
-        "title": "从星巴克中国股权出售说起",
-        "link": "https://www.tmtpost.com/7751685.html",
-        "published_date": "Thu, 06 Nov 2025 16:20:00 GMT",
-        "first_seen": "2025-11-06T08:30:19.566435"
-      },
-      "64bfc38837613bc039deed0a4df0f7b05ba6ad37361e0c07c96eaa25372e24be": {
-        "title": "世界尽头与冷酷仙境，谁押中了「国产GPU四小龙」？",
-        "link": "https://www.tmtpost.com/7751564.html",
-        "published_date": "Thu, 06 Nov 2025 16:00:00 GMT",
-        "first_seen": "2025-11-06T08:30:19.566446"
-      },
-      "935b5ee9f5d970b7e90c10c9a44cf5214c38bb218500b73620ce71d051234286": {
-        "title": "从数据库之王到算力新枢纽，Oracle能否“涅槃”？丨企服国际观察",
-        "link": "https://www.tmtpost.com/7751699.html",
-        "published_date": "Thu, 06 Nov 2025 15:59:00 GMT",
-        "first_seen": "2025-11-06T08:30:19.566458"
-      },
-      "cfb1dd50f9338b3cfe49fc280f272588867b4a9b055d23523fc96ff7fc7de59a": {
-        "title": "Seres Makes Hong Kong Debut, Sets Sights on Global Expansion Amid Mixed Q3 Results",
-        "link": "https://www.tmtpost.com/7751691.html",
-        "published_date": "Thu, 06 Nov 2025 14:49:00 GMT",
-        "first_seen": "2025-11-06T08:30:19.566472"
-      },
-      "3dd516e313110a784df04a681632f19f06f71acb33ac61dea579cb304d92f3a5": {
-        "title": "新大航海时代，什么样的认知能安放我们的灵魂？",
-        "link": "https://www.tmtpost.com/7751549.html",
-        "published_date": "Thu, 06 Nov 2025 14:17:00 GMT",
-        "first_seen": "2025-11-06T08:30:19.566482"
-      },
-      "63702709f022c0a8356fd992886d27b3f130325855ba68b84b45533233166876": {
-        "title": "插混价格触底，利润天花板重塑：吉利在打什么算盘？",
-        "link": "https://www.tmtpost.com/7751572.html",
-        "published_date": "Thu, 06 Nov 2025 13:54:00 GMT",
-        "first_seen": "2025-11-06T08:30:19.566493"
-      },
-      "44eadb2b884a9f07abaf7ae83a10339c341e37b023c2a078e4561024894293c4": {
-        "title": "跨越技术壁垒后，Robotaxi又将迎来新挑战？",
-        "link": "https://www.tmtpost.com/7751462.html",
-        "published_date": "Thu, 06 Nov 2025 13:28:00 GMT",
-        "first_seen": "2025-11-06T08:30:19.566373"
-      },
-      "ef31b962d050f81716dd645dbdd7f108960609a618ae3ec6a5da0e9d41e9dbaf": {
-        "title": "马斯克拿着0薪水，却要给自己开1万亿美元薪酬？",
-        "link": "http://www.huxiu.com/article/4801509.html?f=wangzhan",
-        "published_date": "Thu, 06 Nov 2025 15:09:00 GMT",
-        "first_seen": "2025-11-06T08:30:19.566504"
-      },
-      "dc93e32228ebeed2c54da38260bd6387625a853ca88934e8b351987d80e87025": {
-        "title": "为什么几毫米太空碎片就能让神舟20延迟返回？",
-        "link": "http://www.huxiu.com/article/4801213.html?f=wangzhan",
-        "published_date": "Thu, 06 Nov 2025 13:30:00 GMT",
-        "first_seen": "2025-11-06T08:29:31.186993"
-      },
-      "e02e95bc581d12d9ad176a75231191ed7e31b2f22c3bc7b2f78d7273f783d77f": {
-        "title": "从“探索”到“布道”，一个「鸿蒙领航者」的炼成记",
-        "link": "https://www.infoq.cn/article/27Q3D8PGVvJXA8F5jWKx?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 06 Nov 2025 15:08:00 GMT",
-        "first_seen": "2025-11-06T08:29:31.187550"
-      },
-      "9c2a035602f5192c783894bccb6b3033f3ffea122cb026463a1489ed9a8f3328": {
-        "title": "双十一鼠标怎么挑？（2025 版）",
-        "link": "https://sspai.com/post/99787",
-        "published_date": "Thu, 06 Nov 2025 15:01:00 GMT",
-        "first_seen": "2025-11-06T08:29:31.187996"
-      },
-      "2f6ceb95bcbece5abf4a82e2b8d0ede463d086434a0f2b726e72739e48d21518": {
-        "title": "Altman 怒喷 OpenAI 唱衰者；小鹏发布新一代人形机器人 IRON；苹果支付 10 亿美金，新 Siri 将引入谷歌 Gemini｜极客早知道",
-        "link": "http://www.geekpark.net/news/356010",
-        "published_date": "Thu, 06 Nov 2025 08:19:00 GMT",
-        "first_seen": "2025-11-06T08:30:19.566408"
-      },
       "15e5ce24bf21bb0295360b72d4c4a53e14fc394683eb1f69fcbb5c69bcadc473": {
         "title": "《长恨歌》之外，陕西旅游还能靠什么？｜IPO观察",
         "link": "https://www.tmtpost.com/7752703.html",
@@ -11468,13 +11396,91 @@
         "link": "http://www.huxiu.com/article/4811722.html?f=wangzhan",
         "published_date": "Sat, 06 Dec 2025 07:38:00 GMT",
         "first_seen": "2025-12-06T05:40:11.739172"
+      },
+      "75c3c95cb3d4bc496cc4ef66222cefad21f7bfd91167355bf29831aa3d7760a7": {
+        "title": "黄峥去哪儿了",
+        "link": "https://www.tmtpost.com/7799084.html",
+        "published_date": "Sat, 06 Dec 2025 15:26:00 GMT",
+        "first_seen": "2025-12-06T08:47:55.914624"
+      },
+      "b9747f7387dedfaef505ceb94dcab6d4aabda2566318de91b6c4b315d70d1cd9": {
+        "title": "好莱坞的鱼头终于朝向了奈飞",
+        "link": "https://www.tmtpost.com/7798937.html",
+        "published_date": "Sat, 06 Dec 2025 13:39:00 GMT",
+        "first_seen": "2025-12-06T08:48:44.185256"
+      },
+      "b80a9d178e5afb5fe3473c8f7923fa7763b122137947ce41d560240ee9ed2844": {
+        "title": "媒体称SpaceX估值达8000亿美元，而这只股票正在暴涨",
+        "link": "https://www.tmtpost.com/7799051.html",
+        "published_date": "Sat, 06 Dec 2025 11:32:00 GMT",
+        "first_seen": "2025-12-06T08:48:44.185269"
+      },
+      "15f4ca0af4ef8b272b21fb935171de905a62d5927990539ee3f614cf0799d4c9": {
+        "title": "AMC、IMAX股价下跌，Roku上涨，奈飞与华纳兄弟的合作如何撼动娱乐业格局？",
+        "link": "https://www.tmtpost.com/7799049.html",
+        "published_date": "Sat, 06 Dec 2025 11:32:00 GMT",
+        "first_seen": "2025-12-06T08:48:44.185282"
+      },
+      "e0e3acbad049b049cc41e759d06c85bf329575b388ea7b65a41eacf8b13ca874": {
+        "title": "锂正进入新一轮上升周期，Albemarle公司股价飙升",
+        "link": "https://www.tmtpost.com/7799047.html",
+        "published_date": "Sat, 06 Dec 2025 11:32:00 GMT",
+        "first_seen": "2025-12-06T08:48:44.185293"
+      },
+      "bb31989721e7f0795b98a494ecf794654caee3d83c6eb54c1c64841d653fc9aa": {
+        "title": "Alphabet股票还有25%的上涨空间，分析师认为其“各方面都在胜出”",
+        "link": "https://www.tmtpost.com/7799045.html",
+        "published_date": "Sat, 06 Dec 2025 11:31:00 GMT",
+        "first_seen": "2025-12-06T08:48:44.185304"
+      },
+      "9285f2269ba19e3c60f7ef22924610a56350e713c0fb704a60a5ec947de84027": {
+        "title": "工业领域正在传递“无衰退”的信号，这三只股票可以关注",
+        "link": "https://www.tmtpost.com/7799043.html",
+        "published_date": "Sat, 06 Dec 2025 11:31:00 GMT",
+        "first_seen": "2025-12-06T08:48:44.185315"
+      },
+      "ca96809ed1a384eb1a51d2a8ed3114a1940c906808b52c2632d7bca0be801f99": {
+        "title": "Netflix股价下跌，华尔街担忧华纳交易价格过高及债务问题",
+        "link": "https://www.tmtpost.com/7799037.html",
+        "published_date": "Sat, 06 Dec 2025 11:30:00 GMT",
+        "first_seen": "2025-12-06T08:48:44.185325"
+      },
+      "76135aa27dfb5c66b23755350e6108b173b61eb41cdff65ac4a5f0b89a34c9fc": {
+        "title": "分析师称，苹果股价有望上涨，优步、American Eagle也值得关注",
+        "link": "https://www.tmtpost.com/7799035.html",
+        "published_date": "Sat, 06 Dec 2025 11:30:00 GMT",
+        "first_seen": "2025-12-06T08:48:44.185336"
+      },
+      "b60f860d2d63456579642d4eb37877226ef97ca1c805b1193741d2a2758d979d": {
+        "title": "阿什兰、比特鹿等公司股票受到激进投资者关注",
+        "link": "https://www.tmtpost.com/7799033.html",
+        "published_date": "Sat, 06 Dec 2025 11:30:00 GMT",
+        "first_seen": "2025-12-06T08:47:55.917086"
+      },
+      "d68fbc56fe49586989cd2ccddf3ded98fde1ab06272cb5516290c3570e5b6e86": {
+        "title": "银行股接近历史高点，突破高点还需满足什么条件？",
+        "link": "https://www.tmtpost.com/7799032.html",
+        "published_date": "Sat, 06 Dec 2025 11:29:00 GMT",
+        "first_seen": "2025-12-06T08:48:44.185210"
+      },
+      "6a8ac69d0339021f752b635eaefc7172db8a31dbc59a93796220887db5dfb7d0": {
+        "title": "关于动态血糖仪，厂商没说的",
+        "link": "https://sspai.com/post/104274",
+        "published_date": "Sat, 06 Dec 2025 15:13:00 GMT",
+        "first_seen": "2025-12-06T08:47:55.917891"
+      },
+      "1fe353906ee719dadad157873b29b440468fdca205af878fc1f7875d0cc6c4fc": {
+        "title": "探索·向上！极客公园 2025 年度「InnoForce 50」发布",
+        "link": "http://www.geekpark.net/news/357690",
+        "published_date": "Sat, 06 Dec 2025 14:48:00 GMT",
+        "first_seen": "2025-12-06T08:48:44.185242"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-12-06T05:40:11.701113",
-    "Technology": "2025-12-06T05:41:00.155324",
-    "Finance": "2025-12-06T05:40:11.577531"
+    "AI": "2025-12-06T08:47:55.877311",
+    "Technology": "2025-12-06T08:48:44.186791",
+    "Finance": "2025-12-06T08:47:55.742064"
   }
 }
