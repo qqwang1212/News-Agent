@@ -1,7 +1,92 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-09 05:47
+**最后更新时间**: 2025-12-09 08:57
+
+---
+
+## 🆕 最新更新 (2025-12-09 08:57)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [星巴克中国技术团队开始用 Agentic AI 改变零售（上） ｜行之数字中国](https://www.infoq.cn/video/idiYyb7MOGo9SrP5ruga?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 16:51
+
+#### [“最悲伤的结局”？IBM豪掷110亿收购Confluent：Kafka开源焦虑升级，Flink流计算或成最大赢家](https://www.infoq.cn/article/mopDfUoFGfL9zllYKZO1?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 16:45
+
+#### [从“套壳中国大模型”到加速自研！Cursor Composer大模型首次揭秘：极速代码Agent如何对标GPT-5.1 Codex，实现生成效率快4倍](https://www.infoq.cn/article/dx2WMVWo0OZNvefB8m26?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 16:21
+
+#### [刚刚，DeepSeek梁文锋入选Nature年度十大科学人物：被誉为“科技颠覆者”！](https://www.infoq.cn/article/TSFyx0djS4RbQJVXeEty?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 15:43
+
+#### [摩尔线程放大招？新一代 GPU 架构即将揭晓](https://www.infoq.cn/article/P4kfSIpdRG5grumbDZWH?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-09 14:54
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [阿里成立千问C端事业群，再度加码AI to C](https://www.tmtpost.com/7802936.html)
+**发布时间**: 2025-12-09 16:43
+
+#### [827亿美元天价联姻，Netflix收购华纳，是流媒体统治好莱坞的开始吗？](https://www.tmtpost.com/7802513.html)
+**发布时间**: 2025-12-09 16:36
+
+#### [出海驱动的APP增量市场，企业如何利用AI做好营销？](https://www.tmtpost.com/7802779.html)
+**发布时间**: 2025-12-09 16:23
+
+#### [AI PC蜕变，端侧AI场景涌现，生态建设成“决胜手”丨ToB产业观察](https://www.tmtpost.com/7802153.html)
+**发布时间**: 2025-12-09 16:23
+
+#### [年底的文旅资本市场，开始“冲业绩”了](https://www.tmtpost.com/7802410.html)
+**发布时间**: 2025-12-09 15:37
+
+#### [猛士汽车有了华为，越野开始不讲武德了？](https://www.tmtpost.com/7802707.html)
+**发布时间**: 2025-12-09 15:09
+
+#### [The 2025 T-EDGE：A Feast of Ideas Dedicated to the AI Era](https://www.tmtpost.com/7802780.html)
+**发布时间**: 2025-12-09 14:37
+
+#### [2025饮料新品TOP100：元气森林、农夫山泉、康师傅、统一激战新品、乳饮退潮谁来补位？](https://www.tmtpost.com/7802195.html)
+**发布时间**: 2025-12-09 14:11
+
+#### [2025年底越南数字经济规模将达到390亿美元；TEMU在欧洲推出Y2新模式；菜鸟100%控股跨境物流商递四方｜一周出海参考](https://www.tmtpost.com/7789567.html)
+**发布时间**: 2025-12-09 13:48
+
+#### [日本计划对跨境电商平台征收消费税；TikTok Shop美国黑五GMV突破5亿美元；微信支付落地卡塔尔｜一周出海参考](https://www.tmtpost.com/7801116.html)
+**发布时间**: 2025-12-09 13:46
+
+#### [“基荷电力”将在2026年迎来大发展，这5只股票有望获益](https://www.tmtpost.com/7802642.html)
+**发布时间**: 2025-12-09 12:55
+
+#### [科技领域需要（有选择性的）谨慎：三只技术面看跌的股票](https://www.tmtpost.com/7802640.html)
+**发布时间**: 2025-12-09 12:55
+
+#### [人工智能推动了市场的上涨，这些板块有望继续增长](https://www.tmtpost.com/7802638.html)
+**发布时间**: 2025-12-09 12:54
+
+#### [总额超六百亿！中国中冶拟出售中冶置业、中冶铜锌等资产；哈尔滨汽车零部件龙头拟收购玖星精密控制权；【并购一线】](https://www.tmtpost.com/7802401.html)
+**发布时间**: 2025-12-09 11:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [App+1｜当 AI 与 FSRS 算法碰撞：「新词」让记单词回归语境](https://sspai.com/post/104366)
+**发布时间**: 2025-12-09 15:41
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [极客公园创新大会 2026 在京落幕，罗永浩、张楠、何小鹏、刘靖康等共议 AI 时代「进程由我」](http://www.geekpark.net/news/357802)
+**发布时间**: 2025-12-09 14:53
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [日本军火商收入狂涨，背后藏着什么阴谋？又都卖给了谁？](http://www.huxiu.com/article/4814289.html?f=wangzhan)
+**发布时间**: 2025-12-09 11:00
+
+#### [超级Agent大战超级App，你站agent还是APP？](http://www.huxiu.com/article/4814940.html?f=wangzhan)
+**发布时间**: 2025-12-09 10:00
+
+#### [上汽不与比亚迪争销冠](http://www.huxiu.com/article/4794997.html?f=wangzhan)
+**发布时间**: 2025-12-09 07:25
 
 ---
 
