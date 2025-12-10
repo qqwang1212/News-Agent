@@ -1,7 +1,91 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-10 05:50
+**最后更新时间**: 2025-12-10 09:01
+
+---
+
+## 🆕 最新更新 (2025-12-10 09:01)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [OpenAI 盲测新模型不如 Nano Banana Pro？曝Altman 要暂停 Sora，死磕 ChatGPT](https://www.infoq.cn/article/72IXqrJpWWAdveXWOa8q?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-10 16:49
+
+#### [阿里云ECS AMD实例年终狂欢，算力成本最多立省75%](https://www.infoq.cn/article/wwB5MatXYVlb74EfysKj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-10 15:46
+
+#### [AI 进化论丨第六期：LLM for AIOps 是泡沫还是银弹？](https://www.infoq.cn/video/E6e0SEEdV7aRKezRI52F?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-10 15:45
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [中国电建旗下公司涉电价违法被罚 三年向177户转供电加价](https://www.tmtpost.com/7804724.html)
+**发布时间**: 2025-12-10 16:49
+
+#### [30亿平台成立，多晶硅“反内卷”进入实质整合阶段](https://www.tmtpost.com/7804721.html)
+**发布时间**: 2025-12-10 16:49
+
+#### [失败13年后，谷歌又计划重返战场了](https://www.tmtpost.com/7804667.html)
+**发布时间**: 2025-12-10 16:21
+
+#### [押注“即时软件”，他零Demo拿下融资：已知软件要终结了？| 快公司](https://www.tmtpost.com/7800973.html)
+**发布时间**: 2025-12-10 16:13
+
+#### [穆胜：在年初，定激励！](https://www.tmtpost.com/7804422.html)
+**发布时间**: 2025-12-10 16:08
+
+#### [又一款脱发“神药”要诞生了](https://www.tmtpost.com/7804377.html)
+**发布时间**: 2025-12-10 16:08
+
+#### [张予彤入主月之暗面，kimi该去哪“爆金币”？](https://www.tmtpost.com/7804367.html)
+**发布时间**: 2025-12-10 16:08
+
+#### [曾毓群，不赌了？](https://www.tmtpost.com/7804334.html)
+**发布时间**: 2025-12-10 16:08
+
+#### [始祖鸟平替要上市，毛利率60%，安徽夫妇年入17亿](https://www.tmtpost.com/7804192.html)
+**发布时间**: 2025-12-10 16:08
+
+#### [万字长文丨刮骨疗伤：传统KA涅槃与重生](https://www.tmtpost.com/7804321.html)
+**发布时间**: 2025-12-10 16:08
+
+#### [交付量失速，李想需要给理想找到一个新“理想”](https://www.tmtpost.com/7804136.html)
+**发布时间**: 2025-12-10 16:08
+
+#### [豆包手机的一切“问题”，都是给旧世界的新考卷](https://www.tmtpost.com/7804020.html)
+**发布时间**: 2025-12-10 16:08
+
+#### [一位戛纳最佳导演，爱上了“在AI中迷失的感觉”](https://www.tmtpost.com/7803909.html)
+**发布时间**: 2025-12-10 14:53
+
+#### [H200放行：英伟达6万亿市值路的“穿云箭”？](https://www.tmtpost.com/7804051.html)
+**发布时间**: 2025-12-10 14:26
+
+#### [从1.8万降到2899元，艾维岚躬身入局“童颜针大战”](https://www.tmtpost.com/7803754.html)
+**发布时间**: 2025-12-10 14:26
+
+#### [说下复星医药这单BD，卖给辉瑞](https://www.tmtpost.com/7803744.html)
+**发布时间**: 2025-12-10 14:11
+
+#### [摩尔线程“造富潮”：张建中让一部分人先富了起来](https://www.tmtpost.com/7803611.html)
+**发布时间**: 2025-12-10 14:11
+
+#### [高光制药赴港IPO：两款首创药，带来高光时刻，也带来了持久战](https://www.tmtpost.com/7803563.html)
+**发布时间**: 2025-12-10 14:11
+
+#### [从种草到交易，小红书为何总差最后一步？](https://www.tmtpost.com/7803518.html)
+**发布时间**: 2025-12-10 14:11
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [猿辅导一个月连发两张 AI 牌：这次把 Agent 交给老师](http://www.geekpark.net/news/357855)
+**发布时间**: 2025-12-10 13:53
+
+#### [跨越比特与原子，小鹏汽车下一个十年的「物理 AI」路线图](http://www.geekpark.net/news/357853)
+**发布时间**: 2025-12-10 13:50
+
+#### [Google 又一次发布了 Google Glass ，这次想帮你把 Gemini 与 Nano Banana 戴在头上](http://www.geekpark.net/news/357828)
+**发布时间**: 2025-12-09 23:41
 
 ---
 

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 10 Dec 2025 05:44:00 GMT</pubDate>
-    <lastBuildDate>Wed, 10 Dec 2025 05:50:53 GMT</lastBuildDate>
+    <pubDate>Wed, 10 Dec 2025 08:56:00 GMT</pubDate>
+    <lastBuildDate>Wed, 10 Dec 2025 09:01:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,83 +14,51 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>一手实测 | 智谱AutoGLM重磅开源： AI手机的「安卓时刻」正式到来</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-10-6</link>
-      <description>&lt;![CDATA[一手实测 | 智谱AutoGLM重磅开源： AI手机的「安卓时刻」正式到来]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 13:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-6</guid>
+      <title>「豆包手机」为何能靠超级Agent火遍全网，我们听听AI学者们怎么说</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-10-10</link>
+      <description>&lt;![CDATA[「豆包手机」为何能靠超级Agent火遍全网，我们听听AI学者们怎么说]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 16:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-10</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>ICML 2025｜探索损失加权机制的本质以实现更好的LLM反学习</title>
-      <link>https://www.jiqizhixin.com/articles/2025-08-06-12</link>
-      <description>&lt;![CDATA[ICML 2025｜探索损失加权机制的本质以实现更好的LLM反学习]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 12:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-08-06-12</guid>
+      <title>南大联合LibLib.ai、中科院自动化所，共同提出布局推理与精准编辑「海报设计大模型」PosterCopilot</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-10-9</link>
+      <description>&lt;![CDATA[南大联合LibLib.ai、中科院自动化所，共同提出布局推理与精准编辑「海报设计大模型」PosterCopilot]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 16:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-9</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>NeurIPS 2025 | 不用生成图像训练，仅靠自然图像分布就能检测AI造假</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-05</link>
-      <description>&lt;![CDATA[NeurIPS 2025 | 不用生成图像训练，仅靠自然图像分布就能检测AI造假]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 12:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-05</guid>
+      <title>首个由AI开发的药物或许即将面世，众多候选中，抗体一骑绝尘</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-10-8</link>
+      <description>&lt;![CDATA[首个由AI开发的药物或许即将面世，众多候选中，抗体一骑绝尘]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 14:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-8</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>大模型「有心了」：首个情感大模型Echo-N1，32B胜过200B</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-10-2</link>
-      <description>&lt;![CDATA[大模型「有心了」：首个情感大模型Echo-N1，32B胜过200B]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 11:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-2</guid>
+      <title>融资官宣｜达晨、华控领投，极佳视界完成2亿元A2轮融资，3个月连融5亿，打造物理AGI的原生模型和原生本体！</title>
+      <link>https://www.jiqizhixin.com/articles/2025-12-10-7</link>
+      <description>&lt;![CDATA[融资官宣｜达晨、华控领投，极佳视界完成2亿元A2轮融资，3个月连融5亿，打造物理AGI的原生模型和原生本体！]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 14:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-7</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>读懂2025中国AI走向！公司×产品×人物×方案，最值得关注的都在这里了</title>
-      <link>https://www.qbitai.com/2025/12/360010.html</link>
-      <description>&lt;![CDATA[读懂2025中国AI走向！公司×产品×人物×方案，最值得关注的都在这里了]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 04:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360010.html</guid>
+      <title>戴尔 x OpenCSG，推出⾯向智能初创企业的⼀体化 IT 基础架构解决方案</title>
+      <link>https://www.qbitai.com/2025/12/360038.html</link>
+      <description>&lt;![CDATA[戴尔 x OpenCSG，推出⾯向智能初创企业的⼀体化 IT 基础架构解决方案]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 08:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360038.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Mistral再开源！发布代码模型Devstral 2及原生CLI，但大公司被限制商用</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-10-5</link>
-      <description>&lt;![CDATA[Mistral再开源！发布代码模型Devstral 2及原生CLI，但大公司被限制商用]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 13:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-5</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>告别专家依赖，让机器人学会自我参考，仅需200步性能飙升至99.2%</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-10-4</link>
-      <description>&lt;![CDATA[告别专家依赖，让机器人学会自我参考，仅需200步性能飙升至99.2%]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 13:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-4</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>NeurIPS 2024 | 揭示局限性：CLIP 模型对真实世界中假相关的依赖</title>
-      <link>https://www.jiqizhixin.com/articles/2025-01-07-10</link>
-      <description>&lt;![CDATA[NeurIPS 2024 | 揭示局限性：CLIP 模型对真实世界中假相关的依赖]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 12:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-01-07-10</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>NeurIPS 2025 | 从流形假设视角解析生成式模型反演</title>
-      <link>https://www.jiqizhixin.com/articles/2025-11-17-5</link>
-      <description>&lt;![CDATA[NeurIPS 2025 | 从流形假设视角解析生成式模型反演]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 12:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-11-17-5</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>中关村科金公开企业级智能体落地路线图，携手七大厂商共建“超级连接”产业生态</title>
-      <link>https://www.jiqizhixin.com/articles/2025-12-10-3</link>
-      <description>&lt;![CDATA[中关村科金公开企业级智能体落地路线图，携手七大厂商共建“超级连接”产业生态]]&gt;</description>
-      <pubDate>Wed, 10 Dec 2025 11:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2025-12-10-3</guid>
+      <title>5天连更5次，可灵AI年末“狂飙式”升级</title>
+      <link>https://www.qbitai.com/2025/12/360022.html</link>
+      <description>&lt;![CDATA[5天连更5次，可灵AI年末“狂飙式”升级]]&gt;</description>
+      <pubDate>Wed, 10 Dec 2025 06:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2025/12/360022.html</guid>
       <category>AI</category>
     </item>
   </channel>
