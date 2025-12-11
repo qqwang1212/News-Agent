@@ -1,7 +1,132 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-11 05:48
+**最后更新时间**: 2025-12-11 23:36
+
+---
+
+## 🆕 最新更新 (2025-12-11 23:36)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】定调2026年经济工作重点任务，中央经济工作会议32条要点速览；马斯克确认SpaceX明年IPO；世界银行上调2025年中国经济增速预期](https://www.tmtpost.com/7806486.html)
+**发布时间**: 2025-12-12 07:20
+
+#### [OpenAI Unveils GPT-5.2 to Counter Google's Gemini 3 Dominance, Claims Strongest Agent Coding Capabilities](https://www.tmtpost.com/7806611.html)
+**发布时间**: 2025-12-12 04:23
+
+#### [Hinton Says AI Already Has Consciousness](https://www.tmtpost.com/7806601.html)
+**发布时间**: 2025-12-12 01:01
+
+#### [威高骨科欲用募资8646万元收购杰思拜尔，标的负债近3000万元；新兴铸管12.44亿元收购华润制钢100%股权【并购一线】](https://www.tmtpost.com/7806480.html)
+**发布时间**: 2025-12-12 00:07
+
+#### [躲在流量后面的人，被监管点名了](https://www.tmtpost.com/7806476.html)
+**发布时间**: 2025-12-11 22:34
+
+#### [避孕套要收税了，“玩梗王”杜蕾斯或最受伤](https://www.tmtpost.com/7806519.html)
+**发布时间**: 2025-12-11 22:22
+
+#### [2026年值得买入的十只高分红股票](https://www.tmtpost.com/7806485.html)
+**发布时间**: 2025-12-11 21:28
+
+#### [豆包和智谱，二线手机厂商的救命稻草](https://www.tmtpost.com/7805980.html)
+**发布时间**: 2025-12-11 20:17
+
+#### [斥资1亿并购海外亏损标的，万顺新材内卷失利下豪赌出海](https://www.tmtpost.com/7806283.html)
+**发布时间**: 2025-12-11 19:15
+
+#### [博纳影业11个交易日股价狂飙近7成，三年多亏26亿元，困局有解了？](https://www.tmtpost.com/7805421.html)
+**发布时间**: 2025-12-11 19:01
+
+#### [2026年，AI服务器贵、贵、贵](https://www.tmtpost.com/7806363.html)
+**发布时间**: 2025-12-11 18:56
+
+#### [巨头刹车、散户离场背后，谁在“操控”猪周期？](https://www.tmtpost.com/7805371.html)
+**发布时间**: 2025-12-11 18:52
+
+#### [小红书还是没能攻下本地生活的城](https://www.tmtpost.com/7806280.html)
+**发布时间**: 2025-12-11 18:42
+
+#### [WPS润色AI半成品](https://www.tmtpost.com/7806252.html)
+**发布时间**: 2025-12-11 18:39
+
+#### [中央经济工作会议在北京举行 习近平发表重要讲话](https://www.tmtpost.com/7806308.html)
+**发布时间**: 2025-12-11 18:29
+
+#### [豆包手机十日谈：戳破互联网围墙花园，动了谁的流量蛋糕？](https://www.tmtpost.com/7806159.html)
+**发布时间**: 2025-12-11 16:35
+
+#### [年终大冲刺，中美科技大厂都杀疯了](https://www.tmtpost.com/7805886.html)
+**发布时间**: 2025-12-11 16:35
+
+#### [税改颠覆跨境圈，卖家集体负重前行](https://www.tmtpost.com/7806033.html)
+**发布时间**: 2025-12-11 16:35
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [re:Invent特别企划之五天五问②《在手之物》](https://www.infoq.cn/video/Om1jREwcXXzI4X9ZWuQr?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-11 23:27
+
+#### [Agent是雷声大雨点小？5位创始人吐真言：“内争外患”还被错配、基模威胁也挺狠](https://www.infoq.cn/article/Nf56G53qpUSjVqKYXZol?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-11 18:33
+
+#### [HL 是一款基于 Rust 的快速 JSON 日志查看器，提供高达 2GiB/s 的解析速度](https://www.infoq.cn/article/RQvlVSA2Lb56x0DobeUU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-11 18:00
+
+#### [28岁“外来者”与元老们冲突大爆发，Meta 全面内战！算力争夺撕碎组织，“开源”已成禁忌但Alexandr Wang 偷师Qwen、gpt-oss](https://www.infoq.cn/article/D3zU9ZDgQqveROAOArSd?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-11 17:57
+
+#### [Snowflake Cortex AI：借助自主 AI 加速金融服务 | 技术趋势](https://www.infoq.cn/article/mJL8pHaqlsVWSxrC8zj5?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-11 17:57
+
+#### [颠覆认知！MongoDB存储引擎WiredTiger是一种“特殊B + tree”](https://www.infoq.cn/video/hRYffWuwBdNlMz1Q1lVV?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-11 17:56
+
+#### [腾讯云 MongoDB 备份回档功能矩阵：物理回档500G 数据 1 小时级、按Key闪回万条记录秒级恢复](https://www.infoq.cn/video/3YLiuvTsbKhs1e7hJbJR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-11 17:56
+
+#### [腾讯云 MongoDB 精细化限流：1% 损耗 + 动态规则管控，多租户场景必备](https://www.infoq.cn/video/Ahl1RL1DNSze33R0Iy6i?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-11 17:56
+
+#### [亚马逊云科技的分布式跟踪服务X-Ray转为使用OpenTelemetry](https://www.infoq.cn/article/GYfj3JK3izdprAt9Mg2q?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-11 17:50
+
+#### [硅谷认证！Meta新模型暗含Qwen血统，周靖人带飞团队成阿里新晋合伙人](https://www.infoq.cn/article/Jz4xooNkKodKqUebmKab?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-11 17:05
+
+#### [使用Fray检测JVM语言中的并发问题](https://www.infoq.cn/article/KPXzq1iCsmKvM6mAuGOp?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-11 16:50
+
+#### [机器人公司高价争抢春晚赞助席位，报价拉升至1亿元？被曝企业回应了](https://www.infoq.cn/article/sjDZCFZeo9Ri02aIHWEi?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-11 16:43
+
+#### [Docker发布Desktop 4.50，带来了免费的调试工具和AI原生增强](https://www.infoq.cn/article/QW1syBrMmSqSw8B3kKrX?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-11 16:37
+
+#### [Agentic AI基金会成立，智能体的“Linux时刻”来了！MCP、AGENTS.md集体上车，下一代AI技术栈PARK出世](https://www.infoq.cn/article/Hgvb9KslJIGp2frWrmqk?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-11 16:19
+
+#### [MySQL代码库分析报告显示，开发活动衰退且贡献者数量减少](https://www.infoq.cn/article/xWk03w7HZeBR6z35z7Zh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-11 15:13
+
+#### [BellSoft 发布 Java 加固镜像](https://www.infoq.cn/article/fPftGqWlNCDwqO3Vw8Ta?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-11 14:59
+
+#### [2025腾讯云TencentOS成功案例精选：助力国产OS无感替换与智能升级](https://www.infoq.cn/minibook/dSM1vS6JpmGmFsuRLPzU?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-11 14:01
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [朱啸虎投资，Refly.AI黄巍：n8n、扣子太难用，Vibe Workflow才是更大众的解决方案](http://www.geekpark.net/news/357942)
+**发布时间**: 2025-12-11 17:55
+
+#### [2026 硬件觉醒：AI 硬件迎来「安卓时刻」](http://www.geekpark.net/news/357920)
+**发布时间**: 2025-12-11 14:19
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [买哪款、怎么买：双十二 iPhone 选购指南](https://sspai.com/post/104349)
+**发布时间**: 2025-12-11 15:02
 
 ---
 
