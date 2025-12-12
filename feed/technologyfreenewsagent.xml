@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 11 Dec 2025 23:36:00 GMT</pubDate>
-    <lastBuildDate>Thu, 11 Dec 2025 23:38:34 GMT</lastBuildDate>
+    <pubDate>Fri, 12 Dec 2025 05:46:00 GMT</pubDate>
+    <lastBuildDate>Fri, 12 Dec 2025 05:47:23 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>年终大冲刺，中美科技大厂都杀疯了</title>
-      <link>https://www.tmtpost.com/7805886.html</link>
-      <description>&lt;![CDATA[年终大冲刺，中美科技大厂都杀疯了]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 16:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7805886.html</guid>
+      <title>前瞻观点技术性买入信号再现：三只股票回顾</title>
+      <link>https://www.tmtpost.com/7807054.html</link>
+      <description>&lt;![CDATA[前瞻观点技术性买入信号再现：三只股票回顾]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 13:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7807054.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Snowflake Cortex AI：借助自主 AI 加速金融服务 | 技术趋势</title>
-      <link>https://www.infoq.cn/article/mJL8pHaqlsVWSxrC8zj5?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Snowflake Cortex AI：借助自主 AI 加速金融服务 | 技术趋势]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 17:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/mJL8pHaqlsVWSxrC8zj5?utm_source=rss&amp;utm_medium=article</guid>
+      <title>年末调仓信号：机构正买入“全球化”与“硬科技”</title>
+      <link>https://www.tmtpost.com/7806254.html</link>
+      <description>&lt;![CDATA[年末调仓信号：机构正买入“全球化”与“硬科技”]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 09:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7806254.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>亚马逊云科技的分布式跟踪服务X-Ray转为使用OpenTelemetry</title>
-      <link>https://www.infoq.cn/article/GYfj3JK3izdprAt9Mg2q?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技的分布式跟踪服务X-Ray转为使用OpenTelemetry]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 17:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/GYfj3JK3izdprAt9Mg2q?utm_source=rss&amp;utm_medium=article</guid>
+      <title>超载保护：平台工程缺失的支柱</title>
+      <link>https://www.infoq.cn/article/7NZcr7M3Q6ZmwKd4vpaq?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[超载保护：平台工程缺失的支柱]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 10:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7NZcr7M3Q6ZmwKd4vpaq?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Docker发布Desktop 4.50，带来了免费的调试工具和AI原生增强</title>
-      <link>https://www.infoq.cn/article/QW1syBrMmSqSw8B3kKrX?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Docker发布Desktop 4.50，带来了免费的调试工具和AI原生增强]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 16:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/QW1syBrMmSqSw8B3kKrX?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Snowflake 联合行业领袖通过开放语义交换计划释放 AI 的潜力 | 技术趋势</title>
+      <link>https://www.infoq.cn/article/I4rlSKK2gEx8x3tivvGv?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Snowflake 联合行业领袖通过开放语义交换计划释放 AI 的潜力 | 技术趋势]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 09:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/I4rlSKK2gEx8x3tivvGv?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agentic AI基金会成立，智能体的“Linux时刻”来了！MCP、AGENTS.md集体上车，下一代AI技术栈PARK出世</title>
-      <link>https://www.infoq.cn/article/Hgvb9KslJIGp2frWrmqk?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agentic AI基金会成立，智能体的“Linux时刻”来了！MCP、AGENTS.md集体上车，下一代AI技术栈PARK出世]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 16:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Hgvb9KslJIGp2frWrmqk?utm_source=rss&amp;utm_medium=article</guid>
+      <title>语核科技翟星吉：离钱最近的 Agent，才是 AI ToB 的唯一出路</title>
+      <link>http://www.geekpark.net/news/357968</link>
+      <description>&lt;![CDATA[语核科技翟星吉：离钱最近的 Agent，才是 AI ToB 的唯一出路]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 12:03:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/357968</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>BellSoft 发布 Java 加固镜像</title>
-      <link>https://www.infoq.cn/article/fPftGqWlNCDwqO3Vw8Ta?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[BellSoft 发布 Java 加固镜像]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 14:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/fPftGqWlNCDwqO3Vw8Ta?utm_source=rss&amp;utm_medium=article</guid>
+      <title>派早报：OpenAI 发布 GPT-5.2 模型等</title>
+      <link>https://sspai.com/post/104526</link>
+      <description>&lt;![CDATA[派早报：OpenAI 发布 GPT-5.2 模型等]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 08:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/104526</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】定调2026年经济工作重点任务，中央经济工作会议32条要点速览；马斯克确认SpaceX明年IPO；世界银行上调2025年中国经济增速预期</title>
-      <link>https://www.tmtpost.com/7806486.html</link>
-      <description>&lt;![CDATA[【钛晨报】定调2026年经济工作重点任务，中央经济工作会议32条要点速览；马斯克确认SpaceX明年IPO；世界银行上调2025年中国经济增速预期]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7806486.html</guid>
+      <title>5000台量产不是终点，智元的新起点决定下一轮去留</title>
+      <link>https://www.tmtpost.com/7806840.html</link>
+      <description>&lt;![CDATA[5000台量产不是终点，智元的新起点决定下一轮去留]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 13:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7806840.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Hinton Says AI Already Has Consciousness</title>
-      <link>https://www.tmtpost.com/7806601.html</link>
-      <description>&lt;![CDATA[Hinton Says AI Already Has Consciousness]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 01:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7806601.html</guid>
+      <title>回顾与前瞻：美联储的迂回之路</title>
+      <link>https://www.tmtpost.com/7807058.html</link>
+      <description>&lt;![CDATA[回顾与前瞻：美联储的迂回之路]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 13:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7807058.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>威高骨科欲用募资8646万元收购杰思拜尔，标的负债近3000万元；新兴铸管12.44亿元收购华润制钢100%股权【并购一线】</title>
-      <link>https://www.tmtpost.com/7806480.html</link>
-      <description>&lt;![CDATA[威高骨科欲用募资8646万元收购杰思拜尔，标的负债近3000万元；新兴铸管12.44亿元收购华润制钢100%股权【并购一线】]]&gt;</description>
-      <pubDate>Fri, 12 Dec 2025 00:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7806480.html</guid>
+      <title>年营收超60亿元，它会成为3D打印领域的大疆吗？</title>
+      <link>https://www.tmtpost.com/7806841.html</link>
+      <description>&lt;![CDATA[年营收超60亿元，它会成为3D打印领域的大疆吗？]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 13:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7806841.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>躲在流量后面的人，被监管点名了</title>
-      <link>https://www.tmtpost.com/7806476.html</link>
-      <description>&lt;![CDATA[躲在流量后面的人，被监管点名了]]&gt;</description>
-      <pubDate>Thu, 11 Dec 2025 22:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7806476.html</guid>
+      <title>Sora“不懂”的物理常识，成了这家杭州独角兽的护城河？</title>
+      <link>https://www.tmtpost.com/7806998.html</link>
+      <description>&lt;![CDATA[Sora“不懂”的物理常识，成了这家杭州独角兽的护城河？]]&gt;</description>
+      <pubDate>Fri, 12 Dec 2025 13:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7806998.html</guid>
       <category>Technology</category>
     </item>
   </channel>
