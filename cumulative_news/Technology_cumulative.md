@@ -1,7 +1,63 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-12 05:46
+**最后更新时间**: 2025-12-12 08:58
+
+---
+
+## 🆕 最新更新 (2025-12-12 08:58)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [装机量超2000万、全球主流GPU与AI框架“开箱即用”！OpenCloudOS成AI时代优先选项](https://www.infoq.cn/article/sp6Q279X65KoHRoG7gHx?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-12 16:55
+
+#### [JFrog推出“影子AI检测”功能，助力企业应对软件供应链中的隐性AI风险](https://www.infoq.cn/article/pLZfelB1rtrciuaa1aou?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-12 16:40
+
+#### [紧急补丁——React服务器函数中的严重漏洞CVE-2025-55182被主动利用](https://www.infoq.cn/article/jVcfXOWB0UoOOwrfiyjW?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-12 16:02
+
+#### [OpenAI新的GPT-5.1模型更快、更具对话性](https://www.infoq.cn/article/mVVDliO1Ly62oTbkfqg3?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-12 15:52
+
+#### [Karrot通过在亚马逊云科技上部署全新可扩展的特征平台将转化率提升70%](https://www.infoq.cn/article/T7INQA4vJqAAGeIQFo3o?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-12 15:10
+
+#### [Azure API Management Premium v2 正式发布：简化的私有网络连接与 VNet 注入](https://www.infoq.cn/article/ybmjPE1Xo1pqMhtErZTd?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-12 14:16
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [mRNA一哥带来的教训：野心、机遇与现实](https://www.tmtpost.com/7806876.html)
+**发布时间**: 2025-12-12 16:19
+
+#### [GPT-5.2获封“最强打工人”，谷歌同日以Gemini“性价比”系列应战](https://www.tmtpost.com/7807145.html)
+**发布时间**: 2025-12-12 15:56
+
+#### [两大股东6亿增持+榜单领跑，解码成都银行稳健经营底色](https://www.tmtpost.com/7807113.html)
+**发布时间**: 2025-12-12 15:45
+
+#### [先涨价后“共创”，谁在为Rokid的“焦虑”买单？](https://www.tmtpost.com/7806412.html)
+**发布时间**: 2025-12-12 15:37
+
+#### [JD.com Pledges $3.1 Billion in Housing Support for Couriers as Instant Retail Battle Heats Up](https://www.tmtpost.com/7807157.html)
+**发布时间**: 2025-12-12 15:24
+
+#### [AI部署中”端、云、边”的权衡与决策](https://www.tmtpost.com/7806720.html)
+**发布时间**: 2025-12-12 14:43
+
+#### [Rivian Shares Dive Over 6% After Unveiling In-House AI Chip and Self-Driving Plans](https://www.tmtpost.com/7807074.html)
+**发布时间**: 2025-12-12 13:53
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [当运动相机不运动：聊一台正方形画幅的超广角定焦相机](https://sspai.com/post/104390)
+**发布时间**: 2025-12-12 15:10
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [印度背刺美国，亚太战略要崩？](http://www.huxiu.com/article/4816000.html?f=wangzhan)
+**发布时间**: 2025-12-12 15:00
 
 ---
 
