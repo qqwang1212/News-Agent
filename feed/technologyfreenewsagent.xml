@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 14 Dec 2025 08:49:00 GMT</pubDate>
-    <lastBuildDate>Sun, 14 Dec 2025 08:49:40 GMT</lastBuildDate>
+    <pubDate>Sun, 14 Dec 2025 23:33:00 GMT</pubDate>
+    <lastBuildDate>Sun, 14 Dec 2025 23:33:18 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,11 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>昨夜星辰（四）我的三星职场之旅</title>
-      <link>https://www.tmtpost.com/7808408.html</link>
-      <description>&lt;![CDATA[昨夜星辰（四）我的三星职场之旅]]&gt;</description>
-      <pubDate>Sun, 14 Dec 2025 16:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7808408.html</guid>
+      <title>【钛晨报】更大力度提振消费，三部门最新发声；财政部：加大逆周期和跨周期调节力度，提升宏观经济治理效能；SpaceX确认2026年IPO计划，估值半年翻倍至8000亿美元</title>
+      <link>https://www.tmtpost.com/7808513.html</link>
+      <description>&lt;![CDATA[【钛晨报】更大力度提振消费，三部门最新发声；财政部：加大逆周期和跨周期调节力度，提升宏观经济治理效能；SpaceX确认2026年IPO计划，估值半年翻倍至8000亿美元]]&gt;</description>
+      <pubDate>Mon, 15 Dec 2025 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7808513.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>顺丰让出来的电退件市场，京东和三通一达接得住吗？</title>
+      <link>https://www.tmtpost.com/7808404.html</link>
+      <description>&lt;![CDATA[顺丰让出来的电退件市场，京东和三通一达接得住吗？]]&gt;</description>
+      <pubDate>Sun, 14 Dec 2025 18:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7808404.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>AI音乐改造音乐行业？</title>
+      <link>https://www.tmtpost.com/7808457.html</link>
+      <description>&lt;![CDATA[AI音乐改造音乐行业？]]&gt;</description>
+      <pubDate>Sun, 14 Dec 2025 18:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7808457.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>那究竟什么是 Material 3 Expressive？以 Android 16 正式版为例</title>
+      <link>https://sspai.com/post/104595</link>
+      <description>&lt;![CDATA[那究竟什么是 Material 3 Expressive？以 Android 16 正式版为例]]&gt;</description>
+      <pubDate>Sun, 14 Dec 2025 17:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/104595</guid>
       <category>Technology</category>
     </item>
   </channel>
