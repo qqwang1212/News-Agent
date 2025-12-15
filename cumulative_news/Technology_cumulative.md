@@ -1,7 +1,57 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-15 05:55
+**最后更新时间**: 2025-12-15 09:00
+
+---
+
+## 🆕 最新更新 (2025-12-15 09:00)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【Fintech 周报】年内超9000家银行网点退场；渝农商行修订章程遭过半H股股东反对](https://www.tmtpost.com/7809219.html)
+**发布时间**: 2025-12-15 16:18
+
+#### [电力“吞金兽”AIDC来袭，打响储能系统重构之战](https://www.tmtpost.com/7808388.html)
+**发布时间**: 2025-12-15 16:17
+
+#### [国家电投554亿资产大置换，A股核电“第三极”崛起](https://www.tmtpost.com/7808755.html)
+**发布时间**: 2025-12-15 15:58
+
+#### [对话ArtArch黄严：不追求“一句话生成”，用想象力捍卫创作者的表达权｜AI Founder 请回答](https://www.tmtpost.com/7809140.html)
+**发布时间**: 2025-12-15 15:19
+
+#### [CPU，为何“偷偷转型”？](https://www.tmtpost.com/7808815.html)
+**发布时间**: 2025-12-15 15:16
+
+#### [“BBA全方位落后”，中国品牌能接管豪华定义权吗？](https://www.tmtpost.com/7809017.html)
+**发布时间**: 2025-12-15 14:57
+
+#### [番茄红果，字节再造“文化工厂”](https://www.tmtpost.com/7808795.html)
+**发布时间**: 2025-12-15 14:33
+
+#### [14天5万多，海外研学=换个地方打游戏？](https://www.tmtpost.com/7808692.html)
+**发布时间**: 2025-12-15 14:15
+
+#### [Chinese Smartphone Maker Transsion Targets Africa Growth With $1 Billion IPO](https://www.tmtpost.com/7808999.html)
+**发布时间**: 2025-12-15 13:56
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [re:Invent特别企划之“五天五问”⑤《遗忘与行动》上线！](https://www.infoq.cn/video/tX5UgNXxi1EOfpLaMCef?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-15 16:00
+
+#### [亚马逊云科技推出数据库节省计划，提供高达35%的成本降低和引擎灵活性](https://www.infoq.cn/article/aKusjdf8sYGdP38pAVjK?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-15 14:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [众测 | 模块化迷你主机 Khadas Mind 2 第二批体验开放报名](https://sspai.com/post/104610)
+**发布时间**: 2025-12-15 14:32
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [降息背后不只是“水涨船高”：美联储内部的隐秘拉扯和市场影响](http://www.huxiu.com/article/4816506.html?f=wangzhan)
+**发布时间**: 2025-12-15 11:15
 
 ---
 
