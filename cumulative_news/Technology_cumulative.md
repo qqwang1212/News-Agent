@@ -1,7 +1,73 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-17 05:48
+**最后更新时间**: 2025-12-17 09:04
+
+---
+
+## 🆕 最新更新 (2025-12-17 09:04)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [告别“试验田”：当大模型真正嵌入 ERP、供应链与核心决策流 | AICon](https://www.infoq.cn/article/6bqdoH1eN7d07vDVvob1?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-17 16:57
+
+#### [不再为告警“救火”：AIOps 如何重塑腾讯音乐的智能运维体系](https://www.infoq.cn/article/cXKq4I8w15fkCKXzVomO?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-17 16:30
+
+#### [LLM for AIOps：是泡沫还是银弹？智能运维的争议、破局与未来](https://www.infoq.cn/article/DbuSxKKL6id4wXLxUAIW?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-17 16:12
+
+#### [8个月50亿产值，非程序员用秒哒赚疯了？秒哒如何解决后端难、token贵、屎山烦](https://www.infoq.cn/article/FcV0URxuPMkZ6Hqjr1Ml?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-17 15:31
+
+#### [作为团队管理者，我在培养机器学习工程师过程中的一些心得](https://www.infoq.cn/article/HXQjGaVJ8k6FKOahTe7c?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-17 15:18
+
+#### [基于昇腾NPU的生成式推荐scaling law落地实践 ｜AICon 北京](https://www.infoq.cn/article/im7Xmko74UYhb2SYw2rz?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-17 14:13
+
+#### [React Advanced Conf大会上的无障碍交互组件](https://www.infoq.cn/article/D8EZhFyokwSmO1Vq0pzI?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-17 13:47
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [豆包争议启示录：AI手机动了谁的奶酪？](https://www.tmtpost.com/7811983.html)
+**发布时间**: 2025-12-17 16:53
+
+#### [公关已经用AI给媒体老师算命了](https://www.tmtpost.com/7811682.html)
+**发布时间**: 2025-12-17 16:12
+
+#### [小象超市、朴朴争相开线下大店，是谁给的勇气？](https://www.tmtpost.com/7811693.html)
+**发布时间**: 2025-12-17 15:49
+
+#### [港股年末解禁潮来袭：是风险？更是试金石](https://www.tmtpost.com/7811656.html)
+**发布时间**: 2025-12-17 15:29
+
+#### [Xiaomi Unveils Fast, Low-Cost AI Model As 'Genius Girl' Researcher Outlines Next Phase Of Agent Intelligence](https://www.tmtpost.com/7812166.html)
+**发布时间**: 2025-12-17 15:26
+
+#### [ACCA 2025 粤港澳大湾区首席财务官峰会圆满落幕，共探战略进化破局之路](https://www.tmtpost.com/7812136.html)
+**发布时间**: 2025-12-17 15:09
+
+#### [“天才少女”罗福莉首秀：小米MiMo大模型，比DeepSeek更便宜、推理速度快三倍](https://www.tmtpost.com/7812078.html)
+**发布时间**: 2025-12-17 14:53
+
+#### [三家独角兽集体冲刺IPO，一场被迫提前的终局叙事](https://www.tmtpost.com/7811705.html)
+**发布时间**: 2025-12-17 14:51
+
+#### [磷酸铁锂涨价潮涌：需求爆发下供需重构，涨势或持续至2026年丨行业风向标](https://www.tmtpost.com/7811986.html)
+**发布时间**: 2025-12-17 14:32
+
+#### [巨头插足“百镜大战”，AI眼镜的创业者们该怎么活下去｜2025 T-EDGE全球对话](https://www.tmtpost.com/7810985.html)
+**发布时间**: 2025-12-17 14:05
+
+#### [China GPU Maker Metax Shares Surge 700% on Debut Amid China’s AI Chip Push](https://www.tmtpost.com/7811866.html)
+**发布时间**: 2025-12-17 11:51
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [骏马贺新岁，挑一本日历迎接腾跃的 2026 年](https://sspai.com/post/104604)
+**发布时间**: 2025-12-17 15:25
 
 ---
 
