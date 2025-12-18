@@ -1,7 +1,75 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-18 05:48
+**最后更新时间**: 2025-12-18 08:57
+
+---
+
+## 🆕 最新更新 (2025-12-18 08:57)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [火山引擎的「火」，是怎么点起来的](http://www.geekpark.net/news/358192)
+**发布时间**: 2025-12-18 16:48
+
+#### [IF 2026 最大「黑马」：钢铁侠故事背后的温度和创新](http://www.geekpark.net/news/358191)
+**发布时间**: 2025-12-18 16:33
+
+#### [人人都能当电影导演？万相 2.6 杀疯了：角色扮演、分镜控制，硬刚 Sora2](http://www.geekpark.net/news/358189)
+**发布时间**: 2025-12-18 16:29
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [员工吐槽“给 AI 擦屁股”更辛苦？揭秘企业 AI 提效的“悖论”与真拐点](https://www.infoq.cn/article/McNg0VYLQ7FlbKIZeZVy?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 16:36
+
+#### [数美科技CTO梁堃：当黑灰产完成“AI工业化”，风控防御需重构工程范式](https://www.infoq.cn/article/uCdgWGJUOrBIOsIsBOOE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 16:25
+
+#### [腾讯云TencentOS智能运维平台TManager正式发布 | Q推荐](https://www.infoq.cn/article/0sQNUHiVBjLqTV6ybm0T?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 16:09
+
+#### [来，和模力工场一起亮相 AI 闪耀中国！](https://www.infoq.cn/article/G0SSQ5R7jb0UqaOectys?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 15:58
+
+#### [Meta的React Compiler 1.0将自动记忆化引入到生产环境](https://www.infoq.cn/article/eZhUvA5QqELFOE5joOzR?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 15:30
+
+#### [生成式 AI 的投资回报远超预期](https://www.infoq.cn/minibook/aja6h8SVCM1Smvggyvvu?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 15:02
+
+#### [人才济济的大厂，为何频频产出垃圾代码？](https://www.infoq.cn/article/jXR5eXUZdt3IW7zJgaUE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 14:55
+
+#### [TornadoVM 2.0为Java提供自动GPU加速和LLM支持](https://www.infoq.cn/article/WETdDcH0thPepBGK5vkh?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-18 14:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [月活暴跌70%背后，Kimi走在钢索之上](https://www.tmtpost.com/7813316.html)
+**发布时间**: 2025-12-18 16:01
+
+#### [AI云的“半程路标”：谷歌云和阿里云的逆袭，AWS、微软云的再审视](https://www.tmtpost.com/7813373.html)
+**发布时间**: 2025-12-18 16:01
+
+#### [Gemini 3 Flash发布：谷歌以“速度优先”重新定义AI效率之战](https://www.tmtpost.com/7813380.html)
+**发布时间**: 2025-12-18 15:59
+
+#### [互联网大厂跨越2025：不出海，就出局；乱出海，也出局？](https://www.tmtpost.com/7813303.html)
+**发布时间**: 2025-12-18 15:57
+
+#### [曾不被李彦宏和余凯等大佬看好的L3，如今支棱起来了](https://www.tmtpost.com/7813245.html)
+**发布时间**: 2025-12-18 15:54
+
+#### [玛莎拉蒂的坠落：从“总裁座驾”到30万清仓](https://www.tmtpost.com/7813235.html)
+**发布时间**: 2025-12-18 15:54
+
+#### [甲骨文魔幻100天：从AI狂欢到债务恐惧](https://www.tmtpost.com/7813226.html)
+**发布时间**: 2025-12-18 15:52
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [编辑部圆桌 | 从 Windows 迁移至 Mac，他们为什么如此选择](https://sspai.com/post/104699)
+**发布时间**: 2025-12-18 15:34
 
 ---
 
