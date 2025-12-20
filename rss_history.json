@@ -2688,6 +2688,36 @@
         "link": "https://www.qbitai.com/2025/12/362185.html",
         "published_date": "Fri, 19 Dec 2025 10:45:00 GMT",
         "first_seen": "2025-12-19T23:23:09.595707"
+      },
+      "389dcff3faf5d669624b8cbcdf9375d6278bedf7fac2fda34d1f29a33448aa58": {
+        "title": "LeCun的JEPA已进化为视觉-语言模型，1.6B参数比肩72B Qwen-VL",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-21-5",
+        "published_date": "Sun, 21 Dec 2025 01:11:00 GMT",
+        "first_seen": "2025-12-20T23:22:47.189925"
+      },
+      "1c1c98cf1fe70f79f0ecf8f7bd0655c1e9e08b8f44db566cf3e17362f339787b": {
+        "title": "人人都是导演：CineCtrl首个实现视频生成中的相机运镜与摄影效果统一控制",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-21-4",
+        "published_date": "Sun, 21 Dec 2025 01:06:00 GMT",
+        "first_seen": "2025-12-20T23:22:47.190119"
+      },
+      "4b6889588ccc275866c3cffb918393286e02d6b89ea0126ba14c7be470ef47fe": {
+        "title": "玩到崩溃，《青椒模拟器》游戏爆火，我在AI世界一路升级做院士",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-21-3",
+        "published_date": "Sun, 21 Dec 2025 01:00:00 GMT",
+        "first_seen": "2025-12-20T23:22:47.190340"
+      },
+      "c5c66b42bda7b660e213e4280bee2ecb29a78fc177dd2ca9d13d828eea42dba5": {
+        "title": "布局控制+身份一致：浙大提出ContextGen，实现布局锚定多实例生成新SOTA",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-21-2",
+        "published_date": "Sun, 21 Dec 2025 00:54:00 GMT",
+        "first_seen": "2025-12-20T23:22:47.190575"
+      },
+      "f543f8628a74270ab5f94ef7f3293bfb20a7c83fa2b9332025028729252951d9": {
+        "title": "Anthropic公布新技术：不靠删数据，参数隔离移除AI危险",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-21",
+        "published_date": "Sun, 21 Dec 2025 00:48:00 GMT",
+        "first_seen": "2025-12-20T23:22:47.190887"
       }
     },
     "Technology": {
@@ -12218,13 +12248,25 @@
         "link": "http://www.huxiu.com/article/4816845.html?f=wangzhan",
         "published_date": "Sat, 20 Dec 2025 10:00:00 GMT",
         "first_seen": "2025-12-20T08:31:13.766802"
+      },
+      "9b64598440ba3d0828ec4f054cc5dbc1d22420541ffa7b0cfe6f4a334034d343": {
+        "title": "对2025年中国游戏行业的简短总结",
+        "link": "https://www.tmtpost.com/7815520.html",
+        "published_date": "Sat, 20 Dec 2025 22:06:00 GMT",
+        "first_seen": "2025-12-20T23:22:47.273540"
+      },
+      "dd479383c9e7217e60572a5d25aa7112a34738758043e56f607529afd76849d7": {
+        "title": "十多道啫啫煲和砂锅菜，让你的冬日吃出汗",
+        "link": "https://sspai.com/prime/story/clay-pot-casserole-dishes-for-winter",
+        "published_date": "Sat, 20 Dec 2025 20:17:00 GMT",
+        "first_seen": "2025-12-20T23:22:47.273648"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-12-20T08:31:13.694713",
-    "Technology": "2025-12-20T08:31:23.017837",
-    "Finance": "2025-12-20T08:31:13.580329"
+    "AI": "2025-12-20T23:22:47.210596",
+    "Technology": "2025-12-20T23:22:47.281187",
+    "Finance": "2025-12-20T23:22:47.080606"
   }
 }
