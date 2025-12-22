@@ -2844,6 +2844,42 @@
         "link": "https://www.qbitai.com/2025/12/363480.html",
         "published_date": "Mon, 22 Dec 2025 01:47:00 GMT",
         "first_seen": "2025-12-22T05:28:59.299456"
+      },
+      "0c1d67d38fe53a121da13c070a6065a287e4e26eba19ca7855eba0ac6bb21b41": {
+        "title": "SIGMOD2026：多模态遇上RAG，为何搜起来“很准”，模型回答却很差？",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-22-6",
+        "published_date": "Mon, 22 Dec 2025 15:54:00 GMT",
+        "first_seen": "2025-12-22T08:41:22.872422"
+      },
+      "63f96aa393f7a88631e36a707609675ec914d2bfe79ea88a725da8e2ac010a5d": {
+        "title": "自适应AI决策接口，协助自主实验室在材料性能上实现150%提升，与研究者共同主导实验的人机协作模式",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-22-5",
+        "published_date": "Mon, 22 Dec 2025 14:07:00 GMT",
+        "first_seen": "2025-12-22T08:41:22.872663"
+      },
+      "68e2ddc94f495f57f9d5ca373946c303548f51d0a6149509a53438b9fe6077f8": {
+        "title": "陈天桥旗下盛大AI东京研究院于SIGGRAPH Asia正式亮相，揭晓数字人和世界模型成果",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-22-4",
+        "published_date": "Mon, 22 Dec 2025 13:50:00 GMT",
+        "first_seen": "2025-12-22T08:41:22.872911"
+      },
+      "b0497ca1f9a29904a708471b259c173dc6863186eda99bcbb46580bd50521712": {
+        "title": "瞄准AI、图形顶端战场：摩尔线程上演国产GPU硬核实力路演",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-22-3",
+        "published_date": "Mon, 22 Dec 2025 13:45:00 GMT",
+        "first_seen": "2025-12-22T08:41:22.873186"
+      },
+      "01a266e02b65541b25d84c5847ade1f88eef75c1f42ad11516916198996bd9c5": {
+        "title": "智能体如何学会「想象」？深度解析世界模型嵌入具身系统的三大技术范式",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-22-2",
+        "published_date": "Mon, 22 Dec 2025 13:39:00 GMT",
+        "first_seen": "2025-12-22T08:41:22.873509"
+      },
+      "5f04d21140f4da0fbf745bfa33acfc711beaffb0122868da483fd9c5a900abf9": {
+        "title": "天下苦SaaS已久，企业级AI得靠「结果」说话",
+        "link": "https://www.qbitai.com/2025/12/363581.html",
+        "published_date": "Mon, 22 Dec 2025 05:46:00 GMT",
+        "first_seen": "2025-12-22T08:41:22.873854"
       }
     },
     "Technology": {
@@ -12680,13 +12716,145 @@
         "link": "http://www.huxiu.com/article/4818994.html?f=wangzhan",
         "published_date": "Mon, 22 Dec 2025 09:00:00 GMT",
         "first_seen": "2025-12-22T05:28:59.412577"
+      },
+      "2ec4af651e6fab0cea087dceb75a3c5d8769b7de9103a96e87f4e2da6bbff390": {
+        "title": "摩尔线程发布会上，郑纬民院士放出核心观点：真正决定主权AI成败的，是开发者与类CUDA生态",
+        "link": "https://www.infoq.cn/article/VYK3iBJlAfS9HM8aU96U?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 22 Dec 2025 16:14:00 GMT",
+        "first_seen": "2025-12-22T08:41:32.310790"
+      },
+      "a574946208192c8dcb1e909a3f3c3e88872df4e30673b80970b22a49d25d5c11": {
+        "title": "上市后的摩尔线程，重心从造芯变成建生态",
+        "link": "https://www.infoq.cn/article/AgpCt64PP8ZNLHxNgsdE?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 22 Dec 2025 16:10:00 GMT",
+        "first_seen": "2025-12-22T08:41:32.310879"
+      },
+      "0cf9ca835c2c3c2448426a3e0205a7759f9c38dfddf6726d20e81909cf6a3f9b": {
+        "title": "基于 SGlang RBG + Mooncake 打造生产级云原生大模型推理平台",
+        "link": "https://www.infoq.cn/article/spES4ES1DVCxMc6vtEA4?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 22 Dec 2025 15:31:00 GMT",
+        "first_seen": "2025-12-22T08:41:32.310818"
+      },
+      "d51a56b04191126e5b97076c59800d9974fc4ec17d433e03764e586db41d3740": {
+        "title": "AlphaEvolve作为面向算法优化的Agentic系统正式进入谷歌云",
+        "link": "https://www.infoq.cn/article/WOltsxNikIAzZTXDDsjC?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 22 Dec 2025 15:27:00 GMT",
+        "first_seen": "2025-12-22T08:41:32.310832"
+      },
+      "f53c78a1a092f0eb55537ae5fa081cff5973e66e68c025b5d361411c4a59bfcb": {
+        "title": "Lyft采用AWS SageMaker与Kubernetes混合架构重构其机器学习平台",
+        "link": "https://www.infoq.cn/article/xlk9jmBFwB5vm7BSzSq8?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 22 Dec 2025 15:00:00 GMT",
+        "first_seen": "2025-12-22T08:41:32.310843"
+      },
+      "cc84933ee180dfc85590ae0ddc32bf59635f2461d60cb1f25862fd1643231dda": {
+        "title": "视涯科技四问：股权定价混乱、代持未披露、巨亏难止、15亿现金为何还募20亿？｜IPO观察",
+        "link": "https://www.tmtpost.com/7816844.html",
+        "published_date": "Mon, 22 Dec 2025 16:01:00 GMT",
+        "first_seen": "2025-12-22T08:41:32.310856"
+      },
+      "e6f3bd6d9a7d30dfcd1845974d796c1a86bc1edfa7df7fc0d18380a6f555bce1": {
+        "title": "单品低至3.8元，海底捞开卖小份菜",
+        "link": "https://www.tmtpost.com/7817099.html",
+        "published_date": "Mon, 22 Dec 2025 15:34:00 GMT",
+        "first_seen": "2025-12-22T08:41:32.310889"
+      },
+      "53514403fbc44808ff2c323d1ea193cfd173258af13ca3d3eee1cccf453c67f2": {
+        "title": "2025年，50+新品牌跑出2个“亿级黑马”",
+        "link": "https://www.tmtpost.com/7817074.html",
+        "published_date": "Mon, 22 Dec 2025 15:32:00 GMT",
+        "first_seen": "2025-12-22T08:41:32.310900"
+      },
+      "9007b7751775afb9b554958deb75936c034134ae86e0fa6f3cd732da43e63d1a": {
+        "title": "这个低调的地方菜，正悄悄“杀”向全国？",
+        "link": "https://www.tmtpost.com/7817097.html",
+        "published_date": "Mon, 22 Dec 2025 15:32:00 GMT",
+        "first_seen": "2025-12-22T08:41:32.310910"
+      },
+      "eac64c439c371c91cf2fad74652944fe97c128867c27f89f701db521f0b3aacc": {
+        "title": "阿里向高德投下一枚“钻地弹”",
+        "link": "https://www.tmtpost.com/7817011.html",
+        "published_date": "Mon, 22 Dec 2025 15:31:00 GMT",
+        "first_seen": "2025-12-22T08:41:22.972846"
+      },
+      "c5d00f77aa636af474b6fcb73453bd816d1a4df0b7146070e2924c439cb1f469": {
+        "title": "90后接棒、老将升迁、国际CEO离任……供应链行业人事大震荡",
+        "link": "https://www.tmtpost.com/7817059.html",
+        "published_date": "Mon, 22 Dec 2025 15:31:00 GMT",
+        "first_seen": "2025-12-22T08:41:22.973459"
+      },
+      "d68718112412c2dd82dc527b98c3a9320d3c7931faf7b08cb199882b5d6c0a29": {
+        "title": "消费者不爱，资本退潮，植物肉在中国的故事讲不下去了？",
+        "link": "https://www.tmtpost.com/7817095.html",
+        "published_date": "Mon, 22 Dec 2025 15:31:00 GMT",
+        "first_seen": "2025-12-22T08:41:22.974016"
+      },
+      "76a159ab0b3d6eda60b91bbff69945499d8724b5d81c259e714c3d0d35b3b2d3": {
+        "title": "联想创投杀疯了",
+        "link": "https://www.tmtpost.com/7816937.html",
+        "published_date": "Mon, 22 Dec 2025 15:27:00 GMT",
+        "first_seen": "2025-12-22T08:41:22.974329"
+      },
+      "2296910bd034c094512926027547333c2058debdfd2af9d5a132e51ed1eb7c58": {
+        "title": "果链巨头，加速向“英伟达链”转移",
+        "link": "https://www.tmtpost.com/7816933.html",
+        "published_date": "Mon, 22 Dec 2025 15:19:00 GMT",
+        "first_seen": "2025-12-22T08:41:22.974862"
+      },
+      "3e1ec3beaa2b1e9807d6a7e353f666d342e55767bd708bd510717a28100da6e2": {
+        "title": "Transformer能否支撑下一代Agent？",
+        "link": "https://www.tmtpost.com/7816940.html",
+        "published_date": "Mon, 22 Dec 2025 15:19:00 GMT",
+        "first_seen": "2025-12-22T08:41:22.975405"
+      },
+      "acec307a6be1d2aa31ac033a75f896976a91a89e943a11f8204415ede8e57b9b": {
+        "title": "行业洗牌的2025年，一批中小卖家艰难生存",
+        "link": "https://www.tmtpost.com/7816950.html",
+        "published_date": "Mon, 22 Dec 2025 15:19:00 GMT",
+        "first_seen": "2025-12-22T08:41:22.975987"
+      },
+      "238d627956e1e4469cef034fe9681767d013c8f677a08f8a101ba81957aff0f6": {
+        "title": "年轻人开始认真“养头”，卷出一个千亿新市场",
+        "link": "https://www.tmtpost.com/7816559.html",
+        "published_date": "Mon, 22 Dec 2025 15:14:00 GMT",
+        "first_seen": "2025-12-22T08:41:22.976630"
+      },
+      "48f85c3cf2b15121c9e76d6422f4398edc30710c425c2bf0aa1fc8ba83de2b25": {
+        "title": "贷款8万看剧，饭圈正在捧杀音乐剧",
+        "link": "https://www.tmtpost.com/7816751.html",
+        "published_date": "Mon, 22 Dec 2025 15:08:00 GMT",
+        "first_seen": "2025-12-22T08:41:22.977211"
+      },
+      "52745ff684c78a4639cca04b6bd68fc2229614af3b03089653538cad95259e84": {
+        "title": "泛滥的会员消费，装不下李国庆的“创业梦”",
+        "link": "https://www.tmtpost.com/7816952.html",
+        "published_date": "Mon, 22 Dec 2025 15:07:00 GMT",
+        "first_seen": "2025-12-22T08:41:22.977950"
+      },
+      "07409570b82fcf47452297bd01f15b882da5fb4d8725babff28d1054e461bd1a": {
+        "title": "欠债25亿，美国“行业鼻祖”破产，被中国代工厂反向收购",
+        "link": "https://www.tmtpost.com/7816914.html",
+        "published_date": "Mon, 22 Dec 2025 14:55:00 GMT",
+        "first_seen": "2025-12-22T08:41:22.978879"
+      },
+      "25bd31f1e2e0afdf97b61e77ea21ed8cda0c7021d7f3fc4a539de747c1c69d6b": {
+        "title": "合成生物2025：资本退烧、技术落地，万亿赛道迈向“成年期”",
+        "link": "https://www.tmtpost.com/7816732.html",
+        "published_date": "Mon, 22 Dec 2025 13:47:00 GMT",
+        "first_seen": "2025-12-22T08:41:32.310868"
+      },
+      "15a7cbc2cc3f9ceac5ae1f22d2b2e19c35848b6e00b8ecc6e0e76c87cf29f012": {
+        "title": "一日一技 | 达玛卡亚冥想法入门指南",
+        "link": "https://sspai.com/post/86003",
+        "published_date": "Mon, 22 Dec 2025 14:40:00 GMT",
+        "first_seen": "2025-12-22T08:41:22.980604"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-12-22T05:28:59.322992",
-    "Technology": "2025-12-22T05:29:08.664336",
-    "Finance": "2025-12-22T05:28:59.188967"
+    "AI": "2025-12-22T08:41:22.904529",
+    "Technology": "2025-12-22T08:41:32.314481",
+    "Finance": "2025-12-22T08:41:22.760932"
   }
 }
