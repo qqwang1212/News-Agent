@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-23 05:28
+**最后更新时间**: 2025-12-23 08:40
+
+---
+
+## 🆕 最新更新 (2025-12-23 08:40)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [你的24小时“贴身医生”已上线](https://www.infoq.cn/article/mNINtEIw6kv6N0LWLDaF?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 16:31
+
+#### [Pinterest工程通过运行时感知分片将Android CI构建时间缩短了36%](https://www.infoq.cn/article/2hfyYr7NW6puMYkZJelN?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 16:28
+
+#### [“大模型第一股”打响上市前哨战！智谱刷新开源编程SOTA，在修复代码、终端操作表现超Claude 4.5](https://www.infoq.cn/article/wTgh5tfft66Zf8AWQutD?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 16:01
+
+#### [将遗留测试套件迁移到基于Kotlin的Gauge框架的经验总结](https://www.infoq.cn/article/mGh8bljh39B2IUNmjhst?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 15:45
+
+#### [AI落地进行时：企业业务、组织与人才升级实战案例集](https://www.infoq.cn/minibook/U6o5PauwIQZlfBAefsTE?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 15:11
+
+#### [告别“一刀切”：“需求分化”如何重构算力供给？](https://www.infoq.cn/article/FBliz8QgpDs5pA7WocGg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 14:48
+
+#### [亚马逊云科技推出“DevOps Agent”，以实现事件响应自动化并提高系统可靠性](https://www.infoq.cn/article/GJED7TYiFFUYb87re523?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 14:33
+
+#### [谷歌为 AI 算力拼了！砸下 47.5 亿美元收购Intersect Power，连对方债务都接盘了](https://www.infoq.cn/article/ph3UrchQjgjH0k2SD5iP?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-23 13:53
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [第一批大模型公司要上市了，问题是如何给智谱、Minimax们估值？](https://www.tmtpost.com/7818114.html)
+**发布时间**: 2025-12-23 16:20
+
+#### [「深度实践」如何用7年做出一家ToB上市公司｜2025 T-EDGE全球对话](https://www.tmtpost.com/7815078.html)
+**发布时间**: 2025-12-23 16:17
+
+#### [对话机械革命创始人潘春节：创业十年，永远为用户体验“走深一公里”](https://www.tmtpost.com/7818050.html)
+**发布时间**: 2025-12-23 15:46
+
+#### [一张“戏票”闯港股，印象大红袍1300万“拼命”上市](https://www.tmtpost.com/7817801.html)
+**发布时间**: 2025-12-23 15:37
+
+#### [涅槃归来！金刚光伏重整完成，“光伏+算力”启新篇](https://www.tmtpost.com/7818329.html)
+**发布时间**: 2025-12-23 15:12
+
+#### [给AI接上专有知识库：RAG的工程化实现](https://www.tmtpost.com/7817906.html)
+**发布时间**: 2025-12-23 15:01
+
+#### [小象超市北京开店，美团与阿里形成「生鲜1V1」态势](https://www.tmtpost.com/7817621.html)
+**发布时间**: 2025-12-23 14:03
 
 ---
 
