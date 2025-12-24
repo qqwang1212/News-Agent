@@ -3024,6 +3024,48 @@
         "link": "https://www.qbitai.com/2025/12/365659.html",
         "published_date": "Tue, 23 Dec 2025 14:09:00 GMT",
         "first_seen": "2025-12-23T23:24:38.878708"
+      },
+      "2b9666f69796ee15bc45220a230a7059d4bdfb7b66e55f55890569fa9bafdccb": {
+        "title": "字节做了个 AI 手机，钉钉做了台 AI 主机",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-24-4",
+        "published_date": "Wed, 24 Dec 2025 12:13:00 GMT",
+        "first_seen": "2025-12-24T05:28:57.871324"
+      },
+      "ad1cbbe2ece93a73a747c6e23407afa3ff9ed304c11eabbc60a4308e00874001": {
+        "title": "从「会表演」到「更会演」：KlingAvatar2.0让数字人拥有生动灵魂",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-24-3",
+        "published_date": "Wed, 24 Dec 2025 12:08:00 GMT",
+        "first_seen": "2025-12-24T05:28:57.871574"
+      },
+      "bcbfc72c4d75c8627e731839c6fad7c1a328320b5411b39d36acfda6c183dcb6": {
+        "title": "广电绝地反击！揭秘多彩新媒「不烧钱」的AI生存法则",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-24-2",
+        "published_date": "Wed, 24 Dec 2025 12:04:00 GMT",
+        "first_seen": "2025-12-24T05:28:57.871772"
+      },
+      "61c38547e73a058fe92801eac3b35a411b23cba0a303ede53092ae664f1e0a5d": {
+        "title": "拒绝「盲修」：JarvisEvo 如何让 Agent 像人类一样拥有「视觉反思」能力？",
+        "link": "https://www.jiqizhixin.com/articles/2025-12-24",
+        "published_date": "Wed, 24 Dec 2025 11:58:00 GMT",
+        "first_seen": "2025-12-24T05:28:57.872115"
+      },
+      "6d5badc4249869deb3ff974ccf9186a5ab1771de67147943320686cb939ad0df": {
+        "title": "Science打脸“赢在起跑线”！少年天才90%成年后止步顶尖水平之下",
+        "link": "https://www.qbitai.com/2025/12/365710.html",
+        "published_date": "Wed, 24 Dec 2025 04:21:00 GMT",
+        "first_seen": "2025-12-24T05:28:57.872459"
+      },
+      "70d10c7eb9f92a3372730dbd1b6fa85f0257bb2155648404a019cbd90ade4b3d": {
+        "title": "AI Coding新王登场！MiniMax M2.1拿下多语言编程SOTA",
+        "link": "https://www.qbitai.com/2025/12/365665.html",
+        "published_date": "Wed, 24 Dec 2025 01:24:00 GMT",
+        "first_seen": "2025-12-24T05:28:57.872906"
+      },
+      "ab3ecbc90d2c60edf5cdb9af03443a7fee1413751f2de36ce4782ed916fdb609": {
+        "title": "2025最大AI赢家的凡尔赛年度总结，哈萨比斯Jeff Dean联手执笔",
+        "link": "https://www.qbitai.com/2025/12/365688.html",
+        "published_date": "Wed, 24 Dec 2025 01:18:00 GMT",
+        "first_seen": "2025-12-24T05:28:57.873332"
       }
     },
     "Technology": {
@@ -13562,13 +13604,139 @@
         "link": "https://sspai.com/post/104836",
         "published_date": "Tue, 23 Dec 2025 17:00:00 GMT",
         "first_seen": "2025-12-23T23:24:38.986053"
+      },
+      "f6f2d77a131a088231c73c20adb10ae37ee4ca0e0df56edc9474a53a1db883bb": {
+        "title": "被起诉的AI独角兽，这样回应好莱坞",
+        "link": "https://www.tmtpost.com/7818713.html",
+        "published_date": "Wed, 24 Dec 2025 12:59:00 GMT",
+        "first_seen": "2025-12-24T05:29:07.208838"
+      },
+      "bb215b572c495d06dc058d2e52c4826f2821bbc00ed32e7bb7c60305fbf96cde": {
+        "title": "快手被黑客攻击“涉黄”，谁才是个巨大“草台班子”？",
+        "link": "https://www.tmtpost.com/7818685.html",
+        "published_date": "Wed, 24 Dec 2025 12:59:00 GMT",
+        "first_seen": "2025-12-24T05:29:07.208850"
+      },
+      "6e2d21bf48ce6b7d2eb985c2fa2a0f872fb0862fe507084b05c512ed91fb3bee": {
+        "title": "泡泡玛特的“成人礼”",
+        "link": "https://www.tmtpost.com/7817937.html",
+        "published_date": "Wed, 24 Dec 2025 12:59:00 GMT",
+        "first_seen": "2025-12-24T05:29:07.208859"
+      },
+      "1e66e8b2ab4802cfab651d471810a7e5f2751b32513dcfd2129dd5dcd19624fc": {
+        "title": "帕西尼CTO张恒第：人类生活方式将由我们改写",
+        "link": "https://www.tmtpost.com/7817236.html",
+        "published_date": "Wed, 24 Dec 2025 12:59:00 GMT",
+        "first_seen": "2025-12-24T05:29:07.208868"
+      },
+      "ed7d81404b8b322b1e8dc9e7e8615903ded3215e5d6065b75025636795da0f7c": {
+        "title": "阿福可以是蚂蚁的“第二个支付宝”",
+        "link": "https://www.tmtpost.com/7817688.html",
+        "published_date": "Wed, 24 Dec 2025 12:59:00 GMT",
+        "first_seen": "2025-12-24T05:29:07.208878"
+      },
+      "82b5f1dd7a12b6819eb511d082b08dcd577e02e70d2e0424b7b9e97575bd576a": {
+        "title": "优衣库背刺消费者",
+        "link": "https://www.tmtpost.com/7818403.html",
+        "published_date": "Wed, 24 Dec 2025 12:17:00 GMT",
+        "first_seen": "2025-12-24T05:28:57.969092"
+      },
+      "2cbe2d934037b8887baad793f8f139314500a4fae447ac79a940488cd41e8b8a": {
+        "title": "中远海控：馅饼还是陷阱？",
+        "link": "https://www.tmtpost.com/7819084.html",
+        "published_date": "Wed, 24 Dec 2025 12:17:00 GMT",
+        "first_seen": "2025-12-24T05:29:07.208888"
+      },
+      "9dcee0c03aa90caf835841ff1e2e106be86a799d2e22a8e2e3992370e3d47d2d": {
+        "title": "「小」年大增长：2025游戏行业的变与不变",
+        "link": "https://www.tmtpost.com/7818870.html",
+        "published_date": "Wed, 24 Dec 2025 11:33:00 GMT",
+        "first_seen": "2025-12-24T05:29:07.208897"
+      },
+      "5609618b566e282ace558dd0959e7df5d335c81b575064cf6766fb6948099672": {
+        "title": "3.4万亿字节，为留人放“涨薪大招”",
+        "link": "https://www.tmtpost.com/7818882.html",
+        "published_date": "Wed, 24 Dec 2025 11:25:00 GMT",
+        "first_seen": "2025-12-24T05:28:57.969893"
+      },
+      "42135871fc2677566b07fdd4d95b815284d5463b583208ea9e22f1281632378a": {
+        "title": "默沙东又踩了个雷",
+        "link": "https://www.tmtpost.com/7819198.html",
+        "published_date": "Wed, 24 Dec 2025 11:25:00 GMT",
+        "first_seen": "2025-12-24T05:28:57.970097"
+      },
+      "d32abd5208b8b30f79f6724925c32a766c3f689aa9e7dc9ea73385c02c6c7b28": {
+        "title": "榜单公布｜2025 EDGE AWARDS年度上市公司价值榜正式揭晓",
+        "link": "https://www.tmtpost.com/7818757.html",
+        "published_date": "Wed, 24 Dec 2025 10:22:00 GMT",
+        "first_seen": "2025-12-24T05:28:57.970552"
+      },
+      "e77feafa15fed970c35b5f667f92987ac3b3d2149002424ba69154a5a4d9fc4f": {
+        "title": "隆源股份：客户集中度高叠加毛利率下滑，高负债下大额分红引争议｜IPO观察",
+        "link": "https://www.tmtpost.com/7816857.html",
+        "published_date": "Wed, 24 Dec 2025 10:10:00 GMT",
+        "first_seen": "2025-12-24T05:28:57.971071"
+      },
+      "b3ade16f4b295a444f125e7c6c883d5c2cf654707836c75cefaae440b04bfbac": {
+        "title": "壁仞的GPU，卡在了客户门口",
+        "link": "https://www.tmtpost.com/7817625.html",
+        "published_date": "Wed, 24 Dec 2025 10:05:00 GMT",
+        "first_seen": "2025-12-24T05:28:57.971482"
+      },
+      "7433b2a53af80c94a5b8315aa35fca5199d461a75d097501570c1ac6cc97d479": {
+        "title": "国产GPU造富狂欢：谁是最大赢家？",
+        "link": "https://www.tmtpost.com/7818816.html",
+        "published_date": "Wed, 24 Dec 2025 10:05:00 GMT",
+        "first_seen": "2025-12-24T05:28:57.971915"
+      },
+      "56e63d51b1af7521379a6c0393046f351b83d1907050beccd8e0bbad309d75cc": {
+        "title": "当大厂承包你的衣食住行，这场「福利游戏」要付出什么代价",
+        "link": "https://www.tmtpost.com/7818720.html",
+        "published_date": "Wed, 24 Dec 2025 09:28:00 GMT",
+        "first_seen": "2025-12-24T05:28:57.972555"
+      },
+      "aab71daef6bd9b546abcdc4788c52652df192bac446d84c03e7f837cfed841f0": {
+        "title": "oRPC发布1.0版本，支持OpenAPI和端到端类型安全",
+        "link": "https://www.infoq.cn/article/Bq2eNpr5LwqI7Uy3tIwr?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 24 Dec 2025 11:01:00 GMT",
+        "first_seen": "2025-12-24T05:29:07.208781"
+      },
+      "574f65f3eca6ccaba5366465a00def30369c44e85cb390b1aafef6f226402cef": {
+        "title": "Google Cloud发布托管的MCP支持",
+        "link": "https://www.infoq.cn/article/zwgVrr7EBrhvNfmolXcp?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 24 Dec 2025 10:32:00 GMT",
+        "first_seen": "2025-12-24T05:29:07.208811"
+      },
+      "1bac792df0439f1b17cddfd5c8d1ba11808dfcc18e7017e18e2304f3ce24d182": {
+        "title": "JEP 500：通过限制反射来强制实现Final字段的严格不可变性",
+        "link": "https://www.infoq.cn/article/tbiUfF40FTU5lK47hj0t?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 24 Dec 2025 10:19:00 GMT",
+        "first_seen": "2025-12-24T05:28:57.974550"
+      },
+      "d24cd42111f773634abae67977d874c4c85ebbd50c90885da8fa33af39343f8c": {
+        "title": "“Cursor的bug太多了，他们直接买下一家代码评审公司来修！”",
+        "link": "https://www.infoq.cn/article/MpbxRhWjPt4ioXx0mOcz?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 24 Dec 2025 10:00:00 GMT",
+        "first_seen": "2025-12-24T05:28:57.975355"
+      },
+      "d2dfbcbdc26bca6fea3b4215a893a29e626e55ff76ce310fd7729a3a4837414f": {
+        "title": "Quote/0版本更新：从「主动追踪」到「被动感知」，让信息融入日常",
+        "link": "https://sspai.com/post/104809",
+        "published_date": "Wed, 24 Dec 2025 11:00:00 GMT",
+        "first_seen": "2025-12-24T05:28:57.976327"
+      },
+      "65ed3f95c655d78265b7d276bb0d27741e1a5079e0d1513608b128f9b16d1f54": {
+        "title": "派早报：三星发布 2026 款 Odyssey 系列显示器等",
+        "link": "https://sspai.com/post/104861",
+        "published_date": "Wed, 24 Dec 2025 08:39:00 GMT",
+        "first_seen": "2025-12-24T05:29:07.208827"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-12-23T23:24:38.898305",
-    "Technology": "2025-12-23T23:24:48.221526",
-    "Finance": "2025-12-23T23:24:38.769734"
+    "AI": "2025-12-24T05:28:57.901988",
+    "Technology": "2025-12-24T05:29:07.212579",
+    "Finance": "2025-12-24T05:28:57.764923"
   }
 }
