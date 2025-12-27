@@ -1,36 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "dfe8afeaf76b92a652856bf1e150e65d6b0eb705d30dca8ac0a39979cfeeacea": {
-        "title": "谢赛宁与Jaakkola团队重磅研究：无数据Flow Map蒸馏",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-26-13",
-        "published_date": "Wed, 26 Nov 2025 17:57:00 GMT",
-        "first_seen": "2025-11-26T23:38:02.254836"
-      },
-      "e191fea766e26f1066b468262849b1227fc8d7be86fd4029eed7d4bb5e9505e8": {
-        "title": "小米开源首个跨域具身基座模型MiMo-Embodied，29个榜单SOTA",
-        "link": "https://www.jiqizhixin.com/articles/2025-11-26-12",
-        "published_date": "Wed, 26 Nov 2025 17:53:00 GMT",
-        "first_seen": "2025-11-26T23:38:02.255003"
-      },
-      "b2a44f52c9776c54a1b8aceb40d8f6d1ce92933171186a9fc7620d2cedc58bf8": {
-        "title": "爆发力超越波士顿动力液压机器人，PHYBOT M1实现全球首次全尺寸重型电驱人形机器人完美拟人态后空翻",
-        "link": "https://www.qbitai.com/2025/11/356796.html",
-        "published_date": "Wed, 26 Nov 2025 09:47:00 GMT",
-        "first_seen": "2025-11-26T23:38:02.255248"
-      },
-      "386bd00aa6baed781c696575148ae56c540c89c4668b23fe5d49847411b5e20b": {
-        "title": "开源模型叫板Nano Banana Pro！Stable Diffusion原班人马杀回来了",
-        "link": "https://www.qbitai.com/2025/11/356661.html",
-        "published_date": "Wed, 26 Nov 2025 09:28:00 GMT",
-        "first_seen": "2025-11-26T23:38:02.255610"
-      },
-      "42383bf96301f5a033183ee4b754d4151b70e6b36d4f712436441ca2cf6d4839": {
-        "title": "WeaveFox「AI艺术家」创意大赛千元豪礼等你来拿！",
-        "link": "https://www.qbitai.com/2025/11/356654.html",
-        "published_date": "Wed, 26 Nov 2025 09:09:00 GMT",
-        "first_seen": "2025-11-26T23:38:02.255886"
-      },
       "836a1991356b23174d4fef98379ab1289d8fff7a26321386b1642bbd27e63c79": {
         "title": "Adam的稳+Muon的快？华为诺亚开源ROOT破解大模型训练「既要又要」的两难困境",
         "link": "https://www.jiqizhixin.com/articles/2025-11-27-6",
@@ -2985,150 +2955,6 @@
       }
     },
     "Technology": {
-      "5f284001a97a91ac532e74b6075d4f6aa80b113a4bc705a37f0039e815307223": {
-        "title": "【钛晨报】事关促进消费，工信部等六部门联合发文；OpenAI预计到2030年将至少有2.2亿人付费使用ChatGPT；浦发银行深夜公告，事关万科债券",
-        "link": "https://www.tmtpost.com/7783780.html",
-        "published_date": "Thu, 27 Nov 2025 07:20:00 GMT",
-        "first_seen": "2025-11-26T23:38:50.711413"
-      },
-      "c532205b328dbd00fcc200675a2bcdfaca4e77385d5c57afeecc12f6fc13205e": {
-        "title": "Oracle Stock Rallies Over 6% at Midday as Analysts Defend AI Spending Concerns",
-        "link": "https://www.tmtpost.com/7783967.html",
-        "published_date": "Thu, 27 Nov 2025 03:16:00 GMT",
-        "first_seen": "2025-11-26T23:38:50.711429"
-      },
-      "7b9d7d07e34557c5269c2ecd1f3440009e7c9fed07d7eba4bde3fb7c2be81e13": {
-        "title": "三度出手揽入SK海力士“边缘”资产，普冉股份寻解赛道焦虑 ｜并购一线",
-        "link": "https://www.tmtpost.com/7783760.html",
-        "published_date": "Wed, 26 Nov 2025 21:42:00 GMT",
-        "first_seen": "2025-11-26T23:38:50.711441"
-      },
-      "7655f58d6f254f1569fb358d30da3b630db127ecdb7c8933b4194b51e8e1f12a": {
-        "title": "前特斯拉Optimus团队成员卢泽宇加入小米，任机器人灵巧手负责人 | 巴伦独家",
-        "link": "https://www.tmtpost.com/7783765.html",
-        "published_date": "Wed, 26 Nov 2025 20:59:00 GMT",
-        "first_seen": "2025-11-26T23:38:50.711452"
-      },
-      "650140c42d745c9225fe82731e10d565b3f1046c4a8209c42fac3824f24c3de4": {
-        "title": "4倍溢价无对赌，宋城演艺9.63亿“买地”能破主业困局？",
-        "link": "https://www.tmtpost.com/7783684.html",
-        "published_date": "Wed, 26 Nov 2025 20:05:00 GMT",
-        "first_seen": "2025-11-26T23:38:50.711463"
-      },
-      "efaa01e62a31212460b85587fcde3ea13c3def22330aacd1cfaff5fb39f69ecb": {
-        "title": "美的、小米，正面必有一战",
-        "link": "https://www.tmtpost.com/7783287.html",
-        "published_date": "Wed, 26 Nov 2025 19:10:00 GMT",
-        "first_seen": "2025-11-26T23:38:50.711473"
-      },
-      "7c07bbcb60b548b64749ca0595087e079f0fea728013558c2796570f1bb3e59e": {
-        "title": "闪极崩盘、大厂入局、退货率畸高：AI眼镜虚火过旺",
-        "link": "https://www.tmtpost.com/7782475.html",
-        "published_date": "Wed, 26 Nov 2025 19:08:00 GMT",
-        "first_seen": "2025-11-26T23:38:50.711483"
-      },
-      "d3482be8866b8c1f54551ac9418c01add8fd6c85bcaba4103068b488cbc37d97": {
-        "title": "打了一个夏天的胜仗，但对淘宝闪购只是刚刚开始",
-        "link": "https://www.tmtpost.com/7783318.html",
-        "published_date": "Wed, 26 Nov 2025 19:07:00 GMT",
-        "first_seen": "2025-11-26T23:38:02.380765"
-      },
-      "627851465b59540f0acfa1ebd737e3e93900a813f84ebd1f2ae3eb7b82f7f05b": {
-        "title": "电商“掼蛋局”，没有人愿意“下牌桌”",
-        "link": "https://www.tmtpost.com/7783566.html",
-        "published_date": "Wed, 26 Nov 2025 19:07:00 GMT",
-        "first_seen": "2025-11-26T23:38:02.381221"
-      },
-      "746b426f70265909bbf3ccd47138e8a9726fc53c86b3e09feb0d48192491fd75": {
-        "title": "硅光芯片，热度飙升",
-        "link": "https://www.tmtpost.com/7783580.html",
-        "published_date": "Wed, 26 Nov 2025 19:06:00 GMT",
-        "first_seen": "2025-11-26T23:38:50.711397"
-      },
-      "0a3560013180b699ab35d0c913d45155c656e3f6c506249b43661e462a683be8": {
-        "title": "酒店“剪刀门”事件反转，这届网友终于不被情绪CPU了",
-        "link": "https://www.tmtpost.com/7783552.html",
-        "published_date": "Wed, 26 Nov 2025 19:06:00 GMT",
-        "first_seen": "2025-11-26T23:38:02.382145"
-      },
-      "d9181416bcf551410a478bcb16cce21629726e745480e9d45b10470af9dad84f": {
-        "title": "AI会怎样改变教育？",
-        "link": "https://www.tmtpost.com/7783469.html",
-        "published_date": "Wed, 26 Nov 2025 18:43:00 GMT",
-        "first_seen": "2025-11-26T23:38:02.382450"
-      },
-      "70aa285cb0caae3f5c45ca388ab9ea610c22b844dfe8723f06fe218e79d135fb": {
-        "title": "行业出清，电商玩家如何穿越周期？",
-        "link": "https://www.tmtpost.com/7783398.html",
-        "published_date": "Wed, 26 Nov 2025 18:40:00 GMT",
-        "first_seen": "2025-11-26T23:38:02.382880"
-      },
-      "04e8e816e7c14995c0d8d628cb9eb0e842fb514e9733af709744a638f2c09d21": {
-        "title": "奥司他韦“失宠”，玛巴洛沙韦“上位”",
-        "link": "https://www.tmtpost.com/7783432.html",
-        "published_date": "Wed, 26 Nov 2025 18:37:00 GMT",
-        "first_seen": "2025-11-26T23:38:02.383477"
-      },
-      "141af94718ff87a4cd8c59fb2765da6263bc12a28ac9c583c47be07a19279e08": {
-        "title": "MongoDB 存储引擎解密：底层原理 + 游戏行业落地优化案例| 腾讯云数据库 DBTalk",
-        "link": "https://www.infoq.cn/video/ywfycl4BlZCFrYWEFslx?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 26 Nov 2025 19:30:00 GMT",
-        "first_seen": "2025-11-26T23:38:02.384476"
-      },
-      "9789e049d28c72d3766c8a53f98df3f4868213bfd1a930876478e35a68b8931f": {
-        "title": "破解游戏行业高并发冲击难题：MongoDB精细化限流与无损迁移架构| 腾讯云数据库 DBTalk",
-        "link": "https://www.infoq.cn/video/BhoIfkwBQupMgZAtvNe1?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 26 Nov 2025 19:22:00 GMT",
-        "first_seen": "2025-11-26T23:38:02.385444"
-      },
-      "496271fe353f1cdbf1f80112e2b9334242c64ef3f3d442faaacaf8495c82b804": {
-        "title": "赋能游戏回档极致体验：揭秘腾讯 MongoDB 按 Key 闪回技术| 腾讯云数据库 DBTalk",
-        "link": "https://www.infoq.cn/video/JUlGJ2xUwqFw10f6iFVT?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 26 Nov 2025 19:22:00 GMT",
-        "first_seen": "2025-11-26T23:38:50.711352"
-      },
-      "f0495261196e6a3d98662138e79c1897cd3727c2db5b2f59368658f4c23c14fe": {
-        "title": "SRE 智能体在金融核心系统的落地实践：DeepFlow 智能体的设计与思考｜AICon北京",
-        "link": "https://www.infoq.cn/article/UzcwdRCj18QJOy7tYiVP?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 26 Nov 2025 17:42:00 GMT",
-        "first_seen": "2025-11-26T23:38:50.711383"
-      },
-      "7f53c2af09454ab2f8255a8cffbe07fd7c808bff5867fc114d128d3208408e52": {
-        "title": "用AI“打开”金融市场黑盒：微软亚洲研究院如何构建订单级仿真引擎",
-        "link": "https://www.infoq.cn/article/jmBjtwx3Iul4yjUorsqI?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 26 Nov 2025 17:42:00 GMT",
-        "first_seen": "2025-11-26T23:38:02.388950"
-      },
-      "3765ec4082cc17791556b731d31361517c493017618fbe2db246fde3baf31f51": {
-        "title": "英伟达Run:ai没做到的，被华为开源方案实现了",
-        "link": "https://www.infoq.cn/article/cIWZrKz0iYlrXNFpm9GI?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 26 Nov 2025 16:41:00 GMT",
-        "first_seen": "2025-11-26T23:38:02.389877"
-      },
-      "2d5bf0ad096b9f07effeed393febc1fd295dd2f1cd3376de3b83e1693ac12703": {
-        "title": "万卡时代，企业需要怎样的算力集群？",
-        "link": "https://www.infoq.cn/article/A7JsMo6EXZJqGbB2xQl2?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 26 Nov 2025 11:04:00 GMT",
-        "first_seen": "2025-11-26T23:38:02.390610"
-      },
-      "4fa8c9ebb5603be19227c97dac179e96f70954d1951a95b89ad327519c333126": {
-        "title": "为什么华为的硬件工程师，可能是最幸福的人？",
-        "link": "http://www.geekpark.net/news/356904",
-        "published_date": "Wed, 26 Nov 2025 17:23:00 GMT",
-        "first_seen": "2025-11-26T23:38:02.391461"
-      },
-      "297a831e9f210e37242f6cecfa644041827a995b5a61e752afeab8bcc3067621": {
-        "title": "「捡垃圾」搭建远程文件服务器，顺便聊聊飞牛付费穿透",
-        "link": "https://sspai.com/post/104007",
-        "published_date": "Wed, 26 Nov 2025 17:22:00 GMT",
-        "first_seen": "2025-11-26T23:38:02.392509"
-      },
-      "de3152aaafd057444a0cc134fac5ba0d693b62a52232666dfa31b2eb3a309999": {
-        "title": "抢到票的各位，看看你们将要面临什么！",
-        "link": "http://www.geekpark.net/news/356960",
-        "published_date": "Wed, 26 Nov 2025 16:44:00 GMT",
-        "first_seen": "2025-11-26T23:38:02.393373"
-      },
       "6f56b67c9e8f57c75640acc75cbebea4e6b6830e6daddd179095a6770cdba994": {
         "title": "智象未来联合创始人姚霆博士确认出席AICon北京站，分享多模态大模型驱动的内容创作范式革命",
         "link": "https://www.infoq.cn/article/l7pKMXBaRBOANjIttQQN?utm_source=rss&utm_medium=article",
@@ -13808,13 +13634,109 @@
         "link": "https://sspai.com/post/104890",
         "published_date": "Fri, 26 Dec 2025 15:40:00 GMT",
         "first_seen": "2025-12-26T23:23:43.548950"
+      },
+      "f6e5148974413a23c60aa6e0a2b779db16b4add302aad91e9c3822c964686bfc": {
+        "title": "无遥控机器狗走进生活，消费级具身智能时代来了？",
+        "link": "https://www.tmtpost.com/7822826.html",
+        "published_date": "Sat, 27 Dec 2025 11:08:00 GMT",
+        "first_seen": "2025-12-27T05:27:07.859621"
+      },
+      "941c37ede6c38d1d8136f19d7704908b33bd05a641a002ad2235765d708bb83a": {
+        "title": "第三次小火锅消费潮：既要吃饱，更要吃好",
+        "link": "https://www.tmtpost.com/7822820.html",
+        "published_date": "Sat, 27 Dec 2025 11:07:00 GMT",
+        "first_seen": "2025-12-27T05:27:07.859632"
+      },
+      "1add2e2fa0c06d90a04286470c7275b626f2d9b1e24988037c1b4d367ab3be3a": {
+        "title": "重磅！以岭药业荣膺全球化先锋企业",
+        "link": "https://www.tmtpost.com/7822855.html",
+        "published_date": "Sat, 27 Dec 2025 10:58:00 GMT",
+        "first_seen": "2025-12-27T05:27:07.859643"
+      },
+      "c0220d449528b0570c7ee84b83d129e044c161be4976366b897ea98f30091609": {
+        "title": "死磕“冰冷”赛道15年，野人先生接棒星巴克成为新“多巴胺放大器” | 穿越周期的消费品",
+        "link": "https://www.tmtpost.com/7822865.html",
+        "published_date": "Sat, 27 Dec 2025 10:33:00 GMT",
+        "first_seen": "2025-12-27T05:27:07.859657"
+      },
+      "61d797fe71c8f952c888dbc2f4c42a1002e3f53a1cca4eafecfaf59d1778623e": {
+        "title": "科沃斯“闪击”石头科技，反转成“乌龙大案”",
+        "link": "https://www.tmtpost.com/7822604.html",
+        "published_date": "Sat, 27 Dec 2025 09:49:00 GMT",
+        "first_seen": "2025-12-27T05:27:07.859577"
+      },
+      "42c6aef7fcd8a9f5ba5a6d0927bd433b9be7eddf5713c77228481c42d037cca0": {
+        "title": "能“拯救”英特尔的不是英伟达，而是台积电",
+        "link": "https://www.tmtpost.com/7822595.html",
+        "published_date": "Sat, 27 Dec 2025 09:49:00 GMT",
+        "first_seen": "2025-12-27T05:27:07.859668"
+      },
+      "55546957be8196cb33d883078ed77fac7ec49b582e7b5c421963a8544c145424": {
+        "title": "上市两月，八马茶业狠狠摔了一跤",
+        "link": "https://www.tmtpost.com/7822582.html",
+        "published_date": "Sat, 27 Dec 2025 09:42:00 GMT",
+        "first_seen": "2025-12-27T05:27:07.859678"
+      },
+      "722ae0acb6ce42c57e229e7e53274fde6d26c6eb6e0516a864e9ed87db93b694": {
+        "title": "再造\"流程再造\"",
+        "link": "https://www.tmtpost.com/7822741.html",
+        "published_date": "Sat, 27 Dec 2025 09:38:00 GMT",
+        "first_seen": "2025-12-27T05:26:58.622539"
+      },
+      "c9fa201542fbfec8f9e42b87bcd556ffaca2c4ad7a85cb88f5005d0ed6ab4737": {
+        "title": "实探万果园超市：周口“超市王”成为胖东来“门徒”，商品力难题待解",
+        "link": "https://www.tmtpost.com/7822700.html",
+        "published_date": "Sat, 27 Dec 2025 09:31:00 GMT",
+        "first_seen": "2025-12-27T05:27:07.859690"
+      },
+      "d3bc471064db2d955c211ec66fa7849c1d54ff3ed5089e48a2331eb0d6dec465": {
+        "title": "人民币破7，但“6时代”真的那么容易吗？",
+        "link": "https://www.tmtpost.com/7822783.html",
+        "published_date": "Sat, 27 Dec 2025 09:15:00 GMT",
+        "first_seen": "2025-12-27T05:27:07.859701"
+      },
+      "4e7e60b6dafd6dcb8b0fccfff2b6fbc4d748c0a9c541f907bf6daa573e1bbae6": {
+        "title": "顺丰、京东、美团打响“天空之战”，无人机重塑物流",
+        "link": "https://www.tmtpost.com/7822523.html",
+        "published_date": "Sat, 27 Dec 2025 08:54:00 GMT",
+        "first_seen": "2025-12-27T05:26:58.624056"
+      },
+      "fee02a83b9daf7794238dd942fa2dec225677ca96096f84742fa9f81e9b89983": {
+        "title": "电芯质量引纠纷，欣旺达动力被吉利子公司索赔23亿",
+        "link": "https://www.tmtpost.com/7822675.html",
+        "published_date": "Sat, 27 Dec 2025 08:52:00 GMT",
+        "first_seen": "2025-12-27T05:26:58.624480"
+      },
+      "1d8b79e2ec1bbc1bf0971b9ab5308fe8d523050637cfd6987706db6ef98e60a1": {
+        "title": "五年半亏55亿，500亿机器人巨头欲A股落子",
+        "link": "https://www.tmtpost.com/7822617.html",
+        "published_date": "Sat, 27 Dec 2025 08:41:00 GMT",
+        "first_seen": "2025-12-27T05:26:58.624969"
+      },
+      "6edf7c26b00e5067b16a0038d4062d899bc4a2cb6dedb8dfffced0fd7b5098f7": {
+        "title": "反内卷不能只靠自律，还要靠法律，这场会议给出清晰信号",
+        "link": "https://www.tmtpost.com/7822472.html",
+        "published_date": "Sat, 27 Dec 2025 08:40:00 GMT",
+        "first_seen": "2025-12-27T05:26:58.625536"
+      },
+      "8bce767434cc90c5513ce998a3c78e9399f1a60f2e048284db3497ba4dbe5969": {
+        "title": "用完刚开源的MiniMax，我们决定给它发个工牌",
+        "link": "https://www.infoq.cn/article/6wcUOQyS72vW5bKOVMar?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 27 Dec 2025 10:00:00 GMT",
+        "first_seen": "2025-12-27T05:26:58.626086"
+      },
+      "0dbb98e291e01ebb579ea2bb85917192de4f7306b607a86a64c4a7f1a94eae7d": {
+        "title": "亚马逊云科技推出 ECS Express 模式，让容器化应用部署更简单",
+        "link": "https://www.infoq.cn/article/w4MIKR6Q1AjojM32gKSg?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 27 Dec 2025 08:00:00 GMT",
+        "first_seen": "2025-12-27T05:27:07.859605"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-12-26T23:23:43.449196",
-    "Technology": "2025-12-26T23:23:52.903826",
-    "Finance": "2025-12-26T23:23:43.323390"
+    "AI": "2025-12-27T05:26:58.558372",
+    "Technology": "2025-12-27T05:27:07.875614",
+    "Finance": "2025-12-27T05:26:58.443346"
   }
 }
