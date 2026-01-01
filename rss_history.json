@@ -1,54 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "47629f676e5e2721cb2152f9ccc4b4462c740f0557550489f068cdcf9285df01": {
-        "title": "13岁靠「氛围编程」创业，见奥特曼、拜访a16z，他的暑假把成年人卷哭",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-01-16",
-        "published_date": "Mon, 01 Dec 2025 17:54:00 GMT",
-        "first_seen": "2025-12-01T23:34:58.260714"
-      },
-      "34f00a5e17eae4115fbcec6e0a88f0b759dd72c8ecb37b6c8089c0b9db589574": {
-        "title": "AAAI 2026 | 首个抗端到端攻击的大模型加密指纹 / 水印方案",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-01-15",
-        "published_date": "Mon, 01 Dec 2025 17:47:00 GMT",
-        "first_seen": "2025-12-01T23:34:58.260906"
-      },
-      "c5fa6467a67f31e107f398cefa33a5992b406dbba2c9cfeed1a9c85a0c4907dd": {
-        "title": "陈天桥最新撰文：管理学的黄昏与智能的黎明——重写企业的生物学基因",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-01-14",
-        "published_date": "Mon, 01 Dec 2025 17:01:00 GMT",
-        "first_seen": "2025-12-01T23:34:58.261123"
-      },
-      "ca002972a1fcd2fd071911aa7f2f520b5574ab75997b5acc421ab19be638e200": {
-        "title": "无自研手机计划，豆包发布手机助手技术预览版",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-01-17",
-        "published_date": "Mon, 01 Dec 2025 11:06:00 GMT",
-        "first_seen": "2025-12-01T23:34:58.261292"
-      },
-      "67189817ed81a30eb69a348dd318c39d8d99d4502d8c4f6da0753b7ba5627637": {
-        "title": "字节“豆包手机”刚开卖，吉利系进展也曝光了：首月速成200人团队，挖遍华为小米荣耀",
-        "link": "https://www.qbitai.com/2025/12/357919.html",
-        "published_date": "Mon, 01 Dec 2025 14:14:00 GMT",
-        "first_seen": "2025-12-01T23:34:58.261643"
-      },
-      "b7b6f9be14cfba6a06ef86718df453154bb66afeb6dbe52ca44896b76ecce62a": {
-        "title": "DeepSeek-V3.2系列开源，性能直接对标Gemini-3.0-Pro",
-        "link": "https://www.qbitai.com/2025/12/357904.html",
-        "published_date": "Mon, 01 Dec 2025 14:03:00 GMT",
-        "first_seen": "2025-12-01T23:34:58.262085"
-      },
-      "c34532a8fc92b787a3542b1c6df7fcec5c2b1123bc616437ff8e7e9bebb4be9a": {
-        "title": "免费国产Banana真香！我想把PS给卸载了",
-        "link": "https://www.qbitai.com/2025/12/357861.html",
-        "published_date": "Mon, 01 Dec 2025 10:15:00 GMT",
-        "first_seen": "2025-12-01T23:34:58.262403"
-      },
-      "a675c12ffa0ca6c0ee8e6741eb2e22fbdb7030fda937db6693d3f08bf62a4ef7": {
-        "title": "deepseek当选网易有道词典2025年度词汇，全年搜索量超867万次",
-        "link": "https://www.qbitai.com/2025/12/357854.html",
-        "published_date": "Mon, 01 Dec 2025 09:22:00 GMT",
-        "first_seen": "2025-12-01T23:34:58.262790"
-      },
       "c4322fee76fc0430d727c73711e4aca879adaf57bfe7e56aaa6c231cf600ed5d": {
         "title": "做难而正确的AI Infra创新——专访国产大模型推理引擎xLLM社区负责人刘童璇",
         "link": "https://www.jiqizhixin.com/articles/2025-12-02-3",
@@ -2886,141 +2838,15 @@
         "link": "https://www.qbitai.com/2025/12/366334.html",
         "published_date": "Wed, 31 Dec 2025 08:38:00 GMT",
         "first_seen": "2025-12-31T23:24:31.868567"
+      },
+      "05008269b60d568363845a9adc5123ba44a2fc7e637d958c05e89ce2c94c0f9b": {
+        "title": "豆包一声声“OK”把罗永浩搞破防，不就是大型现场直播版图灵测试",
+        "link": "https://www.qbitai.com/2026/01/366364.html",
+        "published_date": "Thu, 01 Jan 2026 02:27:00 GMT",
+        "first_seen": "2026-01-01T05:32:14.342387"
       }
     },
     "Technology": {
-      "6954d66f9d7c3afa1ed65e749a9d53d2fcc2f6157531ae3e38d643485f1ef32c": {
-        "title": "【钛晨报】事关基础设施领域不动产投资信托基金，国家发改委发文；新能源汽车11月交付情况速览：9家交付量超3万，4家同比增超50%；DeepSeek宣布同时发布两个正式版模型",
-        "link": "https://www.tmtpost.com/7790305.html",
-        "published_date": "Tue, 02 Dec 2025 07:20:00 GMT",
-        "first_seen": "2025-12-01T23:35:46.605860"
-      },
-      "580600ef4f6f2781139002d22a95508f6ebe180031515d21d9fd9462703516e3": {
-        "title": "ByteDance Joins Hands with ZTE to Integrate Doubao AI Agent into Smartphones",
-        "link": "https://www.tmtpost.com/7790511.html",
-        "published_date": "Tue, 02 Dec 2025 00:36:00 GMT",
-        "first_seen": "2025-12-01T23:35:46.605919"
-      },
-      "e382495092e10eedbf29aae6dda871b14d12e05cf9b633c3b244d81dfc47546c": {
-        "title": "陈天桥最新撰文：管理学的黄昏与智能的黎明——重写企业的生物学基因",
-        "link": "https://www.tmtpost.com/7790438.html",
-        "published_date": "Mon, 01 Dec 2025 23:13:00 GMT",
-        "first_seen": "2025-12-01T23:35:46.605931"
-      },
-      "e8b5a8efe919e01f2939ce6518cca684d29214e5f8a91dba6971be57fc0f6939": {
-        "title": "DeepSeek发布最强开源新品，瞄向全能Agent，给GPT-5与Gemini 3下战书",
-        "link": "https://www.tmtpost.com/7790339.html",
-        "published_date": "Mon, 01 Dec 2025 22:50:00 GMT",
-        "first_seen": "2025-12-01T23:35:46.605891"
-      },
-      "16565a164f9c2e856411c92abf5eb30936a705f7d07f90eea270f251b61020da": {
-        "title": "诺奖得主萨金特港大最新演讲：AI的突破本质上是经济学的数百年进化（万字实录）",
-        "link": "https://www.tmtpost.com/7788265.html",
-        "published_date": "Mon, 01 Dec 2025 22:28:00 GMT",
-        "first_seen": "2025-12-01T23:35:46.605906"
-      },
-      "263d419b24ef317a8bdbcaf0c052c25a025de826f5aa7116f95d266ffd535c80": {
-        "title": "蛰伏后的爆发：思灵机器人从工业场景迈向物理AI",
-        "link": "https://www.tmtpost.com/7789629.html",
-        "published_date": "Mon, 01 Dec 2025 21:09:00 GMT",
-        "first_seen": "2025-12-01T23:35:46.605942"
-      },
-      "45a5079993bb9af49e76f973752b65184bfab553ffb35445e02a55c5a591c84a": {
-        "title": "20亿加码子公司、国资陆续离场，沃森生物弃权票背后的周期挑战与战略权衡丨并购一线",
-        "link": "https://www.tmtpost.com/7790200.html",
-        "published_date": "Mon, 01 Dec 2025 20:45:00 GMT",
-        "first_seen": "2025-12-01T23:35:46.605953"
-      },
-      "063b1ed2226343838612d8b82642a3e4a1f5514daf0b413816ad63b713fd10bd": {
-        "title": "碳化硅的真需求",
-        "link": "https://www.tmtpost.com/7790012.html",
-        "published_date": "Mon, 01 Dec 2025 19:14:00 GMT",
-        "first_seen": "2025-12-01T23:34:58.325144"
-      },
-      "524731ece0617cfe74adffb2da9f1cc1e939c3c32f52d4774467d8aa35120431": {
-        "title": "外卖大战，必定会打下半场",
-        "link": "https://www.tmtpost.com/7788805.html",
-        "published_date": "Mon, 01 Dec 2025 19:13:00 GMT",
-        "first_seen": "2025-12-01T23:35:46.605963"
-      },
-      "8766b069a05bb9956b1434547bedbc02d8d11a15c139ea18477b8d80016cc3fe": {
-        "title": "2025年搜索大战，为何没有输家",
-        "link": "https://www.tmtpost.com/7789870.html",
-        "published_date": "Mon, 01 Dec 2025 19:13:00 GMT",
-        "first_seen": "2025-12-01T23:35:46.605972"
-      },
-      "cc1cf138c949cb112d139024aa00bed39195c5604b172a8bd1e57a72b031198c": {
-        "title": "ChatGPT三周年，那个“对话模型”如何重构我们的世界",
-        "link": "https://www.tmtpost.com/7789954.html",
-        "published_date": "Mon, 01 Dec 2025 19:13:00 GMT",
-        "first_seen": "2025-12-01T23:35:46.606032"
-      },
-      "55a0da7c6fbd5765a07315c4071ce5f0dc43c54bfb56fbe410b170d18da98f74": {
-        "title": "大疆与前员工们的无限战争",
-        "link": "https://www.tmtpost.com/7789298.html",
-        "published_date": "Mon, 01 Dec 2025 18:34:00 GMT",
-        "first_seen": "2025-12-01T23:34:58.326762"
-      },
-      "c4dd90d5657ffda2169f27006908f5b0a3453184289b7b9331f5fcce7a21f49c": {
-        "title": "土味营销的跑马圈地接近结束",
-        "link": "https://www.tmtpost.com/7789559.html",
-        "published_date": "Mon, 01 Dec 2025 18:34:00 GMT",
-        "first_seen": "2025-12-01T23:34:58.327125"
-      },
-      "ee6dc04d6b0d43ea0d94b63d58f71afa248a77f038e753274e595c10ec96c0b7": {
-        "title": "机器人泡沫大讨论：揭秘“虚火”下的真实逻辑",
-        "link": "https://www.tmtpost.com/7789549.html",
-        "published_date": "Mon, 01 Dec 2025 18:19:00 GMT",
-        "first_seen": "2025-12-01T23:34:58.327773"
-      },
-      "ba57517ca3edba68a09040969fab0e2a5e969aa61a528a708619db8f695e5b48": {
-        "title": "在华与华上过班的人，会不会也嘲笑华杉？",
-        "link": "https://www.tmtpost.com/7789825.html",
-        "published_date": "Mon, 01 Dec 2025 17:52:00 GMT",
-        "first_seen": "2025-12-01T23:34:58.328360"
-      },
-      "4a43bafbe4903fb06ce5fb0720f74871ab8fdad9e48e87257cbc4ba8a6d02b73": {
-        "title": "ChatGPT三周岁了，什么最让你意外？",
-        "link": "https://www.tmtpost.com/7789645.html",
-        "published_date": "Mon, 01 Dec 2025 17:45:00 GMT",
-        "first_seen": "2025-12-01T23:34:58.328916"
-      },
-      "d8e95e87711f7511a3e4227046b2f49da04c3c7a7eb6e960c7b68f778f764592": {
-        "title": "全球首富马斯克最新访谈：未来15年内，人类不再因为钱而工作，而是因为爱好",
-        "link": "https://www.infoq.cn/article/Y4LaHVls6NHaedaoi2fw?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 01 Dec 2025 19:00:00 GMT",
-        "first_seen": "2025-12-01T23:34:58.329860"
-      },
-      "383d89607a561546202ad83b74d74ae774355ae52e96b096c9a9c96d55ca073c": {
-        "title": "Evalite 横空出世：AI 驱动应用的 TypeScript 测试利器",
-        "link": "https://www.infoq.cn/article/7UpXOLT5ZBpiLahsZauh?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 01 Dec 2025 17:00:00 GMT",
-        "first_seen": "2025-12-01T23:34:58.330913"
-      },
-      "04fbe026912aa55de8c0ff31717a60668cf71ca8e786bded6bce391bbe693e2a": {
-        "title": "首销备货 3 万台，豆包 AI 手机要卖给谁？",
-        "link": "http://www.geekpark.net/news/357510",
-        "published_date": "Mon, 01 Dec 2025 18:13:00 GMT",
-        "first_seen": "2025-12-01T23:34:58.331747"
-      },
-      "83996c8ec8146e36961513e22e918ce0c892a572de1d13bf481e652ab271c74e": {
-        "title": "一码难求的动画 Agent 导演，离「疯狂动物城」还有多远？｜AI 上新",
-        "link": "http://www.geekpark.net/news/357509",
-        "published_date": "Mon, 01 Dec 2025 18:11:00 GMT",
-        "first_seen": "2025-12-01T23:34:58.332883"
-      },
-      "9a9c73251ae609ac02c9abba567388ec20f4d3385507a58e380f0eae6ff42e48": {
-        "title": "派评 | 近期值得关注的 App",
-        "link": "https://sspai.com/post/104216",
-        "published_date": "Mon, 01 Dec 2025 18:05:00 GMT",
-        "first_seen": "2025-12-01T23:34:58.333677"
-      },
-      "9cffb28004b3f6e4d4d28abe0802d28da95d3fae45f5bc833cc0f23648d30aa9": {
-        "title": "七星山荒野求生火了，这类节目未来会走向何方？",
-        "link": "http://www.huxiu.com/article/4811054.html?f=wangzhan",
-        "published_date": "Mon, 01 Dec 2025 18:00:00 GMT",
-        "first_seen": "2025-12-01T23:34:58.334493"
-      },
       "50193f5ca2d7687a5b859a975881824add4a91fec99182ba4b367f09856465ee": {
         "title": "自主行动，开启 AI 进化新篇章",
         "link": "https://www.tmtpost.com/7791454.html",
@@ -13580,13 +13406,109 @@
         "link": "http://www.huxiu.com/article/4822257.html?f=wangzhan",
         "published_date": "Wed, 31 Dec 2025 09:47:00 GMT",
         "first_seen": "2025-12-31T23:24:31.968351"
+      },
+      "86589630e1cdbcdfcb2aac32515e4aa1cfead72cfea7939f83e3ea21f83a63e4": {
+        "title": "自动驾驶出租车和本垒打？2026年40只被忽视的低价潜力股",
+        "link": "https://www.tmtpost.com/7828815.html",
+        "published_date": "Thu, 01 Jan 2026 12:19:00 GMT",
+        "first_seen": "2026-01-01T05:32:23.759741"
+      },
+      "05dc61f0dbf8565839ee8b7d844d36783019f8677f78ef9c9b270f06a933489e": {
+        "title": "2025年，凯茜·伍德的方舟基金业绩大幅跑赢大盘，她现在在买什么？",
+        "link": "https://www.tmtpost.com/7828811.html",
+        "published_date": "Thu, 01 Jan 2026 12:17:00 GMT",
+        "first_seen": "2026-01-01T05:32:23.759755"
+      },
+      "ebcf836a6a50a39c4289661d1c2757b414aa8aadc8e2bad0ab301fe48c1c09f6": {
+        "title": "REIT板块有望在2026年反弹，这三只股票现在可以考虑买入",
+        "link": "https://www.tmtpost.com/7828808.html",
+        "published_date": "Thu, 01 Jan 2026 12:16:00 GMT",
+        "first_seen": "2026-01-01T05:32:23.759767"
+      },
+      "d9db33ca955d3d5e2d023c618326080f57139c81d66e72da7026ff1406cdd3ef": {
+        "title": "争议中登顶，《燕云十六声》周年庆的冰与火",
+        "link": "https://www.tmtpost.com/7828618.html",
+        "published_date": "Thu, 01 Jan 2026 12:02:00 GMT",
+        "first_seen": "2026-01-01T05:32:23.759777"
+      },
+      "1bc79eb9e690f25b8ead24f0f6951878ac99340d0feb018aefeeaec373f59927": {
+        "title": "罗永浩“老矣”，“科技春晚”会成为绝唱吗？",
+        "link": "https://www.tmtpost.com/7828583.html",
+        "published_date": "Thu, 01 Jan 2026 10:31:00 GMT",
+        "first_seen": "2026-01-01T05:32:23.759695"
+      },
+      "dbf72b8bd6b39f49e33d42043d684c7b4746884bd60e86f44157960dac85f30f": {
+        "title": "为什么2026年值得投资石油股票",
+        "link": "https://www.tmtpost.com/7828719.html",
+        "published_date": "Thu, 01 Jan 2026 10:17:00 GMT",
+        "first_seen": "2026-01-01T05:32:23.759787"
+      },
+      "316838392492291b508493125bcd0aaea2e3b901fba35e4d36ca44049eaa6d6c": {
+        "title": "AI创业公司的2025：一半是海水，一半是火焰",
+        "link": "https://www.tmtpost.com/7828472.html",
+        "published_date": "Thu, 01 Jan 2026 10:00:00 GMT",
+        "first_seen": "2026-01-01T05:32:23.759798"
+      },
+      "a3bf84121b5755f8ff61e73dc642dcd64d2c18ac2c521f03db1fd7905a959798": {
+        "title": "赵何娟：2026，增长变得更难，我们怎么办？｜钛媒体新年献词",
+        "link": "https://www.tmtpost.com/7828591.html",
+        "published_date": "Thu, 01 Jan 2026 09:49:00 GMT",
+        "first_seen": "2026-01-01T05:32:23.759809"
+      },
+      "600fb92e2788afc045e2b4b0460d69baff7b0309b55bad18e3acc45616c22bf8": {
+        "title": "华尔街最激进的科技多头，2026年押注人工智能的五只最佳股票",
+        "link": "https://www.tmtpost.com/7828684.html",
+        "published_date": "Thu, 01 Jan 2026 09:39:00 GMT",
+        "first_seen": "2026-01-01T05:32:23.759725"
+      },
+      "4f321b12ddf7cdad2cd6a3185503846fb4a8cbd48625850bf2675e1df5860585": {
+        "title": "道琼斯“狗股”今年表现强劲，以下是2026年的10只成分股",
+        "link": "https://www.tmtpost.com/7828680.html",
+        "published_date": "Thu, 01 Jan 2026 09:37:00 GMT",
+        "first_seen": "2026-01-01T05:32:23.759821"
+      },
+      "4eb988832bbbe79ee240e012316d2f054e36cd33377788d411258e59936389cd": {
+        "title": "华尔街认为2026年可能迎来反转的三只食品与饮料股票",
+        "link": "https://www.tmtpost.com/7828676.html",
+        "published_date": "Thu, 01 Jan 2026 09:34:00 GMT",
+        "first_seen": "2026-01-01T05:32:14.431621"
+      },
+      "1deca91943a4b6850b3b4c70a866aa340a7ab3bc184fe7a332505a8632fc91c9": {
+        "title": "长视频与短视频的2025",
+        "link": "https://www.tmtpost.com/7828453.html",
+        "published_date": "Thu, 01 Jan 2026 09:31:00 GMT",
+        "first_seen": "2026-01-01T05:32:14.431959"
+      },
+      "6da2eec9dfa7319de6c1b4cff12784b91a933be898736a014cb2b98e1a353f8d": {
+        "title": "90后AI创业者，拿到Meta数十亿美元“聘礼”",
+        "link": "https://www.tmtpost.com/7828576.html",
+        "published_date": "Thu, 01 Jan 2026 09:00:00 GMT",
+        "first_seen": "2026-01-01T05:32:14.432507"
+      },
+      "6c680f5d0c6c95d9a19c75ca21d50bc50675d4bccc09cb5e98bcebb41fc90b16": {
+        "title": "车圈2025：价格战没赢家，但淘汰赛已有出局者",
+        "link": "https://www.tmtpost.com/7828479.html",
+        "published_date": "Thu, 01 Jan 2026 08:31:00 GMT",
+        "first_seen": "2026-01-01T05:32:14.433083"
+      },
+      "1ba0809a6970fcb4c5b068f325643113503effdc0e82c0e3b90c6aa4490a251d": {
+        "title": "MinIO GitHub存储库的维护模式：开源对象存储的下一步是什么？",
+        "link": "https://www.infoq.cn/article/qLhD8ri5LGP3myGbz8dW?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 01 Jan 2026 10:00:00 GMT",
+        "first_seen": "2026-01-01T05:32:14.433849"
+      },
+      "65d4b80267340b994cfde3bba42067e91ab05f4d2bf88a439f5b1a03988046e8": {
+        "title": "CNCF 推出 Kubernetes AI 一致性认证计划，旨在标准化工作负载",
+        "link": "https://www.infoq.cn/article/DH2lkgylfWlybKZ7RUD5?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 01 Jan 2026 10:00:00 GMT",
+        "first_seen": "2026-01-01T05:32:14.434733"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2025-12-31T23:24:31.887615",
-    "Technology": "2025-12-31T23:24:41.292683",
-    "Finance": "2025-12-31T23:24:31.757619"
+    "AI": "2026-01-01T05:32:14.362330",
+    "Technology": "2026-01-01T05:32:23.763369",
+    "Finance": "2026-01-01T05:32:14.235539"
   }
 }
