@@ -1,42 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "693778a7cde60d59125f565c003c4dedc859a00c85a29ee1922e989a219981c3": {
-        "title": "刚刚，英伟达CUDA迎来史上最大更新！",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-06-5",
-        "published_date": "Sat, 06 Dec 2025 20:40:00 GMT",
-        "first_seen": "2025-12-06T23:32:37.990555"
-      },
-      "335f846ce78843e3f5b84d4f9d3daa6af0464983f78265ff2e83892fc5e2439f": {
-        "title": "Yann LeCun离开Meta后首篇论文？使用了宇树机器人做研究",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-06-4",
-        "published_date": "Sat, 06 Dec 2025 20:23:00 GMT",
-        "first_seen": "2025-12-06T23:32:37.990732"
-      },
-      "7821c0fe08b46801c381587c9af6225323a0c5b5c3f6974ac7b4a5a162d356cd": {
-        "title": "AAAI 2026｜新突破：北大彭宇新团队提出可见光-红外终身行人重识别方法CKDA",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-06-3",
-        "published_date": "Sat, 06 Dec 2025 20:19:00 GMT",
-        "first_seen": "2025-12-06T23:32:37.990984"
-      },
-      "81b283a558641a000681aec4684514cc8c58899ad336b9c7eec9063308cfd7f7": {
-        "title": "IJCAI 2026每篇投稿收100美元，学术圈却评价颇高",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-06-2",
-        "published_date": "Sat, 06 Dec 2025 20:04:00 GMT",
-        "first_seen": "2025-12-06T23:32:37.991200"
-      },
-      "2caa79acb8cac7e0eea100d280353b967aa28629335358689979f309ae8e3326": {
-        "title": "AAAI 2026 | 北航、东京大学填补AI「语义鸿沟」，过程感知视频理解如何找到「状态」锚点？",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-06",
-        "published_date": "Sat, 06 Dec 2025 20:00:00 GMT",
-        "first_seen": "2025-12-06T23:32:37.991573"
-      },
-      "e12f1e33c57f2b0935fbe4993b9a2efdced6858c32ce9a9360515e5d30277a65": {
-        "title": "Ilya刚预言完，世界首个原生多模态架构NEO就来了：视觉和语言彻底被焊死",
-        "link": "https://www.qbitai.com/2025/12/359437.html",
-        "published_date": "Sat, 06 Dec 2025 13:36:00 GMT",
-        "first_seen": "2025-12-06T23:32:37.991975"
-      },
       "d6f7d275e401f303e619820884b6bffa25806a0ded3a5a0cb58aa9218303632d": {
         "title": "LLM强化学习不稳定之谜，被Qwen团队从「一阶近似」视角解开",
         "link": "https://www.jiqizhixin.com/articles/2025-12-07-5",
@@ -2598,63 +2562,33 @@
         "link": "https://www.qbitai.com/2026/01/366593.html",
         "published_date": "Mon, 05 Jan 2026 11:34:00 GMT",
         "first_seen": "2026-01-05T23:25:07.197738"
+      },
+      "a61cc7ec5cac088d90ec66a85c69003cd746ae0faafc0cbadad3f640f8ec8aba": {
+        "title": "当蛋白质组数据走向大规模计算，Frag’n’Flow给出组学流程的部署与扩展问题的解决方案",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-06-3",
+        "published_date": "Tue, 06 Jan 2026 11:57:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.310145"
+      },
+      "cff4efbb52fa72228956136cd8f3d15b313c2a41beeedef39334d94200b76aae": {
+        "title": "黄仁勋CES放出大杀器：下一代Rubin架构推理成本降10倍",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-06-2",
+        "published_date": "Tue, 06 Jan 2026 10:29:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.310312"
+      },
+      "d91eec37d7f1d4243407891a8012aa622ceb224492a8675dc3b3d82ceaf0f2c5": {
+        "title": "检索做大，生成做轻：CMU团队系统评测RAG的语料与模型权衡",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-06",
+        "published_date": "Tue, 06 Jan 2026 10:21:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.310522"
+      },
+      "22f6ed3866120ea0a1b3ce53d46277ad750fa02a203bb9cbb68971d7f029b927": {
+        "title": "老黄All in物理AI！最新GPU性能5倍提升，还砸掉了智驾门槛",
+        "link": "https://www.qbitai.com/2026/01/366596.html",
+        "published_date": "Tue, 06 Jan 2026 01:09:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.310752"
       }
     },
     "Technology": {
-      "7c70b8f68469508908ae2a0fe618a03ee29e57bf5a07fb85492494de765ca0f8": {
-        "title": "人工智能概念股是对未来的押注，市场却忽视了当下的现实",
-        "link": "https://www.tmtpost.com/7799457.html",
-        "published_date": "Sat, 06 Dec 2025 21:48:00 GMT",
-        "first_seen": "2025-12-06T23:32:38.049189"
-      },
-      "7162c65d4aa85983c629316c9fd5959e5226a1d8c53229f62362e16fb748d3db": {
-        "title": "Weyerhaeuser股价低于其木材资产价值，现在是买入的好时机",
-        "link": "https://www.tmtpost.com/7799456.html",
-        "published_date": "Sat, 06 Dec 2025 21:48:00 GMT",
-        "first_seen": "2025-12-06T23:32:38.049341"
-      },
-      "1a0e10f904e588f233049dd562e40fd48c333f634d358fb2dba9abf620a0492a": {
-        "title": "Strategy股票目标价下调59%，但评级仍为“买入”",
-        "link": "https://www.tmtpost.com/7799451.html",
-        "published_date": "Sat, 06 Dec 2025 21:47:00 GMT",
-        "first_seen": "2025-12-06T23:32:38.049534"
-      },
-      "74c0307fa7e46e4a7b465aefb1c20f3e633d154187dd66dc43d44ae235ba6eb5": {
-        "title": "摩尔线程卖的不是显卡，是A股最贵的安全门票",
-        "link": "https://www.tmtpost.com/7798826.html",
-        "published_date": "Sat, 06 Dec 2025 17:42:00 GMT",
-        "first_seen": "2025-12-06T23:32:38.049713"
-      },
-      "d0847884d31dc1f4da3775f7dab297d1eee8a99b7f09ca5f2248321a8675a9df": {
-        "title": "40+产业链CEO闭门讨论：借鉴\"特链\"成功经验，加速机器人赛道产业化｜2025 T-EDGE全球对话",
-        "link": "https://www.tmtpost.com/7798987.html",
-        "published_date": "Sat, 06 Dec 2025 17:29:00 GMT",
-        "first_seen": "2025-12-06T23:32:38.050017"
-      },
-      "09cc8128ab5c7944eaa14a8cd04fad73911016c65c4a659d20cce66a7940e0a4": {
-        "title": "日本的门阀，是怎么毁掉年轻人的？",
-        "link": "http://www.huxiu.com/article/4812681.html?f=wangzhan",
-        "published_date": "Sat, 06 Dec 2025 20:00:00 GMT",
-        "first_seen": "2025-12-06T23:32:38.050288"
-      },
-      "7a437217a8e680c97b26a30f17048eeb7177ec8d15621f3fc2c05a601ee8d11f": {
-        "title": "Cloudflare被React坑了！两周内二次“翻车”：沉睡15年的老代码一招KO全球互联网，安全升级反酿史诗级宕机",
-        "link": "https://www.infoq.cn/article/QDT3lN4YVK2lJOCfvUOo?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 06 Dec 2025 19:36:00 GMT",
-        "first_seen": "2025-12-06T23:32:38.050877"
-      },
-      "9c23da2b7964e2ffb74cbd7ba31395ead84af83b7367be08876c54203e4a4038": {
-        "title": "全球最大云厂商，将「最牛马」的工作交给了 AI Agent",
-        "link": "http://www.geekpark.net/news/357692",
-        "published_date": "Sat, 06 Dec 2025 18:24:00 GMT",
-        "first_seen": "2025-12-06T23:32:38.051275"
-      },
-      "ceca81a07f98dba96bec135bcc3bb7d6d5c0b5e49b42f21f6eaa04daf818ea68": {
-        "title": "在拉斯维加斯，我看到了体育的未来",
-        "link": "http://www.geekpark.net/news/357691",
-        "published_date": "Sat, 06 Dec 2025 18:18:00 GMT",
-        "first_seen": "2025-12-06T23:32:38.051621"
-      },
       "c7105742ddccb16e227daa75726c59216dae09c999cc561758c30e353744904a": {
         "title": "re:Invent 2025 特别企划之“五天五问”Day4 视野的合流——预告片",
         "link": "https://www.infoq.cn/video/1YWiveG6iCxAB60ZD4dS?utm_source=rss&utm_medium=article",
@@ -12248,13 +12182,211 @@
         "link": "https://sspai.com/post/105171",
         "published_date": "Mon, 05 Jan 2026 17:55:00 GMT",
         "first_seen": "2026-01-05T23:25:07.296387"
+      },
+      "2ef5c9456e84ae2d0baf2b65db492ed9313abb94fed7a238ce629a51527e04c9": {
+        "title": "分析师称，迈威尔和英特尔股票是人工智能领域的优质投资选择",
+        "link": "https://www.tmtpost.com/7832462.html",
+        "published_date": "Tue, 06 Jan 2026 13:16:00 GMT",
+        "first_seen": "2026-01-06T05:29:49.772302"
+      },
+      "42e0ab6103c6631b4fd62d989fa101899a1f98dee87e259993227b307216cdbc": {
+        "title": "Palantir股价大涨，委内瑞拉突袭行动带来的利好",
+        "link": "https://www.tmtpost.com/7832460.html",
+        "published_date": "Tue, 06 Jan 2026 13:16:00 GMT",
+        "first_seen": "2026-01-06T05:29:49.772312"
+      },
+      "26cbfe049bcde2666dd6ed56f3e0eb163bac96f4ce224d4448d1be32001daa4c": {
+        "title": "随着自动驾驶出租车竞争加剧，优步股票被下调至“卖出”评级",
+        "link": "https://www.tmtpost.com/7832456.html",
+        "published_date": "Tue, 06 Jan 2026 13:15:00 GMT",
+        "first_seen": "2026-01-06T05:29:49.772322"
+      },
+      "6b0cb4adb347a250126f5a2ad542613168e7269815b3077b2d11a26225f30fa6": {
+        "title": "高盛称台积电股票值得买入，预计今年有望上涨46%",
+        "link": "https://www.tmtpost.com/7832454.html",
+        "published_date": "Tue, 06 Jan 2026 13:15:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.400136"
+      },
+      "827bfd9277161f13f4401e0a5ec09c9768763156a7c196ab53c049e9a39b6d82": {
+        "title": "车圈下半场在复购口碑",
+        "link": "https://www.tmtpost.com/7832082.html",
+        "published_date": "Tue, 06 Jan 2026 13:14:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.400276"
+      },
+      "a1d1043a3d11d29d529564ba86218f52cfb88089bcc560c36f49dcee97e473e1": {
+        "title": "价格战杀到6元线，矿泉水价的咖啡背后藏着怎样的盈利魔法？",
+        "link": "https://www.tmtpost.com/7832203.html",
+        "published_date": "Tue, 06 Jan 2026 11:49:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.400517"
+      },
+      "670e6281a0050dc8a8837b11a12fa398d555480cc9c198959bdb8de9d2c4220b": {
+        "title": "脑机接口“炒作”，有点太超前了",
+        "link": "https://www.tmtpost.com/7832208.html",
+        "published_date": "Tue, 06 Jan 2026 11:10:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.400757"
+      },
+      "7ea176a92b31d111193d475bba47cc650e6a7692c005089c7371b96217a17891": {
+        "title": "硅基同事来了：关于机油、风沙与个体尊严",
+        "link": "https://www.tmtpost.com/7831265.html",
+        "published_date": "Tue, 06 Jan 2026 10:59:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.401036"
+      },
+      "854229d07cc8931e583732fda64f3681eed3e652c48c0926198adc74af9db621": {
+        "title": "Nvidia Unveils ‘Vera Rubin’ Platform as Next Generation of AI Computing at CES 2026",
+        "link": "https://www.tmtpost.com/7832224.html",
+        "published_date": "Tue, 06 Jan 2026 10:50:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.401691"
+      },
+      "b1e026d0c21110ab7891bc37927a34e5a9e52058019f436078f49ebd5f048e69": {
+        "title": "三家股价走势显示有望转机的全球品牌",
+        "link": "https://www.tmtpost.com/7832219.html",
+        "published_date": "Tue, 06 Jan 2026 10:46:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.402038"
+      },
+      "1562c90071a02417f6bcc2e80f188eefaa951723a78a13e0604a413aaed63d23": {
+        "title": "年度趋势：告别大单品时代",
+        "link": "https://www.tmtpost.com/7831787.html",
+        "published_date": "Tue, 06 Jan 2026 10:20:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.402361"
+      },
+      "d5066088301a4070f63d75def170f4d508526e45a01aec42abf386c80cb65477": {
+        "title": "总额超85亿元！血液净化龙头并购威高普瑞；抢狂潮再起，“砂石装备第一股”拟收购哈萨克斯坦银矿；【并购一线】",
+        "link": "https://www.tmtpost.com/7831817.html",
+        "published_date": "Tue, 06 Jan 2026 10:12:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.403123"
+      },
+      "0444c271aa86277961f8c1f5ce243493cf008a32ff0a98c27a3c042401b5ab88": {
+        "title": "2026综艺展望：止颓之后，如何劈开行业新生机？",
+        "link": "https://www.tmtpost.com/7831795.html",
+        "published_date": "Tue, 06 Jan 2026 10:00:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.403632"
+      },
+      "4b25cd4a518de93bb9a703c8b0d8080033f0ba176604f296612cf82d860e68b9": {
+        "title": "黄仁勋：Rubin提前量产，物理AI“ChatGPT时刻”已至",
+        "link": "https://www.tmtpost.com/7832067.html",
+        "published_date": "Tue, 06 Jan 2026 09:45:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.404310"
+      },
+      "fa10e034112657968e5413aefbda68f6c21610e971190daeb980bf36d40c3b6a": {
+        "title": "多邻国在2025年遭遇惨淡表现，为什么美国银行认为其股价将在2026年大幅上涨",
+        "link": "https://www.tmtpost.com/7832116.html",
+        "published_date": "Tue, 06 Jan 2026 09:43:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.405038"
+      },
+      "92f97e4f15f6a4d326c8a4e933883fa22988323f58cfa721ec0257436ae4eeb4": {
+        "title": "OpenAI今年可能会戳破AI泡沫，但这两只科技股仍有望上涨",
+        "link": "https://www.tmtpost.com/7832114.html",
+        "published_date": "Tue, 06 Jan 2026 09:43:00 GMT",
+        "first_seen": "2026-01-06T05:29:49.772225"
+      },
+      "0d052b58ccd3fbfac98aa5c20f7d5293116b333a49f6f27c1377014ffda2e66d": {
+        "title": "AT&T的股价近期表现不佳，但2026年或许会迎来转机",
+        "link": "https://www.tmtpost.com/7832112.html",
+        "published_date": "Tue, 06 Jan 2026 09:42:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.406569"
+      },
+      "3e36a19f13efe4f303039af4b123fb4cdd01bdec63b1a81c36c2043505ce986b": {
+        "title": "这只股票是伯恩斯坦在欧洲芯片领域的首选，原因在于“前所未有的人工智能需求”",
+        "link": "https://www.tmtpost.com/7832109.html",
+        "published_date": "Tue, 06 Jan 2026 09:42:00 GMT",
+        "first_seen": "2026-01-06T05:29:49.772240"
+      },
+      "ef4d72363149982a9f54a9a89f5d3b8eee3a3f3a13d3a3fc20306f51b27e8bb8": {
+        "title": "分析师称IBM股票是“加速增长的故事”，而Adobe却未能获得同样的信心票",
+        "link": "https://www.tmtpost.com/7832099.html",
+        "published_date": "Tue, 06 Jan 2026 09:40:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.408651"
+      },
+      "a618fb8a8e3a265e102e814adc558d34d723507adde8d66c516e0434255bf059": {
+        "title": "信息图的不可能三角，被这个开源项目打破了",
+        "link": "https://www.infoq.cn/article/3iErdVLkHlYkGRlM6QMC?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 12:09:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.409381"
+      },
+      "80d1a3edc27bc12db4e73ecf722bc6843be6edc95ac97264bd970bd993d8cbf9": {
+        "title": "被骂疯了！微软CEO刚甩出年终反思：“今年别说AI垃圾了”，“模型滞后”新定义遭痛批，网友：你是真脱离现实",
+        "link": "https://www.infoq.cn/article/FRfEFv8maeb6KgjDccyG?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 11:20:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.410753"
+      },
+      "ba05e29f8209bde99b4965c4ed638e6ce9db78e292c3f7ce3efa42f657370d1d": {
+        "title": "独家对话前华为天才少年李元庆：首款规模化具身智能产品中国造！多机异构是未来方向",
+        "link": "https://www.infoq.cn/article/PMNWFckRiL038RIvEz7S?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 10:58:00 GMT",
+        "first_seen": "2026-01-06T05:29:49.772253"
+      },
+      "ef3a387e3401f0bf6ca522b0d68721467ff8cccb203dc0b7eed3bd9855808e0a": {
+        "title": "软件开发人员认为无需关注却可能会影响其工作的那些事",
+        "link": "https://www.infoq.cn/article/Tk3YL2ujBedb1JGquOxS?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 10:56:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.412712"
+      },
+      "d57bcf1c50c0820272777cb004f2aeb274b94a5be568a408221254a03381bc84": {
+        "title": "“养团队造语言”时代终结？Rust传奇人物用Claude造出新开源编程语言，AI写下万行代码：大模型上限很高，我学会了高效用它！",
+        "link": "https://www.infoq.cn/article/VHFRvipFuw9YqVYLWVtQ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 10:37:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.414712"
+      },
+      "c507d598bce216647ef30d658ec7003766871600cdf6101b54cdce273fe23aaa": {
+        "title": "「OS产业报告」解读：国产操作系统的技术突围与生态跃迁之路",
+        "link": "https://www.infoq.cn/article/xfDGq6oEAUA4SXqDvJSE?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 10:33:00 GMT",
+        "first_seen": "2026-01-06T05:29:49.772196"
+      },
+      "e760e69fdb280c091297ee6acfd53ae68ba7b833b3b8c501e4f66c3aeec509b6": {
+        "title": "API平台Unkey因性能问题放弃无服务器架构",
+        "link": "https://www.infoq.cn/article/FQQDeR4upyOzyj4dSHph?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 10:07:00 GMT",
+        "first_seen": "2026-01-06T05:29:49.772264"
+      },
+      "5a46d0e5a056f09fe1b9abbaaeac6d84a88583d066a2322d8243e7601921fa07": {
+        "title": "直击 CES 2026！黄仁勋最新演讲：Rubin芯片今年上市，计算能力是Blackwell 的5倍、Cursor 彻底改变了英伟达的软件开发方式、开源模型落后于先进模型约六个月",
+        "link": "https://www.infoq.cn/article/uLtU3CGt9soQbdp55k1t?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 09:17:00 GMT",
+        "first_seen": "2026-01-06T05:29:49.772280"
+      },
+      "f370b9c32ebc3bdcf7c59e835f55ffbec773d60516c53a954da2fddb29ac12b3": {
+        "title": "微软魔改 CoT！泄露率从 36% 暴降至 7%，Agent 乱说话的毛病终于有治了",
+        "link": "https://www.infoq.cn/article/srAzDpPcFFSyUy5h8JGi?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 08:00:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.421449"
+      },
+      "5bb07a21740ed9d68d6b4923bf9f23052b0c0d72f335c6c6c2c88586322fed1d": {
+        "title": "将旧 iPad 物尽其用，我把它变成了一个智能天气时钟",
+        "link": "https://sspai.com/post/105047",
+        "published_date": "Tue, 06 Jan 2026 11:31:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.422969"
+      },
+      "98d19207dc5a37f5bcda8f0aff6f6b5d221298276df7404e34c06f53a8f12d97": {
+        "title": "派早报：荣耀发布多款新品、抖音将支持杜比视界等",
+        "link": "https://sspai.com/post/105184",
+        "published_date": "Tue, 06 Jan 2026 08:21:00 GMT",
+        "first_seen": "2026-01-06T05:29:49.772291"
+      },
+      "84f2e28d71f83ee541ca143db76ee1fa80d33d5d5cfb8f2e8c181ef93db6082b": {
+        "title": "李在明带着韩企半壁江山来访华，是求合作还是找靠山？",
+        "link": "http://www.huxiu.com/article/4823702.html?f=wangzhan",
+        "published_date": "Tue, 06 Jan 2026 10:40:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.425408"
+      },
+      "c04b2c30136fbf835ffdda836408e11363cc703acc3442c403f5b2b482891af7": {
+        "title": "九成收购都是失败的，为什么大厂还要疯狂买买买？",
+        "link": "http://www.huxiu.com/article/4823447.html?f=wangzhan",
+        "published_date": "Tue, 06 Jan 2026 09:46:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.426596"
+      },
+      "c2fa075feb4a65e8011c246df607276916eb1184586dc479bd3bde882f09b6a7": {
+        "title": "豪赌委内瑞拉：特朗普的“斩首行动”与注定烂尾的结局",
+        "link": "http://www.huxiu.com/article/4823296.html?f=wangzhan",
+        "published_date": "Tue, 06 Jan 2026 08:00:00 GMT",
+        "first_seen": "2026-01-06T05:29:40.428168"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-05T23:25:07.218269",
-    "Technology": "2026-01-05T23:25:16.543373",
-    "Finance": "2026-01-05T23:25:07.089509"
+    "AI": "2026-01-06T05:29:40.332397",
+    "Technology": "2026-01-06T05:29:49.775855",
+    "Finance": "2026-01-06T05:29:40.203948"
   }
 }
