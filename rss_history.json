@@ -2586,51 +2586,39 @@
         "link": "https://www.qbitai.com/2026/01/366596.html",
         "published_date": "Tue, 06 Jan 2026 01:09:00 GMT",
         "first_seen": "2026-01-06T05:29:40.310752"
+      },
+      "040ddc29a41fe13264b9173d4458ee35cc3b7bc851d05d9f0b710ee25bb9952e": {
+        "title": "1956-2026：人类与机器智能的七十年对话",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-06-4",
+        "published_date": "Tue, 06 Jan 2026 14:27:00 GMT",
+        "first_seen": "2026-01-06T08:37:57.702079"
+      },
+      "50569a24a95260d22bb49891a159661bd3a82bb0619764eaa243efddfe9dbd11": {
+        "title": "港科大教授实测AI眼镜“作弊”：30分钟碾压95%的学生，把传统教学评估体系整破防了",
+        "link": "https://www.qbitai.com/2026/01/366939.html",
+        "published_date": "Tue, 06 Jan 2026 07:24:00 GMT",
+        "first_seen": "2026-01-06T08:37:57.702269"
+      },
+      "b784fcb662c6853de995f6b4c94b55f37108ef768f0bedca2a6a6b4acedfa28c": {
+        "title": "陈天桥代季峰打响2026大模型第一枪：30B参数跑出1T性能",
+        "link": "https://www.qbitai.com/2026/01/366652.html",
+        "published_date": "Tue, 06 Jan 2026 06:28:00 GMT",
+        "first_seen": "2026-01-06T08:37:57.702541"
+      },
+      "5e3a7960a89a691ce615ea68099cc785f3a3fade9f87648216a5e0d77cb0180c": {
+        "title": "英特尔CES奇袭老黄大本营！英伟达显卡刚涨价，最强酷睿量产出货",
+        "link": "https://www.qbitai.com/2026/01/366636.html",
+        "published_date": "Tue, 06 Jan 2026 05:54:00 GMT",
+        "first_seen": "2026-01-06T08:37:57.702815"
+      },
+      "a5a5cf1ab38fb8e857224a72bc2ab8e348e553564a12f6cb0050f924650c0f1e": {
+        "title": "海信CES发布全新一代RGB-Mini LED，全球首创玲珑4芯真彩背光",
+        "link": "https://www.qbitai.com/2026/01/366621.html",
+        "published_date": "Tue, 06 Jan 2026 05:41:00 GMT",
+        "first_seen": "2026-01-06T08:37:57.703119"
       }
     },
     "Technology": {
-      "c7105742ddccb16e227daa75726c59216dae09c999cc561758c30e353744904a": {
-        "title": "re:Invent 2025 特别企划之“五天五问”Day4 视野的合流——预告片",
-        "link": "https://www.infoq.cn/video/1YWiveG6iCxAB60ZD4dS?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 07 Dec 2025 11:38:00 GMT",
-        "first_seen": "2025-12-07T05:37:49.932500"
-      },
-      "e466054d233236d4e60aef4258777c09ae5c14d373e4b4a38eb78b0e9312aa06": {
-        "title": "百度资深架构师颜志杰确认出席AICon北京站，分享Coding Agent在企业大规模落地的实践与挑战",
-        "link": "https://www.infoq.cn/article/6fAS6mvUzprAVav2Gvve?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 07 Dec 2025 08:00:00 GMT",
-        "first_seen": "2025-12-07T05:37:49.932708"
-      },
-      "62fd2fef00d8a4d55146bac2021bbd2043428afb551bbbee4735ba492bcf72c9": {
-        "title": "System Initiative公布了实时多云发现和自动化的扩展",
-        "link": "https://www.infoq.cn/article/ePAoHPYtJB876Gf274SE?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 07 Dec 2025 08:00:00 GMT",
-        "first_seen": "2025-12-07T05:37:49.932906"
-      },
-      "2f29302a53af645b4768656edd77186b2894748b663cab63936fc4e375f3d65a": {
-        "title": "【数智周报】华为任正非：大量建设大模型是正确的探索，未来算力一定过剩；豆包手机助手触发微信账号强制下线？豆包、微信双方回应；亚马逊推出定制AI芯片Trainium3",
-        "link": "https://www.tmtpost.com/7799625.html",
-        "published_date": "Sun, 07 Dec 2025 11:05:00 GMT",
-        "first_seen": "2025-12-07T05:37:49.933213"
-      },
-      "a182247f2a5ed4f2da6d266e8f148867085a3c5a94d65d1b9c92fd9d3fd3a51b": {
-        "title": "当代年轻人的“发疯”大赛，正在被包装成“消费游戏”",
-        "link": "https://www.tmtpost.com/7799195.html",
-        "published_date": "Sun, 07 Dec 2025 10:39:00 GMT",
-        "first_seen": "2025-12-07T05:37:49.933474"
-      },
-      "411d8b7d7aaa1e7c6c5534f8fead4d53efd05191cbd34ae64df2311444512dbb": {
-        "title": "关店数量陷争议，塔斯汀重拾“平价披萨”求增长",
-        "link": "https://www.tmtpost.com/7799599.html",
-        "published_date": "Sun, 07 Dec 2025 09:20:00 GMT",
-        "first_seen": "2025-12-07T05:37:49.933765"
-      },
-      "8fbd6e7fd4cafbbaa37ff8bce5d914482188df355590665480fd09426d8a1c2e": {
-        "title": "马斯克：SpaceX估值8000亿美元不准确；传阿里系App禁豆包手机登录；140 万，领克 03+ TCR开售秒光",
-        "link": "http://www.geekpark.net/news/357693",
-        "published_date": "Sun, 07 Dec 2025 08:06:00 GMT",
-        "first_seen": "2025-12-07T05:37:49.934400"
-      },
       "68aee6694557b8bbc36a1246ba1b8636c16badf34967c85352ed598d9a92c6e6": {
         "title": "Reddit将其评论功能的后端从Python迁移为Go微服务",
         "link": "https://www.infoq.cn/article/TySjafhFlBNc7c6790mA?utm_source=rss&utm_medium=article",
@@ -12380,13 +12368,115 @@
         "link": "http://www.huxiu.com/article/4823296.html?f=wangzhan",
         "published_date": "Tue, 06 Jan 2026 08:00:00 GMT",
         "first_seen": "2026-01-06T05:29:40.428168"
+      },
+      "ae85349cff262177ca5b585167613f9f5ddfff265f37d23b9bda6564a81e6310": {
+        "title": "全岛封关，海南酒店“分层时代”已至",
+        "link": "https://www.tmtpost.com/7832286.html",
+        "published_date": "Tue, 06 Jan 2026 16:17:00 GMT",
+        "first_seen": "2026-01-06T08:38:07.071154"
+      },
+      "879dd6e13ec27712dd882dadb8344b03a47d56c0962b26cd3d36265d20a81c88": {
+        "title": "机器人的罪与罚",
+        "link": "https://www.tmtpost.com/7832492.html",
+        "published_date": "Tue, 06 Jan 2026 16:09:00 GMT",
+        "first_seen": "2026-01-06T08:37:57.792511"
+      },
+      "22268a9314bdb82cac872598b4f06fbde131d55fa060cb4f8462d6123637d2d5": {
+        "title": "黄仁勋携Rubin架构亮相CES，英伟达铁了心要做“AI卖铲人”",
+        "link": "https://www.tmtpost.com/7831996.html",
+        "published_date": "Tue, 06 Jan 2026 16:09:00 GMT",
+        "first_seen": "2026-01-06T08:38:07.071180"
+      },
+      "951bfb77f9770c9136b27b9cb0a7bc867fda409a4e3790a07f581c786bb834d8": {
+        "title": "OpenAI、李飞飞同台助阵，苏姿丰CES对决黄仁勋",
+        "link": "https://www.tmtpost.com/7832526.html",
+        "published_date": "Tue, 06 Jan 2026 15:47:00 GMT",
+        "first_seen": "2026-01-06T08:38:07.071191"
+      },
+      "26c9899aa3817235fcfc2856a79481e73f4e0b77b05b0c625443535c4a272c66": {
+        "title": "分析师称，迪士尼2026年开局或许会较为缓慢，但不建议抛售该股票",
+        "link": "https://www.tmtpost.com/7832598.html",
+        "published_date": "Tue, 06 Jan 2026 15:46:00 GMT",
+        "first_seen": "2026-01-06T08:38:07.071200"
+      },
+      "64571a3531e1bfcb19f548c42349d0f2d8dd881638b7ecf23f2e010587d0b97e": {
+        "title": "贵州茅台的盈利会下降吗？",
+        "link": "https://www.tmtpost.com/7831974.html",
+        "published_date": "Tue, 06 Jan 2026 15:20:00 GMT",
+        "first_seen": "2026-01-06T08:38:07.071208"
+      },
+      "3648060009baff57db7c42ee3cefd5896314051bb78ef6dccbc248a86546d7ab": {
+        "title": "China’s First! Airwallex Partners with China Construction Bank to Pioneer a New Model in Cross-Border Finance",
+        "link": "https://www.tmtpost.com/7832563.html",
+        "published_date": "Tue, 06 Jan 2026 15:12:00 GMT",
+        "first_seen": "2026-01-06T08:37:57.793939"
+      },
+      "cefeba459cf9ea5232f7a38978f6382a54fd95d953a7ca6ed752d5a05847f2d0": {
+        "title": "黄仁勋CES预言：另一个“时刻”快到来了",
+        "link": "https://www.tmtpost.com/7832269.html",
+        "published_date": "Tue, 06 Jan 2026 14:48:00 GMT",
+        "first_seen": "2026-01-06T08:38:07.071217"
+      },
+      "d78189420c2b2324707d6f62539ebc08c623a5392bde7d648dd23a315d5167c3": {
+        "title": "4A景区“大批发”？",
+        "link": "https://www.tmtpost.com/7831732.html",
+        "published_date": "Tue, 06 Jan 2026 14:23:00 GMT",
+        "first_seen": "2026-01-06T08:38:07.071225"
+      },
+      "486a5adfb0cfd4e6fca9dcab1cb8addd926c55f93ce53b8bf7c5c6d705dd2ebf": {
+        "title": "踩雷财税后押注机器人，金财互联拼装式转型能走多远？",
+        "link": "https://www.tmtpost.com/7831626.html",
+        "published_date": "Tue, 06 Jan 2026 14:20:00 GMT",
+        "first_seen": "2026-01-06T08:38:07.071234"
+      },
+      "b349265d0d53cb86b86499daf34314fcd119fcff900598ee345a33a72c9721f0": {
+        "title": "石化，周期复苏不远了",
+        "link": "https://www.tmtpost.com/7832120.html",
+        "published_date": "Tue, 06 Jan 2026 13:43:00 GMT",
+        "first_seen": "2026-01-06T08:38:07.071242"
+      },
+      "3f8852dbca6742ed32f8034a975b33035388ab9bb8d6cf3daad6336550fc8bb8": {
+        "title": "Alexey 精选的 2025 年他最喜欢的 ClickHouse 功能",
+        "link": "https://www.infoq.cn/article/o6JKDDXl1l25YL5i3yzQ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 16:03:00 GMT",
+        "first_seen": "2026-01-06T08:38:07.071252"
+      },
+      "2cb43afd2c46854f3c1e552f37987e66cf4e1b425b3486de5f602ecb7e62256f": {
+        "title": "Cloudflare年度回顾：AI机器人疯狂爬网、后量子加密普及率达50%、Go语言用户翻倍",
+        "link": "https://www.infoq.cn/article/GDVwJpAygF5Lkfg6kG5V?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 15:04:00 GMT",
+        "first_seen": "2026-01-06T08:37:57.796869"
+      },
+      "83abbe7a930eeee7a416fea90285ef676258bf1683e21588a1d419622c7eb4e3": {
+        "title": "Bun 推出内置数据库客户端与零配置前端开发",
+        "link": "https://www.infoq.cn/article/12DFcmoFXOyQ2xZRf6vl?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 13:53:00 GMT",
+        "first_seen": "2026-01-06T08:37:57.797414"
+      },
+      "b111e1f4c470198931c05515e250e99351420b09682472621cc069cf7c9d86c7": {
+        "title": "谷歌 Gemini API 负责人自曝：用竞品Claude Code 1小时复现自己团队一年成果，工程师圈炸了！",
+        "link": "https://www.infoq.cn/article/EA1kt3KhCCTXM4efbAXH?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 13:23:00 GMT",
+        "first_seen": "2026-01-06T08:37:57.798586"
+      },
+      "6fdda1d95e0637184a8bdb462880811a36a33c0376d152963bead2d5599d5a7a": {
+        "title": "Matrix Talk | 2025 年我们都薅到了哪些「数字羊毛」",
+        "link": "https://sspai.com/post/105165",
+        "published_date": "Tue, 06 Jan 2026 15:00:00 GMT",
+        "first_seen": "2026-01-06T08:37:57.799566"
+      },
+      "f608859ec9e549cb29b70b9b3a2fd26605fd561c190ed89ba759664a7cbc4d74": {
+        "title": "马杜罗被抓，唐罗主义式入侵，川普的目标能否实现？",
+        "link": "http://www.huxiu.com/article/4823376.html?f=wangzhan",
+        "published_date": "Tue, 06 Jan 2026 14:29:00 GMT",
+        "first_seen": "2026-01-06T08:37:57.800320"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-06T05:29:40.332397",
-    "Technology": "2026-01-06T05:29:49.775855",
-    "Finance": "2026-01-06T05:29:40.203948"
+    "AI": "2026-01-06T08:37:57.723018",
+    "Technology": "2026-01-06T08:38:07.075274",
+    "Finance": "2026-01-06T08:37:57.596873"
   }
 }
