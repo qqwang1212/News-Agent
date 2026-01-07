@@ -1,36 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "d6f7d275e401f303e619820884b6bffa25806a0ded3a5a0cb58aa9218303632d": {
-        "title": "LLM强化学习不稳定之谜，被Qwen团队从「一阶近似」视角解开",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-07-5",
-        "published_date": "Sun, 07 Dec 2025 18:58:00 GMT",
-        "first_seen": "2025-12-07T23:37:05.351634"
-      },
-      "593dfbf6beb2a77277a65676e6a6166f8a8038b1643c08d6283bc7768fd1ef75": {
-        "title": "百万人围观的「萌娃教训小狗」视频火了，结果都是AI生成的｜附教程",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-07-4",
-        "published_date": "Sun, 07 Dec 2025 18:54:00 GMT",
-        "first_seen": "2025-12-07T23:37:05.351810"
-      },
-      "f22a95c48659af9803da2fb32781d88361226a9f07c2f4c9579b33b9c4ddb0af": {
-        "title": "DeepSeek、Gemini谁更能提供情感支持？趣丸×北大来了波情绪轨迹动态评估",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-07-3",
-        "published_date": "Sun, 07 Dec 2025 18:48:00 GMT",
-        "first_seen": "2025-12-07T23:37:05.352038"
-      },
-      "af274b0f50f5a58dadc7e20aa37ec00bc09f11c56486903905ec9c0e8b25c0c1": {
-        "title": "M系列芯片一号人物准备离开，苹果高管流失正在失控",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-07-2",
-        "published_date": "Sun, 07 Dec 2025 18:44:00 GMT",
-        "first_seen": "2025-12-07T23:37:05.352252"
-      },
-      "cd945becfa73d2cfb346a9d450015666d9b06871671092baf8a2bdd4bc4cf333": {
-        "title": "两个LLM互相对线，推理能力起飞：康奈尔团队发布大模型版类GAN训练法",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-07",
-        "published_date": "Sun, 07 Dec 2025 18:41:00 GMT",
-        "first_seen": "2025-12-07T23:37:05.352587"
-      },
       "5cc65e3140e1570242d6a700b5e2e9092123bffdc09b05edaa2c8ff771c4eb56": {
         "title": "DeepSeek V3到V3.2的进化之路，一文看全",
         "link": "https://www.jiqizhixin.com/articles/2025-12-08-3",
@@ -2658,63 +2628,45 @@
         "link": "https://www.qbitai.com/2026/01/367094.html",
         "published_date": "Tue, 06 Jan 2026 08:54:00 GMT",
         "first_seen": "2026-01-06T23:26:02.445680"
+      },
+      "884e57e9621f4c855287beb33fd3bb7c0c1c9182140c69df028c311adc7a2df7": {
+        "title": "注意力机制大变革？Bengio团队找到了一种超越Transformer的硬件对齐方案",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-07-3",
+        "published_date": "Wed, 07 Jan 2026 13:23:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.822486"
+      },
+      "441c56a7f06d4bf53ab5260cbcccee613336196f35681d9539075a96d2007634": {
+        "title": "曾对AI嗤之以鼻，如今2周生成7万行代码：Rust大佬与Claude联手打造新语言Rue",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-07-2",
+        "published_date": "Wed, 07 Jan 2026 10:17:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.822674"
+      },
+      "1c83ed8d36d375edbe35946b8eb679b19987592aff44206796ab135b55c84b08": {
+        "title": "近十年后谷歌与波士顿动力再「牵手」，这次要为人形机器人注入「灵魂」",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-07",
+        "published_date": "Wed, 07 Jan 2026 10:12:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.822860"
+      },
+      "01b777d7c3eed5322b48db1941a30adda9c8536cc3d3b529d896f8f6b454dab0": {
+        "title": "杜比在CES 2026重塑了观影、娱乐的方式",
+        "link": "https://www.qbitai.com/2026/01/367175.html",
+        "published_date": "Wed, 07 Jan 2026 04:47:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.823086"
+      },
+      "db1de410504b294e2d3977bea1b4372e74df14be789bf654af3793cce725a178": {
+        "title": "OceanBase蝉联中国分布式数据库本地部署市场第一，领跑国产数据库",
+        "link": "https://www.qbitai.com/2026/01/367171.html",
+        "published_date": "Wed, 07 Jan 2026 04:36:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.823359"
+      },
+      "e31f2eadd65a694cf0e1a02c26fcf43afe4b2dcfbc733a6d3645cb44793580db": {
+        "title": "李斌回合肥住全季，回应蔚来2025一切",
+        "link": "https://www.qbitai.com/2026/01/367161.html",
+        "published_date": "Wed, 07 Jan 2026 02:11:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.823602"
       }
     },
     "Technology": {
-      "9dd093a41c1c5fec8ff00129c7223cbeecdf3fecefcbcbc8bbc8e66c56dc5bb8": {
-        "title": "【钛晨报】金融监管总局调整保险公司相关业务风险因子；中国央行连续第13个月增持黄金；百度分拆昆仑芯赴港上市？回应：正在评估，不保证上市",
-        "link": "https://www.tmtpost.com/7799817.html",
-        "published_date": "Mon, 08 Dec 2025 07:20:00 GMT",
-        "first_seen": "2025-12-07T23:37:05.409685"
-      },
-      "78a590af09519d48bcc42b81a0db02300926fc31fd9864c9e037743a9daaf336": {
-        "title": "英霸已老，谷王当立 | 财经峰评",
-        "link": "https://www.tmtpost.com/7799905.html",
-        "published_date": "Sun, 07 Dec 2025 22:27:00 GMT",
-        "first_seen": "2025-12-07T23:37:05.409821"
-      },
-      "38c9df2243e1810aa28654885364a9f8fe3f31ad7eb8afb0a550b71c97a9ab91": {
-        "title": "豆包手机助手动了谁的蛋糕？",
-        "link": "https://www.tmtpost.com/7799737.html",
-        "published_date": "Sun, 07 Dec 2025 20:17:00 GMT",
-        "first_seen": "2025-12-07T23:37:05.409933"
-      },
-      "438e2d685b58b014eebcb51253cc9d2f1cce43fafca416a4dcdec1c93a9af147": {
-        "title": "30年来全球央行黄金持有量首超美债，美债怎么不火了？",
-        "link": "https://www.tmtpost.com/7799677.html",
-        "published_date": "Sun, 07 Dec 2025 20:16:00 GMT",
-        "first_seen": "2025-12-07T23:37:05.410122"
-      },
-      "536946050d1e1d795feac2eed03f68c711626a647956e05d5bcf1b07e1b8117c": {
-        "title": "16省机制电价出炉：最低0.19元、最高0.41元，差距为何如此悬殊？",
-        "link": "https://www.tmtpost.com/7799222.html",
-        "published_date": "Sun, 07 Dec 2025 20:16:00 GMT",
-        "first_seen": "2025-12-07T23:37:05.410430"
-      },
-      "e80c35349aef079a5b8c9f1db1c1d62299e7325c95ac346c383b01779095f0ea": {
-        "title": "张建中与摩尔线程如何铸就千亿GPU帝国",
-        "link": "https://www.tmtpost.com/7799691.html",
-        "published_date": "Sun, 07 Dec 2025 20:16:00 GMT",
-        "first_seen": "2025-12-07T23:37:05.410623"
-      },
-      "de8fc577017bfad93719ea7e2de6f6bfafa7d5574fa895a6da8661d16e5f0319": {
-        "title": "AI作图+仅退款，正在围猎电商卖家",
-        "link": "https://www.tmtpost.com/7799317.html",
-        "published_date": "Sun, 07 Dec 2025 18:15:00 GMT",
-        "first_seen": "2025-12-07T23:37:05.410918"
-      },
-      "45596f45e7b87e6304330e9640c7d18b9799086e226bebb068b745e47327ce43": {
-        "title": "老干妈闷声赚麻了",
-        "link": "https://www.tmtpost.com/7799616.html",
-        "published_date": "Sun, 07 Dec 2025 17:08:00 GMT",
-        "first_seen": "2025-12-07T23:37:05.411123"
-      },
-      "62a3de587c35a1a4fe9fc7048bdd4208bcdb8343ca7614eefa584171adbfad3c": {
-        "title": "搭配使用群晖和飞牛，我找到了 NAS 方案的理想形态",
-        "link": "https://sspai.com/post/104223",
-        "published_date": "Sun, 07 Dec 2025 15:45:00 GMT",
-        "first_seen": "2025-12-07T23:37:05.411542"
-      },
       "0567e16fb3ec2b12fc0dde3b8e8f4674dcdbfa14b863ec25d8120cd7e9b04c44": {
         "title": "\"Godfather of AI\" Criticizes Elon Musk's “Irresponsible” Behaviour in AI Sector",
         "link": "https://www.tmtpost.com/7800773.html",
@@ -12596,13 +12548,193 @@
         "link": "https://sspai.com/post/105197",
         "published_date": "Tue, 06 Jan 2026 17:00:00 GMT",
         "first_seen": "2026-01-06T23:26:02.551498"
+      },
+      "fb6a1ed22da76893f887d29507c175cc332ff4d40a97a07fe3b4fb23cea1d884": {
+        "title": "收割“爱老己”的年轻人，VR淘金客月入10万",
+        "link": "https://www.tmtpost.com/7833045.html",
+        "published_date": "Wed, 07 Jan 2026 13:13:00 GMT",
+        "first_seen": "2026-01-07T05:30:01.274234"
+      },
+      "a467a1af053b26cccc1404ebaf45553ca3e38e3f90dfa0144d2da831d8165578": {
+        "title": "英伟达全面入局，自动驾驶将迎来“蝶变时刻”？",
+        "link": "https://www.tmtpost.com/7833037.html",
+        "published_date": "Wed, 07 Jan 2026 13:13:00 GMT",
+        "first_seen": "2026-01-07T05:30:01.274242"
+      },
+      "751e2104a6b14453ff1692d42de44bdfe413733c2c008316e66eed00d7e85f35": {
+        "title": "华映资本领投，又一清华系具身智能企业「灵御智能」完成千万元级种子＋轮融资 | 融资动态",
+        "link": "https://www.tmtpost.com/7683015.html",
+        "published_date": "Wed, 07 Jan 2026 11:15:00 GMT",
+        "first_seen": "2026-01-07T05:30:01.274252"
+      },
+      "b6410205c15ed87c437d0910015428e962d7d9914b1722e91431146275d4a228": {
+        "title": "黄仁勋新年首秀：除了Rubin芯片,还重新定义了数字员工和物理AI",
+        "link": "https://www.tmtpost.com/7833373.html",
+        "published_date": "Wed, 07 Jan 2026 10:57:00 GMT",
+        "first_seen": "2026-01-07T05:30:01.274168"
+      },
+      "2f11ee5e4eae9476deafa0501ddb5328480cc0549ec27c333531b2f88463de31": {
+        "title": "左手“保命钱”，右手“未来钱”：拆解黄仁勋的“双螺旋”经营术",
+        "link": "https://www.tmtpost.com/7833151.html",
+        "published_date": "Wed, 07 Jan 2026 10:57:00 GMT",
+        "first_seen": "2026-01-07T05:30:01.274262"
+      },
+      "3a9d1135048264b2924f6de6ad28ff091895c0c0200b48438022fe77bc0fb7dd": {
+        "title": "小米是时候切断和粉丝的脐带了",
+        "link": "https://www.tmtpost.com/7833203.html",
+        "published_date": "Wed, 07 Jan 2026 10:57:00 GMT",
+        "first_seen": "2026-01-07T05:30:01.274269"
+      },
+      "2d4c1950b96d86f752bc889b81a4498dfba945a19aa2be406de63f2d849080bd": {
+        "title": "Physical AI Takes Center Stage at CES 2026 as Nvidia Maps Next Phase of Industry Shift",
+        "link": "https://www.tmtpost.com/7833395.html",
+        "published_date": "Wed, 07 Jan 2026 10:22:00 GMT",
+        "first_seen": "2026-01-07T05:30:01.274280"
+      },
+      "653524fa0760d296223fa481529dcd6071202fac98aae114896bbcf1a49f5f65": {
+        "title": "黄仁勋的皮衣很酷，但工厂的账本不认物理AI",
+        "link": "https://www.tmtpost.com/7832977.html",
+        "published_date": "Wed, 07 Jan 2026 10:17:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.910941"
+      },
+      "a8c2052bb96f7cca7ae451094941c807a1d218c8182803cd4c86e115b225b18e": {
+        "title": "Palantir股票又添新粉，这位分析师并不担心其估值",
+        "link": "https://www.tmtpost.com/7833337.html",
+        "published_date": "Wed, 07 Jan 2026 09:55:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.911353"
+      },
+      "b8534551530af24a7155996e1ab943b42df0c12b77c168a9f350d1e882e27d50": {
+        "title": "人工智能正在“改变”经济格局，Duolingo等五只股票有望受益",
+        "link": "https://www.tmtpost.com/7833335.html",
+        "published_date": "Wed, 07 Jan 2026 09:55:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.911904"
+      },
+      "96f4e29c352caf1ae72ee6819ecc569d210b3bfaf5b9b6690bf4a90b4040254a": {
+        "title": "一群河南人，正在改变中国餐饮历史",
+        "link": "https://www.tmtpost.com/7832925.html",
+        "published_date": "Wed, 07 Jan 2026 09:38:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.912289"
+      },
+      "f2da1bdab139a652532a08ee295fcd921a40703cee4283844ac56ee67141b5a3": {
+        "title": "当“毛孩子”面临8千元生死线，铲屎官能否托举起首个宠物医疗IPO？",
+        "link": "https://www.tmtpost.com/7832956.html",
+        "published_date": "Wed, 07 Jan 2026 09:37:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.913009"
+      },
+      "f7b26a67ce87df53994c58a32b98e3b2ec0d23999bb0268db44ae60a3127be79": {
+        "title": "卡游和Suplay，谁能先跑上市？",
+        "link": "https://www.tmtpost.com/7833257.html",
+        "published_date": "Wed, 07 Jan 2026 09:37:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.913482"
+      },
+      "20676cad0f6f9e134b80d494f70b72663ca72e158b005fabaa110775ba98a18b": {
+        "title": "黄仁勋揭幕2026CES关键词，跟随钛媒体开启“物理AI”时代",
+        "link": "https://www.tmtpost.com/7833193.html",
+        "published_date": "Wed, 07 Jan 2026 09:37:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.914248"
+      },
+      "2ae230a5afd28952fb0bebaa188e8e8ba1bbb9f31bfc464275c9c2a5304c31bd": {
+        "title": "英伟达加速生产H200，黄仁勋CES放话：“要回中国了”",
+        "link": "https://www.tmtpost.com/7833221.html",
+        "published_date": "Wed, 07 Jan 2026 09:21:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.914939"
+      },
+      "467f8a5eca5a733256b3f468d29d666268f5fbdc26c5e8b354edc256b765ed78": {
+        "title": "消费者支出即将转向，这11只股票有望受益",
+        "link": "https://www.tmtpost.com/7833270.html",
+        "published_date": "Wed, 07 Jan 2026 09:20:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.915492"
+      },
+      "15cd53a8021d7d13d7c63a17202cdc1b466e506a299dac4299d5b4135621516b": {
+        "title": "Meta 收购 Manus：巨头“自救系统”的冰山之下",
+        "link": "https://www.tmtpost.com/7832946.html",
+        "published_date": "Wed, 07 Jan 2026 09:00:00 GMT",
+        "first_seen": "2026-01-07T05:30:01.274198"
+      },
+      "9ddbfc9e56c394bff385d687505e0715cc67ba967fc04b105bd77fc9b8bbd99c": {
+        "title": "从查询计划分解到100%MySQL兼容：TDSQL-B并行查询技术的实现与优势",
+        "link": "https://www.infoq.cn/video/9mNHVSu1F30RRhx1cQXM?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 11:36:00 GMT",
+        "first_seen": "2026-01-07T05:30:01.274211"
+      },
+      "6505cb21ee5c0b8ace3654d2911950868651ff73454578f0319107eabdef9a4c": {
+        "title": "TDSQL-B 数据库核心优化思路：从一体化对等架构到高性能Raft Log存储",
+        "link": "https://www.infoq.cn/video/YiHifNoFAsQUVNJOKxSh?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 11:36:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.918796"
+      },
+      "aebe4920bcbc47508852e16d8bf04379437c3cc87d3f08aa52d6572b4ed25cc1": {
+        "title": "超大规模化繁为简，TDSQL-B的四大核心适用场景",
+        "link": "https://www.infoq.cn/video/S1mR4SDilW8rCbF60AdI?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 11:35:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.919712"
+      },
+      "4876b3e836dc5b35311348eab5c58103e044747b39e4280a0d3055a7fea51691": {
+        "title": "如何让GPU 不受扰、CPU 不闲置？TencentOS如意将CPU 利用率从15%提升45%",
+        "link": "https://www.infoq.cn/video/byTh35zoSG24R1Z52lmZ?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 11:28:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.921189"
+      },
+      "a8159d056ac382eab94d609a83063d7db0eb0743f39dfa0b6bcad3b7f7b84fe7": {
+        "title": "算力稀缺时代，如何把 GPU 用“满”",
+        "link": "https://www.infoq.cn/article/gWlwXB7Z9VBs9cjj9ZCv?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 11:23:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.922177"
+      },
+      "607c32427996ef1de29febf6802a3a6f2b03dcae30fc74fa78c8c8e711ce97f3": {
+        "title": "英特尔DeepMath引入智能架构，助力大型语言模型提升数学计算能力",
+        "link": "https://www.infoq.cn/article/hQzcUGIrkqibYerlHL0x?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 10:46:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.923389"
+      },
+      "164347f07c5b3e676fe526639e2f6b81f2fefe257956e20110fc686b15bb66e3": {
+        "title": "谷歌 Cloud AI 总监 14 年血泪复盘：AI 时代工程师不可替代的 5 类能力，代码反而排在最后",
+        "link": "https://www.infoq.cn/article/6YfqAgAUBCQijvqdbstB?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 10:00:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.925476"
+      },
+      "ea5366a60f2a57be50023d3493bdec79270014e964366091d3c6a539d59333a3": {
+        "title": "DuckDB的WebAssembly客户端支持在浏览器中查询Iceberg数据集",
+        "link": "https://www.infoq.cn/article/KEiZ9wXZ3rXgTHZOgdaY?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 09:33:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.926798"
+      },
+      "2b3a153ba53810217c9b57a8b9a4465dce2c8cde1899eac5443accaa9e4aeb26": {
+        "title": "黄仁勋说的“物理AI”时代利好中国",
+        "link": "http://www.huxiu.com/article/4824016.html?f=wangzhan",
+        "published_date": "Wed, 07 Jan 2026 11:05:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.927822"
+      },
+      "4fe967b825bb920bac855e6caf7f7f4fc1cb1628bd0209243bc4c8a9d8dec2a2": {
+        "title": "小米YU7咋扛撞？雷军拆车见真相",
+        "link": "http://www.huxiu.com/article/4823982.html?f=wangzhan",
+        "published_date": "Wed, 07 Jan 2026 09:53:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.928747"
+      },
+      "c3d20fef68e7ae4b2bafa7cbca176b2943cfffc8859e23e1387acd4c3f143f99": {
+        "title": "OPPO换小米，微信数据传不过去？问题到底出在哪？",
+        "link": "http://www.huxiu.com/article/4823836.html?f=wangzhan",
+        "published_date": "Wed, 07 Jan 2026 09:00:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.930053"
+      },
+      "831249f2028cdbfd3ba631e2b21d741af1ced245521ccd4b7667b550863653c2": {
+        "title": "当世界尽头成为热搜：一份南极旅游指南",
+        "link": "https://sspai.com/post/104946",
+        "published_date": "Wed, 07 Jan 2026 11:02:00 GMT",
+        "first_seen": "2026-01-07T05:29:51.931002"
+      },
+      "9ca8d7d566274b612e277abeb6c2ea86beb3ad3b7655975a28b8a292bda5aba7": {
+        "title": "派早报：英伟达发布 DLSS 4.5、戴尔发布 XPS 14/16 等",
+        "link": "https://sspai.com/post/105214",
+        "published_date": "Wed, 07 Jan 2026 08:57:00 GMT",
+        "first_seen": "2026-01-07T05:30:01.274223"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-06T23:26:02.465099",
-    "Technology": "2026-01-06T23:26:11.898256",
-    "Finance": "2026-01-06T23:26:02.332023"
+    "AI": "2026-01-07T05:29:51.842316",
+    "Technology": "2026-01-07T05:30:01.277824",
+    "Finance": "2026-01-07T05:29:51.712477"
   }
 }
