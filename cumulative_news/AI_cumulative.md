@@ -1,7 +1,34 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-01-13 08:36
+**最后更新时间**: 2026-01-13 23:26
+
+---
+
+## 🆕 最新更新 (2026-01-13 23:26)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Hard-braking events as indicators of road segment crash risk](https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/)
+**发布时间**: 2026-01-13 22:44
+
+#### [Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR](https://research.google/blog/next-generation-medical-image-interpretation-with-medgemma-15-and-medical-speech-to-text-with-medasr/)
+**发布时间**: 2026-01-13 20:57
+
+#### [Dynamic surface codes open new avenues for quantum error correction](https://research.google/blog/dynamic-surface-codes-open-new-avenues-for-quantum-error-correction/)
+**发布时间**: 2026-01-13 17:32
+
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [相约AAAI 2026 | 上海AI实验室北极星 X 星启交流会（报名开启）](https://www.jiqizhixin.com/articles/2026-01-13-9)
+**发布时间**: 2026-01-13 18:16
+
+#### [视觉模型既懂语义，又能还原细节，南洋理工&商汤提出棱镜假说](https://www.jiqizhixin.com/articles/2026-01-13-8)
+**发布时间**: 2026-01-13 18:12
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [王小川：30亿现金在手，明年IPO，toC产品马上就发](https://www.qbitai.com/2026/01/369332.html)
+**发布时间**: 2026-01-13 11:49
 
 ---
 
