@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "8a8ea91831e2c5fc1957c9cfb6fc4e93ba37de842e54e8c6166e0d73c9cd59bf": {
-        "title": "为Token付费是一件很愚蠢的事情，用户应该为智能付费丨RockAI刘凡平@MEET2026",
-        "link": "https://www.qbitai.com/2025/12/360724.html",
-        "published_date": "Sun, 14 Dec 2025 03:41:00 GMT",
-        "first_seen": "2025-12-14T05:41:34.531446"
-      },
-      "1b6543f544fe29f2f3e27c13341dcabdee6552da2609a8237ba9eabc6387f7f5": {
-        "title": "太初元碁乔梁：AI算法已经跑到单芯片极限｜MEET2026",
-        "link": "https://www.qbitai.com/2025/12/360603.html",
-        "published_date": "Sun, 14 Dec 2025 03:39:00 GMT",
-        "first_seen": "2025-12-14T05:41:34.531659"
-      },
       "c8139b6d908a85f35cbbd5cf6cf3e646b458bb2d7674ffb842a307d29d6a972c": {
         "title": "OpenAI突然开源新模型！99.9%的权重是0，新稀疏性方法代替MoE",
         "link": "https://www.qbitai.com/2025/12/360864.html",
@@ -2574,63 +2562,27 @@
         "link": "https://www.jiqizhixin.com/articles/2026-01-13",
         "published_date": "Tue, 13 Jan 2026 10:10:00 GMT",
         "first_seen": "2026-01-13T05:30:32.702341"
+      },
+      "f6a05f94beba218c5802afdea52f81f5129bc65dffdd1be516a867b2dfa16ffe": {
+        "title": "无需重新训练，即可学习新任务，Arc研究所开源单细胞基础模型Stack及细胞反应全景图谱",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-13-7",
+        "published_date": "Tue, 13 Jan 2026 16:25:00 GMT",
+        "first_seen": "2026-01-13T08:36:57.817835"
+      },
+      "19bad807d282e6f91879a9da01e34ad96dc0622cd3d6eb824dcfa83a2761764f": {
+        "title": "DeepSeek母公司去年进账50亿，够烧2380个R1",
+        "link": "https://www.qbitai.com/2026/01/369302.html",
+        "published_date": "Tue, 13 Jan 2026 07:56:00 GMT",
+        "first_seen": "2026-01-13T08:36:57.818010"
+      },
+      "1e2ecf9420d1a0628bb5f738dfc1a0c70be5a69e0c0dd9a452b1dc46d9510e3c": {
+        "title": "AI太记仇！做完心理治疗后仍记得「被工程师虐待」",
+        "link": "https://www.qbitai.com/2026/01/369273.html",
+        "published_date": "Tue, 13 Jan 2026 07:35:00 GMT",
+        "first_seen": "2026-01-13T08:36:57.818157"
       }
     },
     "Technology": {
-      "da243c7df0ab920a69d1a191d7b58e218bf62667d0a592911a90f0740d72e78f": {
-        "title": "散户不屑一顾的冷门股，竟是A股最大金矿？股票越是冷门，未来越能赚钱？",
-        "link": "http://www.huxiu.com/article/4816801.html?f=wangzhan",
-        "published_date": "Sun, 14 Dec 2025 11:00:00 GMT",
-        "first_seen": "2025-12-14T05:41:34.627404"
-      },
-      "e1b5eede1245d74139b6b6e41dfe1fd4db0aed4419076326905c794358b3adfa": {
-        "title": "摩尔线程75亿理财遭口水围攻，一场被放大的“硬科技”价值之争",
-        "link": "https://www.tmtpost.com/7808316.html",
-        "published_date": "Sun, 14 Dec 2025 10:55:00 GMT",
-        "first_seen": "2025-12-14T05:41:34.627582"
-      },
-      "efc5054922caa33487cd67c55981884efdb39b4e217d9eb02aa7dae99fd8ed17": {
-        "title": "【数智周报】 OpenAI发布GPT-5.2；摩尔线程：即将发布新一代GPU架构；阿里成立千问C端事业群",
-        "link": "https://www.tmtpost.com/7808021.html",
-        "published_date": "Sun, 14 Dec 2025 10:01:00 GMT",
-        "first_seen": "2025-12-14T05:41:34.627830"
-      },
-      "173b6094c3f621e9fc6ccbe1e52d522975fa67822c046ad24d8d43f33c79a40f": {
-        "title": "高中毕业生带出的千亿存储巨头，拟“补血”37亿",
-        "link": "https://www.tmtpost.com/7808288.html",
-        "published_date": "Sun, 14 Dec 2025 09:18:00 GMT",
-        "first_seen": "2025-12-14T05:41:34.628052"
-      },
-      "bca0e93d9937a3ae3f7706d9d9649edae406ae024b8e05446abc675710717323": {
-        "title": "从“一姐”变身“团长”，3000万网红鼻祖，割舍不下直播经济",
-        "link": "https://www.tmtpost.com/7808276.html",
-        "published_date": "Sun, 14 Dec 2025 09:18:00 GMT",
-        "first_seen": "2025-12-14T05:41:34.628366"
-      },
-      "63fff6b8ea2e10fc2fc23c213163de6706dfdb79a52eeba18b78858f28fbda09": {
-        "title": "靠“老头乐”起家的涛涛车业：全球第二，中国第五？",
-        "link": "https://www.tmtpost.com/7808305.html",
-        "published_date": "Sun, 14 Dec 2025 09:16:00 GMT",
-        "first_seen": "2025-12-14T05:41:34.628739"
-      },
-      "16da2ad2c136c5612d6872bc1b797ba67f5d5fe4c8446c6aebba171a997d80ec": {
-        "title": "摩尔线程回应「75亿理财」：符合公司股东利益；OpenAI卖「周边」，上线秒空；宇树发「机器人App Store」",
-        "link": "http://www.geekpark.net/news/358007",
-        "published_date": "Sun, 14 Dec 2025 08:27:00 GMT",
-        "first_seen": "2025-12-14T05:41:34.629410"
-      },
-      "47311f3953b793c0430ca7fc1a511f5cbcbb8d5e8495c30252e6bb0103e52b73": {
-        "title": "打造人人都喜爱的支付宝，AI 驱动支付宝细分人群增长｜AICon北京",
-        "link": "https://www.infoq.cn/article/8NVadqj2SEvcYZTNDxLP?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 14 Dec 2025 08:00:00 GMT",
-        "first_seen": "2025-12-14T05:41:34.629998"
-      },
-      "d7a9f69fd187fa0b482714f82af6cec802857331c463479d77e49d283c0b7f08": {
-        "title": "用 AI 操作 GUI，飞猪以 GUI Agent 重塑流程自动化与交付效率 ｜AICon 北京",
-        "link": "https://www.infoq.cn/article/rV3EQM28W3HNqvrjYM8P?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 14 Dec 2025 08:00:00 GMT",
-        "first_seen": "2025-12-14T05:41:34.630902"
-      },
       "43138f64f6d9c1609492d488a05a22edd6d020f9f8f9b779c6c8fe3c8e6276c0": {
         "title": "昨夜星辰（四）我的三星职场之旅",
         "link": "https://www.tmtpost.com/7808408.html",
@@ -12404,13 +12356,127 @@
         "link": "https://www.infoq.cn/article/Iz1JUWqd0FvejBXDKWk3?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 13 Jan 2026 08:00:00 GMT",
         "first_seen": "2026-01-13T05:30:32.833699"
+      },
+      "3e61dafbd3fb66a3f5927e386b9215c5341ccbe5301f8fc68514a14666381c80": {
+        "title": "黄仁勋的Agentic AI，闯入全球市值最高药厂",
+        "link": "https://www.tmtpost.com/7840454.html",
+        "published_date": "Tue, 13 Jan 2026 15:42:00 GMT",
+        "first_seen": "2026-01-13T08:37:07.187017"
+      },
+      "80597f46ed5fc717f3b7eeba87677f7df9d972c76b440c36ab3af5d92b5a25fa": {
+        "title": "星空计划亮相 2026 CES，试图押注超豪华新能源赛道",
+        "link": "https://www.tmtpost.com/7840692.html",
+        "published_date": "Tue, 13 Jan 2026 15:40:00 GMT",
+        "first_seen": "2026-01-13T08:37:07.187030"
+      },
+      "2730c2608c00f94790a6cbcd02ef4fd587e4bd5b1c37882ee4fc40f44051e2c9": {
+        "title": "联讯仪器：盈利质量不佳叠加股权乱象，高募资合理性遭拷问｜IPO观察",
+        "link": "https://www.tmtpost.com/7839370.html",
+        "published_date": "Tue, 13 Jan 2026 15:15:00 GMT",
+        "first_seen": "2026-01-13T08:37:07.187041"
+      },
+      "7b0d027fa2542cc6b509b00b55da2d0d356793e1939f79a1fde1de62a9462bdb": {
+        "title": "年入40亿、复购率70%，中国“平替王”悄悄席卷全国",
+        "link": "https://www.tmtpost.com/7840719.html",
+        "published_date": "Tue, 13 Jan 2026 15:04:00 GMT",
+        "first_seen": "2026-01-13T08:37:07.187053"
+      },
+      "7cfd01d9acafa55d6546e88d0656e7aa58976c5cd4afa60502f93c3e5f6c6e05": {
+        "title": "Matrix Robotics Unveils MATRIX-3, Next-Generation Humanoid Robot with Advanced Physical AI",
+        "link": "https://www.tmtpost.com/7840778.html",
+        "published_date": "Tue, 13 Jan 2026 15:03:00 GMT",
+        "first_seen": "2026-01-13T08:37:07.187067"
+      },
+      "9215fc7b6c85ffca2c4cc1b4e65289717c797390a986e1baee76e6b37cb1ec9d": {
+        "title": "蔡浩宇赴硅谷二次创业：打造下一个400亿平台？",
+        "link": "https://www.tmtpost.com/7832642.html",
+        "published_date": "Tue, 13 Jan 2026 15:02:00 GMT",
+        "first_seen": "2026-01-13T08:37:07.186959"
+      },
+      "fba2ab33d2581b539d780a7ba481a2321af57fce987f4697ccd7f3136ebb551e": {
+        "title": "00后天才辍学创业，AI宠物有人买单吗？",
+        "link": "https://www.tmtpost.com/7839034.html",
+        "published_date": "Tue, 13 Jan 2026 14:57:00 GMT",
+        "first_seen": "2026-01-13T08:37:07.187078"
+      },
+      "202aaf9310749bbfeea78faaf6b60d432509d062385929e3cefa85016500ca2d": {
+        "title": "吴恩达最新研判：算力封锁？中国模型抢占17%份额，开源AI完成“反向突围”？",
+        "link": "https://www.tmtpost.com/7840637.html",
+        "published_date": "Tue, 13 Jan 2026 14:57:00 GMT",
+        "first_seen": "2026-01-13T08:37:07.187089"
+      },
+      "30b2e1f5b065eecb895bf161062fd79f9bad5f60f0fb83fb66fec86a4b45396e": {
+        "title": "苹果与谷歌驶入AI深水区",
+        "link": "https://www.tmtpost.com/7840674.html",
+        "published_date": "Tue, 13 Jan 2026 14:56:00 GMT",
+        "first_seen": "2026-01-13T08:36:57.937802"
+      },
+      "f7ae6ffdbe58b05abe933191f482a86f6391bb373cc7e16e1b2a115c1a3119b9": {
+        "title": "2026，大家都是木头姐",
+        "link": "https://www.tmtpost.com/7840629.html",
+        "published_date": "Tue, 13 Jan 2026 14:53:00 GMT",
+        "first_seen": "2026-01-13T08:36:57.938118"
+      },
+      "1b6bcc071249aa7b7b687979d73bfdb43d6fe58b10b5458b9ae3c13e3a60a5f1": {
+        "title": "Anthropic筑墙，DeepSeek修路",
+        "link": "https://www.tmtpost.com/7840693.html",
+        "published_date": "Tue, 13 Jan 2026 14:51:00 GMT",
+        "first_seen": "2026-01-13T08:36:57.938593"
+      },
+      "52e2233fd57083b22636845401b6162f23fd09797c43e62731417f6b29711566": {
+        "title": "牛市来了，AI或可当你的理财搭子",
+        "link": "https://www.tmtpost.com/7840677.html",
+        "published_date": "Tue, 13 Jan 2026 14:07:00 GMT",
+        "first_seen": "2026-01-13T08:36:57.938987"
+      },
+      "288abce071b480b04d8246c48e15d0c670bd5e72f128ea68bc92f23ab5428154": {
+        "title": "特朗普呼吁限制信用卡利率，为什么Affirm和SoFi会成为赢家？",
+        "link": "https://www.tmtpost.com/7840651.html",
+        "published_date": "Tue, 13 Jan 2026 13:47:00 GMT",
+        "first_seen": "2026-01-13T08:36:57.939684"
+      },
+      "6e07a2fa6ced38ca2c61b7bf9be6ec6fb514df4470d8b3f06d2e3a2046487f4b": {
+        "title": "英特尔股票目标价上调，但华尔街对其涨势持怀疑态度",
+        "link": "https://www.tmtpost.com/7840649.html",
+        "published_date": "Tue, 13 Jan 2026 13:47:00 GMT",
+        "first_seen": "2026-01-13T08:36:57.940207"
+      },
+      "480eac5b7bcf14fe4bd5a84d590de63711351c91574dc58b16521e86db93ad11": {
+        "title": "高盛称微软股价有望上涨37%，公司在人工智能领域具备多重获利途径",
+        "link": "https://www.tmtpost.com/7840646.html",
+        "published_date": "Tue, 13 Jan 2026 13:47:00 GMT",
+        "first_seen": "2026-01-13T08:36:57.940863"
+      },
+      "9ab322f0d4d02372c2a1fac7e2ac6c12efa3ccc0bf462ddd29f08db78f8419d5": {
+        "title": "“生物科技超级碗” 遇冷收场，交易消息匮乏引发板块股价下挫",
+        "link": "https://www.tmtpost.com/7840644.html",
+        "published_date": "Tue, 13 Jan 2026 13:46:00 GMT",
+        "first_seen": "2026-01-13T08:37:07.186990"
+      },
+      "94c87cf5a389e32e5aa09ae4cfbe4f2b8222e648a3bdacedfeeb5ccd41860be0": {
+        "title": "Typeless：语音输入法新物种，开启 AI 信息记录新时代",
+        "link": "https://sspai.com/post/105358",
+        "published_date": "Tue, 13 Jan 2026 15:22:00 GMT",
+        "first_seen": "2026-01-13T08:36:57.942427"
+      },
+      "b36896e74c0a4355a9a6e430e5ab6757335d316f197924b36e68a2ef51df551f": {
+        "title": "Claude Code创建者的开发工作流程",
+        "link": "https://www.infoq.cn/article/4VI90fSOKGG8DrpQrD37?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 13 Jan 2026 15:03:00 GMT",
+        "first_seen": "2026-01-13T08:36:57.943188"
+      },
+      "cc868bce3c7471cf44eee3abd1ef209f6054fb1878e1d361d03c4254f8155426": {
+        "title": "亚马逊云科技推出VPC加密控制，在传输过程中实施强制加密",
+        "link": "https://www.infoq.cn/article/Wrhj4dCb7ARmzcKkdgcM?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 13 Jan 2026 14:11:00 GMT",
+        "first_seen": "2026-01-13T08:37:07.187005"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-13T05:30:32.750638",
-    "Technology": "2026-01-13T05:30:42.185556",
-    "Finance": "2026-01-13T05:30:32.593302"
+    "AI": "2026-01-13T08:36:57.859090",
+    "Technology": "2026-01-13T08:37:07.190668",
+    "Finance": "2026-01-13T08:36:57.705665"
   }
 }
