@@ -1,42 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "f8120283fc8aa3c43e8f4b1cbb02b840877fa36aa3cdcb3887f31d5821a35c65": {
-        "title": "谷歌创始人布林：当年发完Transformer论文，我们太不当回事了",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-14-12",
-        "published_date": "Sun, 14 Dec 2025 21:04:00 GMT",
-        "first_seen": "2025-12-14T23:33:18.861701"
-      },
-      "e35d9669cc4b2174b3003c243054af22c97554053eea28a5c68413c7fc969926": {
-        "title": "1100多个模型殊途同归，指向一个「通用子空间」，柏拉图又赢一回？",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-14-11",
-        "published_date": "Sun, 14 Dec 2025 21:00:00 GMT",
-        "first_seen": "2025-12-14T23:33:18.861867"
-      },
-      "b0fefc0a7cd15d197b579e5586376e9b7bb24a125f093a37745c7d2de0c3a79f": {
-        "title": "SIGGRAPH Asia 2025｜30FPS普通相机恢复200FPS细节，4D重建方案来了",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-14-10",
-        "published_date": "Sun, 14 Dec 2025 20:56:00 GMT",
-        "first_seen": "2025-12-14T23:33:18.862074"
-      },
-      "3f66361be5c7f49ded1471d2d181279b20cb41aa37104af64e8d4bbdf8b93a15": {
-        "title": "干掉同传？谷歌把AI同传放入所有耳机，顺手发了个颠覆性的AI浏览器",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-14-9",
-        "published_date": "Sun, 14 Dec 2025 20:51:00 GMT",
-        "first_seen": "2025-12-14T23:33:18.862327"
-      },
-      "23ce8fe35c7fed5481f136c1c75bf7e1ad757dbbef3f5e3ee5d0549355364d80": {
-        "title": "8B模型任务击败GPT-5？阶跃星辰开源Deep Think新框架，小模型解锁百万Token测试时计算",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-14-8",
-        "published_date": "Sun, 14 Dec 2025 20:48:00 GMT",
-        "first_seen": "2025-12-14T23:33:18.862672"
-      },
-      "31c08ab959e4d570d84507527bc42767dc30ecfc362a160213d4129ea8f7e08d": {
-        "title": "低调霸榜全球最难SQL榜单超两月，国产AI这次选择高调开源！",
-        "link": "https://www.qbitai.com/2025/12/360886.html",
-        "published_date": "Sun, 14 Dec 2025 13:17:00 GMT",
-        "first_seen": "2025-12-14T23:33:18.862954"
-      },
       "fa436858b88cc3c5107c242f2846ff3a5e9d1a5ad4d6d7170b9f500987a31875": {
         "title": "当电子离开理想世界：新模型重构 Landauer 理论，探测真实条件下的弹道电子",
         "link": "https://www.jiqizhixin.com/articles/2025-12-15-3",
@@ -2610,33 +2574,39 @@
         "link": "https://www.qbitai.com/2026/01/369332.html",
         "published_date": "Tue, 13 Jan 2026 11:49:00 GMT",
         "first_seen": "2026-01-13T23:26:56.204257"
+      },
+      "db1f9954284032e95251af24407e7ac34043ec885e0d2ee5bf69fef4a6e7450a": {
+        "title": "京东首届AI影视创作大赛启动 最高奖金10万元邀全民共创AI视频",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-14-5",
+        "published_date": "Wed, 14 Jan 2026 12:48:00 GMT",
+        "first_seen": "2026-01-14T05:29:54.574920"
+      },
+      "a2b38e02594ec06db239d5c6581a2c186ecdad2aea5c32cadf82426ad8c98b2e": {
+        "title": "合合信息多模态文本智能产品“上新”，覆盖AI教育、AI健康、AI Infra多元场景",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-14-4",
+        "published_date": "Wed, 14 Jan 2026 10:39:00 GMT",
+        "first_seen": "2026-01-14T05:29:54.575104"
+      },
+      "3d50fd8dd60a8233798e6832ed35f97e1c1dbbd1904c0769548e2d7e3f1940fc": {
+        "title": "500万次围观，1X把「世界模型」真正用在了机器人NEO身上",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-14-3",
+        "published_date": "Wed, 14 Jan 2026 10:21:00 GMT",
+        "first_seen": "2026-01-14T05:29:54.575295"
+      },
+      "e02eb7c8a3ed4a3cecb96706787fe4054bfa67d7ce79a7e89c9ae75d5265b6ef": {
+        "title": "跳出「黑盒」，人大刘勇团队最新大语言模型理论与机理综述",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-14-2",
+        "published_date": "Wed, 14 Jan 2026 10:15:00 GMT",
+        "first_seen": "2026-01-14T05:29:54.575516"
+      },
+      "6aaa8c8fbe98ffc642ae7e25c09dc45994de8a66631dc44616d17fba80e91b58": {
+        "title": "百川开源全球最强医疗大模型M3，「严肃问诊」定义AI医疗新能力",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-14",
+        "published_date": "Wed, 14 Jan 2026 09:26:00 GMT",
+        "first_seen": "2026-01-14T05:29:54.575800"
       }
     },
     "Technology": {
-      "819c297bd140760883076ac38b2c0c678480789f6310da39252b94b4b8223206": {
-        "title": "【钛晨报】更大力度提振消费，三部门最新发声；财政部：加大逆周期和跨周期调节力度，提升宏观经济治理效能；SpaceX确认2026年IPO计划，估值半年翻倍至8000亿美元",
-        "link": "https://www.tmtpost.com/7808513.html",
-        "published_date": "Mon, 15 Dec 2025 07:20:00 GMT",
-        "first_seen": "2025-12-14T23:33:18.949652"
-      },
-      "b97b5e62337f66aa149c111cdebe0a9ab42d922da1c405ed70895907524d5f7b": {
-        "title": "顺丰让出来的电退件市场，京东和三通一达接得住吗？",
-        "link": "https://www.tmtpost.com/7808404.html",
-        "published_date": "Sun, 14 Dec 2025 18:51:00 GMT",
-        "first_seen": "2025-12-14T23:33:18.949780"
-      },
-      "41f4abd4a9c193d879338896105a63e29db57ca35e52d912ef170f2e5302f6fa": {
-        "title": "AI音乐改造音乐行业？",
-        "link": "https://www.tmtpost.com/7808457.html",
-        "published_date": "Sun, 14 Dec 2025 18:48:00 GMT",
-        "first_seen": "2025-12-14T23:33:18.949892"
-      },
-      "63944da433147a875e7d62d5a60805cba6b971a429c173573a95e26701d2cd8d": {
-        "title": "那究竟什么是 Material 3 Expressive？以 Android 16 正式版为例",
-        "link": "https://sspai.com/post/104595",
-        "published_date": "Sun, 14 Dec 2025 17:42:00 GMT",
-        "first_seen": "2025-12-14T23:33:18.950145"
-      },
       "eeb5fab86726d07c81cf5f80482bc90bb55fe1f672b8bc7cc502acb57fb48894": {
         "title": "基于 SGlang RBG + Mooncake 打造生产级云原生大模型推理平台",
         "link": "https://www.infoq.cn/article/0F34J1S25wqi6MIB1utv?utm_source=rss&utm_medium=article",
@@ -12626,13 +12596,157 @@
         "link": "http://www.huxiu.com/article/4825427.html?f=wangzhan",
         "published_date": "Tue, 13 Jan 2026 15:50:00 GMT",
         "first_seen": "2026-01-13T23:27:05.640075"
+      },
+      "00fa8c78aa9a8ae8f4800073de4782455c81e72be7c5c7abb7f79dd1c59ad172": {
+        "title": "从困在武汉到北上广深“排队王”，楚菜的火越烧越旺",
+        "link": "https://www.tmtpost.com/7842445.html",
+        "published_date": "Wed, 14 Jan 2026 12:35:00 GMT",
+        "first_seen": "2026-01-14T05:30:03.917106"
+      },
+      "e9d0c358b5a4dab47e210e0dd82473e82d284e4c13235ea689f1412f55b6a771": {
+        "title": "中国佐餐饮品消费趋势洞察报告2026：健康轻负担已成共识，佐餐饮品担当门店利润新引擎",
+        "link": "https://www.tmtpost.com/7842443.html",
+        "published_date": "Wed, 14 Jan 2026 12:35:00 GMT",
+        "first_seen": "2026-01-14T05:30:03.917119"
+      },
+      "a5f125d7f4ca0ff8cada140f4bff02fa1686cc23617167df8b0cfc1323282002": {
+        "title": "美妆集合店@2026：逃离「复制粘贴」的困局",
+        "link": "https://www.tmtpost.com/7842383.html",
+        "published_date": "Wed, 14 Jan 2026 12:31:00 GMT",
+        "first_seen": "2026-01-14T05:30:03.917131"
+      },
+      "dde06890bc9ec3d9b99042635402d1016a7ebdf510c3d988c11f4574edc0ee01": {
+        "title": "“白菜价”甩卖核心业务，上海知名餐企断臂求生",
+        "link": "https://www.tmtpost.com/7842446.html",
+        "published_date": "Wed, 14 Jan 2026 12:30:00 GMT",
+        "first_seen": "2026-01-14T05:30:03.917141"
+      },
+      "88ca77de83086dfda34b30b4c9b56f8372ea639ee3e7e7c67eec66334fa4cef9": {
+        "title": "钱大妈闯关IPO：赚“辛苦钱”，缺新故事",
+        "link": "https://www.tmtpost.com/7842434.html",
+        "published_date": "Wed, 14 Jan 2026 12:27:00 GMT",
+        "first_seen": "2026-01-14T05:30:03.917152"
+      },
+      "bfa770ba3277e7eb336695a6ee23425a88aa823eabc61a312aede38e3ba58ce5": {
+        "title": "日活破亿的豆包，正悄然成为字节的“流量副中心”",
+        "link": "https://www.tmtpost.com/7842468.html",
+        "published_date": "Wed, 14 Jan 2026 12:24:00 GMT",
+        "first_seen": "2026-01-14T05:30:03.917162"
+      },
+      "db6c17027ce3b1192456a9f9bf4b24b0d9e60e23166fd783b1285ea0bc361aa6": {
+        "title": "瑞士金融科技公司CarbonPool Holding推出碳信用保险，提供高质量碳信用额赔付",
+        "link": "https://www.tmtpost.com/7842341.html",
+        "published_date": "Wed, 14 Jan 2026 11:29:00 GMT",
+        "first_seen": "2026-01-14T05:30:03.917045"
+      },
+      "0de5adaa4e7b897bd7b8e1b9b51344611afc1bc93ba318ce07684a912b6ace9d": {
+        "title": "耐克新鞋，抢了足疗店生意？",
+        "link": "https://www.tmtpost.com/7842143.html",
+        "published_date": "Wed, 14 Jan 2026 11:27:00 GMT",
+        "first_seen": "2026-01-14T05:30:03.917172"
+      },
+      "dcf465583da535af4ebb6bfc683bca7bd42935f3f1bad60e7c02bc024f8a14f9": {
+        "title": "暴涨只是序章：智谱、MiniMax点燃的，是国产AI的DeepSeek时刻",
+        "link": "https://www.tmtpost.com/7842131.html",
+        "published_date": "Wed, 14 Jan 2026 11:26:00 GMT",
+        "first_seen": "2026-01-14T05:30:03.917183"
+      },
+      "1f4d69d1371e4dd46d9a7984bbac970af809f303d5c5340389da31c006e5a22b": {
+        "title": "德邦安能双双退市，快运再无独立巨头",
+        "link": "https://www.tmtpost.com/7842229.html",
+        "published_date": "Wed, 14 Jan 2026 11:21:00 GMT",
+        "first_seen": "2026-01-14T05:29:54.668538"
+      },
+      "f4e02227a01949eb4d9dda9a9c81bb8c50de4a8d9fd84723a94713774850e851": {
+        "title": "2025微短剧年度报告：产值1000亿约电影票房两倍，全年20万部短剧争锋",
+        "link": "https://www.tmtpost.com/7842237.html",
+        "published_date": "Wed, 14 Jan 2026 11:21:00 GMT",
+        "first_seen": "2026-01-14T05:29:54.669122"
+      },
+      "40c1892f0c65279fefd234449c6004103018ff97c4b1158eb1bf1bfedf316d60": {
+        "title": "核聚变大会？我这辈子能用上“人造太阳”发的电吗？",
+        "link": "https://www.tmtpost.com/7842049.html",
+        "published_date": "Wed, 14 Jan 2026 11:19:00 GMT",
+        "first_seen": "2026-01-14T05:29:54.669718"
+      },
+      "f707ed83f76083da76ef00d6f49747ec58e7f656346f87f0e209add778ce067a": {
+        "title": "入住率跌至45.8%，客房不足8000间，绿地酒店怎么了？",
+        "link": "https://www.tmtpost.com/7842120.html",
+        "published_date": "Wed, 14 Jan 2026 11:18:00 GMT",
+        "first_seen": "2026-01-14T05:29:54.670375"
+      },
+      "3df3ecc33e1748e4ad272ed9fe281ce157e10c202ac5a51fe799e2547ff7624b": {
+        "title": "Summit的潜在买方，又少了一个",
+        "link": "https://www.tmtpost.com/7842146.html",
+        "published_date": "Wed, 14 Jan 2026 11:14:00 GMT",
+        "first_seen": "2026-01-14T05:29:54.670880"
+      },
+      "c7efb229e0a35f88088398149a75f3a8015a2c49a7e347cba07877b6c4063a2c": {
+        "title": "文旅人的2026：保持在场，回归真实",
+        "link": "https://www.tmtpost.com/7842151.html",
+        "published_date": "Wed, 14 Jan 2026 11:14:00 GMT",
+        "first_seen": "2026-01-14T05:29:54.671464"
+      },
+      "c0bbc34b0160aad8890070a90e8f08d913f84641933e8dfd9cc1773dc7cb1221": {
+        "title": "4天239万下载，心动游戏再度发力，具体情况如何？",
+        "link": "https://www.tmtpost.com/7842076.html",
+        "published_date": "Wed, 14 Jan 2026 11:12:00 GMT",
+        "first_seen": "2026-01-14T05:29:54.672184"
+      },
+      "11b8254f21be7385f8dcc076b92c50650e0247a27e4b09734a29d2834bdb65d5": {
+        "title": "“邪修”蓝箭航天们，硬刚SpaceX",
+        "link": "https://www.tmtpost.com/7842106.html",
+        "published_date": "Wed, 14 Jan 2026 11:11:00 GMT",
+        "first_seen": "2026-01-14T05:29:54.672855"
+      },
+      "00567c424061d79f612af51567f7674f4194a3daa3538ac264ce9cbd7c3d3cd3": {
+        "title": "让送的路由器重焕新生：兆能讯通 ZN-M2 固件编译指南",
+        "link": "https://sspai.com/post/105287",
+        "published_date": "Wed, 14 Jan 2026 11:30:00 GMT",
+        "first_seen": "2026-01-14T05:29:54.673686"
+      },
+      "c1437325d90224a7f992b866cfc8f5261942fe3d3607b6ff84d42a12707cd630": {
+        "title": "派早报：Apple 推出 Apple Creator Studio",
+        "link": "https://sspai.com/post/105434",
+        "published_date": "Wed, 14 Jan 2026 08:08:00 GMT",
+        "first_seen": "2026-01-14T05:29:54.674811"
+      },
+      "e8bd55707fe68d84c1f35b41347551de302ae95246dc7fad8ed5ac85599c3091": {
+        "title": "直播预告：新瓶旧酒还是涅槃重生？操作系统的 AI 进化终将走向何方？|《AI 进化论》第八期",
+        "link": "https://www.infoq.cn/article/OWQdpU9udpKISRbT5wTK?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 14 Jan 2026 11:14:00 GMT",
+        "first_seen": "2026-01-14T05:30:03.917087"
+      },
+      "a76029256ee8b785f141fe773f0fe7a551c7aa897d306162891b8467847b860e": {
+        "title": "待到山花烂漫时：鸿蒙开发者 用代码灌溉鸿蒙花园",
+        "link": "https://www.infoq.cn/article/FeR8sBoeFay7LuUeKhrF?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 14 Jan 2026 10:49:00 GMT",
+        "first_seen": "2026-01-14T05:29:54.677053"
+      },
+      "272a701737eb4183fbbda0ca7ffd3498417c26a98c0521eb896f13cb82cec2bd": {
+        "title": "规范驱动开发：让架构变得可执行",
+        "link": "https://www.infoq.cn/article/iCTcI93pGKD0aqoQv7ae?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 14 Jan 2026 10:11:00 GMT",
+        "first_seen": "2026-01-14T05:29:54.677747"
+      },
+      "3908e0f03ca2a6ee6060bc9fc3ffe624fb0e6ec3ef29ad55d0d69bbcb42cc963": {
+        "title": "Java近期资讯：Spring gRPC、Quarkus、Gatherers4j、Keycloak、Grails、Java Operator SDK",
+        "link": "https://www.infoq.cn/article/QSfh6NFEUi2HmbQAq7Wl?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 14 Jan 2026 09:17:00 GMT",
+        "first_seen": "2026-01-14T05:29:54.679802"
+      },
+      "0ae7b8bbb2456f2cdde6f816e06990b9dd37abef0fb528da9b29090ff78df2f4": {
+        "title": "加拿大访华，被美国逼到角落的卡尼是来向东寻求解药吗？",
+        "link": "http://www.huxiu.com/article/4825958.html?f=wangzhan",
+        "published_date": "Wed, 14 Jan 2026 10:46:00 GMT",
+        "first_seen": "2026-01-14T05:29:54.680775"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-13T23:26:56.228594",
-    "Technology": "2026-01-13T23:27:05.643893",
-    "Finance": "2026-01-13T23:26:56.092170"
+    "AI": "2026-01-14T05:29:54.600071",
+    "Technology": "2026-01-14T05:30:03.920643",
+    "Finance": "2026-01-14T05:29:54.467804"
   }
 }
