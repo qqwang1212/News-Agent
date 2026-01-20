@@ -1,7 +1,67 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-20 05:33
+**最后更新时间**: 2026-01-20 08:43
+
+---
+
+## 🆕 最新更新 (2026-01-20 08:43)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [WAIC首次“南下”：沪港握手2026“WAIC UP!全球年终盛会”，共揭AI对话新篇](https://www.tmtpost.com/7848881.html)
+**发布时间**: 2026-01-20 16:28
+
+#### [第28届高交会3E亚洲消费电子展招展工作今日正式启动](https://www.tmtpost.com/7849163.html)
+**发布时间**: 2026-01-20 16:27
+
+#### [是别针还是耳机？OpenAI首款AI硬件形态成谜](https://www.tmtpost.com/7849159.html)
+**发布时间**: 2026-01-20 16:24
+
+#### [河北“煤改气”困局：与其骑虎难下，不如灵活掉头](https://www.tmtpost.com/7848712.html)
+**发布时间**: 2026-01-20 15:53
+
+#### [2026，物理AI的六大趋势：新物种大爆发，淘汰赛开启](https://www.tmtpost.com/7844541.html)
+**发布时间**: 2026-01-20 15:27
+
+#### [百瑞吉：产品单一，经销渠道高度动荡，实控人债务隐忧凸显｜IPO观察](https://www.tmtpost.com/7847668.html)
+**发布时间**: 2026-01-20 15:05
+
+#### [KRAS战事刚起步](https://www.tmtpost.com/7848800.html)
+**发布时间**: 2026-01-20 14:44
+
+#### [多国拟出台未成年人社交媒体禁令，Meta、Snap股价或受冲击](https://www.tmtpost.com/7849004.html)
+**发布时间**: 2026-01-20 13:39
+
+#### [2026股市猜想](https://www.tmtpost.com/7848783.html)
+**发布时间**: 2026-01-20 13:38
+
+#### [股市暴跌，美元走弱，特朗普的格陵兰岛关税威胁如何冲击市场？](https://www.tmtpost.com/7848865.html)
+**发布时间**: 2026-01-20 10:57
+
+#### [ASML股价受贸易战担忧拖累下跌，多家芯片企业亦受波及](https://www.tmtpost.com/7848861.html)
+**发布时间**: 2026-01-20 10:57
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [微软为MCP服务器发布了Azure函数支持](https://www.infoq.cn/article/HY40dxuIKS2uTIJmUb96?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-20 16:24
+
+#### [大模型低价趋势延续！智象未来姚霆：B端、C端界限模糊，API不够、逼出 “按结果付费”](https://www.infoq.cn/article/fijwq6waNUKJhmbUGMqc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-20 15:18
+
+#### [产业级 Agent 如何破局？百度吴健民：通用模型难“通吃”，垂直场景才是出路](https://www.infoq.cn/article/RFVtzWIOoQhubp6cz0yK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-20 15:10
+
+#### [Mistral发布OCR 3，提升了手写及结构化文档识别的准确率](https://www.infoq.cn/article/DX8LLPkyH06INOoAjxxa?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-20 15:06
+
+#### [2026 年预测：智能体将推动集中化战略，带来新的工作方式 ｜ 技术趋势](https://www.infoq.cn/article/cTKd3cN0LK4Fx90mPArR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-20 14:48
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [从雪地陷车到撞围栏：境外租车自驾复盘与避坑攻略](https://sspai.com/post/105575)
+**发布时间**: 2026-01-20 14:58
 
 ---
 
