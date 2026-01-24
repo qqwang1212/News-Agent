@@ -2370,6 +2370,54 @@
         "link": "https://www.qbitai.com/2026/01/371980.html",
         "published_date": "Fri, 23 Jan 2026 10:59:00 GMT",
         "first_seen": "2026-01-23T23:26:19.656217"
+      },
+      "3dd3bad9902370ad80aa3717573f6de3a079cb2d928d04f4d1c327ef4ca2d1e5": {
+        "title": "估值35亿美元，LeCun创业公司官宣核心方向，掀起对Next-token范式的「叛变」",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-24-6",
+        "published_date": "Sat, 24 Jan 2026 20:42:00 GMT",
+        "first_seen": "2026-01-24T23:24:20.454209"
+      },
+      "61fb1b1003ccb9af19d4f71c54b023ffc438235161f66a6490c0f92d79b4363f": {
+        "title": "挑战Claude Code？OpenAI Codex发布月将至，今先揭秘智能体循环",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-24-5",
+        "published_date": "Sat, 24 Jan 2026 20:38:00 GMT",
+        "first_seen": "2026-01-24T23:24:20.454450"
+      },
+      "b7e32f867a5d4864ac764e7ee5de64e681f13211896b74ad34dfd145d57edf84": {
+        "title": "不止于Prompt：揭秘「神经网络可重编程性」",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-24-4",
+        "published_date": "Sat, 24 Jan 2026 20:31:00 GMT",
+        "first_seen": "2026-01-24T23:24:20.454640"
+      },
+      "c741cc6b82697ba552f78b1969c80ddab3670353495a857e2bbc692979fedf9b": {
+        "title": "1月28日，直播预约！来聊聊具身评测中的科学与乱象",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-24-3",
+        "published_date": "Sat, 24 Jan 2026 20:23:00 GMT",
+        "first_seen": "2026-01-24T23:24:20.454852"
+      },
+      "27b71e04423bc577426148a1e79d0cfa98949abd38f43eca28a44fc185e4e93f": {
+        "title": "LeCun、谢赛宁团队重磅论文：RAE能大规模文生图了，且比VAE更好",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-24-2",
+        "published_date": "Sat, 24 Jan 2026 20:20:00 GMT",
+        "first_seen": "2026-01-24T23:24:20.455218"
+      },
+      "8bd8868df9fffc3167ec35364dffb3016cbeee291356db3cdacef07515bd171e": {
+        "title": "音频-视觉全模态的未来预测，FutureOmni给出了首份答卷",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-24",
+        "published_date": "Sat, 24 Jan 2026 20:14:00 GMT",
+        "first_seen": "2026-01-24T23:24:20.455601"
+      },
+      "4ffea440e0cbb205332390d7e0047df071a5058a34eefcdc8ee4f6b6e3099bda": {
+        "title": "马斯克SpaceX背后的她：现实版钢铁侠小辣椒",
+        "link": "https://www.qbitai.com/2026/01/372330.html",
+        "published_date": "Sat, 24 Jan 2026 16:02:00 GMT",
+        "first_seen": "2026-01-24T23:24:20.455938"
+      },
+      "b20f8dd3b53f9741055ea05dee542ee8f72b9f0435f4a7bedbd71e88eccc5348": {
+        "title": "将登央视春晚，今年冲击IPO！江苏具身新贵魔法原子联创披露一堆新信息",
+        "link": "https://www.qbitai.com/2026/01/372322.html",
+        "published_date": "Sat, 24 Jan 2026 15:54:00 GMT",
+        "first_seen": "2026-01-24T23:24:20.456361"
       }
     },
     "Technology": {
@@ -11918,13 +11966,19 @@
         "link": "https://sspai.com/post/105679",
         "published_date": "Sat, 24 Jan 2026 15:00:00 GMT",
         "first_seen": "2026-01-24T08:37:32.562560"
+      },
+      "6af46a6a0d3df4a9478ba2bc82b54eb8100a6232411c3be87dc1b84f26e43116": {
+        "title": "变脸比翻书还快？前脚刚派人过去“军演”，后脚就把格陵兰卖了",
+        "link": "http://www.huxiu.com/article/4828918.html?f=wangzhan",
+        "published_date": "Sat, 24 Jan 2026 23:08:00 GMT",
+        "first_seen": "2026-01-24T23:24:20.551366"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-24T08:37:32.485279",
-    "Technology": "2026-01-24T08:37:32.577857",
-    "Finance": "2026-01-24T08:37:32.373022"
+    "AI": "2026-01-24T23:24:20.475761",
+    "Technology": "2026-01-24T23:24:20.558736",
+    "Finance": "2026-01-24T23:24:20.343745"
   }
 }
