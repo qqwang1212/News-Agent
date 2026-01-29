@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 28 Jan 2026 23:30:00 GMT</pubDate>
-    <lastBuildDate>Wed, 28 Jan 2026 23:31:00 GMT</lastBuildDate>
+    <pubDate>Thu, 29 Jan 2026 05:49:00 GMT</pubDate>
+    <lastBuildDate>Thu, 29 Jan 2026 05:49:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>云从科技2025年预亏超4.9亿背后：研发断臂求生，AI四小龙光环褪色｜看财报</title>
-      <link>https://www.tmtpost.com/7859241.html</link>
-      <description>&lt;![CDATA[云从科技2025年预亏超4.9亿背后：研发断臂求生，AI四小龙光环褪色｜看财报]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 19:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7859241.html</guid>
+      <title>瑞士清洁科技公司Divea研发石墨烯过滤器，从工业废气中分离捕获二氧化碳</title>
+      <link>https://www.tmtpost.com/7859557.html</link>
+      <description>&lt;![CDATA[瑞士清洁科技公司Divea研发石墨烯过滤器，从工业废气中分离捕获二氧化碳]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 11:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7859557.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>【钛晨报】事关央企重组整合、“AI+”，国务院国资委最新发声；金价继续大涨相关板块掀涨停潮，多股发布异动公告；工业富联：Q4 AI服务器营收同比增超5.5倍</title>
-      <link>https://www.tmtpost.com/7859395.html</link>
-      <description>&lt;![CDATA[【钛晨报】事关央企重组整合、“AI+”，国务院国资委最新发声；金价继续大涨相关板块掀涨停潮，多股发布异动公告；工业富联：Q4 AI服务器营收同比增超5.5倍]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7859395.html</guid>
+      <title>扎克伯格回应收购Manus：整合技术至现有平台</title>
+      <link>https://www.tmtpost.com/7859630.html</link>
+      <description>&lt;![CDATA[扎克伯格回应收购Manus：整合技术至现有平台]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 08:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7859630.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>爱芯元智：亏损20亿的芯片冠军，也要奔赴IPO</title>
-      <link>https://www.tmtpost.com/7858939.html</link>
-      <description>&lt;![CDATA[爱芯元智：亏损20亿的芯片冠军，也要奔赴IPO]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 19:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7858939.html</guid>
+      <title>芯片制造商指出需求正在加速增长，这是一件大事</title>
+      <link>https://www.tmtpost.com/7859705.html</link>
+      <description>&lt;![CDATA[芯片制造商指出需求正在加速增长，这是一件大事]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 09:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7859705.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>巨亏11亿后，LED龙头豪掷9亿加码上游芯片</title>
-      <link>https://www.tmtpost.com/7859134.html</link>
-      <description>&lt;![CDATA[巨亏11亿后，LED龙头豪掷9亿加码上游芯片]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 18:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7859134.html</guid>
+      <title>Spring近期资讯：Boot、Security、Integration、Modulith和AMQP首个里程碑版本发布</title>
+      <link>https://www.infoq.cn/article/O8POeIhNkAxY3Vm7RoV2?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Spring近期资讯：Boot、Security、Integration、Modulith和AMQP首个里程碑版本发布]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 11:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/O8POeIhNkAxY3Vm7RoV2?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>利用 ADBC 实现更快的数据传输：一次关于数据通路的系统性重构</title>
-      <link>https://www.infoq.cn/article/jUrPE4oFukpk4QlMflL3?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[利用 ADBC 实现更快的数据传输：一次关于数据通路的系统性重构]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 17:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/jUrPE4oFukpk4QlMflL3?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Vercel 开源 Bash 工具：基于本地文件系统的上下文检索</title>
+      <link>https://www.infoq.cn/article/UzyGmH8QWc2eHSvS6Yta?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Vercel 开源 Bash 工具：基于本地文件系统的上下文检索]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 10:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/UzyGmH8QWc2eHSvS6Yta?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>十年前的百度，聚拢了硅谷最杰出的天才，每个都比姚顺雨耀眼……</title>
-      <link>https://www.tmtpost.com/7858865.html</link>
-      <description>&lt;![CDATA[十年前的百度，聚拢了硅谷最杰出的天才，每个都比姚顺雨耀眼……]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 20:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7858865.html</guid>
+      <title>派早报：Apple Creator Studio 正式上线、Kimi K2.5 模型发布等</title>
+      <link>https://sspai.com/post/105850</link>
+      <description>&lt;![CDATA[派早报：Apple Creator Studio 正式上线、Kimi K2.5 模型发布等]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 08:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/105850</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>财报变脸？“狂飙”的赛纬电子撞上IPO“斩杀线”</title>
-      <link>https://www.tmtpost.com/7858798.html</link>
-      <description>&lt;![CDATA[财报变脸？“狂飙”的赛纬电子撞上IPO“斩杀线”]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 20:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7858798.html</guid>
+      <title>停产 Model S/X，特斯拉不再是一家汽车公司？</title>
+      <link>https://www.tmtpost.com/7859969.html</link>
+      <description>&lt;![CDATA[停产 Model S/X，特斯拉不再是一家汽车公司？]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 13:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7859969.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从黄金首饰到消费电子，涨价潮如何压测全球供应链？</title>
-      <link>https://www.tmtpost.com/7858777.html</link>
-      <description>&lt;![CDATA[从黄金首饰到消费电子，涨价潮如何压测全球供应链？]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 20:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7858777.html</guid>
+      <title>7个月5个人工智能IPO 启明创投：投资AI是未来二十年中国投资最大的确定性 | 机构动态</title>
+      <link>https://www.tmtpost.com/7859962.html</link>
+      <description>&lt;![CDATA[7个月5个人工智能IPO 启明创投：投资AI是未来二十年中国投资最大的确定性 | 机构动态]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 11:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7859962.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2026春节，是人类史上最大的图灵测试</title>
-      <link>https://www.tmtpost.com/7859121.html</link>
-      <description>&lt;![CDATA[2026春节，是人类史上最大的图灵测试]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 20:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7859121.html</guid>
+      <title>“奶酪女王”出局，一个时代“翻篇”？</title>
+      <link>https://www.tmtpost.com/7859838.html</link>
+      <description>&lt;![CDATA[“奶酪女王”出局，一个时代“翻篇”？]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 11:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7859838.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>为什么L3还没正式上路，汽车公司却要直接跳过?</title>
-      <link>https://www.tmtpost.com/7859082.html</link>
-      <description>&lt;![CDATA[为什么L3还没正式上路，汽车公司却要直接跳过?]]&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 19:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7859082.html</guid>
+      <title>进军AI眼镜，Snap成立全资子公司，今年上新品</title>
+      <link>https://www.tmtpost.com/7859880.html</link>
+      <description>&lt;![CDATA[进军AI眼镜，Snap成立全资子公司，今年上新品]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 11:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7859880.html</guid>
       <category>Technology</category>
     </item>
   </channel>
