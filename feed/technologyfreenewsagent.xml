@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 29 Jan 2026 05:49:00 GMT</pubDate>
-    <lastBuildDate>Thu, 29 Jan 2026 05:49:47 GMT</lastBuildDate>
+    <pubDate>Thu, 29 Jan 2026 08:52:00 GMT</pubDate>
+    <lastBuildDate>Thu, 29 Jan 2026 08:53:01 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>瑞士清洁科技公司Divea研发石墨烯过滤器，从工业废气中分离捕获二氧化碳</title>
-      <link>https://www.tmtpost.com/7859557.html</link>
-      <description>&lt;![CDATA[瑞士清洁科技公司Divea研发石墨烯过滤器，从工业废气中分离捕获二氧化碳]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 11:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7859557.html</guid>
+      <title>昆仑万维发布Mureka V8模型，AI音乐的下一步是拼生态？</title>
+      <link>https://www.tmtpost.com/7859976.html</link>
+      <description>&lt;![CDATA[昆仑万维发布Mureka V8模型，AI音乐的下一步是拼生态？]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 16:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7859976.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>扎克伯格回应收购Manus：整合技术至现有平台</title>
-      <link>https://www.tmtpost.com/7859630.html</link>
-      <description>&lt;![CDATA[扎克伯格回应收购Manus：整合技术至现有平台]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 08:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7859630.html</guid>
+      <title>不跟英伟达走老路，这家GPU公司的技术架构藏着哪些关键解？</title>
+      <link>https://www.infoq.cn/article/hR5WX4alMiNZumPR5ukC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[不跟英伟达走老路，这家GPU公司的技术架构藏着哪些关键解？]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 14:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/hR5WX4alMiNZumPR5ukC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>芯片制造商指出需求正在加速增长，这是一件大事</title>
-      <link>https://www.tmtpost.com/7859705.html</link>
-      <description>&lt;![CDATA[芯片制造商指出需求正在加速增长，这是一件大事]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 09:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7859705.html</guid>
+      <title>马斯克砍掉两款车型，特斯拉“去汽车化”又迈一步</title>
+      <link>https://www.tmtpost.com/7860098.html</link>
+      <description>&lt;![CDATA[马斯克砍掉两款车型，特斯拉“去汽车化”又迈一步]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 16:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7860098.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Spring近期资讯：Boot、Security、Integration、Modulith和AMQP首个里程碑版本发布</title>
-      <link>https://www.infoq.cn/article/O8POeIhNkAxY3Vm7RoV2?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Spring近期资讯：Boot、Security、Integration、Modulith和AMQP首个里程碑版本发布]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 11:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/O8POeIhNkAxY3Vm7RoV2?utm_source=rss&amp;utm_medium=article</guid>
+      <title>买得起车、交不起险的年轻人</title>
+      <link>https://www.tmtpost.com/7860037.html</link>
+      <description>&lt;![CDATA[买得起车、交不起险的年轻人]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 15:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7860037.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Vercel 开源 Bash 工具：基于本地文件系统的上下文检索</title>
-      <link>https://www.infoq.cn/article/UzyGmH8QWc2eHSvS6Yta?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Vercel 开源 Bash 工具：基于本地文件系统的上下文检索]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 10:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/UzyGmH8QWc2eHSvS6Yta?utm_source=rss&amp;utm_medium=article</guid>
+      <title>2026，AI算力新江湖</title>
+      <link>https://www.tmtpost.com/7858602.html</link>
+      <description>&lt;![CDATA[2026，AI算力新江湖]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 15:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7858602.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：Apple Creator Studio 正式上线、Kimi K2.5 模型发布等</title>
-      <link>https://sspai.com/post/105850</link>
-      <description>&lt;![CDATA[派早报：Apple Creator Studio 正式上线、Kimi K2.5 模型发布等]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 08:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/105850</guid>
+      <title>反垄断调查后或遭集体诉讼，携程未来将走向何方？</title>
+      <link>https://www.tmtpost.com/7860153.html</link>
+      <description>&lt;![CDATA[反垄断调查后或遭集体诉讼，携程未来将走向何方？]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 15:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7860153.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>停产 Model S/X，特斯拉不再是一家汽车公司？</title>
-      <link>https://www.tmtpost.com/7859969.html</link>
-      <description>&lt;![CDATA[停产 Model S/X，特斯拉不再是一家汽车公司？]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 13:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7859969.html</guid>
+      <title>为什么全国多地，都在忙着上新“文旅卡”？</title>
+      <link>https://www.tmtpost.com/7859820.html</link>
+      <description>&lt;![CDATA[为什么全国多地，都在忙着上新“文旅卡”？]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 14:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7859820.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>7个月5个人工智能IPO 启明创投：投资AI是未来二十年中国投资最大的确定性 | 机构动态</title>
-      <link>https://www.tmtpost.com/7859962.html</link>
-      <description>&lt;![CDATA[7个月5个人工智能IPO 启明创投：投资AI是未来二十年中国投资最大的确定性 | 机构动态]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 11:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7859962.html</guid>
+      <title>九识与菜鸟战略整合，开启双品牌独立运营｜独家</title>
+      <link>https://www.tmtpost.com/7860077.html</link>
+      <description>&lt;![CDATA[九识与菜鸟战略整合，开启双品牌独立运营｜独家]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 14:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7860077.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“奶酪女王”出局，一个时代“翻篇”？</title>
-      <link>https://www.tmtpost.com/7859838.html</link>
-      <description>&lt;![CDATA[“奶酪女王”出局，一个时代“翻篇”？]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 11:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7859838.html</guid>
+      <title>净利腰斩、市值万亿，特斯拉在涨什么？</title>
+      <link>https://www.tmtpost.com/7860011.html</link>
+      <description>&lt;![CDATA[净利腰斩、市值万亿，特斯拉在涨什么？]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 14:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7860011.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>进军AI眼镜，Snap成立全资子公司，今年上新品</title>
-      <link>https://www.tmtpost.com/7859880.html</link>
-      <description>&lt;![CDATA[进军AI眼镜，Snap成立全资子公司，今年上新品]]&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 11:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7859880.html</guid>
+      <title>进入“20元时代”，中式米饭快餐没有退路</title>
+      <link>https://www.tmtpost.com/7859841.html</link>
+      <description>&lt;![CDATA[进入“20元时代”，中式米饭快餐没有退路]]&gt;</description>
+      <pubDate>Thu, 29 Jan 2026 14:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7859841.html</guid>
       <category>Technology</category>
     </item>
   </channel>
