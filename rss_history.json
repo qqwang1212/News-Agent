@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "2d356d20c2befacb6b39e7143ee1787852fd30415665fc93a5cb0d76f03ec78b": {
-        "title": "能文能武！智元首个机器人艺人天团亮相湖南卫视跨年演唱会",
-        "link": "https://www.qbitai.com/2026/01/366397.html",
-        "published_date": "Thu, 01 Jan 2026 07:43:00 GMT",
-        "first_seen": "2026-01-01T08:36:17.320600"
-      },
       "7fb021025350c77a844b7a064e7849825428d232dafcfa26af7dd55f910efb31": {
         "title": "刚刚，梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
         "link": "https://www.jiqizhixin.com/articles/2026-01-02-7",
@@ -2655,36 +2649,6 @@
       }
     },
     "Technology": {
-      "518d4d142ad2a8c26b630501e37de76df0ca9f4aa0f0a9def8f5c992a7d64c61": {
-        "title": "米其林以务实路线迈向AIOps，并无宏大愿景",
-        "link": "https://www.infoq.cn/article/ZaNCAZsLZJKe6OaTTqAx?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 01 Jan 2026 15:14:00 GMT",
-        "first_seen": "2026-01-01T08:36:17.406716"
-      },
-      "48cd8fbce4d243ce589518f5ef5b97768a9202c58d99785b89bf0a53f03580af": {
-        "title": "2026消费前瞻：为「活人感」买单",
-        "link": "https://www.tmtpost.com/7828767.html",
-        "published_date": "Thu, 01 Jan 2026 14:54:00 GMT",
-        "first_seen": "2026-01-01T08:36:17.406852"
-      },
-      "a68f55a91a877bd803a57b031d63d89a2f800a94ae9fdfba5b419dfec140b5f0": {
-        "title": "商业文明的第三次跃迁：从效率、竞争到“存在”，你的公司准备好成为“文明”了吗？",
-        "link": "https://www.tmtpost.com/7828650.html",
-        "published_date": "Thu, 01 Jan 2026 14:54:00 GMT",
-        "first_seen": "2026-01-01T08:36:17.407034"
-      },
-      "a1a96dc3e8f9a69cf836d6e7cbd9a8fce24e272ede5f795c5c584f217cb6fe0c": {
-        "title": "孟晚舟发新年致辞，华为要重新“盖房子”",
-        "link": "https://www.tmtpost.com/7828586.html",
-        "published_date": "Thu, 01 Jan 2026 13:52:00 GMT",
-        "first_seen": "2026-01-01T08:36:17.407220"
-      },
-      "bb25f2d8470ee9a803f748c839b0a9170cfefffc7ff0b09b6a330d2d6de50e46": {
-        "title": "超越「平替」，年轻人的第一支 50mm F/1.4 镜头",
-        "link": "https://sspai.com/post/104948",
-        "published_date": "Thu, 01 Jan 2026 14:10:00 GMT",
-        "first_seen": "2026-01-01T08:36:17.407551"
-      },
       "5476eff91555e7ef94b120fa5bff7d2c7113bb06d4c22394bf5ce9e242942119": {
         "title": "祛魅之年：2026科技凉点展望",
         "link": "https://www.tmtpost.com/7828864.html",
@@ -12440,13 +12404,61 @@
         "link": "http://www.huxiu.com/article/4830403.html?f=wangzhan",
         "published_date": "Sat, 31 Jan 2026 11:00:00 GMT",
         "first_seen": "2026-01-31T05:41:28.668115"
+      },
+      "f87efec87ad9315ed70346f4c93ddc78c1e3d1ff5dedba66f9678f564fb2b98c": {
+        "title": "阿里决定对电商业务生理性断奶",
+        "link": "https://www.tmtpost.com/7862411.html",
+        "published_date": "Sat, 31 Jan 2026 16:18:00 GMT",
+        "first_seen": "2026-01-31T08:36:25.421597"
+      },
+      "d00bbf831745f3f5c1b8213a3875d76445a8401238c60933e6a0939b98a27a1e": {
+        "title": "早已“破圈”的庞天宇，能带领腾讯混元“破圈”吗？",
+        "link": "https://www.tmtpost.com/7862680.html",
+        "published_date": "Sat, 31 Jan 2026 16:18:00 GMT",
+        "first_seen": "2026-01-31T08:36:25.421747"
+      },
+      "cb3af7ce5e2bfefd806bebf3637bf653d07fb67c280cbebcdacf02577d17b9f8": {
+        "title": "“冻品一哥”转行做面包？",
+        "link": "https://www.tmtpost.com/7862454.html",
+        "published_date": "Sat, 31 Jan 2026 16:18:00 GMT",
+        "first_seen": "2026-01-31T08:36:25.421873"
+      },
+      "bcf427e04f2e8046f7bdb5b39e7b6900b710dcbb4ed59e02e481b99209e7dcdd": {
+        "title": "毛戈平出海，能否复制泡泡玛特的增长路径？",
+        "link": "https://www.tmtpost.com/7862763.html",
+        "published_date": "Sat, 31 Jan 2026 16:18:00 GMT",
+        "first_seen": "2026-01-31T08:36:25.422017"
+      },
+      "9940d407d2886b9652614a570e35f22922935ad1111babec3832a5e5715b8d6d": {
+        "title": "平头哥八年蝶变，最凶猛的国产芯片",
+        "link": "https://www.tmtpost.com/7862406.html",
+        "published_date": "Sat, 31 Jan 2026 16:18:00 GMT",
+        "first_seen": "2026-01-31T08:36:25.422206"
+      },
+      "4381abe4e91a04bb2dbd3158db4db197d5b02a9ebdd4c3fa5048214cfbe4885d": {
+        "title": "极兔B面，换挡加速",
+        "link": "https://www.tmtpost.com/7862596.html",
+        "published_date": "Sat, 31 Jan 2026 14:48:00 GMT",
+        "first_seen": "2026-01-31T08:36:25.422380"
+      },
+      "8d533e159824e6af946680fe0512bbb13fd076d628acf7decede0a6110654a90": {
+        "title": "百度成立PSIG事业群组，副总裁王颖挂帅，向李彦宏汇报",
+        "link": "https://www.tmtpost.com/7862645.html",
+        "published_date": "Sat, 31 Jan 2026 14:48:00 GMT",
+        "first_seen": "2026-01-31T08:36:25.422663"
+      },
+      "c90960856796a1f7c10cd61848012e01fe199712d4383e3b425801a4fb14b743": {
+        "title": "价值判断：涨停板的投资机会和风险提示（1月30日）｜证券市场观察",
+        "link": "https://www.tmtpost.com/7862654.html",
+        "published_date": "Sat, 31 Jan 2026 11:03:00 GMT",
+        "first_seen": "2026-01-31T08:36:25.423346"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-01-31T05:41:28.612442",
-    "Technology": "2026-01-31T05:41:37.939666",
-    "Finance": "2026-01-31T05:41:28.466802"
+    "AI": "2026-01-31T08:36:25.375112",
+    "Technology": "2026-01-31T08:36:25.455779",
+    "Finance": "2026-01-31T08:36:25.238690"
   }
 }
