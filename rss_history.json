@@ -2646,6 +2646,12 @@
         "link": "https://www.qbitai.com/2026/01/374681.html",
         "published_date": "Sat, 31 Jan 2026 12:06:00 GMT",
         "first_seen": "2026-01-31T23:27:51.709951"
+      },
+      "3e6fad9fa1fd94a34b09a910972bc84400ca779eb2e23fdd137d5daedd7df5af": {
+        "title": "华为云发布“行业AI梦工厂”智慧医疗专区，加速医疗AI普惠",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-01",
+        "published_date": "Sun, 01 Feb 2026 16:35:00 GMT",
+        "first_seen": "2026-02-01T08:38:37.140581"
       }
     },
     "Technology": {
@@ -12482,13 +12488,55 @@
         "link": "https://www.infoq.cn/article/bg0pzN0dZQm6HhRMliej?utm_source=rss&utm_medium=article",
         "published_date": "Sun, 01 Feb 2026 08:00:00 GMT",
         "first_seen": "2026-02-01T06:03:57.010824"
+      },
+      "05a5ebbd60aaf1d8f6fce4866d25577ab3c14c434f62d549e4c3e0c7313c671d": {
+        "title": "全球化2.0时代中企出海的破局之道——中国企业全球化创新实践思享会",
+        "link": "https://www.tmtpost.com/7863303.html",
+        "published_date": "Sun, 01 Feb 2026 15:53:00 GMT",
+        "first_seen": "2026-02-01T08:38:37.198732"
+      },
+      "35d121fc135635b70bc5d9aaffed0893732f60881787e6842e9608f2399d0066": {
+        "title": "AI幽灵席卷全球的6天5夜",
+        "link": "https://www.tmtpost.com/7863168.html",
+        "published_date": "Sun, 01 Feb 2026 15:40:00 GMT",
+        "first_seen": "2026-02-01T08:38:37.198858"
+      },
+      "e53d0f43ac17d5067d6880a6d82aa899f69a4967d065f39c728f3efc59c6459a": {
+        "title": "世界第一！中国机床，雪耻了",
+        "link": "https://www.tmtpost.com/7863255.html",
+        "published_date": "Sun, 01 Feb 2026 15:40:00 GMT",
+        "first_seen": "2026-02-01T08:38:37.198968"
+      },
+      "dfce3a3e3f3ea1b3d1ce6120c01bf9ab3c32479de84ac44aa9846b5377caf85c": {
+        "title": "150万AI agent社交狂欢背后，是一场“产品大爆炸”",
+        "link": "https://www.tmtpost.com/7863248.html",
+        "published_date": "Sun, 01 Feb 2026 15:39:00 GMT",
+        "first_seen": "2026-02-01T08:38:37.199137"
+      },
+      "a20b182d6874dcb864ac0068923e00b23a6b0e469df1f9f140028022dabdf625": {
+        "title": "大疆最强对手来了？“果链女王”剑指无人机",
+        "link": "https://www.tmtpost.com/7863247.html",
+        "published_date": "Sun, 01 Feb 2026 15:39:00 GMT",
+        "first_seen": "2026-02-01T08:38:37.199295"
+      },
+      "8c25d82255d446c8fb694928d6e4fe46571f44cdb2e66a633481fa4cd0334471": {
+        "title": "体验了元宝派一周   AI还没敲开群聊那扇沉默的门",
+        "link": "https://www.tmtpost.com/7863220.html",
+        "published_date": "Sun, 01 Feb 2026 15:07:00 GMT",
+        "first_seen": "2026-02-01T08:38:37.199495"
+      },
+      "262b4a534c595ea59e559c1d97a6d49e96625d88196f3dbd30a12242bfa14b98": {
+        "title": "CoreWeave首席执行官解析：这家科技公司为何与众不同",
+        "link": "https://www.tmtpost.com/7863229.html",
+        "published_date": "Sun, 01 Feb 2026 11:48:00 GMT",
+        "first_seen": "2026-02-01T08:38:37.199753"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-02-01T06:03:56.959289",
-    "Technology": "2026-02-01T06:04:06.264371",
-    "Finance": "2026-02-01T06:03:56.807450"
+    "AI": "2026-02-01T08:38:37.157871",
+    "Technology": "2026-02-01T08:38:37.206445",
+    "Finance": "2026-02-01T08:38:37.013630"
   }
 }
