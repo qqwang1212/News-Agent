@@ -1,7 +1,81 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-04 05:53
+**最后更新时间**: 2026-02-04 08:51
+
+---
+
+## 🆕 最新更新 (2026-02-04 08:51)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [百度千帆深度研究Agent 两大设计确保准确性，最新登榜](https://www.infoq.cn/article/jug4DXKtUcObjloYI90O?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-04 16:41
+
+#### [为什么大多数机器学习项目无法投入生产](https://www.infoq.cn/article/EgLfVHZWF0lrh7HFNcIr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-04 15:42
+
+#### [优步通过云原生改造，为人工智能在网络可观测性中的应用做好了准备](https://www.infoq.cn/article/fbBg7f0GdfH6mMrrrko6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-04 15:39
+
+#### [Chainguard发现98%的容器CVE潜伏在前20名之外的镜像中](https://www.infoq.cn/article/hhqCeQ7cV3RPUpJKiwOM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-04 15:36
+
+#### [Claude Sonnet 5 泄漏，因 API 故障延迟发布？](https://www.infoq.cn/article/5qPKMW7L9fZrl4Ybmrgt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-04 15:03
+
+#### [亚马逊云科技倪殿令：企业数据资产是价值创造的关键差异化要素](https://www.infoq.cn/article/gywukqGldN8Xl9XAOw1z?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-04 14:59
+
+#### [Agent面向结果交付，技术正从单点突破加速转向工程与系统竞争 |《中国软件技术发展洞察和趋势预测研究报告 2026》正式发布](https://www.infoq.cn/article/pTUjSTkZ5VoOtPxjkoCS?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-04 14:13
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [厂二代拍短视频，火得过三年吗](https://www.tmtpost.com/7866152.html)
+**发布时间**: 2026-02-04 16:28
+
+#### [盛和资源与ETM的稀土之争](https://www.tmtpost.com/7865716.html)
+**发布时间**: 2026-02-04 16:28
+
+#### [又是雷声大雨点小！AMD何时才能硬气？](https://www.tmtpost.com/7866168.html)
+**发布时间**: 2026-02-04 16:28
+
+#### [一人一天一部AI短剧，2000块成本狂赚10万](https://www.tmtpost.com/7866193.html)
+**发布时间**: 2026-02-04 16:28
+
+#### [一个自免新星的非意外“死亡”](https://www.tmtpost.com/7866204.html)
+**发布时间**: 2026-02-04 16:28
+
+#### [斯坦福行为设计学导师：为什么你总是忍不住刷手机？分心的真相与专注四步法](https://www.tmtpost.com/7866219.html)
+**发布时间**: 2026-02-04 16:28
+
+#### [燧原科技，腾讯供养的中国AMD](https://www.tmtpost.com/7866334.html)
+**发布时间**: 2026-02-04 16:28
+
+#### [Transsion's Profits Halved due to Price Hikes in Memory Chips and Stiff Competition](https://www.tmtpost.com/7866599.html)
+**发布时间**: 2026-02-04 16:17
+
+#### [2025风险投资们的AI圈地运动](https://www.tmtpost.com/7866546.html)
+**发布时间**: 2026-02-04 15:47
+
+#### [汉堡王找到中国“操盘手”，2035年计划扩张至4000店](https://www.tmtpost.com/7866486.html)
+**发布时间**: 2026-02-04 14:57
+
+#### [韩建河山并购兴福新材：一封问询函戳破的仓促跨界与双亏困局丨并购一线](https://www.tmtpost.com/7866423.html)
+**发布时间**: 2026-02-04 14:56
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [上帝视角体验地球Online，鸟瞰世界第一集](http://www.huxiu.com/article/4832074.html?f=wangzhan)
+**发布时间**: 2026-02-04 15:00
+
+#### [六元板面店，悄悄占领北京](http://www.huxiu.com/article/4832047.html?f=wangzhan)
+**发布时间**: 2026-02-04 14:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [城市漫步指南：软件名城，泉城济南](https://sspai.com/post/105859)
+**发布时间**: 2026-02-04 15:00
 
 ---
 
