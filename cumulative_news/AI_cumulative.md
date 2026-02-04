@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-02-04 08:50
+**最后更新时间**: 2026-02-04 23:37
+
+---
+
+## 🆕 最新更新 (2026-02-04 23:37)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [刚刚，面壁小钢炮开源进阶版「Her」，9B模型居然有了「活人感」](https://www.jiqizhixin.com/articles/2026-02-04-14)
+**发布时间**: 2026-02-04 19:35
+
+#### [第二代AI预训练范式：预测下个物理状态](https://www.jiqizhixin.com/articles/2026-02-04-13)
+**发布时间**: 2026-02-04 19:30
+
+#### [美团提出全新多模态统一大模型STAR，GenEval突破0.91，破解“理解-生成”零和困局](https://www.jiqizhixin.com/articles/2026-02-04-12)
+**发布时间**: 2026-02-04 19:26
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [​Sequential Attention: Making AI models leaner and faster without sacrificing accuracy](https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy/)
+**发布时间**: 2026-02-04 15:14
 
 ---
 
