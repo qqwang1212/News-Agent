@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-02-06 08:50
+**最后更新时间**: 2026-02-06 23:31
+
+---
+
+## 🆕 最新更新 (2026-02-06 23:31)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [全国最大国产AI算力池来了：部署超3万卡，上千款应用接入](https://www.qbitai.com/2026/02/377523.html)
+**发布时间**: 2026-02-06 10:14
+
+#### [中国第一，全球第二，视频大模型领军者生数科技完成超 6 亿元A+轮融资](https://www.qbitai.com/2026/02/377518.html)
+**发布时间**: 2026-02-06 08:49
+
+#### [钉钉AI群聊全面升级：每个群聊配备专属助理“AI小钉”](https://www.qbitai.com/2026/02/377514.html)
+**发布时间**: 2026-02-06 08:36
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [How AI tools can redefine universal design to increase accessibility](https://research.google/blog/how-ai-agents-can-redefine-universal-design-to-increase-accessibility/)
+**发布时间**: 2026-02-05 08:28
 
 ---
 
