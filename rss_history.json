@@ -1,60 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "3946c1c4988812c8a583506e613822fad6ba70780b9a9bd12e146ef91f20c9a5": {
-        "title": "一周对战2500万局，这些「AI假人」让人类游戏玩家破防了",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-20-7",
-        "published_date": "Tue, 20 Jan 2026 13:32:00 GMT",
-        "first_seen": "2026-01-20T05:33:39.484306"
-      },
-      "52c243e3e9692fcb9394e73b27beb4737d46b28212b606c0279c99abf74067a8": {
-        "title": "TPAMI | DC-SAM：打破SAM交互限制，基于循环一致性的图像与视频上下文分割方法",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-20-6",
-        "published_date": "Tue, 20 Jan 2026 13:26:00 GMT",
-        "first_seen": "2026-01-20T05:33:39.484516"
-      },
-      "44b1cb7a9c5c8dac17e4c1472a9400a76f233ceb3a845f49ab0c27f0b5bccc2e": {
-        "title": "MIT、哈佛等让细胞「记住」自己的基因活动历史，首次在哺乳动物细胞中记录转录组状态",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-20-5",
-        "published_date": "Tue, 20 Jan 2026 12:02:00 GMT",
-        "first_seen": "2026-01-20T05:33:39.484786"
-      },
-      "4d6d5bec725ad3bc04389326220b5fa631f6ef9d130d809364118ec61471c993": {
-        "title": "钉钉上线AI差旅：企业免垫资，员工免报销，AI帮比价",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-20-4",
-        "published_date": "Tue, 20 Jan 2026 11:58:00 GMT",
-        "first_seen": "2026-01-20T05:33:39.485014"
-      },
-      "bd2c2c707a0a8fe2ccda5b0c943853fe03273a8701d918c995fbcd4401a84c30": {
-        "title": "零样本&少样本横扫12个工业医疗数据集：西门子×腾讯优图新研究精准定位缺陷，检测精度新SOTA丨AAAI 2026",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-20-3",
-        "published_date": "Tue, 20 Jan 2026 11:49:00 GMT",
-        "first_seen": "2026-01-20T05:33:39.485391"
-      },
-      "9e21f63dda0af325f75e4f37e170e1ba2a9f801e3364609f42506aa16538b7c4": {
-        "title": "WAIC首次“南下”：沪港握手2026“WAIC UP!全球年终盛会”，共揭AI对话新篇",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-20-2",
-        "published_date": "Tue, 20 Jan 2026 10:40:00 GMT",
-        "first_seen": "2026-01-20T05:33:39.485854"
-      },
-      "d0f5971c8516d07815a0cbe569192575f79b0de5877cdc4d70a65248c339363f": {
-        "title": "“扣子”官宣2.0品牌升级：AI办公、AI创作全面更新，新增视频创作能力",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-20",
-        "published_date": "Tue, 20 Jan 2026 10:23:00 GMT",
-        "first_seen": "2026-01-20T05:33:39.486382"
-      },
-      "e6fffe5a4fd411b72159788c8d93a22ec647279307df8e056fddd764d494eeb0": {
-        "title": "谷歌新发现：DeepSeek推理分裂出多重人格，左右脑互搏越来越聪明",
-        "link": "https://www.qbitai.com/2026/01/370460.html",
-        "published_date": "Tue, 20 Jan 2026 05:01:00 GMT",
-        "first_seen": "2026-01-20T05:33:39.486862"
-      },
-      "5055d895f7a079d95f4db85630845aa16360d036cdc4122733121d4e753defbe": {
-        "title": "算力越高收入越多！OpenAI率先验证AI商业Scaling Law",
-        "link": "https://www.qbitai.com/2026/01/370375.html",
-        "published_date": "Tue, 20 Jan 2026 01:46:00 GMT",
-        "first_seen": "2026-01-20T05:33:39.487916"
-      },
       "62a9e2c34c41342a1f921cc8575f91a5bc204b1e55467ebff2f1da3726707ebd": {
         "title": "具身基座模型的曙光初现？35000小时训练数据，打造全球最强跨本体VLA",
         "link": "https://www.jiqizhixin.com/articles/2026-01-20-9",
@@ -2751,120 +2697,6 @@
       }
     },
     "Technology": {
-      "c4d636619bfc6dce7f07875e78c7b76cf6d7d860deb6d3ada1a51e41a2ef733d": {
-        "title": "三度执掌卡中心的老将退休，招行信用卡的下半场怎么打？",
-        "link": "https://www.tmtpost.com/7848989.html",
-        "published_date": "Tue, 20 Jan 2026 13:17:00 GMT",
-        "first_seen": "2026-01-20T05:33:48.870290"
-      },
-      "98d5c0eb2cd63b36c8955b4f06e8b53490ea3baef63c940eadc3b9ab7ec6db22": {
-        "title": "奢侈品暴跌，背后的真相与资金大迁徙",
-        "link": "https://www.tmtpost.com/7848855.html",
-        "published_date": "Tue, 20 Jan 2026 13:09:00 GMT",
-        "first_seen": "2026-01-20T05:33:48.870301"
-      },
-      "035086fbd69c41eb9c3cd8d10b6e3377fb18e09d9f5517e37bd115e58ecc1dab": {
-        "title": "宁王2026新棋局：左手钠电、右手固态",
-        "link": "https://www.tmtpost.com/7848477.html",
-        "published_date": "Tue, 20 Jan 2026 11:54:00 GMT",
-        "first_seen": "2026-01-20T05:33:48.870311"
-      },
-      "d94396766dc6024bea9419653fcd412127d57a20aa087cb57d07abe752923e48": {
-        "title": "“短剧出海”下半场，迎来效率和生态的较量",
-        "link": "https://www.tmtpost.com/7848600.html",
-        "published_date": "Tue, 20 Jan 2026 11:25:00 GMT",
-        "first_seen": "2026-01-20T05:33:48.870321"
-      },
-      "c4e466d6ad908290f51f3a40fa8b47cb436ec0bd2c207f461fc14592bbab9053": {
-        "title": "警惕，“AI泔水”正在悄悄入侵我们的生活",
-        "link": "https://www.tmtpost.com/7848859.html",
-        "published_date": "Tue, 20 Jan 2026 11:09:00 GMT",
-        "first_seen": "2026-01-20T05:33:48.870332"
-      },
-      "dd0e54bd40bb217fc6b9b8ae9231e2f96449f7962dd9abeaff259c6bcd80e595": {
-        "title": "编中新材获北极光创投天使轮投资，推动高强度纤维三维预制体全自动成形装备国产化 | 融资动态",
-        "link": "https://www.tmtpost.com/7848848.html",
-        "published_date": "Tue, 20 Jan 2026 10:54:00 GMT",
-        "first_seen": "2026-01-20T05:33:48.870343"
-      },
-      "12e50c7f3ae0d25d06e58bf7d8ba63344c1822bdd351a9075980e003fcd3290c": {
-        "title": "从LED照明跨界PCB微钻，民爆光电AI风口上的战略急转｜并购一线",
-        "link": "https://www.tmtpost.com/7848792.html",
-        "published_date": "Tue, 20 Jan 2026 10:43:00 GMT",
-        "first_seen": "2026-01-20T05:33:48.870354"
-      },
-      "07ac86cdc4ca3b05fa57d61213114eace890b4eb719bc5f032b762d4c3ba5275": {
-        "title": "马斯克和俞浩，看到了同一个ASI的未来？",
-        "link": "https://www.tmtpost.com/7848525.html",
-        "published_date": "Tue, 20 Jan 2026 10:15:00 GMT",
-        "first_seen": "2026-01-20T05:33:39.577431"
-      },
-      "17f0fdd9d7a9b10de484b2403ab5f315e018ce65cf367c1947cefd42512da866": {
-        "title": "“大乌龙”招致千亿铜市回调，英伟达忽悠了大家？",
-        "link": "https://www.tmtpost.com/7848247.html",
-        "published_date": "Tue, 20 Jan 2026 10:14:00 GMT",
-        "first_seen": "2026-01-20T05:33:39.577806"
-      },
-      "64d99b4bcdd9883408590fe351067d931901ca17ee818302e83211f25059ce55": {
-        "title": "豪掷28亿港元收购，515亿医药大佬再展“野心”",
-        "link": "https://www.tmtpost.com/7848497.html",
-        "published_date": "Tue, 20 Jan 2026 09:40:00 GMT",
-        "first_seen": "2026-01-20T05:33:39.578220"
-      },
-      "b754d528ab29603456aaa9f495f55a8cccdfc39cba1b1b069a681972c83ae308": {
-        "title": "9个月营收14亿，萨利亚的中国对手来了",
-        "link": "https://www.tmtpost.com/7848439.html",
-        "published_date": "Tue, 20 Jan 2026 09:20:00 GMT",
-        "first_seen": "2026-01-20T05:33:39.578682"
-      },
-      "d77964a0cfb347b00f451cd70235479a359c1d316a9935109ea5241c4c71ac5a": {
-        "title": "蜂巢能源杨红新：2026，动力电池没有“容易的钱”",
-        "link": "https://www.tmtpost.com/7846869.html",
-        "published_date": "Tue, 20 Jan 2026 08:57:00 GMT",
-        "first_seen": "2026-01-20T05:33:39.579236"
-      },
-      "b90407533960937df572c8b62049894d0970a08ad0bd2f5c978b3a472f60aca6": {
-        "title": "豆包、千问与Kimi，站在AI Agent的岔路口",
-        "link": "https://www.tmtpost.com/7848425.html",
-        "published_date": "Tue, 20 Jan 2026 08:20:00 GMT",
-        "first_seen": "2026-01-20T05:33:39.579864"
-      },
-      "d4bc933d3a26deb1ff17806fa7c7b75cbff24c7ffe464dbb411510b973473732": {
-        "title": "中国AI行业缺一个Twitter",
-        "link": "https://www.tmtpost.com/7848420.html",
-        "published_date": "Tue, 20 Jan 2026 08:00:00 GMT",
-        "first_seen": "2026-01-20T05:33:39.580259"
-      },
-      "a032a7f4dba4e8e05da19a9897535b61dbf258febb9a35c377cb7a60050d5069": {
-        "title": "Django发布6.0版本，提供内置的后台任务和原生CSP支持",
-        "link": "https://www.infoq.cn/article/C0L5QEafugEByCEWWk68?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 20 Jan 2026 11:32:00 GMT",
-        "first_seen": "2026-01-20T05:33:48.870232"
-      },
-      "4ee90c9e345ecadf94784669aea5ce84fef888146774a180aac85b3b79318e0d": {
-        "title": "ClickHouse 完成由 Dragoneer 领投的 4 亿美元 D 轮融资，加速其在分析与 AI 基础设施领域的扩张",
-        "link": "https://www.infoq.cn/article/dzXRw5ZoyLFbg7jjZvQL?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 20 Jan 2026 10:20:00 GMT",
-        "first_seen": "2026-01-20T05:33:39.582277"
-      },
-      "2af2e09e31ad4d0111e3f74f262b911415537ccaf39fd3ffc76e454a186c7683": {
-        "title": "选择技术领导之路",
-        "link": "https://www.infoq.cn/article/mUdZKSvKPr1uCW3527qR?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 20 Jan 2026 10:16:00 GMT",
-        "first_seen": "2026-01-20T05:33:48.870277"
-      },
-      "a3ed3406575056014139e714794ba0748606b5a91ce6856627595bd96c0385e5": {
-        "title": "冬天也不用裹成球，这是你需要了解的冬季穿衣指南",
-        "link": "https://sspai.com/post/93614",
-        "published_date": "Tue, 20 Jan 2026 11:06:00 GMT",
-        "first_seen": "2026-01-20T05:33:39.583357"
-      },
-      "a650844a28a5f716a1a4f7067c3377148a6f7d0e6073b07df7d1948c7f0e2896": {
-        "title": "派早报：荣耀发布 Magic8 Pro Air 等",
-        "link": "https://sspai.com/post/105600",
-        "published_date": "Tue, 20 Jan 2026 08:25:00 GMT",
-        "first_seen": "2026-01-20T05:33:48.870262"
-      },
       "02bfd77babb4d99a8803a5fbcbc995cabe6a9b5d7786b3231beda06c686f87a0": {
         "title": "WAIC首次“南下”：沪港握手2026“WAIC UP!全球年终盛会”，共揭AI对话新篇",
         "link": "https://www.tmtpost.com/7848881.html",
@@ -12068,13 +11900,61 @@
         "link": "https://www.tmtpost.com/7883733.html",
         "published_date": "Wed, 18 Feb 2026 17:52:00 GMT",
         "first_seen": "2026-02-18T23:35:32.350861"
+      },
+      "e597b97e60a7724155c1ad74f4cd91ae21d0b6ae94319b6765bad913851b07be": {
+        "title": "募资50亿扩充产能，600亿国轩高科不下“牌桌”",
+        "link": "https://www.tmtpost.com/7884565.html",
+        "published_date": "Thu, 19 Feb 2026 11:16:00 GMT",
+        "first_seen": "2026-02-19T06:07:42.488114"
+      },
+      "7028a38f37c6b28fc55050c565688f3cf75ac330358be4d98be9c7c0e624bcaa": {
+        "title": "Seedance2.0，AI视频的DeepSeek时刻",
+        "link": "https://www.tmtpost.com/7884170.html",
+        "published_date": "Thu, 19 Feb 2026 10:56:00 GMT",
+        "first_seen": "2026-02-19T06:07:42.488297"
+      },
+      "4b4a54bbb33eae6849183e28b1869390709ad25118a9e5122b2499c30c836760": {
+        "title": "春晚杀疯后，谁能再造大模型时代的超级国民应用？",
+        "link": "https://www.tmtpost.com/7884183.html",
+        "published_date": "Thu, 19 Feb 2026 10:52:00 GMT",
+        "first_seen": "2026-02-19T06:07:42.488458"
+      },
+      "4f7a204e0adf02d434fc0696e94bfbe688b0fb582ee7dd7f7e27ba50d1035d6a": {
+        "title": "寒武纪的“榜一大哥”，字节跳动不想当了",
+        "link": "https://www.tmtpost.com/7884056.html",
+        "published_date": "Thu, 19 Feb 2026 10:32:00 GMT",
+        "first_seen": "2026-02-19T06:07:42.488624"
+      },
+      "121680cdc054a8f02001741efc7e8c4afd7ab1864894c1c78f8850203ec51c10": {
+        "title": "AI视频春节大进阶：豆包to C，可灵 to B",
+        "link": "https://www.tmtpost.com/7884239.html",
+        "published_date": "Thu, 19 Feb 2026 10:32:00 GMT",
+        "first_seen": "2026-02-19T06:07:42.488841"
+      },
+      "d203b78cd091d6d828c705126c69fea0bcd35fc4085bb15f46c01e2cfcea0081": {
+        "title": "春节祈福，AI算命火了",
+        "link": "https://www.tmtpost.com/7884469.html",
+        "published_date": "Thu, 19 Feb 2026 10:32:00 GMT",
+        "first_seen": "2026-02-19T06:07:42.489050"
+      },
+      "7491034658633b18e80b4e31b5b4de04640a6759e0307be7b7bd083e7ba6a6fd": {
+        "title": "1850亿豪赌硬件生态！Google I/O 2026定档，Gemini 可穿戴将有新突破？",
+        "link": "https://www.tmtpost.com/7884066.html",
+        "published_date": "Thu, 19 Feb 2026 10:04:00 GMT",
+        "first_seen": "2026-02-19T06:07:42.489511"
+      },
+      "d5f4312ab4e5ac98c7c35dbf9bcad70dd92b534afe059c840df1b4959eb86298": {
+        "title": "Nuxt Studio发布：用于生产环境中内容编辑的开源CMS",
+        "link": "https://www.infoq.cn/article/CxEVz8hseoW4fpSmNaqZ?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 19 Feb 2026 08:00:00 GMT",
+        "first_seen": "2026-02-19T06:07:42.489940"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-02-18T23:35:32.555265",
-    "Technology": "2026-02-18T23:35:32.388172",
-    "Finance": "2026-02-18T23:35:32.407781"
+    "AI": "2026-02-19T06:07:42.690977",
+    "Technology": "2026-02-19T06:07:42.524032",
+    "Finance": "2026-02-19T06:07:42.543446"
   }
 }
