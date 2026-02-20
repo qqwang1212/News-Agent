@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-20 05:57
+**最后更新时间**: 2026-02-20 08:49
+
+---
+
+## 🆕 最新更新 (2026-02-20 08:49)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Java近期资讯：JDK 26候选发布版、Spring Framework、Open Liberty、EclipseStore、Gradle](https://www.infoq.cn/article/laeU5SxqYSUrm0KdpaOj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-20 16:38
 
 ---
 
