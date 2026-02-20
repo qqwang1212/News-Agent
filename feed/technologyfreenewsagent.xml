@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 20 Feb 2026 08:49:00 GMT</pubDate>
-    <lastBuildDate>Fri, 20 Feb 2026 08:49:16 GMT</lastBuildDate>
+    <pubDate>Fri, 20 Feb 2026 23:33:00 GMT</pubDate>
+    <lastBuildDate>Fri, 20 Feb 2026 23:33:51 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,11 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Java近期资讯：JDK 26候选发布版、Spring Framework、Open Liberty、EclipseStore、Gradle</title>
-      <link>https://www.infoq.cn/article/laeU5SxqYSUrm0KdpaOj?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Java近期资讯：JDK 26候选发布版、Spring Framework、Open Liberty、EclipseStore、Gradle]]&gt;</description>
-      <pubDate>Fri, 20 Feb 2026 16:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/laeU5SxqYSUrm0KdpaOj?utm_source=rss&amp;utm_medium=article</guid>
+      <title>中国“跑得最快”的这群人</title>
+      <link>https://www.tmtpost.com/7885531.html</link>
+      <description>&lt;![CDATA[中国“跑得最快”的这群人]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 23:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7885531.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>韩寒的《飞驰人生》赛道赢了，中国车企的F1赛道还在路上</title>
+      <link>https://www.tmtpost.com/7885299.html</link>
+      <description>&lt;![CDATA[韩寒的《飞驰人生》赛道赢了，中国车企的F1赛道还在路上]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 23:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7885299.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>春晚机器人出圈背后，“零失误”到底是制作还是现实</title>
+      <link>https://www.tmtpost.com/7885507.html</link>
+      <description>&lt;![CDATA[春晚机器人出圈背后，“零失误”到底是制作还是现实]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 19:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7885507.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>谷歌Gemini最“小”的一次迭代，姚顺宇为何高呼“不可阻挡”？</title>
+      <link>https://www.tmtpost.com/7885664.html</link>
+      <description>&lt;![CDATA[谷歌Gemini最“小”的一次迭代，姚顺宇为何高呼“不可阻挡”？]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 18:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7885664.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>一边撒钱，一边造梦：追觅俞浩55.5亿净利是如何“算”出来的？</title>
+      <link>https://www.tmtpost.com/7885724.html</link>
+      <description>&lt;![CDATA[一边撒钱，一边造梦：追觅俞浩55.5亿净利是如何“算”出来的？]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 18:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7885724.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>印度想多了，硅谷没少想</title>
+      <link>https://www.tmtpost.com/7885613.html</link>
+      <description>&lt;![CDATA[印度想多了，硅谷没少想]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 18:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7885613.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>《镖人》、袁和平与渐远的江湖</title>
+      <link>https://www.tmtpost.com/7885165.html</link>
+      <description>&lt;![CDATA[《镖人》、袁和平与渐远的江湖]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 18:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7885165.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>2026红包大战：中国AI应用迈向春秋五霸时代</title>
+      <link>https://www.tmtpost.com/7885401.html</link>
+      <description>&lt;![CDATA[2026红包大战：中国AI应用迈向春秋五霸时代]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 18:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7885401.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>CryptoQuant 2026量化交易大赛嘉宾分享：加密市场已倾向于以价格发现和波动交易为核心的体系</title>
+      <link>https://www.tmtpost.com/7885679.html</link>
+      <description>&lt;![CDATA[CryptoQuant 2026量化交易大赛嘉宾分享：加密市场已倾向于以价格发现和波动交易为核心的体系]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 17:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7885679.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>黄仁勋屈尊求购，垄断全球的“玻璃布”如何成为封装之神？</title>
+      <link>https://www.tmtpost.com/7881485.html</link>
+      <description>&lt;![CDATA[黄仁勋屈尊求购，垄断全球的“玻璃布”如何成为封装之神？]]&gt;</description>
+      <pubDate>Fri, 20 Feb 2026 17:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7881485.html</guid>
       <category>Technology</category>
     </item>
   </channel>
