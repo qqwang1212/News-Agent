@@ -2499,12 +2499,6 @@
       }
     },
     "Technology": {
-      "109663de3ca65169b423baf69c888dc569f784d9febd466af6dc2b4a63697358": {
-        "title": "地产人勇闯科技圈：在少数派造物的 180 天",
-        "link": "https://sspai.com/post/105679",
-        "published_date": "Sat, 24 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-24T08:37:32.562560"
-      },
       "6af46a6a0d3df4a9478ba2bc82b54eb8100a6232411c3be87dc1b84f26e43116": {
         "title": "变脸比翻书还快？前脚刚派人过去“军演”，后脚就把格陵兰卖了",
         "link": "http://www.huxiu.com/article/4828918.html?f=wangzhan",
@@ -10796,13 +10790,25 @@
         "link": "http://www.huxiu.com/article/4834710.html?f=wangzhan",
         "published_date": "Mon, 23 Feb 2026 08:00:00 GMT",
         "first_seen": "2026-02-23T06:08:16.348141"
+      },
+      "696535298186770687b5422bf9adb98371f91594c4ac4637baaa354e6d1892cd": {
+        "title": "DeepMind 运作模式曝光！暗示根本没输 OpenAI：员工20% 时间重启创新，保守巨头直接变 “实验狂”",
+        "link": "https://www.infoq.cn/article/IIY8A1V05cpP614yjFRD?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 23 Feb 2026 15:36:00 GMT",
+        "first_seen": "2026-02-23T08:56:36.830782"
+      },
+      "9c649398d02c052d96a350cb40c0153a3e460a86a37698101535ffd727dfc9cd": {
+        "title": "为什么别人用AI 是企业增长的印钞机，而你只当高级搜索用？",
+        "link": "https://www.tmtpost.com/7887138.html",
+        "published_date": "Mon, 23 Feb 2026 15:04:00 GMT",
+        "first_seen": "2026-02-23T08:56:36.830957"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-02-23T06:08:16.299164",
-    "Technology": "2026-02-23T06:08:16.355460",
-    "Finance": "2026-02-23T06:08:16.113102"
+    "AI": "2026-02-23T08:56:36.784183",
+    "Technology": "2026-02-23T08:56:36.878204",
+    "Finance": "2026-02-23T08:56:36.637163"
   }
 }
