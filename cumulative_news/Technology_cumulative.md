@@ -1,7 +1,103 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-09 23:34
+**最后更新时间**: 2026-03-10 05:52
+
+---
+
+## 🆕 最新更新 (2026-03-10 05:52)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [从获批到撤市仅 12 个月：和黄医药这款首创药栽在安全性上](https://www.tmtpost.com/7891226.html)
+**发布时间**: 2026-03-10 13:35
+
+#### [2026年，做“非人不可“的生意](https://www.tmtpost.com/7906555.html)
+**发布时间**: 2026-03-10 12:23
+
+#### [27个月，被骂骗子的公司成了印度deepseek](https://www.tmtpost.com/7906430.html)
+**发布时间**: 2026-03-10 12:23
+
+#### [雀巢交出蓝瓶](https://www.tmtpost.com/7906604.html)
+**发布时间**: 2026-03-10 12:16
+
+#### [一片鱼片刺破“排队神话”，引出日料千亿王国](https://www.tmtpost.com/7907045.html)
+**发布时间**: 2026-03-10 12:16
+
+#### [OpenClaw意外走红，智谱、MiniMax、Kimi终于“得救”了](https://www.tmtpost.com/7906376.html)
+**发布时间**: 2026-03-10 12:16
+
+#### [苹果面临内存短缺，为何分析师仍称该股值得买入](https://www.tmtpost.com/7907114.html)
+**发布时间**: 2026-03-10 11:43
+
+#### [在伊朗战争期间天天上涨的CrowdStrike等12只股票](https://www.tmtpost.com/7907112.html)
+**发布时间**: 2026-03-10 11:43
+
+#### [GE Vernova 罕见获得两家机构同时上调评级，并拿到最高目标价，买入理由解析](https://www.tmtpost.com/7907109.html)
+**发布时间**: 2026-03-10 11:42
+
+#### [道琼斯指数大涨，一种塑料产品正被证明很赚钱](https://www.tmtpost.com/7907107.html)
+**发布时间**: 2026-03-10 11:41
+
+#### [微软股价曾因 Anthropic 的 AI 而遭受重挫，一项合作关系将如何扭转局面](https://www.tmtpost.com/7907105.html)
+**发布时间**: 2026-03-10 11:41
+
+#### [柴油正在发出一则经济预警信号，这些炼油商可能会从中受益](https://www.tmtpost.com/7907100.html)
+**发布时间**: 2026-03-10 11:38
+
+#### [嘉信理财、迪士尼以及另外9只目前值得买入的便宜标的](https://www.tmtpost.com/7907096.html)
+**发布时间**: 2026-03-10 11:37
+
+#### [伊朗战争正在推高这只农业股的股价，农民却不会高兴](https://www.tmtpost.com/7907094.html)
+**发布时间**: 2026-03-10 11:37
+
+#### [中东能源冲击带来的五大重要启示](https://www.tmtpost.com/7907089.html)
+**发布时间**: 2026-03-10 11:36
+
+#### [Circle股价飙升，从落后者逆袭成领跑者](https://www.tmtpost.com/7907085.html)
+**发布时间**: 2026-03-10 11:35
+
+#### [随着增长放缓，激进投资者将目标瞄准食品公司，兰姆韦斯顿成为最新目标](https://www.tmtpost.com/7907082.html)
+**发布时间**: 2026-03-10 11:35
+
+#### [中国群众的AI时刻来了](https://www.tmtpost.com/7906839.html)
+**发布时间**: 2026-03-10 11:26
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [年度征文 | 信息消费：七年后的再审视](https://sspai.com/post/106845)
+**发布时间**: 2026-03-10 11:24
+
+#### [派早报：达摩院发布脂肪肝筛查 AI 模型 MAOSS 等](https://sspai.com/post/107001)
+**发布时间**: 2026-03-10 08:09
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Google Cloud云监控指标全面支持OpenTelemetry](https://www.infoq.cn/article/Z1jrMb7rSgZxCQThslh0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 10:40
+
+#### [AWS 推出智能体插件，实现云部署自动化](https://www.infoq.cn/article/hIg1OifpYrt5Vo517yqo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 10:30
+
+#### [Ztopia：基于 Milvus 与 Claude Code 打造企业级 Agent｜QCon北京](https://www.infoq.cn/article/DCo7S8AHJiZ0tbks5QIH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 10:24
+
+#### [谷歌提升了 GKE 集群中节点池自动创建的速度](https://www.infoq.cn/article/4DecoT319BYJzDpIhrl4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 10:20
+
+#### [GitHub 发布年度开源趋势报告：2026 年开源生态将更趋全球化，AI 带来新挑战](https://www.infoq.cn/article/v1pK4PZN44ORoUZr8Fgu?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 10:10
+
+#### [谷歌发布智能体架构扩展原则](https://www.infoq.cn/article/DC0RIBly3IkxTTUMfy6U?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 08:52
+
+#### [从集中管控到团队自治：重新思考基础设施交付模式](https://www.infoq.cn/article/4E0eyN5brr2D1xeh3kcX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 08:49
+
+#### [OpenClaw中国行启动：在中国发起一场AI装机运动](https://www.infoq.cn/article/o4mjG1WsSWgVPHsJS2CQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 08:37
+
+#### [Uber的混合云数据：工程师如何攻破解大规模复制难题](https://www.infoq.cn/article/jHctpRRbJaQjINj7y2lY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 00:10
 
 ---
 
