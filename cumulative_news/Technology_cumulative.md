@@ -1,7 +1,93 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-12 08:54
+**最后更新时间**: 2026-03-12 23:33
+
+---
+
+## 🆕 最新更新 (2026-03-12 23:33)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】央行经济金融专家座谈会，潘功胜释放重磅信号；OpenClaw创始人指责“抄袭”，腾讯回应；三大国际芯片厂齐发通知，4月全面涨价](https://www.tmtpost.com/7911641.html)
+**发布时间**: 2026-03-13 07:20
+
+#### [利润暴跌93%，保时捷跌落神坛｜钛度车库](https://www.tmtpost.com/7910734.html)
+**发布时间**: 2026-03-12 22:59
+
+#### [从阿尔法到AHI，荣耀正在改写终端未来](https://www.tmtpost.com/7908736.html)
+**发布时间**: 2026-03-12 19:16
+
+#### [Qwen和Seedance背后，站着同一个人](https://www.tmtpost.com/7911341.html)
+**发布时间**: 2026-03-12 19:11
+
+#### [“价格战”失灵后，高阶智驾会是汽车市场的新锚点吗？](https://www.tmtpost.com/7911362.html)
+**发布时间**: 2026-03-12 19:11
+
+#### [成本1万播放过亿：AI正在“吃掉”真人短剧？](https://www.tmtpost.com/7911330.html)
+**发布时间**: 2026-03-12 19:11
+
+#### [玻纤布短缺，PCB告急](https://www.tmtpost.com/7911320.html)
+**发布时间**: 2026-03-12 19:11
+
+#### [AI电商，巨头们的下一个战场？](https://www.tmtpost.com/7911308.html)
+**发布时间**: 2026-03-12 19:11
+
+#### [黄仁勋刚敬完酒，苏姿丰就飞韩国抢HBM4｜AGI焦点](https://www.tmtpost.com/7910747.html)
+**发布时间**: 2026-03-12 19:09
+
+#### [Singapore Fintech Company MetaComp Completes Pre-A+ Funding Round |](https://www.tmtpost.com/7911423.html)
+**发布时间**: 2026-03-12 19:09
+
+#### [天味食品：香肠调料不好卖业绩双降，“清仓式”分红后赴港IPO｜看财报](https://www.tmtpost.com/7911399.html)
+**发布时间**: 2026-03-12 19:02
+
+#### [回村的年轻人，撑起消费市场再“下沉”](https://www.tmtpost.com/7911142.html)
+**发布时间**: 2026-03-12 19:01
+
+#### [“光进铜退”叙事引爆Micro LED：概念狂欢之下，产业化仍需穿越周期 | 行业风向标](https://www.tmtpost.com/7911342.html)
+**发布时间**: 2026-03-12 18:56
+
+#### [ChatGPT“放弃”电商，豆包偏向虎山行](https://www.tmtpost.com/7911070.html)
+**发布时间**: 2026-03-12 18:52
+
+#### [别害怕，AI淘汰你，也会成就你](https://www.tmtpost.com/7911161.html)
+**发布时间**: 2026-03-12 18:52
+
+#### [想涨价却涨不动，影石的压力又上来了](https://www.tmtpost.com/7911164.html)
+**发布时间**: 2026-03-12 18:52
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [TDSQL Boundless 多模态数据时代的实时分析引擎 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/C1OyeNDJ2OtLtoCTdoV5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-12 18:08
+
+#### [智能体时代的强化学习：AReaL 框架与 Agent 最佳实践](https://www.infoq.cn/article/QuR5u12v1qlslVDrVbzj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-12 18:05
+
+#### [JoySafeter 重磅开源：开启 AI 驱动安全（AISecOps）新范式](https://www.infoq.cn/article/h1tMycBO3Ky8y6Xr8FSK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-12 17:55
+
+#### [TDSQL Boundless HBase 兼容模式探索 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/x3UVebSCmJWamlwlWSuF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-12 17:35
+
+#### [AI 时代数智底座：TDSQL Boundless 多模态数据库 | 腾讯云数据库 DBTalk](https://www.infoq.cn/video/seXsywpeoZxdyCAUUGDk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-12 17:26
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [蔚来穿过“生死线”，盈利模型还有待检验](http://www.huxiu.com/article/4841400.html?f=wangzhan)
+**发布时间**: 2026-03-12 17:28
+
+#### [国产AI助手谁最好用？国产AI助手工作能力测评](http://www.huxiu.com/article/4841087.html?f=wangzhan)
+**发布时间**: 2026-03-12 17:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [年度征文｜效率之外，创作的重量](https://sspai.com/post/106746)
+**发布时间**: 2026-03-12 17:26
+
+#### [Notion 年度更新评测：7 个案例聊聊 Custom Agent](https://sspai.com/post/106982)
+**发布时间**: 2026-03-12 15:00
 
 ---
 
