@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 14 Mar 2026 23:32:00 GMT</pubDate>
-    <lastBuildDate>Sat, 14 Mar 2026 23:33:14 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2026 09:02:00 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2026 09:03:37 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,43 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>360发布安全龙虾系列产品：以模治模构建智能体安全体系</title>
-      <link>https://www.qbitai.com/2026/03/387921.html</link>
-      <description>&lt;![CDATA[360发布安全龙虾系列产品：以模治模构建智能体安全体系]]&gt;</description>
-      <pubDate>Sat, 14 Mar 2026 13:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/387921.html</guid>
+      <title>一手实测首个龙虾模型：长路径任务不失误，一人包揽全栈开发</title>
+      <link>https://www.qbitai.com/2026/03/388352.html</link>
+      <description>&lt;![CDATA[一手实测首个龙虾模型：长路径任务不失误，一人包揽全栈开发]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 07:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/388352.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>AI 数学推理新纪元：SAIR Foundation 正式启动“数学蒸馏挑战赛”</title>
-      <link>https://www.qbitai.com/2026/03/387915.html</link>
-      <description>&lt;![CDATA[AI 数学推理新纪元：SAIR Foundation 正式启动“数学蒸馏挑战赛”]]&gt;</description>
-      <pubDate>Sat, 14 Mar 2026 12:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/387915.html</guid>
+      <title>养虾时代终结？免部署、7×24小时在线、自进化的“赛博骡子”来了！</title>
+      <link>https://www.qbitai.com/2026/03/388071.html</link>
+      <description>&lt;![CDATA[养虾时代终结？免部署、7×24小时在线、自进化的“赛博骡子”来了！]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 07:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/388071.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Gemini重塑谷歌地图！一句话搞定出行攻略，网友：垂直应用全完蛋</title>
-      <link>https://www.qbitai.com/2026/03/387867.html</link>
-      <description>&lt;![CDATA[Gemini重塑谷歌地图！一句话搞定出行攻略，网友：垂直应用全完蛋]]&gt;</description>
-      <pubDate>Sat, 14 Mar 2026 10:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/387867.html</guid>
+      <title>天下苦「调参」久矣！MIT师生推出全新RandOpt算法</title>
+      <link>https://www.qbitai.com/2026/03/388054.html</link>
+      <description>&lt;![CDATA[天下苦「调参」久矣！MIT师生推出全新RandOpt算法]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 07:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/388054.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>不仿真不VLA不遥操：它石智航重磅发布“能干活的通用具身大模型 ”AWE3.0</title>
-      <link>https://www.qbitai.com/2026/03/387860.html</link>
-      <description>&lt;![CDATA[不仿真不VLA不遥操：它石智航重磅发布“能干活的通用具身大模型 ”AWE3.0]]&gt;</description>
-      <pubDate>Sat, 14 Mar 2026 10:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/387860.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AI能代替人干活吗？B站联合6位UP主用OpenClaw直播做了次社会实验</title>
-      <link>https://www.qbitai.com/2026/03/387843.html</link>
-      <description>&lt;![CDATA[AI能代替人干活吗？B站联合6位UP主用OpenClaw直播做了次社会实验]]&gt;</description>
-      <pubDate>Sat, 14 Mar 2026 08:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/387843.html</guid>
+      <title>不卷速度卷验证，陈天桥MiroMind精准预测15天后黄金价格</title>
+      <link>https://www.qbitai.com/2026/03/387990.html</link>
+      <description>&lt;![CDATA[不卷速度卷验证，陈天桥MiroMind精准预测15天后黄金价格]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 06:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/387990.html</guid>
       <category>AI</category>
     </item>
   </channel>
