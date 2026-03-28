@@ -1188,6 +1188,18 @@
         "link": "https://www.qbitai.com/2026/03/392900.html",
         "published_date": "Sat, 28 Mar 2026 02:09:00 GMT",
         "first_seen": "2026-03-28T06:02:29.152150"
+      },
+      "f652c674c00b243895589ca98572f7d2b082746767322b37c9c375930b18a9dd": {
+        "title": "8.68万新车普及车位到车位，世界模型不吃高算力！零跑夯爆了",
+        "link": "https://www.qbitai.com/2026/03/392948.html",
+        "published_date": "Sat, 28 Mar 2026 06:16:00 GMT",
+        "first_seen": "2026-03-28T08:49:13.016821"
+      },
+      "546a8e41284c297f834d11a62631fd4e6f8ca014136b3c7f543a0f01ec1a8308": {
+        "title": "GLM-5.1上线，编程表现贴Opus 4.6开大，Coding plan瞬间断货",
+        "link": "https://www.qbitai.com/2026/03/392914.html",
+        "published_date": "Sat, 28 Mar 2026 06:06:00 GMT",
+        "first_seen": "2026-03-28T08:49:13.016978"
       }
     },
     "Technology": {
@@ -12446,13 +12458,55 @@
         "link": "https://www.infoq.cn/article/59OoAMNcs0oUDFTqevSI?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 28 Mar 2026 10:00:00 GMT",
         "first_seen": "2026-03-28T06:02:19.707894"
+      },
+      "3fe2fafe5cdc5ab5f24ce373c9eff6743441543f859d04994ca8dbb2c87187cd": {
+        "title": "Anthropic泄露背后：AI安全承诺的破产与重构",
+        "link": "https://www.tmtpost.com/7933051.html",
+        "published_date": "Sat, 28 Mar 2026 16:21:00 GMT",
+        "first_seen": "2026-03-28T08:49:12.827710"
+      },
+      "89a3232a70dbd0578cdd8c04d138fb37b37e5fee2f35f34ab17669dd1bf9f7a9": {
+        "title": "小米财报背后：汽车刚越盈亏线，AI又成下一场豪赌",
+        "link": "https://www.tmtpost.com/7932893.html",
+        "published_date": "Sat, 28 Mar 2026 14:32:00 GMT",
+        "first_seen": "2026-03-28T08:49:12.827863"
+      },
+      "3ea0c6d17a3a576c71abe76418025fc5c9fae022b3a591b993c6130d75fd89e1": {
+        "title": "Sora关停，Seedance怎么办？",
+        "link": "https://www.tmtpost.com/7932819.html",
+        "published_date": "Sat, 28 Mar 2026 14:17:00 GMT",
+        "first_seen": "2026-03-28T08:49:12.828002"
+      },
+      "aa48bd6b9fa13972f0c9696c120e12a42f830d6b17270f4d68f7ffcf8a7267f0": {
+        "title": "快手需要再次证明自己",
+        "link": "https://www.tmtpost.com/7932687.html",
+        "published_date": "Sat, 28 Mar 2026 14:17:00 GMT",
+        "first_seen": "2026-03-28T08:49:12.828137"
+      },
+      "b0e3e89a0c47bbffe48fcb0d8fa4033694133b4a14b1620589ec49d09421b1c0": {
+        "title": "“养虾热”终于还是要退潮了",
+        "link": "https://www.tmtpost.com/7932650.html",
+        "published_date": "Sat, 28 Mar 2026 14:16:00 GMT",
+        "first_seen": "2026-03-28T08:49:12.828307"
+      },
+      "96b9f6b67424ea3a96d098c0b028fb9efbe74aa20ad82db75cfdc4a8262efeaf": {
+        "title": "当规模不再是护城河，中国车企还要拼什么？｜钛度车库",
+        "link": "https://www.tmtpost.com/7933009.html",
+        "published_date": "Sat, 28 Mar 2026 14:04:00 GMT",
+        "first_seen": "2026-03-28T08:49:12.828557"
+      },
+      "1bc840d71f1efd338da85424a9159c41a2cf42a8bdffa0baa0c339ceaf9c1175": {
+        "title": "绿色 IT ：如何减轻 AI 对环境的影响",
+        "link": "https://www.infoq.cn/article/T0iH5X6AzL5jSe12ktdk?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 28 Mar 2026 15:00:00 GMT",
+        "first_seen": "2026-03-28T08:49:12.828836"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-03-28T06:02:29.159392",
-    "Technology": "2026-03-28T06:02:28.987031",
-    "Finance": "2026-03-28T06:02:29.006933"
+    "AI": "2026-03-28T08:49:13.024086",
+    "Technology": "2026-03-28T08:49:12.862520",
+    "Finance": "2026-03-28T08:49:12.881631"
   }
 }
