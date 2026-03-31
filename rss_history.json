@@ -1308,21 +1308,27 @@
         "link": "https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/",
         "published_date": "Tue, 31 Mar 2026 02:03:00 GMT",
         "first_seen": "2026-03-31T06:25:16.606102"
+      },
+      "3e070de410fbbafcbb615dd3696c3638ef15ee911e6fab0cc5ddc384a828a301": {
+        "title": "智能体收入暴增68%！这家港股AI公司靠「关系」驯服企业龙虾",
+        "link": "https://www.qbitai.com/2026/03/393984.html",
+        "published_date": "Tue, 31 Mar 2026 08:33:00 GMT",
+        "first_seen": "2026-03-31T09:08:34.264832"
+      },
+      "0a2f71d9324562ca5825736f885a5980e560509dc1af1b072c396bca5732b0a7": {
+        "title": "实测拿215项SOTA的Qwen3.5-Omni：摄像头一开，AI给我现场讲论文、撸代码",
+        "link": "https://www.qbitai.com/2026/03/393941.html",
+        "published_date": "Tue, 31 Mar 2026 08:22:00 GMT",
+        "first_seen": "2026-03-31T09:08:34.265010"
+      },
+      "9826a98082fa543f345556f7cfcdba2e677c1a095d2c4e79cde1c3b9c3e737ba": {
+        "title": "机器人线下真机对线打PK！这届黑客松可太会玩了",
+        "link": "https://www.qbitai.com/2026/03/393887.html",
+        "published_date": "Tue, 31 Mar 2026 06:41:00 GMT",
+        "first_seen": "2026-03-31T09:08:34.265158"
       }
     },
     "Technology": {
-      "9592ddc762c210f24d5980d7b06a3c207c344695e0886a7ab55d24796ba84abe": {
-        "title": "伊朗可能关闭霍尔木兹海峡，为什么航运股将从中受益",
-        "link": "https://www.tmtpost.com/7894830.html",
-        "published_date": "Sun, 01 Mar 2026 09:23:00 GMT",
-        "first_seen": "2026-03-01T08:38:49.036839"
-      },
-      "7b9a7de643ce6da7433cdde7b7c3999fe760cb6589a952e70ec5e623f4fa1c17": {
-        "title": "美国对伊朗发动袭击，哪些国防股有望受益，哪些可能受挫",
-        "link": "https://www.tmtpost.com/7894828.html",
-        "published_date": "Sun, 01 Mar 2026 09:22:00 GMT",
-        "first_seen": "2026-03-01T08:38:49.037018"
-      },
       "c33280708d8a64abe178c08abeb9fa81fe941c70ecc2dab52febe376b5df93ab": {
         "title": "【钛晨报】中国首个国家级人形机器人与具身智能标准体系发布；英伟达计划推出新芯片以加速人工智能处理；主要产油国宣布4月增产",
         "link": "https://www.tmtpost.com/7895142.html",
@@ -12050,13 +12056,91 @@
         "link": "https://sspai.com/post/108088",
         "published_date": "Tue, 31 Mar 2026 08:19:00 GMT",
         "first_seen": "2026-03-31T06:25:16.419313"
+      },
+      "c71d6683f3214568b09d14091cb2c17b450227f95790669d4a1bcaa387461b98": {
+        "title": "世界模型全球第一被中国拿下！极佳视界GigaWorld-1得分碾压谷歌、英伟达，开源半月狂揽16K下载",
+        "link": "https://www.infoq.cn/article/Ea7qoZWYLkDqY8mvDfzG?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 31 Mar 2026 17:01:00 GMT",
+        "first_seen": "2026-03-31T09:08:34.070495"
+      },
+      "578e51ffac6b513d56de32ce90ef58519eed86caccb6b98278027633724a8308": {
+        "title": "Apache Doris + SelectDB：定义 AI 时代，实时分析的三大范式",
+        "link": "https://www.infoq.cn/article/upjalB3iBabw6pQaQRTX?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 31 Mar 2026 16:41:00 GMT",
+        "first_seen": "2026-03-31T09:08:34.070514"
+      },
+      "ef7a61c4015b937d63168dd62fb27b9aea001cdf4bbdadad9ce054635b23f7b5": {
+        "title": "Airbnb在发现问题并非源于企业文化后，重新构建了告警开发流程",
+        "link": "https://www.infoq.cn/article/gdFZcSBtQMf8HHWZ6k3j?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 31 Mar 2026 16:00:00 GMT",
+        "first_seen": "2026-03-31T09:08:34.070526"
+      },
+      "15aa1af0237c202d4a690deaac2c5bfa4fc221318ec0de1cb940e6e85604ad2c": {
+        "title": "OpenClaw 火了之后，企业真正缺的不是更聪明的龙虾，而是一套上岗体系",
+        "link": "https://www.infoq.cn/article/XSBT0gvHvFom2OdbOoYH?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 31 Mar 2026 14:52:00 GMT",
+        "first_seen": "2026-03-31T09:08:34.070538"
+      },
+      "bdb48bc55ae3bc71775a8f11ca6a36a23071ff7a728ed5eaa21ff78e895ace14": {
+        "title": "4月月更启动！用文字记录你的每一个进步瞬间",
+        "link": "https://xie.infoq.cn/article/d7ac0e1c33765ac4c1631ff85?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 31 Mar 2026 13:51:00 GMT",
+        "first_seen": "2026-03-31T09:08:34.070549"
+      },
+      "b20e09c272347d5d525964419c37830d7d651b95850aeb94059f9cb87b5c5d4b": {
+        "title": "商业火箭，进入“大运力时代”",
+        "link": "https://www.tmtpost.com/7936179.html",
+        "published_date": "Tue, 31 Mar 2026 16:25:00 GMT",
+        "first_seen": "2026-03-31T09:08:34.070560"
+      },
+      "50c0704c7abf07d1e3ff05d55c8ced4108a4d031e0ea3a12d6c87978923b6854": {
+        "title": "中科曙光发了个“标配版”超节点，AI推理算力的未来形态？",
+        "link": "https://www.tmtpost.com/7936210.html",
+        "published_date": "Tue, 31 Mar 2026 16:24:00 GMT",
+        "first_seen": "2026-03-31T09:08:34.070571"
+      },
+      "2a14527a881b544b14aab5295ff4984d02f65f24471037d1db7db13c48b13d76": {
+        "title": "中国餐饮AI应用研究2026：餐饮AI加速变革，驱动行业“智能”跃迁",
+        "link": "https://www.tmtpost.com/7936099.html",
+        "published_date": "Tue, 31 Mar 2026 14:21:00 GMT",
+        "first_seen": "2026-03-31T09:08:34.070583"
+      },
+      "0f503e127560615ca1cf9bc7c269fe4c5ed9d4ccbd038c58c04acd5eb7d20ae6": {
+        "title": "盛极而罗技",
+        "link": "https://www.tmtpost.com/7936102.html",
+        "published_date": "Tue, 31 Mar 2026 14:21:00 GMT",
+        "first_seen": "2026-03-31T09:08:24.755585"
+      },
+      "c63a8017e8fabb473d41dae72ed08d0a37b1e63d38c090cd87f4d41688a5a871": {
+        "title": "失踪的“四圈转速”：一场关于动力、权力和Agent的跨时代共谋",
+        "link": "https://www.tmtpost.com/7935789.html",
+        "published_date": "Tue, 31 Mar 2026 14:18:00 GMT",
+        "first_seen": "2026-03-31T09:08:34.070594"
+      },
+      "849e4ece594ee42fb1fa6b68a76935e1ca81f2458cf63e0944bba1b836305d01": {
+        "title": "智能编码扎根生产级场景，阿里云系统化解题",
+        "link": "https://www.tmtpost.com/7935669.html",
+        "published_date": "Tue, 31 Mar 2026 14:18:00 GMT",
+        "first_seen": "2026-03-31T09:08:34.070462"
+      },
+      "7f48585d760245511f1328180b4540e83b310f24aca3164ad1f6828cefb914c8": {
+        "title": "即将上市的Kimi，会复刻MiniMax走势吗？",
+        "link": "https://www.tmtpost.com/7936085.html",
+        "published_date": "Tue, 31 Mar 2026 14:17:00 GMT",
+        "first_seen": "2026-03-31T09:08:24.757047"
+      },
+      "0e00fca2226831531dcb473f65c86ac2e2aef2bd75774dba2e42efe722d8ce8d": {
+        "title": "一日一技 | 如何正确进行 vivo Log 的色彩空间转换",
+        "link": "https://sspai.com/post/108101",
+        "published_date": "Tue, 31 Mar 2026 15:03:00 GMT",
+        "first_seen": "2026-03-31T09:08:24.757753"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-03-31T06:25:16.613290",
-    "Technology": "2026-03-31T06:25:16.451466",
-    "Finance": "2026-03-31T06:25:16.470574"
+    "AI": "2026-03-31T09:08:34.272303",
+    "Technology": "2026-03-31T09:08:34.112763",
+    "Finance": "2026-03-31T09:08:34.131973"
   }
 }
