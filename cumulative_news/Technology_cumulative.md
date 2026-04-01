@@ -1,7 +1,112 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-31 23:40
+**最后更新时间**: 2026-04-01 09:13
+
+---
+
+## 🆕 最新更新 (2026-04-01 09:13)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI编程的底牌，原来这么不值钱](https://www.tmtpost.com/7937664.html)
+**发布时间**: 2026-04-01 17:00
+
+#### [文远知行迪拜突围：中国自动驾驶的分水岭时刻](https://www.tmtpost.com/7937749.html)
+**发布时间**: 2026-04-01 17:00
+
+#### [从B2B到A2A：Agent新基建，如何让“一人企业”做全球生意？](https://www.tmtpost.com/7937773.html)
+**发布时间**: 2026-04-01 17:00
+
+#### [智谱、MiniMax：烧钱越猛，市值越高](https://www.tmtpost.com/7937779.html)
+**发布时间**: 2026-04-01 17:00
+
+#### [深圳：一个市为何能吞下全国器械10%的蛋糕？](https://www.tmtpost.com/7937789.html)
+**发布时间**: 2026-04-01 17:00
+
+#### [第一个“春假+清明”背后，旅游消费行业的机遇](https://www.tmtpost.com/7937810.html)
+**发布时间**: 2026-04-01 17:00
+
+#### [百度萝卜快跑为何在武汉集体失智？](https://www.tmtpost.com/7937830.html)
+**发布时间**: 2026-04-01 17:00
+
+#### [叶国富还是爱王宁](https://www.tmtpost.com/7937848.html)
+**发布时间**: 2026-04-01 17:00
+
+#### [太二背叛酸菜鱼](https://www.tmtpost.com/7937994.html)
+**发布时间**: 2026-04-01 17:00
+
+#### [当男性不再“重金追爱”，礼物经济的新机会在哪里？](https://www.tmtpost.com/7937981.html)
+**发布时间**: 2026-04-01 16:27
+
+#### [TCL中环12.58亿收购一道新能源：负负能否得正？](https://www.tmtpost.com/7937878.html)
+**发布时间**: 2026-04-01 16:19
+
+#### [报告：脑机接口有望进入大规模商业化“黄金窗口期”| 钛快讯](https://www.tmtpost.com/7937881.html)
+**发布时间**: 2026-04-01 15:51
+
+#### [51万行源码裸奔、虚假“替罪羊”登场：Anthropic这次的事故，比看起来严重得多](https://www.tmtpost.com/7937922.html)
+**发布时间**: 2026-04-01 15:36
+
+#### [张雪为理想主义点火，张雪峰为现实主义扫灰](https://www.tmtpost.com/7937651.html)
+**发布时间**: 2026-04-01 15:33
+
+#### [DigClaw 获百万美元天使轮投资，用AI监测水下的人才和商机｜融资速递](https://www.tmtpost.com/7937898.html)
+**发布时间**: 2026-04-01 15:29
+
+#### [从“全民养虾”到企业落地：OpenClaw的三重现实拷问](https://www.tmtpost.com/7937847.html)
+**发布时间**: 2026-04-01 15:28
+
+#### [今年“最妖”独角兽：十个月，估值翻六倍](https://www.tmtpost.com/7937593.html)
+**发布时间**: 2026-04-01 15:27
+
+#### [武汉三环线上萝卜快跑“集体抛锚”，给自动驾驶上了一堂什么课](https://www.tmtpost.com/7937576.html)
+**发布时间**: 2026-04-01 15:27
+
+#### [尹阔的“参半”要上市了](https://www.tmtpost.com/7937614.html)
+**发布时间**: 2026-04-01 15:27
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [告别“语义黑盒”：当 Agent 走进生产环境，我们如何驯服它的“不可预测”？](https://www.infoq.cn/article/NuNH2aN2qGfdm2s2TlMd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-01 15:39
+
+#### [突破泛化瓶颈：阿里云智能运维 Agent 评测体系实践](https://www.infoq.cn/article/9qgbqQFhMvJmTkPoFG8l?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-01 15:20
+
+#### [Claude Code 已经过度设计？OpenClaw 背后的 Pi 给出了一个极简答案](https://www.infoq.cn/article/KyLqAEKpkvrH3tJwMgiw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-01 14:47
+
+#### [Claude Code 意外“开源”，51 万行源码曝光，但真正的秘密没有泄露](https://www.infoq.cn/article/cCAes2WpcXMxcovMSFCl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-01 14:20
+
+#### [“随选随配”的自定义区域：Cloudflare 推出细粒度数据驻留控制](https://www.infoq.cn/article/9dbzdTQbw2ptCTlEtcyA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-01 14:00
+
+#### [Java 近期资讯：GraalVM Build Tools、EclipseLink、Spring 里程碑版本、Open Liberty 和 Quarkus](https://www.infoq.cn/article/dyhfDQ7UEaqDKp4PlAaw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-01 11:48
+
+#### [HashiCorp Vault 1.21 带来 SPIFFE 认证、细粒度密钥恢复等新特性](https://www.infoq.cn/article/L9IS1LTsK02pUqDtSRyc?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-01 11:00
+
+#### [实验性 Web Install API 试图改进应用发现与分发方式](https://www.infoq.cn/article/0dYUUYMXFhckJ0fp51FN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-01 10:10
+
+#### [Discord 工程团队如何在 Elixir Actor 模型中实现分布式追踪而不牺牲性能](https://www.infoq.cn/article/gd1MFMLi1jIF0lK099B5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-01 10:00
+
+#### [从日志到 Commit：蓝鲸全链路可观测与 AI 提效实践｜QCon北京](https://www.infoq.cn/article/cdrsZORyN18ZsqlCjcsk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-01 10:00
+
+#### [Claude 顶不住了：先限额，再封号，最贵那批用户开始被清退](https://www.infoq.cn/article/RitrBOkcQQtB2zG5dcWf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-01 09:48
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Agent 的家：如何在 AI 时代搭建硬件基座](https://sspai.com/post/108064)
+**发布时间**: 2026-04-01 14:48
+
+#### [派早报：Claude Code 源码意外泄露、OpenAI 获 1220 亿美元融资等](https://sspai.com/post/108133)
+**发布时间**: 2026-04-01 08:08
 
 ---
 
