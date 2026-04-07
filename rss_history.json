@@ -1,24 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "dd3c1be099bc092dea23b457ddff6989a31f6b666d397fcbc5667756535bd75f": {
-        "title": "20岁大学生花10天VibeCoding一个开源项目，获盛大3000万投资",
-        "link": "https://www.qbitai.com/2026/03/384728.html",
-        "published_date": "Sun, 08 Mar 2026 07:15:00 GMT",
-        "first_seen": "2026-03-08T08:37:34.428425"
-      },
-      "acb3318fd605ee14f17a62df4f31e5a9f326fb1aa15bd8eb1b0198adf64a96d9": {
-        "title": "清华公布毕业生去向：出国比例仅8.5%，华为字节是最大赢家",
-        "link": "https://www.qbitai.com/2026/03/384705.html",
-        "published_date": "Sun, 08 Mar 2026 06:50:00 GMT",
-        "first_seen": "2026-03-08T08:37:34.428579"
-      },
-      "a5b4f5e33e5b8036f9f9bf08897e060b3645673f994646fa3e283a98d807cc64": {
-        "title": "劝视频博主别拿龙虾起号，7×24小时全自动，碳基生物真卷不过",
-        "link": "https://www.qbitai.com/2026/03/384646.html",
-        "published_date": "Sun, 08 Mar 2026 06:45:00 GMT",
-        "first_seen": "2026-03-08T08:37:34.428727"
-      },
       "2fbf9d1fb2ec453e70df18752da1541c779689a4cae39dd60552e10a1d084963": {
         "title": "高中生AI创业，现在只招龙虾员工：每月成本2800",
         "link": "https://www.qbitai.com/2026/03/384797.html",
@@ -1368,21 +1350,15 @@
         "link": "https://www.qbitai.com/2026/04/396880.html",
         "published_date": "Tue, 07 Apr 2026 02:15:00 GMT",
         "first_seen": "2026-04-07T06:21:59.594464"
+      },
+      "4e69b6155234ad2a1f3d515db6a81f2bb18f0cba8c943b7b8b440a545173e03d": {
+        "title": "像素蛋糕9.0：一场关于AI与修图的颠覆革命",
+        "link": "https://www.qbitai.com/2026/04/397517.html",
+        "published_date": "Tue, 07 Apr 2026 07:34:00 GMT",
+        "first_seen": "2026-04-07T09:11:27.932744"
       }
     },
     "Technology": {
-      "53c4c5ed94caf1322b3adedfd7426326fbe7d5413d9af6eb46847e95dd184480": {
-        "title": "晚安，明天见：Arrows N 与富士通的退场",
-        "link": "https://sspai.com/post/106483",
-        "published_date": "Sun, 08 Mar 2026 12:53:00 GMT",
-        "first_seen": "2026-03-08T08:37:34.268031"
-      },
-      "1db73485b3536252b5f760b4972e60db7e5ad259ca152a17d75e5bb0a0f26ebc": {
-        "title": "从业者集体辟谣：AI短剧《霍去病》根本搜不到，不存在3000块钱80集",
-        "link": "http://www.huxiu.com/article/4840071.html?f=wangzhan",
-        "published_date": "Sun, 08 Mar 2026 12:52:00 GMT",
-        "first_seen": "2026-03-08T08:37:34.268204"
-      },
       "55f84ee329c427ee1b2319fe3f7e1d62a04293cc1edb5378f02370bca168be27": {
         "title": "锐步中国业务易主，业绩困局下的机遇与挑战",
         "link": "https://www.tmtpost.com/7904685.html",
@@ -11564,13 +11540,79 @@
         "link": "https://sspai.com/post/108326",
         "published_date": "Tue, 07 Apr 2026 08:18:00 GMT",
         "first_seen": "2026-04-07T06:21:59.430594"
+      },
+      "2c1338879922af409fda263a05eb30dad031066f2549fcca13cb31bef2e431a7": {
+        "title": "力控与运控的融合，共话具身智能“小脑”进化的破局之道",
+        "link": "https://www.tmtpost.com/7941651.html",
+        "published_date": "Tue, 07 Apr 2026 16:53:00 GMT",
+        "first_seen": "2026-04-07T09:11:27.750203"
+      },
+      "839be43240057bd0e74476593b774e4c9f7f38ee484b1262331c2a1ac0ecdab4": {
+        "title": "Token浪潮之下，中国互联网座次重排",
+        "link": "https://www.tmtpost.com/7943462.html",
+        "published_date": "Tue, 07 Apr 2026 16:34:00 GMT",
+        "first_seen": "2026-04-07T09:11:27.750216"
+      },
+      "a91be3fc3d1b2431687a75ed2de33bcab783d88c773cfa5b490023f4af543b88": {
+        "title": "并购圈没人敢说的真话：你花的那些钱，买的根本不是未来，是包袱",
+        "link": "https://www.tmtpost.com/7943616.html",
+        "published_date": "Tue, 07 Apr 2026 16:34:00 GMT",
+        "first_seen": "2026-04-07T09:11:27.750228"
+      },
+      "fdcb1332c8fc09aaef4bf6e7e5bbaf2e16b2f2a5ce5cc10666345623cf963198": {
+        "title": "“虎口夺食”25亿！深圳网红品牌要上市了",
+        "link": "https://www.tmtpost.com/7943619.html",
+        "published_date": "Tue, 07 Apr 2026 16:34:00 GMT",
+        "first_seen": "2026-04-07T09:11:27.750239"
+      },
+      "5b86fbf145e238befae05487b34222d8bc23281d5f5353592a00fb0c972b5abd": {
+        "title": "炸穿硅谷！270页文件曝光OpenAI绝密黑料，撕开AI巨头资本权力暗战",
+        "link": "https://www.tmtpost.com/7943896.html",
+        "published_date": "Tue, 07 Apr 2026 16:30:00 GMT",
+        "first_seen": "2026-04-07T09:11:27.750250"
+      },
+      "ea9fbfd5fc7ee4bfd7b67fc1dbf3a3a8e91824f626d6a3ce4eb1b26d2d446e9d": {
+        "title": "中国电力70年：“帝国”是怎样炼成的？",
+        "link": "https://www.tmtpost.com/7943599.html",
+        "published_date": "Tue, 07 Apr 2026 15:49:00 GMT",
+        "first_seen": "2026-04-07T09:11:27.750260"
+      },
+      "bd9749d8f70d85851ffe33fd3cafdf1091d9da933b7ab63e16358132afaee853": {
+        "title": "卖“千元神器”， 浙大学霸年入5亿，正冲刺上市",
+        "link": "https://www.tmtpost.com/7943500.html",
+        "published_date": "Tue, 07 Apr 2026 15:26:00 GMT",
+        "first_seen": "2026-04-07T09:11:27.750272"
+      },
+      "b66e2ffcb5146b06849d4280565d89cbc1d15b3727d57bfc650a2d50f3f6744e": {
+        "title": "独家丨2万㎡，3.5万sku：鸣鸣很忙CEO晏周亲抓新项目",
+        "link": "https://www.tmtpost.com/7943636.html",
+        "published_date": "Tue, 07 Apr 2026 14:28:00 GMT",
+        "first_seen": "2026-04-07T09:11:27.750283"
+      },
+      "1bbe618cdab12e7f4f7965627516d2775ed969eca504f3e7d39db295ceef2d40": {
+        "title": "半导体设备国产化，进入下半场",
+        "link": "https://www.tmtpost.com/7943468.html",
+        "published_date": "Tue, 07 Apr 2026 14:28:00 GMT",
+        "first_seen": "2026-04-07T09:11:27.750292"
+      },
+      "fcd42f1a3338a3819a659d12e486fb08fcb7888c4f738d8cda8ed547392aaa47": {
+        "title": "Teleport的报告发现，过度授权的AI系统与安全事件增长密切相关",
+        "link": "https://www.infoq.cn/article/iVJbFCtkDxMSgw9KoRV0?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 07 Apr 2026 15:00:00 GMT",
+        "first_seen": "2026-04-07T09:11:27.750173"
+      },
+      "64006171bb3e7794243e08fd990b23c9686b3ce25b80340ffb3638c668517763": {
+        "title": "写给「跑两步就喘」的你：跑前精准热身，缓解跑时疼痛",
+        "link": "https://sspai.com/post/108150",
+        "published_date": "Tue, 07 Apr 2026 15:00:00 GMT",
+        "first_seen": "2026-04-07T09:11:18.373348"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-04-07T06:21:59.600671",
-    "Technology": "2026-04-07T06:21:59.457209",
-    "Finance": "2026-04-07T06:21:59.474148"
+    "AI": "2026-04-07T09:11:27.939853",
+    "Technology": "2026-04-07T09:11:27.766346",
+    "Finance": "2026-04-07T09:11:27.786116"
   }
 }

@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 07 Apr 2026 06:21:00 GMT</pubDate>
-    <lastBuildDate>Tue, 07 Apr 2026 06:21:59 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Apr 2026 09:11:00 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Apr 2026 09:11:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从上下文到经验资产：OpenClaw 热潮下的 Agent 记忆系统工程实践｜QCon北京</title>
-      <link>https://www.infoq.cn/article/IQfviaUpKcyUVudfrzip?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从上下文到经验资产：OpenClaw 热潮下的 Agent 记忆系统工程实践｜QCon北京]]&gt;</description>
-      <pubDate>Tue, 07 Apr 2026 14:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/IQfviaUpKcyUVudfrzip?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Teleport的报告发现，过度授权的AI系统与安全事件增长密切相关</title>
+      <link>https://www.infoq.cn/article/iVJbFCtkDxMSgw9KoRV0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Teleport的报告发现，过度授权的AI系统与安全事件增长密切相关]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/iVJbFCtkDxMSgw9KoRV0?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>ProxySQL推出多层的版本发布策略</title>
-      <link>https://www.infoq.cn/article/sq4eVTOlT8w9Ew9qSdW2?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[ProxySQL推出多层的版本发布策略]]&gt;</description>
-      <pubDate>Tue, 07 Apr 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/sq4eVTOlT8w9Ew9qSdW2?utm_source=rss&amp;utm_medium=article</guid>
+      <title>力控与运控的融合，共话具身智能“小脑”进化的破局之道</title>
+      <link>https://www.tmtpost.com/7941651.html</link>
+      <description>&lt;![CDATA[力控与运控的融合，共话具身智能“小脑”进化的破局之道]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 16:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7941651.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Cursor 3 发布：IDE 不重要了，智能体控制台上位，VS Code 这一套开始失效</title>
-      <link>https://www.infoq.cn/article/t2evtKXuwXOUo9woSQyX?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cursor 3 发布：IDE 不重要了，智能体控制台上位，VS Code 这一套开始失效]]&gt;</description>
-      <pubDate>Tue, 07 Apr 2026 11:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/t2evtKXuwXOUo9woSQyX?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Token浪潮之下，中国互联网座次重排</title>
+      <link>https://www.tmtpost.com/7943462.html</link>
+      <description>&lt;![CDATA[Token浪潮之下，中国互联网座次重排]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 16:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7943462.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>美团内部禁用Qwen；月之暗面将给未毕业实习生发期权；小米要全体研发人员进行AI考试｜AI周报</title>
-      <link>https://www.infoq.cn/article/MJmMrcJzh7vo6egI3Bbz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[美团内部禁用Qwen；月之暗面将给未毕业实习生发期权；小米要全体研发人员进行AI考试｜AI周报]]&gt;</description>
-      <pubDate>Tue, 07 Apr 2026 10:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/MJmMrcJzh7vo6egI3Bbz?utm_source=rss&amp;utm_medium=article</guid>
+      <title>并购圈没人敢说的真话：你花的那些钱，买的根本不是未来，是包袱</title>
+      <link>https://www.tmtpost.com/7943616.html</link>
+      <description>&lt;![CDATA[并购圈没人敢说的真话：你花的那些钱，买的根本不是未来，是包袱]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 16:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7943616.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>将配置作为控制平面：设计安全可靠的大规模系统</title>
-      <link>https://www.infoq.cn/article/CYcokuDpJg9Si5uyfu2Z?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[将配置作为控制平面：设计安全可靠的大规模系统]]&gt;</description>
-      <pubDate>Tue, 07 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/CYcokuDpJg9Si5uyfu2Z?utm_source=rss&amp;utm_medium=article</guid>
+      <title>“虎口夺食”25亿！深圳网红品牌要上市了</title>
+      <link>https://www.tmtpost.com/7943619.html</link>
+      <description>&lt;![CDATA[“虎口夺食”25亿！深圳网红品牌要上市了]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 16:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7943619.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：OpenAI 发布文章探讨 AI 时代的政策建议等</title>
-      <link>https://sspai.com/post/108326</link>
-      <description>&lt;![CDATA[派早报：OpenAI 发布文章探讨 AI 时代的政策建议等]]&gt;</description>
-      <pubDate>Tue, 07 Apr 2026 08:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/108326</guid>
+      <title>炸穿硅谷！270页文件曝光OpenAI绝密黑料，撕开AI巨头资本权力暗战</title>
+      <link>https://www.tmtpost.com/7943896.html</link>
+      <description>&lt;![CDATA[炸穿硅谷！270页文件曝光OpenAI绝密黑料，撕开AI巨头资本权力暗战]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 16:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7943896.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2026龙虾饲养手册：21套“养虾”方案横评，从个人到企业怎么选</title>
-      <link>https://www.infoq.cn/article/ePtWEQZ7vkpqTjOlsMHU?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[2026龙虾饲养手册：21套“养虾”方案横评，从个人到企业怎么选]]&gt;</description>
-      <pubDate>Tue, 07 Apr 2026 11:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ePtWEQZ7vkpqTjOlsMHU?utm_source=rss&amp;utm_medium=article</guid>
+      <title>中国电力70年：“帝国”是怎样炼成的？</title>
+      <link>https://www.tmtpost.com/7943599.html</link>
+      <description>&lt;![CDATA[中国电力70年：“帝国”是怎样炼成的？]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 15:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7943599.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>在拥有5亿用户的应用中落地SwiftUI的经验与教训</title>
-      <link>https://www.infoq.cn/article/7p4EA1l5a5g9jfTiWQmk?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[在拥有5亿用户的应用中落地SwiftUI的经验与教训]]&gt;</description>
-      <pubDate>Tue, 07 Apr 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/7p4EA1l5a5g9jfTiWQmk?utm_source=rss&amp;utm_medium=article</guid>
+      <title>卖“千元神器”， 浙大学霸年入5亿，正冲刺上市</title>
+      <link>https://www.tmtpost.com/7943500.html</link>
+      <description>&lt;![CDATA[卖“千元神器”， 浙大学霸年入5亿，正冲刺上市]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 15:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7943500.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一场机器人黑客松，让具身智能的差距与机会同时显形</title>
-      <link>https://www.infoq.cn/article/0T9Kw9O0obj0wV2NizC7?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[一场机器人黑客松，让具身智能的差距与机会同时显形]]&gt;</description>
-      <pubDate>Tue, 07 Apr 2026 10:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/0T9Kw9O0obj0wV2NizC7?utm_source=rss&amp;utm_medium=article</guid>
+      <title>独家丨2万㎡，3.5万sku：鸣鸣很忙CEO晏周亲抓新项目</title>
+      <link>https://www.tmtpost.com/7943636.html</link>
+      <description>&lt;![CDATA[独家丨2万㎡，3.5万sku：鸣鸣很忙CEO晏周亲抓新项目]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 14:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7943636.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>面壁智能官宣新一轮数亿元融资，国家队与产业资本同时下注</title>
-      <link>https://www.infoq.cn/article/dOQ5rL2j5Fw1JV2OW8ji?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[面壁智能官宣新一轮数亿元融资，国家队与产业资本同时下注]]&gt;</description>
-      <pubDate>Tue, 07 Apr 2026 10:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/dOQ5rL2j5Fw1JV2OW8ji?utm_source=rss&amp;utm_medium=article</guid>
+      <title>半导体设备国产化，进入下半场</title>
+      <link>https://www.tmtpost.com/7943468.html</link>
+      <description>&lt;![CDATA[半导体设备国产化，进入下半场]]&gt;</description>
+      <pubDate>Tue, 07 Apr 2026 14:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7943468.html</guid>
       <category>Technology</category>
     </item>
   </channel>
