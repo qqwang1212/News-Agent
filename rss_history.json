@@ -11390,13 +11390,43 @@
         "link": "https://www.tmtpost.com/7949595.html",
         "published_date": "Sat, 11 Apr 2026 11:04:00 GMT",
         "first_seen": "2026-04-11T06:05:34.100018"
+      },
+      "48545284bb9d6fe15cfc618c1aa76f98735d88458adab0f9cadaa45073daeb00": {
+        "title": "奥特曼家差点被烧，AI争议滑向物理暴力",
+        "link": "https://www.tmtpost.com/7949710.html",
+        "published_date": "Sat, 11 Apr 2026 16:43:00 GMT",
+        "first_seen": "2026-04-11T08:53:38.413950"
+      },
+      "913e9eae6140f83a3a3d9178274cbc6581057df130b79da9f4b85c24bfbdc312": {
+        "title": "大模型厂商，是时候告别Token狂欢了",
+        "link": "https://www.tmtpost.com/7949702.html",
+        "published_date": "Sat, 11 Apr 2026 16:36:00 GMT",
+        "first_seen": "2026-04-11T08:53:38.414104"
+      },
+      "060ccc222c1a0c32262820be34e728b87a268cdbb9a88160e4adfaa4b481d3e6": {
+        "title": "出去过的每个人都在讲，国外的钱也没有那么好挣",
+        "link": "https://www.tmtpost.com/7949674.html",
+        "published_date": "Sat, 11 Apr 2026 14:18:00 GMT",
+        "first_seen": "2026-04-11T08:53:38.414236"
+      },
+      "85b0f86396e863a1e10f233f5e22d77b08ed0b4c896fae51e441f06f1828339d": {
+        "title": "浅谈人工智能时代的用户体验：Agent Experience 导论",
+        "link": "https://sspai.com/post/107600",
+        "published_date": "Sat, 11 Apr 2026 15:18:00 GMT",
+        "first_seen": "2026-04-11T08:53:38.414423"
+      },
+      "1a81643b8ac9e21dee0a461ac0baa24471070f99ceeb2a54dd19fd14f18bdf43": {
+        "title": "Tailwind CSS 4.2 发布 Webpack 插件、新配色方案以及逻辑属性工具类",
+        "link": "https://www.infoq.cn/article/50T48b3TOSJZRAa4GGx9?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 11 Apr 2026 15:00:00 GMT",
+        "first_seen": "2026-04-11T08:53:38.414741"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-04-11T06:05:34.006159",
-    "Technology": "2026-04-11T06:05:43.421217",
-    "Finance": "2026-04-11T06:05:33.877734"
+    "AI": "2026-04-11T08:53:38.329082",
+    "Technology": "2026-04-11T08:53:38.434240",
+    "Finance": "2026-04-11T08:53:38.209200"
   }
 }
