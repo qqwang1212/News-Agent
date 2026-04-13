@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "2a999b453d3ddcde79a172ca5babcd1244b49d6b0f10710c8ace8c1a88824b09": {
-        "title": "龙虾版支付宝来了！睡觉都在帮你抢红包",
-        "link": "https://www.qbitai.com/2026/03/387768.html",
-        "published_date": "Sat, 14 Mar 2026 05:30:00 GMT",
-        "first_seen": "2026-03-14T05:52:06.994118"
-      },
       "0a2a35d381165d124e53492fc451b0382447b1a29275129e64e6cf3613f6d25b": {
         "title": "量子位专访陶哲轩：我为什么现在创办一个AI x Science组织",
         "link": "https://www.qbitai.com/2026/03/387832.html",
@@ -1344,147 +1338,21 @@
         "link": "https://www.qbitai.com/2026/04/399996.html",
         "published_date": "Sun, 12 Apr 2026 14:02:00 GMT",
         "first_seen": "2026-04-12T23:42:24.608789"
+      },
+      "a33e4b6f64fba434d7bd9e0396a0b841fb124596439df1397ebc3e99d9a71340": {
+        "title": "Claude强到不敢发的Mythos，被质疑用了字节Seed技术",
+        "link": "https://www.qbitai.com/2026/04/400500.html",
+        "published_date": "Mon, 13 Apr 2026 05:41:00 GMT",
+        "first_seen": "2026-04-13T07:18:09.274021"
+      },
+      "70fd477e728a20de3cbcbadd317afd7fb7b6bdb44b8b9515a846715a66e98a0a": {
+        "title": "有人把巴菲特芒格炼化成Agent，然后开源了…",
+        "link": "https://www.qbitai.com/2026/04/400350.html",
+        "published_date": "Mon, 13 Apr 2026 05:21:00 GMT",
+        "first_seen": "2026-04-13T07:18:09.274200"
       }
     },
     "Technology": {
-      "995572b45d3f16a29b1ee9c1aa7e9bd25ce807ee2788b4d47071fb2937725854": {
-        "title": "AWE现场“AuraLink光通信技术”全球首发，做AI与具身机器人的“超级神经”｜公司动态",
-        "link": "https://www.tmtpost.com/7914173.html",
-        "published_date": "Sat, 14 Mar 2026 12:54:00 GMT",
-        "first_seen": "2026-03-14T05:52:06.802380"
-      },
-      "24e05f8883987ad71579ca18d55d4529e32667cd20256e52065c6c3bfea2822f": {
-        "title": "Science｜“免疫-生殖”轴新发现！西班牙科学家发现大脑免疫细胞是生育调控的关键",
-        "link": "https://www.tmtpost.com/7913920.html",
-        "published_date": "Sat, 14 Mar 2026 12:42:00 GMT",
-        "first_seen": "2026-03-14T05:52:06.802424"
-      },
-      "2b9e6392ba227f28cb6b6574ac23e31138896c605d383727b1d159fe0bf34468": {
-        "title": "南都电源董事长的生意经",
-        "link": "https://www.tmtpost.com/7913934.html",
-        "published_date": "Sat, 14 Mar 2026 12:42:00 GMT",
-        "first_seen": "2026-03-14T05:52:06.802435"
-      },
-      "c8e6aa686a829d3e03773695f33b0108a55b5dc9a449b8aef5140c1c14bbe778": {
-        "title": "香港廉署请喝咖啡，ECM高管突然“停牌”",
-        "link": "https://www.tmtpost.com/7913968.html",
-        "published_date": "Sat, 14 Mar 2026 12:42:00 GMT",
-        "first_seen": "2026-03-14T05:52:06.802447"
-      },
-      "98aa1f08bc4751c790ebaa28542836e40b551024a9b629b3a9da2da0a85dd5e7": {
-        "title": "“AI教母”李飞飞：2年干出350亿，英伟达、AMD抢着送钱",
-        "link": "https://www.tmtpost.com/7914027.html",
-        "published_date": "Sat, 14 Mar 2026 12:42:00 GMT",
-        "first_seen": "2026-03-14T05:52:06.802459"
-      },
-      "341857fc1e3b3391e15915b7bdd509f4af6a38bfc3176494eb00cf52a4d586bb": {
-        "title": "暴赚722亿的“宁王”，还有什么故事可讲？",
-        "link": "https://www.tmtpost.com/7914111.html",
-        "published_date": "Sat, 14 Mar 2026 12:42:00 GMT",
-        "first_seen": "2026-03-14T05:52:06.802469"
-      },
-      "8c14c845e600f0dcde930d2b1b48302b1c31f12632438004d75bc9c62775673e": {
-        "title": "港交所拟进一步改革：所有公司都可秘密递表，“同股不同权”上市门槛腰斩至200亿港元",
-        "link": "https://www.tmtpost.com/7914132.html",
-        "published_date": "Sat, 14 Mar 2026 12:42:00 GMT",
-        "first_seen": "2026-03-14T05:52:06.802480"
-      },
-      "8e23c138e7e931b50b621fd6158293de7497fef86afaf94194e46b02e5849815": {
-        "title": "数智化的最大谎言：为什么高管的战略宏图，总是碎于底层的执行泥潭？",
-        "link": "https://www.tmtpost.com/7914134.html",
-        "published_date": "Sat, 14 Mar 2026 12:42:00 GMT",
-        "first_seen": "2026-03-14T05:52:06.802489"
-      },
-      "2c236d8ce2bdd5e549784f3aa7d88f85c2e0f073e701d7cd44b9716721503d88": {
-        "title": "为什么你能感觉到烫、痒、疼？中科院神经所窦艳侬/孙衍刚团队首次绘制完整脊髓投射神经元图谱",
-        "link": "https://www.tmtpost.com/7913917.html",
-        "published_date": "Sat, 14 Mar 2026 11:56:00 GMT",
-        "first_seen": "2026-03-14T05:52:06.802500"
-      },
-      "67dfc0ba20aba9a71d372ed031a4e21fc63ac14145a2c682154345e037e64cf6": {
-        "title": "Nat子刊：田波/张培团队揭示VTA-ACC多巴胺环路调控观察性社交回避的机制",
-        "link": "https://www.tmtpost.com/7913919.html",
-        "published_date": "Sat, 14 Mar 2026 11:56:00 GMT",
-        "first_seen": "2026-03-14T05:51:57.496493"
-      },
-      "ef4b19b0dfcf03b53964871d70cd2eeda34a4b579e1fca1a57b4bd53798c090d": {
-        "title": "王兴不想做老登",
-        "link": "https://www.tmtpost.com/7914086.html",
-        "published_date": "Sat, 14 Mar 2026 11:56:00 GMT",
-        "first_seen": "2026-03-14T05:51:57.496764"
-      },
-      "bb459ccace68d51756b3bd74d5006cb68e0a6c0a500d33f16d04e2bd11b8b27a": {
-        "title": "揭秘腾讯“龙虾特攻队”：火爆的线下装机复盘以及如何守住安全红线？",
-        "link": "https://www.tmtpost.com/7913772.html",
-        "published_date": "Sat, 14 Mar 2026 11:48:00 GMT",
-        "first_seen": "2026-03-14T05:51:57.497396"
-      },
-      "426ef49c505594f24deba2ea6e64cda4b329453e4e60093f0b9c654365e5b760": {
-        "title": "如果马斯克来了AWE，他会怎么看？",
-        "link": "https://www.tmtpost.com/7913747.html",
-        "published_date": "Sat, 14 Mar 2026 11:36:00 GMT",
-        "first_seen": "2026-03-14T05:51:57.497843"
-      },
-      "4e8b78f92f04afb1ba3271554b7113ac5295046f6a7f0d98d7ad2b5966b0f2c5": {
-        "title": "陆金所“渡劫”：38亿隐秘兜底，14月后的治理重构",
-        "link": "https://www.tmtpost.com/7913736.html",
-        "published_date": "Sat, 14 Mar 2026 11:36:00 GMT",
-        "first_seen": "2026-03-14T05:51:57.498572"
-      },
-      "d454b3cc44c19568a49568076bbe44900a5b622e23986a08d2177e0141f6b037": {
-        "title": "字节跳动四处“偷家”",
-        "link": "https://www.tmtpost.com/7913616.html",
-        "published_date": "Sat, 14 Mar 2026 11:17:00 GMT",
-        "first_seen": "2026-03-14T05:51:57.498997"
-      },
-      "c798783dd53eb517b99b0aaab42a55b6e2951cc53877def73db8f67df764288c": {
-        "title": "从地面到苍穹，追觅全宇宙加速“芯际穿越”",
-        "link": "https://www.tmtpost.com/7914085.html",
-        "published_date": "Sat, 14 Mar 2026 10:52:00 GMT",
-        "first_seen": "2026-03-14T05:51:57.499638"
-      },
-      "ceae0a6c43631b8de357ac822509d8dd67b8ecaffcbd75da1362bcfc3e576127": {
-        "title": "危险走了，为什么你还害怕？美国Stephen Maren团队揭示LC-BLA是调控恐惧消退的关键环路",
-        "link": "https://www.tmtpost.com/7913918.html",
-        "published_date": "Sat, 14 Mar 2026 10:35:00 GMT",
-        "first_seen": "2026-03-14T05:51:57.500859"
-      },
-      "ecad183b7063591cec23899b827d62c158a1b05a824a8db5b8b3df32d72510e4": {
-        "title": "理想汽车的变革方向，被严重误解了",
-        "link": "https://www.tmtpost.com/7913944.html",
-        "published_date": "Sat, 14 Mar 2026 10:05:00 GMT",
-        "first_seen": "2026-03-14T05:51:57.501459"
-      },
-      "4f210c83caf5e3b93cdcd7cd7627f53e7228db2b50677f4145daa13f88a5044b": {
-        "title": "马拉比中国行解密DeepMind：哈萨比斯错失大模型先机的真相",
-        "link": "https://www.tmtpost.com/7913014.html",
-        "published_date": "Sat, 14 Mar 2026 09:51:00 GMT",
-        "first_seen": "2026-03-14T05:51:57.502346"
-      },
-      "80aef05d9607579db42fab53264236a942324f7b76585ea08ae2dd7e7ef8e099": {
-        "title": "规范化后量子IPsec: Cloudflare采用混合ML-KEM以取代密码套件膨胀",
-        "link": "https://www.infoq.cn/article/liUSDE1OqvSe6PmcWbJN?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 14 Mar 2026 11:00:00 GMT",
-        "first_seen": "2026-03-14T05:51:57.503491"
-      },
-      "da1be9081766886ed5c5ebb62159de823a8cab034b487f6e290cb3203aa7667b": {
-        "title": "亚马逊云科技在其EC2实例中推出了对嵌套虚拟化的支持",
-        "link": "https://www.infoq.cn/article/BjkWK5Tub7klY2d184XP?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 14 Mar 2026 10:00:00 GMT",
-        "first_seen": "2026-03-14T05:52:06.802408"
-      },
-      "f5688582dab1a6492d635d79b5def678a15085bae108c6c9d091b83ccba7b6c0": {
-        "title": "免费试读 | 日本温泉完全指南：如何找、怎么泡、泡哪里？",
-        "link": "https://sspai.com/post/103326",
-        "published_date": "Sat, 14 Mar 2026 10:29:00 GMT",
-        "first_seen": "2026-03-14T05:51:57.505425"
-      },
-      "196b1ed5996fbb47b6b2dff5def2509a790328314599348d5f6139340b2ab074": {
-        "title": "Sonos 周年团购限时开启：专属好价仅限今日",
-        "link": "https://sspai.com/post/107134",
-        "published_date": "Sat, 14 Mar 2026 09:00:00 GMT",
-        "first_seen": "2026-03-14T05:51:57.506820"
-      },
       "39781ed7ceaddaede57ab7d9a24776e31af141876ae7adcce49635776ba4e403": {
         "title": "大厂“龙虾”vs开源“澳龙”，2026 claw横评",
         "link": "https://www.tmtpost.com/7914204.html",
@@ -10808,13 +10676,169 @@
         "link": "https://sspai.com/post/106369",
         "published_date": "Sun, 12 Apr 2026 17:46:00 GMT",
         "first_seen": "2026-04-12T23:42:24.720104"
+      },
+      "d1713ee1b9c06ad56560ed3b90bdbaad589afc88dcb2be8b9ab3f0eb69c2a83e": {
+        "title": "Cloudflare发布Dynamic Workers公开测试版：基于Isolates的沙箱环境执行AI智能体代码",
+        "link": "https://www.infoq.cn/article/71XfFmTWWDmIhtqjoZED?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Apr 2026 15:00:00 GMT",
+        "first_seen": "2026-04-13T07:18:18.754844"
+      },
+      "d8dd2e99254234c2fce280212ef59160d77f9f80880d687755d6afd70faca78e": {
+        "title": "谷歌推出AppFunctions连接AI智能体和Android应用",
+        "link": "https://www.infoq.cn/article/y8lHXFCpi7jOcK5mspSd?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Apr 2026 14:00:00 GMT",
+        "first_seen": "2026-04-13T07:18:18.754878"
+      },
+      "b06b21bac7d8eec397520a1054010856bbaa3faec1004f07115c2bc7900161ff": {
+        "title": "FOSDEM 2026：WebTransport简介，下一个 WebSocket？！",
+        "link": "https://www.infoq.cn/article/3srVq9H48FGmxEftrv5l?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Apr 2026 11:00:00 GMT",
+        "first_seen": "2026-04-13T07:18:18.754888"
+      },
+      "a76c6c1c24b3a7a1c0a55e38dcd5f70069201b8f41a59e43589259d7fa3002ac": {
+        "title": "曝京东全面拦截员工使用外部 AI；红帽裁撤中国区研发团队迁至印度，最高赔偿 N+6；传梁文峰内部发声：DeepSeek V4 本月下旬发布 | AI周报",
+        "link": "https://www.infoq.cn/article/pp8VUCpuJENbkWr169ec?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Apr 2026 10:25:00 GMT",
+        "first_seen": "2026-04-13T07:18:18.754817"
+      },
+      "e15e3a437ce5f6200b961469c50142d8799a65221ed6b44facc234bf883ecb5d": {
+        "title": "Kubescape 4.0为Kubernetes带来运行时安全和AI智能体扫描",
+        "link": "https://www.infoq.cn/article/FA7cwRtSJMI63GFiHFDX?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-13T07:18:18.754897"
+      },
+      "b4f157bd8ce80b80b271bde9a0dfb12e2c2d023e79baa93e28bde5a08057cbd9": {
+        "title": "从 Vibe Coding 到 Spec Driven：网易智企智能化软件工厂的思考和实践｜QCon北京",
+        "link": "https://www.infoq.cn/article/lpZPLmhGsOYWKApQrqY2?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Apr 2026 10:00:00 GMT",
+        "first_seen": "2026-04-13T07:18:18.754907"
+      },
+      "9b252ef57c5cec9cf1428b2092e11e799cfe31c981e8558465b63f6a13f0637f": {
+        "title": "闲鱼变相上调鱼小铺卖家佣金，一家独大的“收割”时刻到了？",
+        "link": "https://www.tmtpost.com/7950867.html",
+        "published_date": "Mon, 13 Apr 2026 14:45:00 GMT",
+        "first_seen": "2026-04-13T07:18:18.754915"
+      },
+      "81d5e2438013edbd9478b53cc2039fbb6202d34c0fdffe65457abfc376b7d006": {
+        "title": "“不确定性”的终极集约：从神学盲盒到算法猎场",
+        "link": "https://www.tmtpost.com/7950876.html",
+        "published_date": "Mon, 13 Apr 2026 14:45:00 GMT",
+        "first_seen": "2026-04-13T07:18:18.754924"
+      },
+      "609bf5adf882a67e73628b245189507bad84c59d33071aae1aac34e37776cca6": {
+        "title": "风向变了，多宁生物三闯港交所，扭亏后能过关吗？",
+        "link": "https://www.tmtpost.com/7950892.html",
+        "published_date": "Mon, 13 Apr 2026 14:45:00 GMT",
+        "first_seen": "2026-04-13T07:18:09.385935"
+      },
+      "d1621550c75accd2400ccf76589158d0164decf334878e8ba7e28927a0d41492": {
+        "title": "海底捞真正需要的，是一次断臂求生",
+        "link": "https://www.tmtpost.com/7950749.html",
+        "published_date": "Mon, 13 Apr 2026 13:02:00 GMT",
+        "first_seen": "2026-04-13T07:18:09.386309"
+      },
+      "75cf61bd754bd14fc9203ef4543367a94e2f7ee5a15e551df1941dc838082197": {
+        "title": "这些芯片供应商，深陷降价泥潭",
+        "link": "https://www.tmtpost.com/7950674.html",
+        "published_date": "Mon, 13 Apr 2026 13:02:00 GMT",
+        "first_seen": "2026-04-13T07:18:18.754861"
+      },
+      "ee735b8d89bac60e378149e385a3f3adf809e57a40b0cc5a34c568e79c044976": {
+        "title": "智驾芯片，更卷了",
+        "link": "https://www.tmtpost.com/7950683.html",
+        "published_date": "Mon, 13 Apr 2026 13:02:00 GMT",
+        "first_seen": "2026-04-13T07:18:18.754870"
+      },
+      "282ce809072e700d0b4bfd68e43b633466b0249eceb64ca30b7be94fff2e9c3b": {
+        "title": "孙弋涵：机战“疯子”和他的VR游戏梦",
+        "link": "https://www.tmtpost.com/7950712.html",
+        "published_date": "Mon, 13 Apr 2026 13:02:00 GMT",
+        "first_seen": "2026-04-13T07:18:09.387641"
+      },
+      "beb74fb9ec9c9909efe7dd11a0edd3a296dbd0ebaf756ff2798b710087b62696": {
+        "title": "现在的游戏，怎么都是“缝合怪”？",
+        "link": "https://www.tmtpost.com/7950747.html",
+        "published_date": "Mon, 13 Apr 2026 13:02:00 GMT",
+        "first_seen": "2026-04-13T07:18:09.388179"
+      },
+      "a8208f44f57a3c48868881d7ac1dc48eb128b40ca49e65125db2c02c6b3e65b1": {
+        "title": "印奇，在杨植麟身上看到曾经的自己",
+        "link": "https://www.tmtpost.com/7950748.html",
+        "published_date": "Mon, 13 Apr 2026 13:02:00 GMT",
+        "first_seen": "2026-04-13T07:18:09.388721"
+      },
+      "3ffd15d2372f4d831ff386079bcaf5af8adebc4c2ffb3db4beab8ed7b88ae034": {
+        "title": "6倍大牛股1年暴跌80%：多邻国到底怎么了？",
+        "link": "https://www.tmtpost.com/7950752.html",
+        "published_date": "Mon, 13 Apr 2026 13:02:00 GMT",
+        "first_seen": "2026-04-13T07:18:09.389300"
+      },
+      "65e7fb59dae24ede6dcbc326f0862479764a02b46953b71125a984ca15d1ee56": {
+        "title": "那个做出可灵的人，回阿里又造了一匹黑马",
+        "link": "https://www.tmtpost.com/7950831.html",
+        "published_date": "Mon, 13 Apr 2026 13:02:00 GMT",
+        "first_seen": "2026-04-13T07:18:09.389928"
+      },
+      "74225f5ff1ec76fb73d2eeb7545bf0530a2b8de3cd9cc45bcf566dc7d01f9fa7": {
+        "title": "美国电池喊了三年去中国化，结果自己人先破产了",
+        "link": "https://www.tmtpost.com/7950770.html",
+        "published_date": "Mon, 13 Apr 2026 12:00:00 GMT",
+        "first_seen": "2026-04-13T07:18:09.390558"
+      },
+      "baf67da5a8ceef06aebffaafadd8a07d94426bf5b2ee767953ccb8628d4155a6": {
+        "title": "即时零售下半场，为何自营成了普遍趋势",
+        "link": "https://www.tmtpost.com/7950379.html",
+        "published_date": "Mon, 13 Apr 2026 12:00:00 GMT",
+        "first_seen": "2026-04-13T07:18:09.391218"
+      },
+      "51ff741593d5e404d31da9d31cdfa2cc368314c74f09f748239514b937bd5c57": {
+        "title": "冲冠一怒为“魔法”，谁又惹了俞浩？",
+        "link": "https://www.tmtpost.com/7950615.html",
+        "published_date": "Mon, 13 Apr 2026 12:00:00 GMT",
+        "first_seen": "2026-04-13T07:18:09.391955"
+      },
+      "7953975c18c089a8f6edefcb99894ff5579849f8154ff072cf93fff1d93172ed": {
+        "title": "Rocket Lab：SpaceX 最危险的对手？",
+        "link": "https://www.tmtpost.com/7950664.html",
+        "published_date": "Mon, 13 Apr 2026 12:00:00 GMT",
+        "first_seen": "2026-04-13T07:18:09.392889"
+      },
+      "f4345fbd76511928e9fb488de0d4da11390fe5d55c5d2cdcbcd29e2f2a160d38": {
+        "title": "覆盖99%县城，年入38亿，医疗版拼多多冲刺IPO！",
+        "link": "https://www.tmtpost.com/7950661.html",
+        "published_date": "Mon, 13 Apr 2026 11:39:00 GMT",
+        "first_seen": "2026-04-13T07:18:09.393913"
+      },
+      "989e057ceafa30be8bf215d6aa21f6344d013ac626d0dafaf6e5e7893db4ef0c": {
+        "title": "《乘风2026》为什么一定要直播",
+        "link": "https://www.tmtpost.com/7950368.html",
+        "published_date": "Mon, 13 Apr 2026 10:05:00 GMT",
+        "first_seen": "2026-04-13T07:18:09.394638"
+      },
+      "13ad5f6bc35b8192976e3b4fe98968506daf30eb60d79a95cac2e319b343b315": {
+        "title": "对于不被看好，泡泡玛特已经麻了",
+        "link": "https://www.tmtpost.com/7950644.html",
+        "published_date": "Mon, 13 Apr 2026 10:05:00 GMT",
+        "first_seen": "2026-04-13T07:18:09.395392"
+      },
+      "3810b3df7d58f56499598f38cbf418dbdb2beb998a47d72e2f147cc9c42e2a28": {
+        "title": "从 iPhone 随阿尔忒弥斯 2 号升空，谈谈 Apple 设备的太空征程",
+        "link": "https://sspai.com/post/108519",
+        "published_date": "Mon, 13 Apr 2026 11:48:00 GMT",
+        "first_seen": "2026-04-13T07:18:09.396849"
+      },
+      "da44ff7be000f94ec1b82801a4e6fc0a28414b94661700502174dbd54594eb31": {
+        "title": "派早报：微软宣布改进和简化 Windows 预览体验计划",
+        "link": "https://sspai.com/post/108568",
+        "published_date": "Mon, 13 Apr 2026 07:30:00 GMT",
+        "first_seen": "2026-04-13T07:18:09.398070"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-04-12T23:42:24.629538",
-    "Technology": "2026-04-12T23:42:24.727710",
-    "Finance": "2026-04-12T23:42:24.499989"
+    "AI": "2026-04-13T07:18:09.295114",
+    "Technology": "2026-04-13T07:18:18.758566",
+    "Finance": "2026-04-13T07:18:09.166192"
   }
 }
