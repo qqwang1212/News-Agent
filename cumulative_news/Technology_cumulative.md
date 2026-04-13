@@ -1,7 +1,49 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-13 07:18
+**最后更新时间**: 2026-04-13 10:01
+
+---
+
+## 🆕 最新更新 (2026-04-13 10:01)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [装完腾讯WorkBuddy，我提前过上了五一](https://www.tmtpost.com/7951140.html)
+**发布时间**: 2026-04-13 17:45
+
+#### [为什么现有的反无人机系统，连一架改装无人机都拦不住？｜AI Founder 请回答](https://www.tmtpost.com/7950938.html)
+**发布时间**: 2026-04-13 17:32
+
+#### [日本康复辅具租赁真相：市场规模20年翻4倍，利润率却不足6%](https://www.tmtpost.com/7951053.html)
+**发布时间**: 2026-04-13 17:17
+
+#### [蓝驰创投募资39亿元，重仓AI与硬科技早期项目](https://www.tmtpost.com/7951047.html)
+**发布时间**: 2026-04-13 17:01
+
+#### [从数据“沉睡”到价值闭环，AI如何重塑制造业未来？丨ToB产业观察](https://www.tmtpost.com/7951028.html)
+**发布时间**: 2026-04-13 15:42
+
+#### [从5%到30%，国产高端设备离国际顶尖还有多远？](https://www.tmtpost.com/7950763.html)
+**发布时间**: 2026-04-13 15:24
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [写入快 2 倍，查询快 6 倍，存储成本反降 50%：丰巢日志平台从 ELK 升级为 Apache Doris](https://www.infoq.cn/article/mmH9gF4Lqj5xRHuvcxjf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-13 17:42
+
+#### [不用则废：开发者直面 AI 编码工具的隐性代价](https://www.infoq.cn/article/bLageDSMAujcPRLriJi5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-13 16:59
+
+#### [从拒绝 AI 到一切先问 Agent，DHH：这是我最爽的编程时刻之一，但程序员黄金时代到头了](https://www.infoq.cn/article/dOey7eV1T9p3dtPWTPCV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-13 16:19
+
+#### [OpenAI 不想写 spec 了：Codex 只留 10 条要点，把执行交给 skills](https://www.infoq.cn/article/C2fWkH2EgBlDPNUNlcZX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-13 15:43
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [城市漫步指南：在浓油赤酱中寻找江南底蕴](https://sspai.com/post/108558)
+**发布时间**: 2026-04-13 15:00
 
 ---
 
