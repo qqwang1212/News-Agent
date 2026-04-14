@@ -1359,18 +1359,6 @@
       }
     },
     "Technology": {
-      "3bf4de7d0f1db2bf45b9a7d10b0739538fcb32f6f49c6d226f171fbc0bd661e4": {
-        "title": "龙虾风暴下的国产大模型厂商：搭上火箭的Kimi与港股双雄的盛宴",
-        "link": "https://www.tmtpost.com/7914749.html",
-        "published_date": "Sun, 15 Mar 2026 15:54:00 GMT",
-        "first_seen": "2026-03-15T08:42:40.827007"
-      },
-      "2c167a1d5ced21f7597aff4f1294c402e0c6e94d32e8c9207ce7e0a57e354740": {
-        "title": "价值判断：涨停板的投资机会和风险提示（3月13日）｜证券市场观察",
-        "link": "https://www.tmtpost.com/7914792.html",
-        "published_date": "Sun, 15 Mar 2026 13:45:00 GMT",
-        "first_seen": "2026-03-15T08:42:40.827221"
-      },
       "99a0e1bb4f7dd80654990b980da7e5c3b962e20b357145fe74efc73244965749": {
         "title": "【钛晨报】央视3·15曝光7大行业乱象，涉及这些公司，监管部门火速行动；追觅预计本周发射第一颗太空算力卫星；京投发展筹划剥离地产业务，预计构成重大资产重组",
         "link": "https://www.tmtpost.com/7915027.html",
@@ -11012,13 +11000,31 @@
         "link": "https://sspai.com/post/108614",
         "published_date": "Tue, 14 Apr 2026 08:35:00 GMT",
         "first_seen": "2026-04-14T06:56:23.036444"
+      },
+      "3434096b3e6c0c7160cdb5f7675ce9278c18efdf3984845b0891e6b23de381c3": {
+        "title": "跨境平台redshop 6月将上线 慢一步的小红书究竟要怎样出海？",
+        "link": "https://www.tmtpost.com/7952609.html",
+        "published_date": "Tue, 14 Apr 2026 17:17:00 GMT",
+        "first_seen": "2026-04-14T09:26:20.344020"
+      },
+      "ce3ad06d1dabeb11d507f3c5224b5126d19df17d4900390c51fcd36bb5a2f132": {
+        "title": "想在国内折腾全屋 Matter？这可能是一场属于极客的「苦修」",
+        "link": "https://sspai.com/post/108005",
+        "published_date": "Tue, 14 Apr 2026 15:38:00 GMT",
+        "first_seen": "2026-04-14T09:26:20.344214"
+      },
+      "64376ceaf47956004a1901010827ee7543290b16d6c775761ffe750b2e54916a": {
+        "title": "AI 助力 Dragonwell Native 加速：10 倍性能提升机会的自动发现实践",
+        "link": "https://www.infoq.cn/article/L15t21Z0dk1HQmxuQDmK?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 14 Apr 2026 14:58:00 GMT",
+        "first_seen": "2026-04-14T09:26:20.344464"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-04-14T06:56:13.643552",
-    "Technology": "2026-04-14T06:56:23.037902",
-    "Finance": "2026-04-14T06:56:13.516550"
+    "AI": "2026-04-14T09:26:20.259689",
+    "Technology": "2026-04-14T09:26:20.364713",
+    "Finance": "2026-04-14T09:26:20.146878"
   }
 }
