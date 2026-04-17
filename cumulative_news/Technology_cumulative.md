@@ -1,7 +1,91 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-16 23:47
+**最后更新时间**: 2026-04-17 09:24
+
+---
+
+## 🆕 最新更新 (2026-04-17 09:24)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Karpathy 亲手终结了 RAG 的草莽时代](https://www.infoq.cn/article/5dhOzeriuezQajEPC41Y?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 17:20
+
+#### [OpenAI 也把工程师经验“蒸馏”进 skill 了！Harness 爆文作者曝内部玩法：一个百万行代码系统，全程零人工编码和审核](https://www.infoq.cn/article/xeXddcuzu78D7mC5wyBy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 16:01
+
+#### [星工聚将：从“物理对齐”出发，重新探索具身 AGI 的技术路](https://www.infoq.cn/article/1WMZt5S8lGzM1MkdzR2o?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 15:24
+
+#### [Zendesk：生成式 AI 让代码不再稀缺，研发瓶颈转向“吸收能力”](https://www.infoq.cn/article/RBkkYQsT8Hd3hQTEYoAG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 13:00
+
+#### [针对 NVIDIA GPU 的新型攻击 Rowhammer 可实现对整个系统的完全控制](https://www.infoq.cn/article/pmteOlcag616Dap4zm8o?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 11:00
+
+#### [聚焦 Spring Framework 7 与 Spring Boot 4：Spring 团队专访](https://www.infoq.cn/article/z4msV9uzNy7CXYFC4K2J?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-17 10:00
+
+#### [代码通过即拿奖！OpenCloud 40+超热门AI工具等你来贡献](https://xie.infoq.cn/article/4940bd7d8d430c84ad94ca6b4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-16 18:10
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [阿里1000亿美元赌局：一匹“小马”能否撬动大局](https://www.tmtpost.com/7957236.html)
+**发布时间**: 2026-04-17 16:27
+
+#### [1.6亿老人，困在手机里？](https://www.tmtpost.com/7957163.html)
+**发布时间**: 2026-04-17 16:27
+
+#### [变泡泡玛特王宁粉丝，145亿段永平“打自己脸”](https://www.tmtpost.com/7956622.html)
+**发布时间**: 2026-04-17 15:56
+
+#### [Kimi的问题不在对手，而在起点](https://www.tmtpost.com/7957173.html)
+**发布时间**: 2026-04-17 15:56
+
+#### [AI眼镜，阿里求稳](https://www.tmtpost.com/7956630.html)
+**发布时间**: 2026-04-17 15:56
+
+#### [小云雀、爱奇艺纳逗pro、巨日禄……20多个AI短剧Agent，哪家真好用？](https://www.tmtpost.com/7956912.html)
+**发布时间**: 2026-04-17 15:56
+
+#### [重庆制造，大雄起！](https://www.tmtpost.com/7957108.html)
+**发布时间**: 2026-04-17 15:56
+
+#### [益坤电气：拟募资缩水、补流项目删除，资金紧张仍大举分工｜IPO观察](https://www.tmtpost.com/7957214.html)
+**发布时间**: 2026-04-17 15:05
+
+#### [“杭州六小龙”第一个IPO，来了](https://www.tmtpost.com/7956962.html)
+**发布时间**: 2026-04-17 14:57
+
+#### [黄仁勋最新深度分享：英伟达的护城河、TPU威胁与生态建设](https://www.tmtpost.com/7957098.html)
+**发布时间**: 2026-04-17 14:57
+
+#### [国家能源局下达死命令： 2028年必须彻底解决“晃电”问题](https://www.tmtpost.com/7956762.html)
+**发布时间**: 2026-04-17 14:57
+
+#### [它石智航Pre-A轮4.55亿美元破纪录，一年融资近7亿美元](https://www.tmtpost.com/7956611.html)
+**发布时间**: 2026-04-17 14:57
+
+#### [世界模型元年启示录：动机、乱战与暗礁](https://www.tmtpost.com/7956668.html)
+**发布时间**: 2026-04-17 13:30
+
+#### [抖音向美团开出第二炮：从错位竞争，到贴脸抢地盘](https://www.tmtpost.com/7956406.html)
+**发布时间**: 2026-04-17 13:30
+
+#### [从越用越便宜到越用越贵，谁在为AI的“算力饥渴”买单？](https://www.tmtpost.com/7956464.html)
+**发布时间**: 2026-04-17 13:30
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [TDS REVIEW｜三星 Galaxy Buds4 Pro 降噪真无线耳机体验](https://sspai.com/post/108741)
+**发布时间**: 2026-04-17 16:22
+
+#### [来一杯不翻车的自信：手冲咖啡入门指北](https://sspai.com/post/108547)
+**发布时间**: 2026-04-17 11:29
+
+#### [派早报：Canva AI 2.0 发布、Anthropic 发布 Claude Opus 4.7 模型等](https://sspai.com/post/108742)
+**发布时间**: 2026-04-17 09:04
 
 ---
 
