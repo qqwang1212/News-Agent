@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 20 Apr 2026 07:18:00 GMT</pubDate>
-    <lastBuildDate>Mon, 20 Apr 2026 07:20:52 GMT</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 23:49:00 GMT</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2026 23:51:49 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>20亿美金苏度科技具身首秀即大招！0真机数据，zero-shot，跑出98%首次抓取成功率</title>
-      <link>https://www.qbitai.com/2026/04/403543.html</link>
-      <description>&lt;![CDATA[20亿美金苏度科技具身首秀即大招！0真机数据，zero-shot，跑出98%首次抓取成功率]]&gt;</description>
-      <pubDate>Mon, 20 Apr 2026 05:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403543.html</guid>
+      <title>继Harness之后，“龙虾”JiuwenClaw率先开启“Coordination Engineering”时代</title>
+      <link>https://www.qbitai.com/2026/04/403751.html</link>
+      <description>&lt;![CDATA[继Harness之后，“龙虾”JiuwenClaw率先开启“Coordination Engineering”时代]]&gt;</description>
+      <pubDate>Mon, 20 Apr 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/403751.html</guid>
       <category>AI</category>
     </item>
   </channel>
