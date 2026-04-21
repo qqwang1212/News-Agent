@@ -1,7 +1,86 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-21 07:01
+**最后更新时间**: 2026-04-21 09:46
+
+---
+
+## 🆕 最新更新 (2026-04-21 09:46)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [中国具身智能最高单轮融资出炉！前华为、百度高管联手创业，打造真干活、真量产的机器人](https://www.infoq.cn/article/aqYPpJBPlvaJDQDCNlrJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 17:37
+
+#### [智能与互联：AI 数据治理时代的数据目录关键能力 ｜ 技术趋势](https://www.infoq.cn/article/2bUZm9d80lzXWSHxqqYG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 17:29
+
+#### [“守成者”库克卸任CEO：除了离开，他再没有什么能贡献给苹果了](https://www.infoq.cn/article/PxmVh2miqDZB6jDbAqeK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 17:23
+
+#### [构建可信数据智能体的上下文层 ｜ 技术趋势](https://www.infoq.cn/article/QyXUMEdTVvStcoE1bBZK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 15:06
+
+#### [湖仓建设中的巴别塔：跨数据库引擎处理标识符解析规则](https://www.infoq.cn/article/dGEQOcGXJRdBxkvXzhCl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 15:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [三个“十亿美元分子”，偏头疼药物大爆发](https://www.tmtpost.com/7961100.html)
+**发布时间**: 2026-04-21 17:25
+
+#### [谷歌也急了](https://www.tmtpost.com/7961120.html)
+**发布时间**: 2026-04-21 17:25
+
+#### [知名记者出书爆锤OpenAI，奥特曼亲自下场反击，《AI帝国》作者最新访谈揭露了更多内幕](https://www.tmtpost.com/7951128.html)
+**发布时间**: 2026-04-21 17:25
+
+#### [扣子2.5替我刷抖音、逛酒馆：坏了，我成替身了？](https://www.tmtpost.com/7961188.html)
+**发布时间**: 2026-04-21 17:25
+
+#### [Kimi K2.6 开源直逼 GPT-5.4：涨 58% 的 API 定价，暴露了月之暗面的真实意图](https://www.tmtpost.com/7961404.html)
+**发布时间**: 2026-04-21 17:16
+
+#### [AI时代最贵的“布”，到底有多抢手？](https://www.tmtpost.com/7961280.html)
+**发布时间**: 2026-04-21 16:40
+
+#### [梭哈AI！爱奇艺“疯了”上热搜，爱豆会失业吗？](https://www.tmtpost.com/7960502.html)
+**发布时间**: 2026-04-21 16:38
+
+#### [龚宇的AI梦，为何成了爱奇艺的公关噩梦？](https://www.tmtpost.com/7960807.html)
+**发布时间**: 2026-04-21 16:38
+
+#### [从FDA绿灯到国内未获批准，全球FIC折戟背后](https://www.tmtpost.com/7960894.html)
+**发布时间**: 2026-04-21 16:38
+
+#### [DDR3第二春：一场没得选的狂欢](https://www.tmtpost.com/7960900.html)
+**发布时间**: 2026-04-21 16:38
+
+#### [制药界Space X登场，AI制药集齐“三小龙”](https://www.tmtpost.com/7960901.html)
+**发布时间**: 2026-04-21 16:38
+
+#### [千亿液冷龙头“急刹车”，英维克一字跌停，光环与泡沫显现](https://www.tmtpost.com/7961257.html)
+**发布时间**: 2026-04-21 15:50
+
+#### [爱奇艺说入驻，艺人说没签，谁在说谎？](https://www.tmtpost.com/7961023.html)
+**发布时间**: 2026-04-21 15:11
+
+#### [汪滔不想被理解，俞浩也不想](https://www.tmtpost.com/7960969.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [硅谷右翼的权力网如何形成？聊聊彼得·蒂尔的思想启蒙拼图](https://www.tmtpost.com/7960965.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [Claude 进了 Word，但“修订模式”不是新发明](https://www.tmtpost.com/7960339.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [关于苹果新任CEO的一切](https://www.tmtpost.com/7961034.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [库克没有辜负乔布斯](https://www.tmtpost.com/7961071.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [梁文锋不在乎赢，DeepSeek不能输](https://www.tmtpost.com/7960987.html)
+**发布时间**: 2026-04-21 14:48
 
 ---
 
