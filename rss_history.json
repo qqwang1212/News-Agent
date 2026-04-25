@@ -1416,6 +1416,18 @@
         "link": "https://www.qbitai.com/2026/04/406809.html",
         "published_date": "Sat, 25 Apr 2026 03:27:00 GMT",
         "first_seen": "2026-04-25T06:23:46.592760"
+      },
+      "10a6a03776bedbc65b5260cff2bcadae22ee16bfad5b6de5362a8105fa5f4e16": {
+        "title": "自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI",
+        "link": "https://www.qbitai.com/2026/04/407026.html",
+        "published_date": "Sat, 25 Apr 2026 07:22:00 GMT",
+        "first_seen": "2026-04-25T09:00:06.946906"
+      },
+      "b7dfecd42cc930ef1860541bc1cad285a63bb6a533f16e768036fedcb429bee3": {
+        "title": "硬刚GPT-Image-2！国产AI生图“天花板”又被捅破了？",
+        "link": "https://www.qbitai.com/2026/04/406994.html",
+        "published_date": "Sat, 25 Apr 2026 06:58:00 GMT",
+        "first_seen": "2026-04-25T09:00:06.947106"
       }
     },
     "Technology": {
@@ -10616,13 +10628,91 @@
         "link": "https://www.infoq.cn/article/eWRlmwIT5ApA2OKL9RYh?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 25 Apr 2026 10:00:00 GMT",
         "first_seen": "2026-04-25T06:23:46.701605"
+      },
+      "fd62603f51bd8bc625fd391ecc3343d9d787201002e3da1afb591171e3e5f2f4": {
+        "title": "字节养的“虾”与1500亿账本背后",
+        "link": "https://www.tmtpost.com/7967099.html",
+        "published_date": "Sat, 25 Apr 2026 16:33:00 GMT",
+        "first_seen": "2026-04-25T09:00:16.333477"
+      },
+      "d7c3a0c0f5af15c1398adb6e2c6e7355237f9e1b666a7a5c05ae678537a5b5cb": {
+        "title": "最激进的“AI先锋”多邻国，已经放过员工了",
+        "link": "https://www.tmtpost.com/7967030.html",
+        "published_date": "Sat, 25 Apr 2026 16:20:00 GMT",
+        "first_seen": "2026-04-25T09:00:16.333488"
+      },
+      "7665e5be883556d0fd409ceef69516d1827293a007cf6736cd7c447f7ac5704e": {
+        "title": "已求证！阿维塔高端定位不变，持续向上",
+        "link": "https://www.tmtpost.com/7967007.html",
+        "published_date": "Sat, 25 Apr 2026 16:08:00 GMT",
+        "first_seen": "2026-04-25T09:00:16.333496"
+      },
+      "f76f03117bdabc32b5eec91c1f1410c66ec293cbfc8a4d6d440160d52aa9733f": {
+        "title": "DeepSeek V4的真正价值，不在参数里",
+        "link": "https://www.tmtpost.com/7966576.html",
+        "published_date": "Sat, 25 Apr 2026 15:59:00 GMT",
+        "first_seen": "2026-04-25T09:00:16.333504"
+      },
+      "1bc9d5211e51af375148e2af0ace5e8e41959e14f0fc7fd66fd55f6e3831b2b8": {
+        "title": "DeepSeek再放大招，国产大模型坐不住了",
+        "link": "https://www.tmtpost.com/7966592.html",
+        "published_date": "Sat, 25 Apr 2026 15:59:00 GMT",
+        "first_seen": "2026-04-25T09:00:16.333513"
+      },
+      "4d27a9e0ed888f3481f6e8d8dceb0312c80865d1562143d9a4260b63e2edd1ad": {
+        "title": "大疆与影石，一场中国硬件的「边界」交锋",
+        "link": "https://www.tmtpost.com/7966626.html",
+        "published_date": "Sat, 25 Apr 2026 15:59:00 GMT",
+        "first_seen": "2026-04-25T09:00:16.333520"
+      },
+      "6c8aacbc0dae668709a3b3eeab830bcc933d09cb077fd59ba1c60fd607509396": {
+        "title": "V4“上桌”，DeepSeek的故事更热血了",
+        "link": "https://www.tmtpost.com/7966641.html",
+        "published_date": "Sat, 25 Apr 2026 15:59:00 GMT",
+        "first_seen": "2026-04-25T09:00:16.333528"
+      },
+      "c0188834f445419e8a6751361f7cde9d5d7c0b255eebec4b77edc540727cfba3": {
+        "title": "不只DeepSeek，大厂都想“抛弃”英伟达",
+        "link": "https://www.tmtpost.com/7966656.html",
+        "published_date": "Sat, 25 Apr 2026 15:59:00 GMT",
+        "first_seen": "2026-04-25T09:00:16.333535"
+      },
+      "d1da6c1ed556b24e003a3d3ba6147a425908f6e47f55f5de629d8b20071e7dd5": {
+        "title": "字节也入局了，世界模型到底是一门怎样的生意？",
+        "link": "https://www.tmtpost.com/7967028.html",
+        "published_date": "Sat, 25 Apr 2026 15:59:00 GMT",
+        "first_seen": "2026-04-25T09:00:07.051093"
+      },
+      "e066bc7ed41c0d591dc1c06a0cddbe94c44eb98c720dc259c0c3b861d3050de8": {
+        "title": "看了腾讯的Hy3 preview，我读懂了姚顺雨",
+        "link": "https://www.tmtpost.com/7967029.html",
+        "published_date": "Sat, 25 Apr 2026 15:59:00 GMT",
+        "first_seen": "2026-04-25T09:00:07.051443"
+      },
+      "b87a8cd4ab2dc4d31c93bb558acb7306ab297c18f0a3a3b3e48f4b6fd6987fc1": {
+        "title": "谁在假冒开市客？",
+        "link": "https://www.tmtpost.com/7966971.html",
+        "published_date": "Sat, 25 Apr 2026 15:17:00 GMT",
+        "first_seen": "2026-04-25T09:00:07.051632"
+      },
+      "1f1eed8d1d347dff7c020950efe9920752a2dca67eaa7d48521bcfe67ec610d0": {
+        "title": "【数智周报】  月之暗面新模型Kimi K2.6发布并开源；Deepseek官网公布deepseek-v4接口文档；中国软件产业规模有望突破20万亿元大关；特斯拉中国车机将接入豆包大模型；OpenAI发布ChatGPT Images 2.0生图工具",
+        "link": "https://www.tmtpost.com/7967024.html",
+        "published_date": "Sat, 25 Apr 2026 14:35:00 GMT",
+        "first_seen": "2026-04-25T09:00:16.333465"
+      },
+      "8e7efdb2a9026c0bf541b1dac643f4180a3a92bb266ea2b71ef2890d403e14d3": {
+        "title": "Snowflake 作为智能体运行时：从静态管道迈向自主数据系统 ｜ 技术实践",
+        "link": "https://www.infoq.cn/article/GL7YlM38mlEarquKkSE9?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 25 Apr 2026 16:00:00 GMT",
+        "first_seen": "2026-04-25T09:00:16.333431"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-04-25T06:23:46.613501",
-    "Technology": "2026-04-25T06:23:56.003087",
-    "Finance": "2026-04-25T06:23:46.483734"
+    "AI": "2026-04-25T09:00:06.968553",
+    "Technology": "2026-04-25T09:00:16.337159",
+    "Finance": "2026-04-25T09:00:06.845627"
   }
 }
