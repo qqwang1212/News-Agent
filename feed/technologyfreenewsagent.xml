@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 26 Apr 2026 23:45:00 GMT</pubDate>
-    <lastBuildDate>Sun, 26 Apr 2026 23:45:39 GMT</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2026 07:37:00 GMT</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2026 07:38:12 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,35 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【钛晨报】事关新就业群体，中办、国办最新发布，聚焦权益保障与算法治理；东方甄选主播集体离职，俞敏洪回应；“国产GPU第一股”摩尔线程单季净利扭亏</title>
-      <link>https://www.tmtpost.com/7967802.html</link>
-      <description>&lt;![CDATA[【钛晨报】事关新就业群体，中办、国办最新发布，聚焦权益保障与算法治理；东方甄选主播集体离职，俞敏洪回应；“国产GPU第一股”摩尔线程单季净利扭亏]]&gt;</description>
-      <pubDate>Mon, 27 Apr 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7967802.html</guid>
+      <title>给科技总部装“最强大脑”：在新加坡，南洋理工大学正为AI时代企业家搭建决策操作系统</title>
+      <link>https://www.tmtpost.com/7966033.html</link>
+      <description>&lt;![CDATA[给科技总部装“最强大脑”：在新加坡，南洋理工大学正为AI时代企业家搭建决策操作系统]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 15:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7966033.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>剔除MSP影响收入增16.6%，网宿科技以边缘AI与安全重塑成长逻辑</title>
-      <link>https://www.tmtpost.com/7967855.html</link>
-      <description>&lt;![CDATA[剔除MSP影响收入增16.6%，网宿科技以边缘AI与安全重塑成长逻辑]]&gt;</description>
-      <pubDate>Sun, 26 Apr 2026 22:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7967855.html</guid>
+      <title>摩尔线程最新财报：研发占比超86%，万卡级大规模智算集群落地</title>
+      <link>https://www.infoq.cn/article/GitNHq2Sa7K34WjiqmNq?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[摩尔线程最新财报：研发占比超86%，万卡级大规模智算集群落地]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 15:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/GitNHq2Sa7K34WjiqmNq?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2026长剧靠土偶吊命？</title>
-      <link>https://www.tmtpost.com/7967687.html</link>
-      <description>&lt;![CDATA[2026长剧靠土偶吊命？]]&gt;</description>
-      <pubDate>Sun, 26 Apr 2026 19:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7967687.html</guid>
+      <title>Slack 重构通知系统，设置参与度提升 5 倍</title>
+      <link>https://www.infoq.cn/article/aXF7ssED9phrUVg3ipMQ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Slack 重构通知系统，设置参与度提升 5 倍]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/aXF7ssED9phrUVg3ipMQ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>杨植麟离“追光的月亮”还有多少个Token？</title>
-      <link>https://www.tmtpost.com/7967688.html</link>
-      <description>&lt;![CDATA[杨植麟离“追光的月亮”还有多少个Token？]]&gt;</description>
-      <pubDate>Sun, 26 Apr 2026 19:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7967688.html</guid>
+      <title>智能体工程的隐性技术债务</title>
+      <link>https://www.infoq.cn/article/VOvh1yB2SrSccjqwABw3?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[智能体工程的隐性技术债务]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 11:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/VOvh1yB2SrSccjqwABw3?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>阿里云智能集团高级技术专家刘少伟已确认出席AICon上海站，并分享如何构建企业 Agent 的自动化行动架构</title>
+      <link>https://www.infoq.cn/article/gdEkw12WzcrFaspAqB7p?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[阿里云智能集团高级技术专家刘少伟已确认出席AICon上海站，并分享如何构建企业 Agent 的自动化行动架构]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/gdEkw12WzcrFaspAqB7p?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>千里科技：背靠吉利，AI拔高估值，真实成色几何？</title>
+      <link>https://www.tmtpost.com/7968224.html</link>
+      <description>&lt;![CDATA[千里科技：背靠吉利，AI拔高估值，真实成色几何？]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 12:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7968224.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>两年内斗被开出千万罚单后，行云科技面临“治理后遗症”大考</title>
+      <link>https://www.tmtpost.com/7968316.html</link>
+      <description>&lt;![CDATA[两年内斗被开出千万罚单后，行云科技面临“治理后遗症”大考]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 11:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7968316.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>从“上云”到“智云”：达梦启云数据库V4.0，一次关于新生的技术宣言</title>
+      <link>https://www.tmtpost.com/7968231.html</link>
+      <description>&lt;![CDATA[从“上云”到“智云”：达梦启云数据库V4.0，一次关于新生的技术宣言]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 11:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7968231.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>世界模型能实时玩了，蚂蚁灵波开源LingBot-World-Fast</title>
+      <link>https://www.infoq.cn/article/rkoWDHOOb2VFyIGKwuym?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[世界模型能实时玩了，蚂蚁灵波开源LingBot-World-Fast]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 15:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/rkoWDHOOb2VFyIGKwuym?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>当云区域失效：地缘动荡环境下的高可用重构</title>
+      <link>https://www.infoq.cn/article/5qXyqHdrXhaT7iEr24l6?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[当云区域失效：地缘动荡环境下的高可用重构]]&gt;</description>
+      <pubDate>Mon, 27 Apr 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/5qXyqHdrXhaT7iEr24l6?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
