@@ -1452,6 +1452,18 @@
         "link": "https://www.qbitai.com/2026/04/412021.html",
         "published_date": "Thu, 30 Apr 2026 11:38:00 GMT",
         "first_seen": "2026-04-30T23:56:00.169136"
+      },
+      "fc85d48a956c6757845cf2b80274470f7923d2b691791bf63a1b11ccc61c2f4b": {
+        "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+        "link": "https://www.qbitai.com/2026/05/412577.html",
+        "published_date": "Fri, 01 May 2026 06:28:00 GMT",
+        "first_seen": "2026-05-01T07:29:16.987471"
+      },
+      "846433a8a4bda7b84893d27962b45b5bd1c8b6790f45e72f7d424719919090b5": {
+        "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+        "link": "https://www.qbitai.com/2026/05/412447.html",
+        "published_date": "Fri, 01 May 2026 06:21:00 GMT",
+        "first_seen": "2026-05-01T07:29:16.987658"
       }
     },
     "Technology": {
@@ -10688,13 +10700,145 @@
         "link": "https://sspai.com/post/109257",
         "published_date": "Thu, 30 Apr 2026 17:30:00 GMT",
         "first_seen": "2026-04-30T23:56:00.290209"
+      },
+      "976787897574d0ef81081241abea0370401756a0c2cc1a15d367fd91bc2c692b": {
+        "title": "当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面",
+        "link": "https://www.infoq.cn/article/K7hpIOogPsLlPQz4lwXu?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 01 May 2026 14:00:00 GMT",
+        "first_seen": "2026-05-01T07:29:26.456924"
+      },
+      "7fdb1c3e66862552fe05a97d6bcbbb76524cb2693f07fc606b86aa1d8d7bcb98": {
+        "title": "Mistral AI 推出 Workflows，用于编排企业 AI 工作流",
+        "link": "https://www.infoq.cn/article/W1YiyHH4UXv05AqpiHag?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 01 May 2026 10:00:00 GMT",
+        "first_seen": "2026-05-01T07:29:26.456941"
+      },
+      "54cc23faf256fa3a77f1964c3fc721bf44201b1e3d36e967a45202be061dc3d3": {
+        "title": "布隆过滤器：理论、工程权衡与Go语言实现",
+        "link": "https://www.infoq.cn/article/kbM9s4hsAoT7gWQsA8JE?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 01 May 2026 09:49:00 GMT",
+        "first_seen": "2026-05-01T07:29:26.456954"
+      },
+      "b886439a129872985b4aa9705d9c6dcb169941979fe0a7050ea2ec332a8f25f1": {
+        "title": "Spring 近期资讯： Boot 、 Security、 Integration、Modulith 和 AMQP 的第一个候选版本",
+        "link": "https://www.infoq.cn/article/mN7Ha6hgjccyxls2s1Gl?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 01 May 2026 09:40:00 GMT",
+        "first_seen": "2026-05-01T07:29:26.456969"
+      },
+      "ceb59a7c78dae3ea80b5e363456be11f4bd481f0903489163f85817ef98846a9": {
+        "title": "写代码的人都懂：GitHub 开始解决“大 PR 地狱”",
+        "link": "https://www.infoq.cn/article/6if6ZrsP9u9t13uJggTj?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 01 May 2026 09:36:00 GMT",
+        "first_seen": "2026-05-01T07:29:26.456981"
+      },
+      "d99aacd3650c95bd1e5455e7af5bdc6649f0ad98dc9c2bc0ace725487d1483e2": {
+        "title": "科大讯飞，AI教育的长坡与窄门",
+        "link": "https://www.tmtpost.com/7974528.html",
+        "published_date": "Fri, 01 May 2026 11:59:00 GMT",
+        "first_seen": "2026-05-01T07:29:26.456992"
+      },
+      "918608c756bf2bfa3f50c39d122a7dad0502c2f43f1c8cd9b14efc3fe65275a2": {
+        "title": "10年了，为什么无人机还是送不了外卖？",
+        "link": "https://www.tmtpost.com/7974680.html",
+        "published_date": "Fri, 01 May 2026 11:54:00 GMT",
+        "first_seen": "2026-05-01T07:29:26.457002"
+      },
+      "ae9ecfbae2b933d8c3eb49b6e35911a6b3eaecab0ccecc5f20d4b17493d972f5": {
+        "title": "苹果：AI 缺位、存储涨价，照样 “稳稳幸福”？",
+        "link": "https://www.tmtpost.com/7974779.html",
+        "published_date": "Fri, 01 May 2026 11:53:00 GMT",
+        "first_seen": "2026-05-01T07:29:26.457014"
+      },
+      "bc27b4d07dcb84dba431279507d28b12cc045aa81b516429c3fc09b59425fb79": {
+        "title": "幸运咖没有长出自己的模样",
+        "link": "https://www.tmtpost.com/7974692.html",
+        "published_date": "Fri, 01 May 2026 11:20:00 GMT",
+        "first_seen": "2026-05-01T07:29:26.457023"
+      },
+      "92791b6c48ed2cdd93a19cc8f95fd703e5c155103efab04203f866c1ef964179": {
+        "title": "Meta: 烧钱堆不出顶模， 小扎又要慌",
+        "link": "https://www.tmtpost.com/7974686.html",
+        "published_date": "Fri, 01 May 2026 11:20:00 GMT",
+        "first_seen": "2026-05-01T07:29:17.100237"
+      },
+      "cb2ccc31d5c06debc08d6bf128f659d00b9c447e47f4fa5b99d09f4a0f4aac30": {
+        "title": "科大讯飞财报：标王的里子和面子",
+        "link": "https://www.tmtpost.com/7974477.html",
+        "published_date": "Fri, 01 May 2026 11:09:00 GMT",
+        "first_seen": "2026-05-01T07:29:17.100629"
+      },
+      "8caab43ab1b753a589b86c4575f4a39ca77cbf4cb8b027f6aa77c12229407bcb": {
+        "title": "AI缺位的苹果继续狂飙，权力交接的秘密藏在了Q1财报里",
+        "link": "https://www.tmtpost.com/7974800.html",
+        "published_date": "Fri, 01 May 2026 10:57:00 GMT",
+        "first_seen": "2026-05-01T07:29:17.101189"
+      },
+      "4212a99b0342518bc7792e8013358d1f0ba826b7a69252008cd9a2b4d288a101": {
+        "title": "蓝莓价格“崩盘”，谁在抢占下沉红利？",
+        "link": "https://www.tmtpost.com/7974479.html",
+        "published_date": "Fri, 01 May 2026 10:53:00 GMT",
+        "first_seen": "2026-05-01T07:29:17.101677"
+      },
+      "f5849502f1465965b5baeb92693acf2800209712d67adbc3b851ee050262ee9d": {
+        "title": "AI巨额投入亮明牌，三大云财报冰火两重天 | 看财报",
+        "link": "https://www.tmtpost.com/7974414.html",
+        "published_date": "Fri, 01 May 2026 10:31:00 GMT",
+        "first_seen": "2026-05-01T07:29:17.102330"
+      },
+      "eede9efbe269f6794ec4ca97a5b1529d1ed9e02c2452ea0de031fb38ef155813": {
+        "title": "2026北京国际车展智驾新车图鉴",
+        "link": "https://www.tmtpost.com/7974357.html",
+        "published_date": "Fri, 01 May 2026 10:14:00 GMT",
+        "first_seen": "2026-05-01T07:29:17.102674"
+      },
+      "f2d340c51bb78d2b9df029aac2b1d3c5497c065efc15c1eb239b0ca768799fc7": {
+        "title": "巨头围剿电解质水，抢夺夏日冰柜C位",
+        "link": "https://www.tmtpost.com/7974302.html",
+        "published_date": "Fri, 01 May 2026 09:50:00 GMT",
+        "first_seen": "2026-05-01T07:29:17.103213"
+      },
+      "2d2c35c721ea3c88523402ef572d43a41fc3e1eab3f454d543ff4e52e2a5d4c1": {
+        "title": "Token出海，讲不了中国制造的老故事",
+        "link": "https://www.tmtpost.com/7974293.html",
+        "published_date": "Fri, 01 May 2026 09:50:00 GMT",
+        "first_seen": "2026-05-01T07:29:17.103925"
+      },
+      "069788302489ce2c6d05fdeff78b847e051a7faaf7e6442956214a5dfd49a7de": {
+        "title": "China Travel 2.0：不只是旅游，更是万亿服贸出海",
+        "link": "https://www.tmtpost.com/7974445.html",
+        "published_date": "Fri, 01 May 2026 09:50:00 GMT",
+        "first_seen": "2026-05-01T07:29:17.105016"
+      },
+      "52fb1b7e71d9569d6f41816613d00dbb192f409075c3c7b5ba217db12912ae52": {
+        "title": "为了车主五一不抢桩，“特斯拉们”有多拼？",
+        "link": "https://www.tmtpost.com/7974291.html",
+        "published_date": "Fri, 01 May 2026 09:50:00 GMT",
+        "first_seen": "2026-05-01T07:29:17.105731"
+      },
+      "c21d2994ccf777730ee943d74507b1d5f9f953a8f79f3b1a1a047de86c93b8ef": {
+        "title": "DeepSeek给AI装了根赛博手指，于是它能看见了",
+        "link": "https://www.tmtpost.com/7974709.html",
+        "published_date": "Fri, 01 May 2026 09:50:00 GMT",
+        "first_seen": "2026-05-01T07:29:17.106567"
+      },
+      "b1d64e26e08669c4f6ab64f5e656c46fc0416fd0b5012610f29a5dd7778c33e1": {
+        "title": "买完就拆logo，“拉夫劳伦平替”的3000家门店，装不下中产的“保罗羞耻”",
+        "link": "https://www.tmtpost.com/7974289.html",
+        "published_date": "Fri, 01 May 2026 09:50:00 GMT",
+        "first_seen": "2026-05-01T07:29:17.107837"
+      },
+      "91be1f801d78cf13acd9a6f5b5d49a859aaf6559d69eb40ac2453004b690652f": {
+        "title": "DeepSeek 发布多模态模型及技术报告；小红书官宣组织调整：柯南出任总裁；宇树发布双臂人形机器人，2.69万元起售",
+        "link": "http://www.geekpark.net/news/363694",
+        "published_date": "Fri, 01 May 2026 08:30:00 GMT",
+        "first_seen": "2026-05-01T07:29:26.456894"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-04-30T23:56:00.201775",
-    "Technology": "2026-04-30T23:56:09.729479",
-    "Finance": "2026-04-30T23:56:00.058758"
+    "AI": "2026-05-01T07:29:17.006543",
+    "Technology": "2026-05-01T07:29:26.460528",
+    "Finance": "2026-05-01T07:29:16.878901"
   }
 }
