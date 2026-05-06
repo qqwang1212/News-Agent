@@ -1326,33 +1326,15 @@
         "link": "https://www.qbitai.com/2026/05/412995.html",
         "published_date": "Wed, 06 May 2026 00:22:00 GMT",
         "first_seen": "2026-05-06T07:39:20.120303"
+      },
+      "0e78d2051e5e1aa18ebd4efb891cf2b5977cd0d3089390c7c21741d67561638a": {
+        "title": "陶哲轩在线安利Claude Code：审稿意见全给它，15分钟欧了",
+        "link": "https://www.qbitai.com/2026/05/413265.html",
+        "published_date": "Wed, 06 May 2026 08:11:00 GMT",
+        "first_seen": "2026-05-06T10:24:45.455138"
       }
     },
     "Technology": {
-      "f2c67e94c43964e5abdeee38fac984eefc42aeacc941624e9a7832a541234458": {
-        "title": "AI 泡沫的时间大考：霍尔木兹只是导火索，内因才是炸药",
-        "link": "https://www.tmtpost.com/7942749.html",
-        "published_date": "Mon, 06 Apr 2026 15:39:00 GMT",
-        "first_seen": "2026-04-06T09:16:36.675160"
-      },
-      "9db874d7a8cd2739de9c3d7bb3a08a8718943760d213fcf0862c35bbf9ded679": {
-        "title": "下一个十年，决定你贫富的，是它",
-        "link": "https://www.tmtpost.com/7942766.html",
-        "published_date": "Mon, 06 Apr 2026 15:39:00 GMT",
-        "first_seen": "2026-04-06T09:16:36.675330"
-      },
-      "7d819a0de4565f85ce715ff195afbdbbb77599c542ee43d5df804eab08100ad5": {
-        "title": "利润最高增长近8倍，这一轮锂电复苏红利还能吃多久？",
-        "link": "https://www.tmtpost.com/7942770.html",
-        "published_date": "Mon, 06 Apr 2026 15:39:00 GMT",
-        "first_seen": "2026-04-06T09:16:36.675497"
-      },
-      "85e9b636cfa0d1f3550060b338a0993eae979aaa5b9a54834f5e4eeec921ea50": {
-        "title": "自动驾驶优化：从复杂性到实时工程",
-        "link": "https://www.infoq.cn/article/v42V65eJ884wfPPLdx1a?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 06 Apr 2026 15:00:00 GMT",
-        "first_seen": "2026-04-06T09:16:36.675675"
-      },
       "2b18ae53d0c4fde199910b3421ad59a6d27762e42859a804b50822e99b7da77d": {
         "title": "【钛晨报】商务部等6部门：更好服务实体经济，推进电子商务高质量发展；苹果首款折叠屏手机已在试产；8个产油国决定自5月起将原油日产量上调20.6万桶",
         "link": "https://www.tmtpost.com/7942349.html",
@@ -10118,13 +10100,103 @@
         "link": "https://sspai.com/post/109410",
         "published_date": "Wed, 06 May 2026 08:12:00 GMT",
         "first_seen": "2026-05-06T07:39:20.262885"
+      },
+      "e121ec0201f59c4e04965dfa5bdc5fbe82c955e549dad53125a9b89f2640dde2": {
+        "title": "奥特曼食言了，但这次没人怪他",
+        "link": "https://www.tmtpost.com/7978179.html",
+        "published_date": "Wed, 06 May 2026 18:04:00 GMT",
+        "first_seen": "2026-05-06T10:24:55.001803"
+      },
+      "09e4851404066ab55b0a8874b4331d3a070b3d0adfa282ff910a4c0e26f7a82c": {
+        "title": "AI不再拼模型：OpenAI 与 Anthropic 开始争夺“企业入口”",
+        "link": "https://www.tmtpost.com/7978166.html",
+        "published_date": "Wed, 06 May 2026 18:04:00 GMT",
+        "first_seen": "2026-05-06T10:24:55.001817"
+      },
+      "5ea24d7eaca214876ae12937d7fceb71eb225604280a4fa357513aa062c27e94": {
+        "title": "赵明能享受到千里科技的推背感吗？",
+        "link": "https://www.tmtpost.com/7978188.html",
+        "published_date": "Wed, 06 May 2026 18:04:00 GMT",
+        "first_seen": "2026-05-06T10:24:55.001757"
+      },
+      "406862fd1488909ea83377de36dd6733e6e8ea14d9658d7836ff2dac800f9716": {
+        "title": "3亿用户扛不住算力账单",
+        "link": "https://www.tmtpost.com/7978182.html",
+        "published_date": "Wed, 06 May 2026 18:04:00 GMT",
+        "first_seen": "2026-05-06T10:24:55.001826"
+      },
+      "5245f3d9eca30dc40fdc23e4974b08a1fbf0af6bbf5bccbf1fbdf107beb3981c": {
+        "title": "这届北京车展，智驾人也有春天",
+        "link": "https://www.tmtpost.com/7977748.html",
+        "published_date": "Wed, 06 May 2026 17:47:00 GMT",
+        "first_seen": "2026-05-06T10:24:55.001836"
+      },
+      "1d2a5ba106242cf703b809075cff4684469e32ae2dc339b032678f8882a76d2d": {
+        "title": "从万元户到个人资本百亿，“中国巴菲特”陈发树是如何炼成的？",
+        "link": "https://www.tmtpost.com/7978030.html",
+        "published_date": "Wed, 06 May 2026 17:34:00 GMT",
+        "first_seen": "2026-05-06T10:24:55.001847"
+      },
+      "6530510aa5ec7fae1e13589e5ab99b0b75cbf59932dc3b131cae6f3b5ba83add": {
+        "title": "PE远低于亚马逊，资本为何没对阿里AI出价？",
+        "link": "https://www.tmtpost.com/7977823.html",
+        "published_date": "Wed, 06 May 2026 17:34:00 GMT",
+        "first_seen": "2026-05-06T10:24:55.001858"
+      },
+      "1711e1faa29ba6a745cd1dc9bc52b2914cac29c7609554f21a6529a9b377de3d": {
+        "title": "李飞飞又开了家公司，投资人排队塞了4个亿",
+        "link": "https://www.tmtpost.com/7978097.html",
+        "published_date": "Wed, 06 May 2026 17:33:00 GMT",
+        "first_seen": "2026-05-06T10:24:55.001869"
+      },
+      "a307cc404ea3278dee411b548b059d4ecb826c4ca2ef130299ace6ca00da3a46": {
+        "title": "“耐心资本”时代，创投行业呼唤“价值工程师”",
+        "link": "https://www.tmtpost.com/7977983.html",
+        "published_date": "Wed, 06 May 2026 17:33:00 GMT",
+        "first_seen": "2026-05-06T10:24:55.001880"
+      },
+      "836a20233c59710c2e605a8afc739b8247bb4ab1aadbc391d672133cd7c1a887": {
+        "title": "吞噬爱马仕：凭空消失的百亿股份与世纪资本恶战",
+        "link": "https://www.tmtpost.com/7977927.html",
+        "published_date": "Wed, 06 May 2026 15:38:00 GMT",
+        "first_seen": "2026-05-06T10:24:45.585720"
+      },
+      "2eb9deb656fc72419416f84a671fa8505f2dd05ea7879b227fc6644a4f60e532": {
+        "title": "首款8K AI拇指运动相机，光子跃迁LEAPTIC Cube开启预售",
+        "link": "https://www.tmtpost.com/7977719.html",
+        "published_date": "Wed, 06 May 2026 15:28:00 GMT",
+        "first_seen": "2026-05-06T10:24:45.586210"
+      },
+      "9927e58201100aa1ec6a4a0fdbf26fbfc9ddf61866f15719b34a2e5b9c78a4d3": {
+        "title": "npmx 进入 Alpha 阶段：一个由社区驱动的 npm 注册表浏览器替代品",
+        "link": "https://www.infoq.cn/article/H3UBOv3iPlJMAgtWFEMk?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 06 May 2026 18:00:00 GMT",
+        "first_seen": "2026-05-06T10:24:45.586886"
+      },
+      "efe2b3772c6b3d4e22063f351bd9312f10afbe26bee1f6b12c6407fa4f8a1ee1": {
+        "title": "OpenChoreo 1.0 将 AI 代理和 GitOps 引入 Kubernetes 开发平台",
+        "link": "https://www.infoq.cn/article/D7iLJ0aKtBPgS3RCQlQr?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 06 May 2026 16:00:00 GMT",
+        "first_seen": "2026-05-06T10:24:55.001790"
+      },
+      "0a4722b5e849b14e2871fffa0b33b4da0831409608244aa5c41f8414a0eb549e": {
+        "title": "“如果你不用更多Token，就永远逃不出底层”：AI竞赛开始变成资源战争",
+        "link": "https://www.infoq.cn/article/fdAdSjRh8TNNy6RMrjGm?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 06 May 2026 15:55:00 GMT",
+        "first_seen": "2026-05-06T10:24:45.588481"
+      },
+      "55f169111af0901ef13278f4c44bf88818c75a82d3052b164140fa0935b9a882": {
+        "title": "为了让「上厕所」更健康，我做了一个小工具",
+        "link": "https://sspai.com/post/109296",
+        "published_date": "Wed, 06 May 2026 15:00:00 GMT",
+        "first_seen": "2026-05-06T10:24:45.589179"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-05-06T07:39:20.172419",
-    "Technology": "2026-05-06T07:39:29.716510",
-    "Finance": "2026-05-06T07:39:20.011481"
+    "AI": "2026-05-06T10:24:45.525472",
+    "Technology": "2026-05-06T10:24:55.005772",
+    "Finance": "2026-05-06T10:24:45.347317"
   }
 }
