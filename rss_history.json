@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "acc1b5af549d6167376b5bc271955e87a7d898d91d1bcb5e58bb50392f736b3b": {
-        "title": "让大模型多模态检索全面超越SOTA！ReCALL框架化解生成式与判别式的范式冲突｜CVPR’26",
-        "link": "https://www.qbitai.com/2026/04/396863.html",
-        "published_date": "Mon, 06 Apr 2026 15:30:00 GMT",
-        "first_seen": "2026-04-06T23:43:22.954832"
-      },
-      "7fbe93270a14a0eff6d3f841f4e1609d51ef687a592bad731906e17bd8ba7cf4": {
-        "title": "北大团队改造DeepSeek注意力，速度快四倍还不丢精度",
-        "link": "https://www.qbitai.com/2026/04/396841.html",
-        "published_date": "Mon, 06 Apr 2026 15:25:00 GMT",
-        "first_seen": "2026-04-06T23:43:22.954990"
-      },
       "dbe1aacd5c8189e067d42cb768e341f9500d6472f1e50368be1b6ef6f8778dbe": {
         "title": "下一代OpenClaw来了？“龙虾之父”称将率先支持阿里千问",
         "link": "https://www.qbitai.com/2026/04/396955.html",
@@ -1332,33 +1320,15 @@
         "link": "https://www.qbitai.com/2026/05/413265.html",
         "published_date": "Wed, 06 May 2026 08:11:00 GMT",
         "first_seen": "2026-05-06T10:24:45.455138"
+      },
+      "58e8a89d4fceeabf86910158c235ecf2b95de72c5f8b83d29bfcebe66a170e84": {
+        "title": "AI PPT，这次是真不用返工了",
+        "link": "https://www.qbitai.com/2026/05/413296.html",
+        "published_date": "Wed, 06 May 2026 10:28:00 GMT",
+        "first_seen": "2026-05-06T23:56:40.131475"
       }
     },
     "Technology": {
-      "2b18ae53d0c4fde199910b3421ad59a6d27762e42859a804b50822e99b7da77d": {
-        "title": "【钛晨报】商务部等6部门：更好服务实体经济，推进电子商务高质量发展；苹果首款折叠屏手机已在试产；8个产油国决定自5月起将原油日产量上调20.6万桶",
-        "link": "https://www.tmtpost.com/7942349.html",
-        "published_date": "Tue, 07 Apr 2026 07:20:00 GMT",
-        "first_seen": "2026-04-06T23:43:22.758400"
-      },
-      "984c7495e67d99b188ca8058e19616d58e7289c10c0794286d06cb734e2e865b": {
-        "title": "狂卖400万瓶，“假洋牌”优思益让中产集体破防了",
-        "link": "https://www.tmtpost.com/7942741.html",
-        "published_date": "Mon, 06 Apr 2026 22:58:00 GMT",
-        "first_seen": "2026-04-06T23:43:22.758582"
-      },
-      "4f7c87bb2a35e0f675bea12f6ac9fc3ced36b211e8531153331a9e236ed9046a": {
-        "title": "微信小游戏开了5000万的口子：平台到底在补贴谁？",
-        "link": "https://www.tmtpost.com/7942848.html",
-        "published_date": "Mon, 06 Apr 2026 17:53:00 GMT",
-        "first_seen": "2026-04-06T23:43:22.758772"
-      },
-      "667a292e14de4b518e99396725ab26453a96ede587cb673ce78782a1dcd4e0ed": {
-        "title": "App+1｜装上它、然后忘掉它：用 ShotClean 自动化管理截图",
-        "link": "https://sspai.com/post/108294",
-        "published_date": "Mon, 06 Apr 2026 20:45:00 GMT",
-        "first_seen": "2026-04-06T23:43:22.759037"
-      },
       "b051a013a25b5410fd6f0de3dbae6c39a1b5628b001a8cb06a56b3b7528f7cc2": {
         "title": "从上下文到经验资产：OpenClaw 热潮下的 Agent 记忆系统工程实践｜QCon北京",
         "link": "https://www.infoq.cn/article/IQfviaUpKcyUVudfrzip?utm_source=rss&utm_medium=article",
@@ -10190,13 +10160,43 @@
         "link": "https://sspai.com/post/109296",
         "published_date": "Wed, 06 May 2026 15:00:00 GMT",
         "first_seen": "2026-05-06T10:24:45.589179"
+      },
+      "35f8f359ee723267f18c53259ea881b49447628344d2fe2753449fcda309900e": {
+        "title": "【钛晨报】工信部批复首个卫星物联网业务商用试验；月之暗面将完成20亿美元新融资，估值破200亿美元；三星宣布停止在中国市场销售所有家电产品",
+        "link": "https://www.tmtpost.com/7978445.html",
+        "published_date": "Thu, 07 May 2026 07:20:00 GMT",
+        "first_seen": "2026-05-06T23:56:40.231848"
+      },
+      "003b458dd6fb92a81528f22d3b3574b3b7b5dad3e7db30d649c2a1a35240d11b": {
+        "title": "乌帕替尼“先发牌”到手，但华邦健康还有笔近亿税务旧账没算完",
+        "link": "https://www.tmtpost.com/7978415.html",
+        "published_date": "Wed, 06 May 2026 21:51:00 GMT",
+        "first_seen": "2026-05-06T23:56:40.232053"
+      },
+      "6f8e8a952d673371bd6e70b2d1d1350313e4a97433840d275873509424e44d4d": {
+        "title": "勤上股份募资账户遭续冻：跨境仲裁僵持背后，两年亏损5.7亿困局待解",
+        "link": "https://www.tmtpost.com/7978326.html",
+        "published_date": "Wed, 06 May 2026 20:24:00 GMT",
+        "first_seen": "2026-05-06T23:56:40.232245"
+      },
+      "66ce697fd471c16b7d9bd676777820fe21ff26686193b1e0e7750505f623f26e": {
+        "title": "需求从工具转向结果，SaaS会死在重生的路上么？丨ToB产业观察",
+        "link": "https://www.tmtpost.com/7978077.html",
+        "published_date": "Wed, 06 May 2026 18:58:00 GMT",
+        "first_seen": "2026-05-06T23:56:40.232490"
+      },
+      "eeb27a53107c9cd356e6449734e56571f628c55ddd59b58e58089a4cfe19806d": {
+        "title": "返工怎能不烦恼，打工人片单总有一部是你的「嘴替」",
+        "link": "https://sspai.com/post/88578",
+        "published_date": "Wed, 06 May 2026 17:30:00 GMT",
+        "first_seen": "2026-05-06T23:56:40.232760"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-05-06T10:24:45.525472",
-    "Technology": "2026-05-06T10:24:55.005772",
-    "Finance": "2026-05-06T10:24:45.347317"
+    "AI": "2026-05-06T23:56:40.175588",
+    "Technology": "2026-05-06T23:56:40.240764",
+    "Finance": "2026-05-06T23:56:40.022954"
   }
 }
