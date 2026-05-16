@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 15 May 2026 10:29:00 GMT</pubDate>
-    <lastBuildDate>Fri, 15 May 2026 10:31:30 GMT</lastBuildDate>
+    <pubDate>Sat, 16 May 2026 07:18:00 GMT</pubDate>
+    <lastBuildDate>Sat, 16 May 2026 07:20:40 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,67 +14,43 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Need is all you need：AI接手Coding后，程序员最值钱的能力只剩这一项?</title>
-      <link>https://www.qbitai.com/2026/05/418035.html</link>
-      <description>&lt;![CDATA[Need is all you need：AI接手Coding后，程序员最值钱的能力只剩这一项?]]&gt;</description>
-      <pubDate>Fri, 15 May 2026 09:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/418035.html</guid>
+      <title>奥特曼投的芯片涨疯了，今年最大科技IPO</title>
+      <link>https://www.qbitai.com/2026/05/418594.html</link>
+      <description>&lt;![CDATA[奥特曼投的芯片涨疯了，今年最大科技IPO]]&gt;</description>
+      <pubDate>Sat, 16 May 2026 06:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/418594.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>手机的智能体AI，正在因为天玑全面跃升</title>
-      <link>https://www.qbitai.com/2026/05/417968.html</link>
-      <description>&lt;![CDATA[手机的智能体AI，正在因为天玑全面跃升]]&gt;</description>
-      <pubDate>Fri, 15 May 2026 07:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/417968.html</guid>
+      <title>虾马之后又火一个！OpenHuman用20分钟了解你的一切，存成卡帕西式知识库</title>
+      <link>https://www.qbitai.com/2026/05/418571.html</link>
+      <description>&lt;![CDATA[虾马之后又火一个！OpenHuman用20分钟了解你的一切，存成卡帕西式知识库]]&gt;</description>
+      <pubDate>Sat, 16 May 2026 06:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/418571.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>阿里发布Qoder 1.0，可全面接管代码生成、验证和交付流程</title>
-      <link>https://www.qbitai.com/2026/05/418027.html</link>
-      <description>&lt;![CDATA[阿里发布Qoder 1.0，可全面接管代码生成、验证和交付流程]]&gt;</description>
-      <pubDate>Fri, 15 May 2026 07:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/418027.html</guid>
+      <title>别让模型烧Token了！GitHub 20k星神作：把全网变成命令行</title>
+      <link>https://www.qbitai.com/2026/05/418518.html</link>
+      <description>&lt;![CDATA[别让模型烧Token了！GitHub 20k星神作：把全网变成命令行]]&gt;</description>
+      <pubDate>Sat, 16 May 2026 06:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/418518.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>坐到马斯克和库克中间的湖南女人</title>
-      <link>https://www.qbitai.com/2026/05/417965.html</link>
-      <description>&lt;![CDATA[坐到马斯克和库克中间的湖南女人]]&gt;</description>
-      <pubDate>Fri, 15 May 2026 07:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/417965.html</guid>
+      <title>中国500万医生的新AI：顶刊独家联手，卷的就是证据源</title>
+      <link>https://www.qbitai.com/2026/05/418491.html</link>
+      <description>&lt;![CDATA[中国500万医生的新AI：顶刊独家联手，卷的就是证据源]]&gt;</description>
+      <pubDate>Sat, 16 May 2026 04:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/418491.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>蚂蚁百灵 Ring-2.6-1T 开源 Agent 执行能力全面增强</title>
-      <link>https://www.qbitai.com/2026/05/417961.html</link>
-      <description>&lt;![CDATA[蚂蚁百灵 Ring-2.6-1T 开源 Agent 执行能力全面增强]]&gt;</description>
-      <pubDate>Fri, 15 May 2026 07:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/417961.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>智能无处不在：OpenClaw预示的AI未来</title>
-      <link>https://www.qbitai.com/2026/05/417958.html</link>
-      <description>&lt;![CDATA[智能无处不在：OpenClaw预示的AI未来]]&gt;</description>
-      <pubDate>Fri, 15 May 2026 06:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/417958.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>英伟达给黄仁勋儿女涨薪了！年薪百万美元，“凭能力而不是身份”</title>
-      <link>https://www.qbitai.com/2026/05/417943.html</link>
-      <description>&lt;![CDATA[英伟达给黄仁勋儿女涨薪了！年薪百万美元，“凭能力而不是身份”]]&gt;</description>
-      <pubDate>Fri, 15 May 2026 03:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/417943.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>数亿元融资落地！国内最早布局“人类学习”路线的具身公司，用人类视角重做具身智能</title>
-      <link>https://www.qbitai.com/2026/05/417935.html</link>
-      <description>&lt;![CDATA[数亿元融资落地！国内最早布局“人类学习”路线的具身公司，用人类视角重做具身智能]]&gt;</description>
-      <pubDate>Fri, 15 May 2026 02:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/05/417935.html</guid>
+      <title>15.68万乐道L80开卖，厨房搬进前备厢，李斌：纯电大五座SUV的“拐点”</title>
+      <link>https://www.qbitai.com/2026/05/418150.html</link>
+      <description>&lt;![CDATA[15.68万乐道L80开卖，厨房搬进前备厢，李斌：纯电大五座SUV的“拐点”]]&gt;</description>
+      <pubDate>Sat, 16 May 2026 04:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/05/418150.html</guid>
       <category>AI</category>
     </item>
   </channel>
