@@ -1236,6 +1236,24 @@
         "link": "https://www.qbitai.com/2026/05/418620.html",
         "published_date": "Sat, 16 May 2026 13:44:00 GMT",
         "first_seen": "2026-05-16T23:59:24.459455"
+      },
+      "69a73a454764f84428e582e4030fe63a2f32acb1874346daada3d5e4f2c4e6dc": {
+        "title": "龙虾之父月烧940万元的token！要不是入职OpenAI还真用不起",
+        "link": "https://www.qbitai.com/2026/05/418822.html",
+        "published_date": "Sun, 17 May 2026 04:48:00 GMT",
+        "first_seen": "2026-05-17T07:39:06.485527"
+      },
+      "33c09bb9b44bdf07abecc3e89b3d02fc18c3ff4d5b323c8e1021c0e98b2f24a1": {
+        "title": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
+        "link": "https://www.qbitai.com/2026/05/418814.html",
+        "published_date": "Sun, 17 May 2026 03:42:00 GMT",
+        "first_seen": "2026-05-17T07:39:06.485666"
+      },
+      "ea8e0f91a20e73cac68d5752fd2542ad8d33d899e59084f8deb0a81fde076eb9": {
+        "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
+        "link": "https://www.qbitai.com/2026/05/418737.html",
+        "published_date": "Sun, 17 May 2026 03:37:00 GMT",
+        "first_seen": "2026-05-17T07:39:06.485891"
       }
     },
     "Technology": {
@@ -9944,13 +9962,133 @@
         "link": "https://sspai.com/post/109777",
         "published_date": "Sat, 16 May 2026 15:38:00 GMT",
         "first_seen": "2026-05-16T09:46:36.843938"
+      },
+      "74025255e4b4161ead90b6e03d046162bfdccd1e809e01786193f2323b8dff7e": {
+        "title": "【数智周报】前世界首富贝索斯新公司募资说明书首度曝光，估值380亿美元；Anthropic正以9000亿美元估值寻求至少300亿美元融资；阿里平头哥自研GPU规模化量产",
+        "link": "https://www.tmtpost.com/7990953.html",
+        "published_date": "Sun, 17 May 2026 13:36:00 GMT",
+        "first_seen": "2026-05-17T07:39:06.320449"
+      },
+      "cd3aa44cadff0ebf8668b4d17e8ffccd249707fce0cd01def188f0663b33dfb6": {
+        "title": "悬疑剧男主终于过上了白宇梦想的生活",
+        "link": "https://www.tmtpost.com/7990892.html",
+        "published_date": "Sun, 17 May 2026 12:10:00 GMT",
+        "first_seen": "2026-05-17T07:39:06.320459"
+      },
+      "f60ec19fea8f8129ee1f2cd54017d09a8e0397c1a6503950bb080cb56bf32c79": {
+        "title": "全息世界模型：破译从生命到AGI的终极生存算法",
+        "link": "https://www.tmtpost.com/7990897.html",
+        "published_date": "Sun, 17 May 2026 12:10:00 GMT",
+        "first_seen": "2026-05-17T07:39:06.320470"
+      },
+      "11ae6ff6366bddbf5c6c01f9f4368b998ebeaf8a85ed089d2606dcc4107377b1": {
+        "title": "暴涨超225%！5000亿存储超级“黑马”，大爆发",
+        "link": "https://www.tmtpost.com/7990980.html",
+        "published_date": "Sun, 17 May 2026 12:10:00 GMT",
+        "first_seen": "2026-05-17T07:39:06.320481"
+      },
+      "24974e33ac5bd77289a905ad80424a1d1f778940906e48bde0175e597e68e6a0": {
+        "title": "4万亿VS 3.4%！国家电网的“十五五”，一场迟到的资产证券化狂飙",
+        "link": "https://www.tmtpost.com/7991003.html",
+        "published_date": "Sun, 17 May 2026 12:10:00 GMT",
+        "first_seen": "2026-05-17T07:39:06.320495"
+      },
+      "267e7958abb7616c022b9d388376178b2eb8e6102121e0f8e8ca11d925300764": {
+        "title": "910亿宗馥莉“挥刀”，娃哈哈代工厂“人事大地震”",
+        "link": "https://www.tmtpost.com/7990776.html",
+        "published_date": "Sun, 17 May 2026 11:08:00 GMT",
+        "first_seen": "2026-05-17T07:39:06.320506"
+      },
+      "e7d6101078bc4d793eee98039218dd40cd690be2a3b478f9a45fec579710a013": {
+        "title": "中国电视销量腰斩，别再把锅甩给年轻人了",
+        "link": "https://www.tmtpost.com/7991025.html",
+        "published_date": "Sun, 17 May 2026 11:04:00 GMT",
+        "first_seen": "2026-05-17T07:39:06.320516"
+      },
+      "3f0eebc6d0d34d9e6ddc43912e34c51a590a9503ed8955b58cac7b262a3849db": {
+        "title": "四次IPO铩羽而归，被腾讯收购是喜马拉雅最好的“归宿”",
+        "link": "https://www.tmtpost.com/7990904.html",
+        "published_date": "Sun, 17 May 2026 10:32:00 GMT",
+        "first_seen": "2026-05-17T07:39:06.320527"
+      },
+      "c5222819b03c9ea0577a691725e49578ebd36e9f7d2652292bd166b7386719fc": {
+        "title": "快手抄百度昆仑芯作业，可灵AI单独上市？",
+        "link": "https://www.tmtpost.com/7990731.html",
+        "published_date": "Sun, 17 May 2026 10:32:00 GMT",
+        "first_seen": "2026-05-17T07:38:56.851080"
+      },
+      "244839ad4f9af1e6723c9b7d8aead4147529c25d7397e1ff2b2d7cf52e535283": {
+        "title": "华住：甩掉包袱、轻装上阵，还是酒店界的优等生",
+        "link": "https://www.tmtpost.com/7990732.html",
+        "published_date": "Sun, 17 May 2026 10:32:00 GMT",
+        "first_seen": "2026-05-17T07:38:56.851588"
+      },
+      "9f9d67c7c5af2b215ad8e8ee857291715f409215273fc7e00ba3db5fe22aec6f": {
+        "title": "发布五大方向，智慧科考站标准化进入实操阶段",
+        "link": "https://www.tmtpost.com/7990989.html",
+        "published_date": "Sun, 17 May 2026 10:29:00 GMT",
+        "first_seen": "2026-05-17T07:39:06.320400"
+      },
+      "866e19418b612b9e19ecf8829631069080f4abc6468ffcaccb10ecaa16772eaa": {
+        "title": "马化腾的\"漏水船\"与腾讯AI的下半场",
+        "link": "https://www.tmtpost.com/7990734.html",
+        "published_date": "Sun, 17 May 2026 09:41:00 GMT",
+        "first_seen": "2026-05-17T07:38:56.852483"
+      },
+      "df01efc1cae00a6edfb5d24d613b32f938af39760a6071f82c956c509e384aa9": {
+        "title": "阿里健康“削藩”，给AI填坑？",
+        "link": "https://www.tmtpost.com/7990530.html",
+        "published_date": "Sun, 17 May 2026 09:00:00 GMT",
+        "first_seen": "2026-05-17T07:38:56.852988"
+      },
+      "e322d4171673d6a98df8333ce0be46cd8d4e2af3c40d565a78e4651936ea60e4": {
+        "title": "反杀英伟达！亏损多年却一夜千亿，这家 AI 芯片公司凭什么炸翻美股？",
+        "link": "https://www.tmtpost.com/7989595.html",
+        "published_date": "Sun, 17 May 2026 08:58:00 GMT",
+        "first_seen": "2026-05-17T07:39:06.320431"
+      },
+      "fcae743dead6552cd94f3bfe509940b5d7d2ab70a7ae92b1159a1ab3785d1a6f": {
+        "title": "世界杯在即：国产彩电的出海故事还讲得通吗？",
+        "link": "https://www.tmtpost.com/7990649.html",
+        "published_date": "Sun, 17 May 2026 08:40:00 GMT",
+        "first_seen": "2026-05-17T07:38:56.854351"
+      },
+      "6f92781334c634eb70954a920994134b8a77b56fdecf476a0393e01007e25b6f": {
+        "title": "拿着同款 AI 船票，阿里和腾讯活成了彼此不认识的样子",
+        "link": "https://www.tmtpost.com/7990615.html",
+        "published_date": "Sun, 17 May 2026 08:39:00 GMT",
+        "first_seen": "2026-05-17T07:38:56.855165"
+      },
+      "3c2560ede68c094b0ac0ebc0d80c9b0a5d0e6591d3116dfc191a60c6b12dbb7d": {
+        "title": "走进数采工厂：深聊机器人数据荒漠、四层金字塔与种树人",
+        "link": "https://www.tmtpost.com/7990555.html",
+        "published_date": "Sun, 17 May 2026 08:37:00 GMT",
+        "first_seen": "2026-05-17T07:38:56.855915"
+      },
+      "deda62625b3ca00046bcf33c3ed5436066df44e2a4d6e5edbfb2e13d59316793": {
+        "title": "Edge AI Daily 早报（5月17日）",
+        "link": "https://www.tmtpost.com/7990920.html",
+        "published_date": "Sun, 17 May 2026 08:36:00 GMT",
+        "first_seen": "2026-05-17T07:38:56.856655"
+      },
+      "6499981347eac0ce8991e80a2426fb4af512bd6c7ec99d48797c35b33ce94eb0": {
+        "title": "看剧不卡顿、游戏低延迟：「智能队列」这样改善你的冲浪体验",
+        "link": "https://sspai.com/post/64870",
+        "published_date": "Sun, 17 May 2026 12:57:00 GMT",
+        "first_seen": "2026-05-17T07:38:56.857599"
+      },
+      "0c3fb29b2aa40421123ef562ff2f64e448af1f1c2c4c6a95a23db107ac00d006": {
+        "title": "AI 的“最后一公里”：本地执行与全场景硬件接入的下一代 Agent 中枢｜AICon上海",
+        "link": "https://www.infoq.cn/article/xV4rl7FWmONciZOiRyt9?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 17 May 2026 10:00:00 GMT",
+        "first_seen": "2026-05-17T07:38:56.858914"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-05-16T23:59:24.497693",
-    "Technology": "2026-05-16T23:59:24.319328",
-    "Finance": "2026-05-16T23:59:24.246060"
+    "AI": "2026-05-17T07:39:06.493189",
+    "Technology": "2026-05-17T07:39:06.347294",
+    "Finance": "2026-05-17T07:38:56.786356"
   }
 }
