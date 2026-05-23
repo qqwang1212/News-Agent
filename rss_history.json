@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "998ec308f03855ce07cc246e737c11f57b7c204cf23a3bad3bdcfc206c1c9cc6": {
-        "title": "半壁华人！GPT Image 2团队曝光：无锡才俊带队，13人4个月封神",
-        "link": "https://www.qbitai.com/2026/04/405391.html",
-        "published_date": "Thu, 23 Apr 2026 08:04:00 GMT",
-        "first_seen": "2026-04-23T09:48:39.372052"
-      },
       "0ebe35ec356092136dd8931f003ace8df3f30cb95571b9b56a7b11952c7a56a7": {
         "title": "刚刚，GPT-5.5发布！内测英伟达工程师：失去它像被截肢",
         "link": "https://www.qbitai.com/2026/04/406221.html",
@@ -1245,126 +1239,6 @@
       }
     },
     "Technology": {
-      "22e84eacdc4bfb4182cba302b2b38b56ec5d0cadf9dcad535cc9d001f27cc6da": {
-        "title": "养猪血亏，上市猪企靠什么续命？",
-        "link": "https://www.tmtpost.com/7963885.html",
-        "published_date": "Thu, 23 Apr 2026 17:37:00 GMT",
-        "first_seen": "2026-04-23T09:48:48.680785"
-      },
-      "0b3605c7d01bcc96154790e0e6303efd0b9c5f6eb45e7eac2a5f5c7c0fbdbcd8": {
-        "title": "体内CAR-T的泡沫起来了？",
-        "link": "https://www.tmtpost.com/7963984.html",
-        "published_date": "Thu, 23 Apr 2026 17:37:00 GMT",
-        "first_seen": "2026-04-23T09:48:48.680791"
-      },
-      "993357c44ceb07ef22e863909636b37cee3158c42cd0f5b78dc0316f6942b560": {
-        "title": "这一次，OpenAI干掉了90%人类设计师",
-        "link": "https://www.tmtpost.com/7964063.html",
-        "published_date": "Thu, 23 Apr 2026 17:37:00 GMT",
-        "first_seen": "2026-04-23T09:48:48.680799"
-      },
-      "3d43daf7653493660a743a94feeae800e218baea6b797b99db29a371e1a997ea": {
-        "title": "一个90后，估值100亿",
-        "link": "https://www.tmtpost.com/7964123.html",
-        "published_date": "Thu, 23 Apr 2026 17:37:00 GMT",
-        "first_seen": "2026-04-23T09:48:48.680805"
-      },
-      "d94e1d1cbd44765ead9b86ab4a6623211667666c23f25e3e611357841a2ec9fc": {
-        "title": "一季度33家过会，医疗企业为何都抢着“北上”？",
-        "link": "https://www.tmtpost.com/7964183.html",
-        "published_date": "Thu, 23 Apr 2026 17:37:00 GMT",
-        "first_seen": "2026-04-23T09:48:48.680837"
-      },
-      "f3a503b714b8daf6e0d6384773475dd76effd7b0ea0d3a162b46500a4fe598fb": {
-        "title": "全球首发！中国脑机接口，怎么就突然超过美国了？",
-        "link": "https://www.tmtpost.com/7964132.html",
-        "published_date": "Thu, 23 Apr 2026 17:37:00 GMT",
-        "first_seen": "2026-04-23T09:48:48.680843"
-      },
-      "67a73c6d19a8e1f4b51fafe5c705357e2f96ad31edbdf1a121b46725d2ec2a29": {
-        "title": "在全球最大的学术会议上，中国创新药挤走MNC",
-        "link": "https://www.tmtpost.com/7964188.html",
-        "published_date": "Thu, 23 Apr 2026 17:37:00 GMT",
-        "first_seen": "2026-04-23T09:48:48.680775"
-      },
-      "deb1a2e6b57ed3553ef30f98cbb7f3b164a52bd7fa69191d61d368800c69d2ab": {
-        "title": "炮火连天，为何700台中国无人车要死守中东？",
-        "link": "https://www.tmtpost.com/7964279.html",
-        "published_date": "Thu, 23 Apr 2026 17:37:00 GMT",
-        "first_seen": "2026-04-23T09:48:48.680849"
-      },
-      "a0f8e5450b894fd5218457a1fa3f002c3df1aac8bf3154d50f2aa60d790c5013": {
-        "title": "Netflix们集体涨价，都怪海外没有“红果”？",
-        "link": "https://www.tmtpost.com/7964381.html",
-        "published_date": "Thu, 23 Apr 2026 17:37:00 GMT",
-        "first_seen": "2026-04-23T09:48:48.680855"
-      },
-      "1f3fa1410946cfba8fa31f92067860a2317aa42368bf69a6d814eb8accfb9661": {
-        "title": "200亿估值，阿里、腾讯争投，梁文锋会拿谁的钱？",
-        "link": "https://www.tmtpost.com/7964391.html",
-        "published_date": "Thu, 23 Apr 2026 17:37:00 GMT",
-        "first_seen": "2026-04-23T09:48:39.464313"
-      },
-      "b08018468dd603df88e9771cf2304e846cf8e771be55cb10c365d439efc6d495": {
-        "title": "市值破万亿，从60元飙升至900元用时2年多，中际旭创天使投资人：科学家创业要区别对待",
-        "link": "https://www.tmtpost.com/7964416.html",
-        "published_date": "Thu, 23 Apr 2026 17:37:00 GMT",
-        "first_seen": "2026-04-23T09:48:39.464741"
-      },
-      "21d4891966dc6fcdc7d6465c4cb1b0fc98c85352c170d7a57c2874d71bd50a10": {
-        "title": "实测混元Hy3 preview：混元再出发，中型模型的务实之战",
-        "link": "https://www.tmtpost.com/7964254.html",
-        "published_date": "Thu, 23 Apr 2026 17:15:00 GMT",
-        "first_seen": "2026-04-23T09:48:39.465164"
-      },
-      "f1c1a839b0c8ae12717cce5c8270c9aaca04a10b610d58d56e2175a947c09756": {
-        "title": "梁文锋的惊险一跃：当DeepSeek撞上算力账单与组织重构",
-        "link": "https://www.tmtpost.com/7963833.html",
-        "published_date": "Thu, 23 Apr 2026 16:31:00 GMT",
-        "first_seen": "2026-04-23T09:48:39.465534"
-      },
-      "5479cfcedd7bd83fe32f79fcf67791d3eeda0972b16a2cf06edca4d68c36883a": {
-        "title": "国内累库、海外告急，铝价应该怎么看？",
-        "link": "https://www.tmtpost.com/7963475.html",
-        "published_date": "Thu, 23 Apr 2026 16:31:00 GMT",
-        "first_seen": "2026-04-23T09:48:39.465893"
-      },
-      "b4652547e95096514a828a6a0d0e3288170745d472754837adc1b51506c3f952": {
-        "title": "揭秘：哪吒汽车的钱去哪儿了？",
-        "link": "https://www.tmtpost.com/7964246.html",
-        "published_date": "Thu, 23 Apr 2026 16:31:00 GMT",
-        "first_seen": "2026-04-23T09:48:39.466211"
-      },
-      "11c0a5b0c4f212001fc7887099e7c8f4671a70aac63951b51143d6e29887a8f7": {
-        "title": "广东电价飙升至 1 块钱！ 保底售电不能沦为行业“逃生通道”",
-        "link": "https://www.tmtpost.com/7963744.html",
-        "published_date": "Thu, 23 Apr 2026 16:31:00 GMT",
-        "first_seen": "2026-04-23T09:48:39.466702"
-      },
-      "391754869880df872e77224e8c1e0c625b13bb8300f598107b269d3aa2b5073d": {
-        "title": "爱奇艺诈胡了：一把推倒，全场尴尬",
-        "link": "https://www.tmtpost.com/7963489.html",
-        "published_date": "Thu, 23 Apr 2026 16:31:00 GMT",
-        "first_seen": "2026-04-23T09:48:39.467096"
-      },
-      "c079dfbab0d167bb177c52be76f728b766ca7d9c48821677f2b2e6c310826091": {
-        "title": "全年净利润腰斩、研发与销售费用双高，普门科技“烧钱”渡劫丨看财报",
-        "link": "https://www.tmtpost.com/7964264.html",
-        "published_date": "Thu, 23 Apr 2026 15:46:00 GMT",
-        "first_seen": "2026-04-23T09:48:48.680752"
-      },
-      "65951305d8a7db799532d9529ba61be8239bd10c4c1623d2ab6e2a393a480aba": {
-        "title": "姚顺雨腾讯模型首秀！不卷参数只做 “听话打工人”，Hy3 preview登场 | 附实测",
-        "link": "https://www.infoq.cn/article/muFy49vXpNUHW09hxt7G?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 23 Apr 2026 17:27:00 GMT",
-        "first_seen": "2026-04-23T09:48:39.468486"
-      },
-      "05b4e7dd9127768913dc08b78d3160adc65331961559a3a0561aa6f19362eff6": {
-        "title": "Notion 和 Obsidian 应该怎么选？聊聊我的思考和建议",
-        "link": "https://sspai.com/post/108971",
-        "published_date": "Thu, 23 Apr 2026 15:12:00 GMT",
-        "first_seen": "2026-04-23T09:48:39.469258"
-      },
       "86c03b4f2daa03461aba9a65570b90a12d174a8c694146dd70c9538ff4e03971": {
         "title": "【钛晨报】中办、国办：“双碳”评价考核结果挂钩领导干部考核任用；普华永道赔偿恒大股东10亿港元，并被罚3亿港元；新易盛Q1营收翻番，净利同比增长76.8%",
         "link": "https://www.tmtpost.com/7964909.html",
@@ -9836,13 +9710,37 @@
         "link": "https://sspai.com/post/110052",
         "published_date": "Sat, 23 May 2026 11:29:00 GMT",
         "first_seen": "2026-05-23T07:36:01.308990"
+      },
+      "31d2420d1b0e466ec3bc39c07f64eb5174dbeaa06f2230ae2884d580236389ce": {
+        "title": "【数智周报】  谷歌推出Gemini 3.5系列模型；阿里发布新一代千问旗舰模型Qwen3.7-Max；Meta内部文件曝光：拟裁员10%，全面转向AI架构",
+        "link": "https://www.tmtpost.com/7999893.html",
+        "published_date": "Sat, 23 May 2026 17:06:00 GMT",
+        "first_seen": "2026-05-23T09:59:27.642215"
+      },
+      "ad7557e34852aa2333f64a9d839f3d09520b33f442d23c7bc8c59b54072600b2": {
+        "title": "中国小老板，在非洲雇500人打游戏",
+        "link": "https://www.tmtpost.com/7999824.html",
+        "published_date": "Sat, 23 May 2026 16:17:00 GMT",
+        "first_seen": "2026-05-23T09:59:27.642394"
+      },
+      "6f723cfad2343d6f3d710cd486478b6cd0a2e2f72ef8c26d1f03922bd6722733": {
+        "title": "光伏“卖铲人”，如今成了最尴尬的债主！",
+        "link": "https://www.tmtpost.com/7999799.html",
+        "published_date": "Sat, 23 May 2026 16:08:00 GMT",
+        "first_seen": "2026-05-23T09:59:27.642561"
+      },
+      "9a5b8f38a397c54a032ba5ff950d2fe18cca77e5920492481e2532d927912ec3": {
+        "title": "双面尼泊尔",
+        "link": "https://www.tmtpost.com/7999851.html",
+        "published_date": "Sat, 23 May 2026 16:08:00 GMT",
+        "first_seen": "2026-05-23T09:59:27.642674"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-05-23T07:36:10.816250",
-    "Technology": "2026-05-23T07:36:10.659454",
-    "Finance": "2026-05-23T07:36:01.237594"
+    "AI": "2026-05-23T09:59:27.806389",
+    "Technology": "2026-05-23T09:59:27.662793",
+    "Finance": "2026-05-23T09:59:27.576836"
   }
 }
