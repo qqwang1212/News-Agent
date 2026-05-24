@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "882cb9bb47a604ae46f8da47eaf1a569f60b9f4b0604a309b25c0be43ebf3dd9": {
-        "title": "DeepSeek V4终于发布！打破最强闭源垄断，明确携手华为芯片",
-        "link": "https://www.qbitai.com/2026/04/406359.html",
-        "published_date": "Fri, 24 Apr 2026 04:17:00 GMT",
-        "first_seen": "2026-04-24T07:07:28.382812"
-      },
       "7a089f5bbcf149a5c315252e76aa0cc32388b33f0862773c1ad53b0745237a31": {
         "title": "PPIO首批上线DeepSeek-V4预览版，1M超长上下文能力开箱即用",
         "link": "https://www.qbitai.com/2026/04/406760.html",
@@ -1212,165 +1206,27 @@
         "link": "https://www.qbitai.com/2026/05/423202.html",
         "published_date": "Sat, 23 May 2026 10:09:00 GMT",
         "first_seen": "2026-05-24T00:02:46.668739"
+      },
+      "51e4f57f53fc0b1b738296de2af96ee70d4950b0406e23bde78f67a374174cc1": {
+        "title": "谷歌CEO承认Coding落后了",
+        "link": "https://www.qbitai.com/2026/05/423390.html",
+        "published_date": "Sun, 24 May 2026 06:20:00 GMT",
+        "first_seen": "2026-05-24T07:53:02.583992"
+      },
+      "b7273d3cb6a339ac6d0623379aeb6e88e8f3ee1b83749cdb425e253a4b9c27ca": {
+        "title": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
+        "link": "https://www.qbitai.com/2026/05/423382.html",
+        "published_date": "Sun, 24 May 2026 06:14:00 GMT",
+        "first_seen": "2026-05-24T07:53:02.584127"
+      },
+      "0a076c1c78667c711cfe6746c69274539a827eaedb248fe28a0db545d7aaf670": {
+        "title": "什么！你说胡彦斌也在苦修Vibe Coding",
+        "link": "https://www.qbitai.com/2026/05/423213.html",
+        "published_date": "Sun, 24 May 2026 04:53:00 GMT",
+        "first_seen": "2026-05-24T07:53:02.584320"
       }
     },
     "Technology": {
-      "25108d5f044fc6314a7c2e7c9b079225332c20b872300205a83fa4c759f9411c": {
-        "title": "pnpm 11 候选版本发布，带来 ESM 分发、供应链默认设置以及新的存储格式",
-        "link": "https://www.infoq.cn/article/38YKrVbYKTkbxQLrgx7A?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 24 Apr 2026 14:00:00 GMT",
-        "first_seen": "2026-04-24T07:07:37.902955"
-      },
-      "87d8094cc3f492decaae5122c7c2c9f4fff24dfcf18294686a721060445e5e1a": {
-        "title": "银行业PDF表格提取方案重构：基于Java的分层方案",
-        "link": "https://www.infoq.cn/article/cmwDExlWdDas8WjhIgPx?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 24 Apr 2026 12:00:00 GMT",
-        "first_seen": "2026-04-24T07:07:37.903012"
-      },
-      "39aa00dcbec437312a2d7442b0cb754cef864bba053597fe3c8eb5ae3ec4e089": {
-        "title": "GPT-5.5 赢了 Opus 4.7 和 Mythos？奥特曼晒黄仁勋内部信：英伟达全员用上 Codex！",
-        "link": "https://www.infoq.cn/article/IjNk79KKJgTDDvO5OMAY?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 24 Apr 2026 11:07:00 GMT",
-        "first_seen": "2026-04-24T07:07:37.903026"
-      },
-      "cd7944ad6c16f5a12ae52368a7a8dd0e299abcd028bd425d7c2717c2efa46d23": {
-        "title": "Cloudflare 推出 Think：一款面向 AI 代理的持久化运行时",
-        "link": "https://www.infoq.cn/article/l2DH5C3modDof2u5DXlE?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 24 Apr 2026 11:00:00 GMT",
-        "first_seen": "2026-04-24T07:07:37.903038"
-      },
-      "499b4359284dd4d848c9a51be9f7d6b5b5b45e0a3fac023a011be4646bd7c082": {
-        "title": "1850亿美元天价支出、75%代码由AI生成！谷歌正式宣告：全面转向智能体工作流",
-        "link": "https://www.infoq.cn/article/JqSF1ckIU0gIx4OOByUD?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 24 Apr 2026 10:11:00 GMT",
-        "first_seen": "2026-04-24T07:07:37.903049"
-      },
-      "273de8fc0f14d328f585305b63179e6f04e0bdd0484749a0c23770beb302f710": {
-        "title": "xAI落后太多，马斯克“开大”重金求购Cursor，100亿美金“分手费”都敢签！",
-        "link": "https://www.infoq.cn/article/1kS9ZTikmEsCTJFMBpN9?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 24 Apr 2026 10:08:00 GMT",
-        "first_seen": "2026-04-24T07:07:37.903060"
-      },
-      "8f89c06246ab5643507ff03f1726ab99719139a63b87890de6635ff0c0e28ea7": {
-        "title": "Pulumi 新增对 Bun 运行时的全面支持",
-        "link": "https://www.infoq.cn/article/rQSULhvrw9hks4xBHS5d?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 24 Apr 2026 10:00:00 GMT",
-        "first_seen": "2026-04-24T07:07:37.903071"
-      },
-      "4828dfbc41308b3227b2c1d4112aea8a8dcc45a16121ff35425c7b54ef867554": {
-        "title": "从零训练一个原生大脑，自变量选择入驻真实家庭“实习”",
-        "link": "https://www.tmtpost.com/7965515.html",
-        "published_date": "Fri, 24 Apr 2026 13:44:00 GMT",
-        "first_seen": "2026-04-24T07:07:37.903081"
-      },
-      "9bb9017a77af6e5743ad0298837c73fbe5216998c356e765ad93db43a11585a8": {
-        "title": "Anthropic最新AI经济报告：AI 正在取代造它的人",
-        "link": "https://www.tmtpost.com/7964714.html",
-        "published_date": "Fri, 24 Apr 2026 13:28:00 GMT",
-        "first_seen": "2026-04-24T07:07:28.517008"
-      },
-      "9642c38c2400230253b2f7cfff1dfb7dd3cd5fa4785820e8281a8cde88808153": {
-        "title": "大厂抢人：宁要一个“亿元大脑”，不要百个“代码民工”",
-        "link": "https://www.tmtpost.com/7965769.html",
-        "published_date": "Fri, 24 Apr 2026 13:11:00 GMT",
-        "first_seen": "2026-04-24T07:07:28.517625"
-      },
-      "c51f6cc685c47ac1785ebe2436e14c2c59e05ca6467f4319e7fd2fed00019a7f": {
-        "title": "净利润暴跌60.69%，营收狂飙反亏，三一重能与金风、远景走出截然相反的路",
-        "link": "https://www.tmtpost.com/7965702.html",
-        "published_date": "Fri, 24 Apr 2026 12:59:00 GMT",
-        "first_seen": "2026-04-24T07:07:28.518466"
-      },
-      "47431e251c93af66554988ea289dcaec1a575e2f0f2e2c7756b54a237b8a517d": {
-        "title": "GPT-5.5发布：两倍定价，半步进化",
-        "link": "https://www.tmtpost.com/7965610.html",
-        "published_date": "Fri, 24 Apr 2026 12:55:00 GMT",
-        "first_seen": "2026-04-24T07:07:37.902985"
-      },
-      "21cd29e5380b450346749b4f31c3c20b00abee8e9e4fafed2284ff8fc43a6314": {
-        "title": "河北拟投4600亿元加速能源转型，真金白银奔赴万亿装机，盈利暗礁何时能越？",
-        "link": "https://www.tmtpost.com/7965712.html",
-        "published_date": "Fri, 24 Apr 2026 12:55:00 GMT",
-        "first_seen": "2026-04-24T07:07:28.519926"
-      },
-      "26fee6834fd08599f4079378f772b8f47b647c38949af1a90b84f5555a152d32": {
-        "title": "一级市场流行“拼单”",
-        "link": "https://www.tmtpost.com/7965764.html",
-        "published_date": "Fri, 24 Apr 2026 12:52:00 GMT",
-        "first_seen": "2026-04-24T07:07:28.520448"
-      },
-      "0a13c9726f0235429254075841d691aa1b8fc6415789477590e0acf599748970": {
-        "title": "都说CNS是个坑，艾伯维偏偏不信邪",
-        "link": "https://www.tmtpost.com/7965696.html",
-        "published_date": "Fri, 24 Apr 2026 12:51:00 GMT",
-        "first_seen": "2026-04-24T07:07:28.521035"
-      },
-      "a07bc81367ab060846fd8a75283f2fe3c21b0e60f9d53fc385a54999b273c0a8": {
-        "title": "估值超140亿元的蕉内，创立10年为何还不上市？",
-        "link": "https://www.tmtpost.com/7965697.html",
-        "published_date": "Fri, 24 Apr 2026 12:43:00 GMT",
-        "first_seen": "2026-04-24T07:07:28.521818"
-      },
-      "41dd8086d6f67845e8233365bad1c563fb23bb06150784c6e7c340741d12715e": {
-        "title": "国外游戏行业正在进入“后震期”？55%的人被裁后未再就业，44%想离开",
-        "link": "https://www.tmtpost.com/7962134.html",
-        "published_date": "Fri, 24 Apr 2026 12:41:00 GMT",
-        "first_seen": "2026-04-24T07:07:28.522868"
-      },
-      "ed0c7d39bb86d18ac3b5ea29794298a2563dbcf9a6430df99e9ed7276cdccc91": {
-        "title": "寻找“救命稻草”，50岁老牌药企常州四药为何着急“卖身”？",
-        "link": "https://www.tmtpost.com/7964840.html",
-        "published_date": "Fri, 24 Apr 2026 12:35:00 GMT",
-        "first_seen": "2026-04-24T07:07:28.523812"
-      },
-      "097932ec09a4d60b11c0227f824320e37a3f2728ce123398c73348a4b07842e0": {
-        "title": "中际旭创爆发，拿捏英伟达的中国老板，杀入10000亿俱乐部",
-        "link": "https://www.tmtpost.com/7965425.html",
-        "published_date": "Fri, 24 Apr 2026 12:15:00 GMT",
-        "first_seen": "2026-04-24T07:07:28.524791"
-      },
-      "c9e4cb1bc15ae3691bea69a4ff643ffac25af20ca21e603f24d0cb687b7ca1c6": {
-        "title": "谷歌讲了一个英伟达不擅长的故事",
-        "link": "https://www.tmtpost.com/7965487.html",
-        "published_date": "Fri, 24 Apr 2026 12:05:00 GMT",
-        "first_seen": "2026-04-24T07:07:28.525438"
-      },
-      "2bfef756a479e8351bf3c04325dd580e56b078e1aa4e97e47c5ea119da986964": {
-        "title": "AI时代，品牌的分水岭是“内容品牌化”",
-        "link": "https://www.tmtpost.com/7965590.html",
-        "published_date": "Fri, 24 Apr 2026 12:05:00 GMT",
-        "first_seen": "2026-04-24T07:07:28.526337"
-      },
-      "61b8a87b140daf1cd1087b3bb5aeba438c70236d2252a51d86902b35f2044b6d": {
-        "title": "英特尔：告别 “至暗” 时刻，老霸主打响 “反击战”",
-        "link": "https://www.tmtpost.com/7965446.html",
-        "published_date": "Fri, 24 Apr 2026 12:04:00 GMT",
-        "first_seen": "2026-04-24T07:07:28.527511"
-      },
-      "cb4893d4b0fd55b1ea5159d7398fd6e0e60f451338762b4441212ae9065f31d7": {
-        "title": "网约车老三，要上市了",
-        "link": "https://www.tmtpost.com/7965421.html",
-        "published_date": "Fri, 24 Apr 2026 12:01:00 GMT",
-        "first_seen": "2026-04-24T07:07:28.528226"
-      },
-      "a8f056be9cb3ab6f12431eeee478d024903b105df7cb2139d9db156a4fac4083": {
-        "title": "RMC-6236太“毒”了",
-        "link": "https://www.tmtpost.com/7965414.html",
-        "published_date": "Fri, 24 Apr 2026 11:57:00 GMT",
-        "first_seen": "2026-04-24T07:07:28.529213"
-      },
-      "16f02a09924a782a326b53577f34c95f6ad61be8abcd077978d66991a92d04a7": {
-        "title": "手机和平板间的新品类：华为 Pura X Max 漫谈",
-        "link": "https://sspai.com/post/109024",
-        "published_date": "Fri, 24 Apr 2026 09:54:00 GMT",
-        "first_seen": "2026-04-24T07:07:28.530503"
-      },
-      "a14bbdb592915ff09f3c55a4b14460018ae1018ba9285854d4f60209e1ec6d5d": {
-        "title": "派早报：OpenAI 发布 GPT-5.5 系列模型等",
-        "link": "https://sspai.com/post/109032",
-        "published_date": "Fri, 24 Apr 2026 08:52:00 GMT",
-        "first_seen": "2026-04-24T07:07:37.903001"
-      },
       "492fe552de752fe0279d64c87682b72b1bec9302383e29c2ddc09592a4110fda": {
         "title": "智源FlagOS完成DeepSeek-V4-Flash在八款芯片Day0适配，实现三重技术突破",
         "link": "https://www.infoq.cn/article/ua0m0lj6zOcEI6GGge72?utm_source=rss&utm_medium=article",
@@ -9668,13 +9524,85 @@
         "link": "https://www.tmtpost.com/7999847.html",
         "published_date": "Sat, 23 May 2026 18:10:00 GMT",
         "first_seen": "2026-05-24T00:02:46.490699"
+      },
+      "7ad02d60735cf1294f2fb8684ded7a4af363e41b3de1ff95942679b158d97460": {
+        "title": "capcap：一键搞定截图、标注与图床，免费、开源的 macOS 截图工具",
+        "link": "https://sspai.com/post/109741",
+        "published_date": "Sun, 24 May 2026 14:21:00 GMT",
+        "first_seen": "2026-05-24T07:53:02.406416"
+      },
+      "dba5d74702592238da885dbd36059ae42add6222681e4d1715beaa4c11b5f96b": {
+        "title": "一人公司还没赚钱，卖给一人公司的生意先赚钱了",
+        "link": "https://www.tmtpost.com/8000310.html",
+        "published_date": "Sun, 24 May 2026 13:36:00 GMT",
+        "first_seen": "2026-05-24T07:53:02.406427"
+      },
+      "5a9adb4fca6ae377761d6f937adb0b19c043cf4594910461543815fd00c608a3": {
+        "title": "16亿千瓦，2026迎峰度夏极限压力测试即将开启，能源保供的三层防线与四大黄金赛道值得关注",
+        "link": "https://www.tmtpost.com/8000323.html",
+        "published_date": "Sun, 24 May 2026 13:36:00 GMT",
+        "first_seen": "2026-05-24T07:53:02.406439"
+      },
+      "bc2b6d14363d72d35edc3b750ac625a1d513b9d695a3c965299c99ac27d92bd8": {
+        "title": "活过来的Codex，扛起了OpenAI上市的希望",
+        "link": "https://www.tmtpost.com/8000341.html",
+        "published_date": "Sun, 24 May 2026 13:36:00 GMT",
+        "first_seen": "2026-05-24T07:53:02.406448"
+      },
+      "4f10e26a675bb8c4a59e85bcb9791186961ecc2d0ca945e41b984936cc0d975f": {
+        "title": "巨头混战电解质水：农夫山泉、蒙牛、奈雪齐入场，千亿赛道谁能留在牌桌上？",
+        "link": "https://www.tmtpost.com/8000356.html",
+        "published_date": "Sun, 24 May 2026 13:35:00 GMT",
+        "first_seen": "2026-05-24T07:53:02.406460"
+      },
+      "88299cf4590ab0dace9ee47c84ef421e765486a00a046f7eaed1398bed9f2dea": {
+        "title": "宇树赌未来，云深处先挣钱：机器狗赚到了具身智能的第一桶金",
+        "link": "https://www.tmtpost.com/8000008.html",
+        "published_date": "Sun, 24 May 2026 09:22:00 GMT",
+        "first_seen": "2026-05-24T07:53:02.406470"
+      },
+      "14161a3d6eff67b56036de10a3c243e045da38b0c18c494597c306c9189ebee9": {
+        "title": "能随意窃取数据！这款热门 AI 编程工具曝重大隐患",
+        "link": "https://www.tmtpost.com/7997541.html",
+        "published_date": "Sun, 24 May 2026 08:59:00 GMT",
+        "first_seen": "2026-05-24T07:53:02.406481"
+      },
+      "6c02e64c1bd2dbc199b562ec2ca2a71ba8ee38999b748ef02c8f755ae499a1eb": {
+        "title": "曾助罗永浩还债，昔日“互联网招聘鼻祖”申请破产",
+        "link": "https://www.tmtpost.com/8000018.html",
+        "published_date": "Sun, 24 May 2026 08:58:00 GMT",
+        "first_seen": "2026-05-24T07:52:53.118025"
+      },
+      "2bf220f1815b91acccba862e3a9b900f15ea8f75ecb271f3e728e969bfe4758a": {
+        "title": "宇树、云深处和乐聚：三份招股书，一条生存线",
+        "link": "https://www.tmtpost.com/8000072.html",
+        "published_date": "Sun, 24 May 2026 08:52:00 GMT",
+        "first_seen": "2026-05-24T07:53:02.406491"
+      },
+      "a10c77b6df619669b2119e51fbd3191b5e704446eb24a7f323918a086a317401": {
+        "title": "Edge AI Daily 早报（5月24日）",
+        "link": "https://www.tmtpost.com/8000103.html",
+        "published_date": "Sun, 24 May 2026 08:40:00 GMT",
+        "first_seen": "2026-05-24T07:52:53.119018"
+      },
+      "e23a7ae6d7b2c48cfd2dd0c4de18f794d3573862c4ea52726bd801a115848562": {
+        "title": "破局多端困境，拥抱 AI 变革：飞猪跨端技术的过去、现在与未来｜AICon上海",
+        "link": "https://www.infoq.cn/article/0FPPymvSNjV9LbAIhXxO?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 24 May 2026 10:00:00 GMT",
+        "first_seen": "2026-05-24T07:53:02.406373"
+      },
+      "d8c557465df1a26aaa3e58d52f10ec4f4aca6203f3231d50781963364c2b1ed4": {
+        "title": "大规模工程支撑场景下的多智能体系统设计：Grab 实践案例",
+        "link": "https://www.infoq.cn/article/7DfZeiQH0zm08P88xIw9?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 24 May 2026 08:00:00 GMT",
+        "first_seen": "2026-05-24T07:53:02.406401"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-05-24T00:02:46.674084",
-    "Technology": "2026-05-24T00:02:46.554353",
-    "Finance": "2026-05-24T00:02:46.437393"
+    "AI": "2026-05-24T07:53:02.591566",
+    "Technology": "2026-05-24T07:53:02.444534",
+    "Finance": "2026-05-24T07:52:53.048458"
   }
 }
