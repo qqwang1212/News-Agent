@@ -1,7 +1,121 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-03 01:43
+**最后更新时间**: 2026-06-03 09:56
+
+---
+
+## 🆕 最新更新 (2026-06-03 09:56)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [一篇AI写的稿，凭啥卖我几万](https://www.tmtpost.com/8013645.html)
+**发布时间**: 2026-06-03 17:43
+
+#### [13年新药空白终结，痛风创新药大卖，国产首个刚获批](https://www.tmtpost.com/8013642.html)
+**发布时间**: 2026-06-03 17:42
+
+#### [7月解禁“堰塞湖”、超350倍市销率，模型能力被吐槽，2200亿港元的MiniMax贵不贵？](https://www.tmtpost.com/8013641.html)
+**发布时间**: 2026-06-03 17:42
+
+#### [《歌手》是时候给歌手“松绑”了](https://www.tmtpost.com/8013646.html)
+**发布时间**: 2026-06-03 17:42
+
+#### [观众越来越挑食，出海短剧也要卷“细糠”了](https://www.tmtpost.com/8013559.html)
+**发布时间**: 2026-06-03 17:15
+
+#### [16万新能源指标尘埃落定，准购车人买车，先看啥？](https://www.tmtpost.com/8013580.html)
+**发布时间**: 2026-06-03 17:09
+
+#### [腾讯最强的牌，也是AI最大的锁](https://www.tmtpost.com/8013278.html)
+**发布时间**: 2026-06-03 17:09
+
+#### [美团搭伙腾讯，押注AI生态](https://www.tmtpost.com/8013291.html)
+**发布时间**: 2026-06-03 17:00
+
+#### [上汽、采埃孚站台也难掩困局，这家智驾供应商再闯港股：回款慢、现金紧](https://www.tmtpost.com/8012972.html)
+**发布时间**: 2026-06-03 17:00
+
+#### [AI芯片扎堆，寒武纪还能成中国版“英伟达”吗？](https://www.tmtpost.com/8012894.html)
+**发布时间**: 2026-06-03 17:00
+
+#### [美团的估值，将取决于叙事切换得顺利与否](https://www.tmtpost.com/8012874.html)
+**发布时间**: 2026-06-03 17:00
+
+#### [61岁秦英林卸任牧原股份董事长，90后高管与二代入局](https://www.tmtpost.com/8013298.html)
+**发布时间**: 2026-06-03 16:52
+
+#### [小酒能否让年轻人爱上“老登白酒”？](https://www.tmtpost.com/8013327.html)
+**发布时间**: 2026-06-03 16:52
+
+#### [Agent之战，微软把家底都押上了](https://www.tmtpost.com/8013517.html)
+**发布时间**: 2026-06-03 16:52
+
+#### [字节跳动的万亿医疗大战略仍在继续](https://www.tmtpost.com/8013519.html)
+**发布时间**: 2026-06-03 16:52
+
+#### [这么快，巨头就烧不起token了？](https://www.tmtpost.com/8013498.html)
+**发布时间**: 2026-06-03 16:41
+
+#### [腾讯砸下AI船票，微信能否成为“数字管家”？](https://www.tmtpost.com/8013299.html)
+**发布时间**: 2026-06-03 16:40
+
+#### [股王腾讯，终于出手](https://www.tmtpost.com/8012908.html)
+**发布时间**: 2026-06-03 16:13
+
+#### [大疆“黄埔军校”，一场前员工对老东家的“反包围”](https://www.tmtpost.com/8013286.html)
+**发布时间**: 2026-06-03 16:11
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Spring 创始人重回一线做 AI 框架，却说：这是人类亲自选择的最后一代框架](https://www.infoq.cn/article/GdZXtOelATVOX4HIcPc6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-03 17:33
+
+#### [10年未发1.0、全面禁止 AI 编程：Zig创始人的“反商业”生存法则](https://www.infoq.cn/article/FPBy2dk3Y9ZIC48iJexD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-03 17:26
+
+#### [Anthropic冲刺IPO：Claude一个月烧掉客户5亿美元，却成了上市前最强广告](https://www.infoq.cn/article/ZIU2RR7Q1ldqCvD0gTQH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-03 17:17
+
+#### [Codex新升级：彻底打通Windows生态！手机也能远程跑开发任务，效率拉满](https://www.infoq.cn/article/RcDBAl3VhkNDQvPevPrd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-03 16:33
+
+#### [拒绝蒸馏！微软发布自研MAI-Thinking-1追平Claude Opus 4.6：完全从零训练，不沾任何第三方模型输出](https://www.infoq.cn/article/StrGjRRmFKm4fXCvLOSP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-03 16:30
+
+#### [4年烧掉90亿，人均95后的MiniMax再冲A股！](https://www.infoq.cn/article/Sj1hUamVJF0iIDuclUXC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-03 16:26
+
+#### [GitHub 通过每日审计与 MCP 精简，将 Agent 工作流 Token 成本最高降低 62%](https://www.infoq.cn/article/OVsDMDL84vuoXXdTDALd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-03 16:04
+
+#### [微软推出Azure Linux 4.0，首款通用服务器Linux发行版](https://www.infoq.cn/article/evJu6ijlYIP75mD2dXaJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-03 14:21
+
+#### [Snowflake Summit 26 现场：结束上半场拼模型，开始下半场 AI 进企业](https://www.infoq.cn/article/Q6G7XTu41dOO5b6aKiob?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-03 12:02
+
+#### [看完 Snowflake 这套新品，我更确信大模型吃不掉数据这个赛道](https://www.infoq.cn/article/ChrM7o35aliBpeyJzuIs?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-03 12:01
+
+#### [ClickHouse性能优化：Index Pruning助你告别慢查询！](https://www.infoq.cn/article/oN29GqJWh6GMoywAWFsq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-03 11:12
+
+#### [AI 的目标在于可追责，欧盟法规则致力于保障透明度](https://www.infoq.cn/article/E9qkvVDt4xI8GgZdpCyd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-03 11:00
+
+#### [一月烧掉5亿美元才醒悟：把 Token 当 KPI是AI转型里最贵的坑！亚马逊连夜撤下排行榜](https://www.infoq.cn/article/xYR1xqyy8fhAtW97MdG9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-03 10:14
+
+#### [高德世界模型：大规模真实时空数据驱动的端到端演进与量产实践｜AICon上海](https://www.infoq.cn/article/o8yskfI4cb2msdcz2Pz1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-03 10:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [让原生体验「接地气」：Pixel Text 与「原点系列」工具集](https://sspai.com/post/110458)
+**发布时间**: 2026-06-03 15:00
+
+#### [App+1 | 零基础 3 分钟在线搞定产品演示视频：Mockup Studio](https://sspai.com/post/110059)
+**发布时间**: 2026-06-03 11:19
 
 ---
 
