@@ -1,7 +1,79 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-02 09:13
+**最后更新时间**: 2026-06-03 01:43
+
+---
+
+## 🆕 最新更新 (2026-06-03 01:43)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [理想汽车投了一只“灵巧手”](https://www.tmtpost.com/8011986.html)
+**发布时间**: 2026-06-03 09:30
+
+#### [外卖大战一年：美团回不去、阿里停不下](https://www.tmtpost.com/8011985.html)
+**发布时间**: 2026-06-03 09:23
+
+#### [时薪304元，马斯克全球急聘“中文AI导师”](https://www.tmtpost.com/8011964.html)
+**发布时间**: 2026-06-03 09:14
+
+#### [网贷算法之镰，仍在收割下沉市场](https://www.tmtpost.com/8011888.html)
+**发布时间**: 2026-06-03 09:06
+
+#### [谷歌再借 800 亿，行情 “续杯” 还是泡沫 “试金石”？](https://www.tmtpost.com/8011881.html)
+**发布时间**: 2026-06-03 08:56
+
+#### [靠比亚迪、吉利吃饭的这家深圳企业，竟然被石头、九号带飞了](https://www.tmtpost.com/8011863.html)
+**发布时间**: 2026-06-03 08:43
+
+#### [港股暴涨16倍后，智谱杀回A股](https://www.tmtpost.com/8011843.html)
+**发布时间**: 2026-06-03 08:38
+
+#### [推翻主流治幻觉思路：元认知，才是大模型破幻觉的全新解法](https://www.tmtpost.com/8006642.html)
+**发布时间**: 2026-06-03 08:32
+
+#### [MiniMax M3终于来了，指标很强，但社区炒翻了](https://www.tmtpost.com/8011839.html)
+**发布时间**: 2026-06-03 08:27
+
+#### [Edge AI Daily 早报（6月3日）](https://www.tmtpost.com/8012496.html)
+**发布时间**: 2026-06-03 08:23
+
+#### [CPU迎来黄金周期，谁是最大受益者？](https://www.tmtpost.com/8011838.html)
+**发布时间**: 2026-06-03 08:20
+
+#### [中美互联网公司的AI提效，都从裁员开始？](https://www.tmtpost.com/8011827.html)
+**发布时间**: 2026-06-03 08:12
+
+#### [拆解机器人“肉身”、量产与供应链：空翻之后，它还要学会接住一片落叶](https://www.tmtpost.com/8011822.html)
+**发布时间**: 2026-06-03 08:05
+
+#### [【钛晨报】国务院印发《加快农业农村现代化“十五五”规划》；老虎国际暂停境内存量账户新开仓、加仓交易；“东吴证券+东海证券”重组草案出炉](https://www.tmtpost.com/8012109.html)
+**发布时间**: 2026-06-03 07:20
+
+#### [东阳光：千亿市值下算力豪赌，310亿订单与280亿并购双线狂奔](https://www.tmtpost.com/8012107.html)
+**发布时间**: 2026-06-02 21:46
+
+#### [供应链黑天鹅突袭、减持阴云笼罩，利通电子暴涨8倍后遇重挫](https://www.tmtpost.com/8011957.html)
+**发布时间**: 2026-06-02 19:44
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Cloudflare 新增对 Claude 托管代理的支持](https://www.infoq.cn/article/fFAGOf6SYDfi7Ljjkubx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-03 09:16
+
+#### [LinkedIn 如何发现导致系统反复死机的内核锁竞争问题](https://www.infoq.cn/article/Z1dyOAN4lXUys1CNAzBK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-02 19:03
+
+#### [英伟达甩出物理AI王炸！Cosmos 3全模态模型开源，Agent Tookit补齐工具短板](https://www.infoq.cn/article/Ahsy8EcCLj8ESwbkJxu8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-02 18:44
+
+#### [Codex 500万用户福利被怼“作秀”！Claude Code 吃掉近九成 Token，OpenAI 抢用户败在“小气”上？](https://www.infoq.cn/article/50wIN1CuFf0ioqwebZvj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-02 18:40
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：Apple 公布 2026 年 Apple 设计大奖得主等](https://sspai.com/post/110658)
+**发布时间**: 2026-06-03 08:12
 
 ---
 
