@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "3dc8be2b1a57f55fec5305c3aaae9294dd256565ef2d7fbbe5f3597722278dd3": {
-        "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
-        "link": "https://www.qbitai.com/2026/05/418620.html",
-        "published_date": "Sat, 16 May 2026 13:44:00 GMT",
-        "first_seen": "2026-05-16T23:59:24.459455"
-      },
       "69a73a454764f84428e582e4030fe63a2f32acb1874346daada3d5e4f2c4e6dc": {
         "title": "龙虾之父月烧940万元的token！要不是入职OpenAI还真用不起",
         "link": "https://www.qbitai.com/2026/05/418822.html",
@@ -1206,6 +1200,12 @@
         "link": "https://www.qbitai.com/2026/06/435520.html",
         "published_date": "Mon, 15 Jun 2026 03:24:00 GMT",
         "first_seen": "2026-06-15T10:58:49.026748"
+      },
+      "0f04562ebb82835c462a9ee92028cdbf6dbcfc271b8b6910deaf772bea61624d": {
+        "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
+        "link": "https://www.qbitai.com/2026/06/435848.html",
+        "published_date": "Mon, 15 Jun 2026 12:57:00 GMT",
+        "first_seen": "2026-06-16T01:45:21.743906"
       }
     },
     "Technology": {
@@ -9116,13 +9116,91 @@
         "link": "https://sspai.com/post/110989",
         "published_date": "Mon, 15 Jun 2026 11:00:00 GMT",
         "first_seen": "2026-06-15T10:58:39.510567"
+      },
+      "b62edee4e31104540a7840581e8b5ec3dd4e3fc6180a37220cb03761b4da48f9": {
+        "title": "万丰奥威豪赌“飞天梦”：5亿甩卖现金牛，25亿加杠杆追风低空经济",
+        "link": "https://www.tmtpost.com/8029207.html",
+        "published_date": "Tue, 16 Jun 2026 09:32:00 GMT",
+        "first_seen": "2026-06-16T01:45:21.549549"
+      },
+      "d2a0e24f57f9a394f6eb9b5202e8a09fd90b092650c544ede7dca35dd173de48": {
+        "title": "大厂AI，大战618",
+        "link": "https://www.tmtpost.com/8029313.html",
+        "published_date": "Tue, 16 Jun 2026 09:24:00 GMT",
+        "first_seen": "2026-06-16T01:45:21.549562"
+      },
+      "1120638ab05a677f37befaccaa9a984632c62c1cd0b0524bb1f67f6ffd82230c": {
+        "title": "支付宝的AI算盘：入口可以输，支付不能丢",
+        "link": "https://www.tmtpost.com/8029278.html",
+        "published_date": "Tue, 16 Jun 2026 09:22:00 GMT",
+        "first_seen": "2026-06-16T01:45:21.549573"
+      },
+      "9440d56ffd522f9cde3daa19cfd029b4c033b153745a90610947c63e7038498b": {
+        "title": "Edge AI Daily 早报（6月16日）",
+        "link": "https://www.tmtpost.com/8029252.html",
+        "published_date": "Tue, 16 Jun 2026 08:09:00 GMT",
+        "first_seen": "2026-06-16T01:45:21.549585"
+      },
+      "0957ce6154874f9085355838861c8bdef17137e836ed195668503a0973d04c52": {
+        "title": "【钛晨报】事关重点行业节能降碳改造，国家发展改革委等部门最新部署；SpaceX通过IPO筹集了约857亿美元；伊朗：伊美谅解备忘录部分条款15日就开始执行",
+        "link": "https://www.tmtpost.com/8029106.html",
+        "published_date": "Tue, 16 Jun 2026 07:20:00 GMT",
+        "first_seen": "2026-06-16T01:45:21.549600"
+      },
+      "b24e28869a7968dce769e2e7523a58b576b6971468d4a9c2f920ae4d9999d27d": {
+        "title": "With 46 Billion Yuan Pouring into China's Embodied Intelligence Sector in YTD2026, Who's Benefitted?",
+        "link": "https://www.tmtpost.com/8029155.html",
+        "published_date": "Mon, 15 Jun 2026 22:46:00 GMT",
+        "first_seen": "2026-06-16T01:45:21.549615"
+      },
+      "9ce86bf32a852fd57f04f6814af29c3a098adc63eefd86212c463448b4362fc8": {
+        "title": "Despite the Patent Spat Between DJI and Insta360, They are Replacing Sony's Hundred-Billion-Yuan Business",
+        "link": "https://www.tmtpost.com/8029149.html",
+        "published_date": "Mon, 15 Jun 2026 22:30:00 GMT",
+        "first_seen": "2026-06-16T01:45:12.285014"
+      },
+      "ef4c1d5f9a6ae49e60458c5d2962f5f707cbd53a708cc3a19da404a99086a71b": {
+        "title": "IPO募资未用完，上市未满两年的拉普拉斯又抛22亿定增",
+        "link": "https://www.tmtpost.com/8028941.html",
+        "published_date": "Mon, 15 Jun 2026 19:44:00 GMT",
+        "first_seen": "2026-06-16T01:45:21.549626"
+      },
+      "14f6a44e97535e06fbf0b43447a07086b2e268a939eaf2507af2600df196e303": {
+        "title": "【Fintech 周报】大额存单个人认购起点拟降至20万元；今年以来不良贷款挂牌规模近1600亿元",
+        "link": "https://www.tmtpost.com/8028814.html",
+        "published_date": "Mon, 15 Jun 2026 18:48:00 GMT",
+        "first_seen": "2026-06-16T01:45:21.549638"
+      },
+      "0f0558996b96f83fc111c373a948bc2e938b41e2545135b6c3df7f0304942196": {
+        "title": "派早报：大疆发布 Osmo Pocket 4P 双主摄口袋电影机等",
+        "link": "https://sspai.com/post/111080",
+        "published_date": "Tue, 16 Jun 2026 08:14:00 GMT",
+        "first_seen": "2026-06-16T01:45:21.549519"
+      },
+      "548e3171183d14c9bf51991fbcf03e3bcfd352e074b83c2c156feca0c643d148": {
+        "title": "前 OpenAI 高管清华演讲：比失业更可怕的，是 AI 时代我们不知道“我是谁”",
+        "link": "https://www.infoq.cn/article/BVEc18iUtotFGN2mpRSI?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 15 Jun 2026 22:31:00 GMT",
+        "first_seen": "2026-06-16T01:45:21.549651"
+      },
+      "5c81aea29324a0b6ffb7c8aae5ca35d9492533cfbe1d69a0ee8581b380467e38": {
+        "title": "腾讯撑场、60亿豪赌，“GPU四小龙”最后一龙刚刚过会",
+        "link": "https://www.infoq.cn/article/OLS2A0uPEfmqoktKKGWg?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 15 Jun 2026 22:26:00 GMT",
+        "first_seen": "2026-06-16T01:45:12.288754"
+      },
+      "3a85c2b5da643c8394023fc3d27a056ac492f607976e62b0ae126e4edd84eb96": {
+        "title": "Java 近期新闻：JDK 27 进入收尾阶段、JDK 28 专家组、GlassFish、Infinispan、Kotlin",
+        "link": "https://www.infoq.cn/article/UkvVZm81ZerzhmEsTgHD?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 15 Jun 2026 20:00:00 GMT",
+        "first_seen": "2026-06-16T01:45:12.290164"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-06-15T10:58:49.033357",
-    "Technology": "2026-06-15T10:58:48.877506",
-    "Finance": "2026-06-15T10:58:48.895247"
+    "AI": "2026-06-16T01:45:21.751071",
+    "Technology": "2026-06-16T01:45:21.579893",
+    "Finance": "2026-06-16T01:45:21.599639"
   }
 }
