@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 23 Jun 2026 00:13:00 GMT</pubDate>
-    <lastBuildDate>Tue, 23 Jun 2026 00:13:32 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Jun 2026 08:33:00 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Jun 2026 08:33:52 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,59 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【钛晨报】李强在辽宁大连调研：大力发展高端装备制造业，加快建设现代化产业体系；英伟达发布Halos机器人安全系统，推进Physical AI落地；SpaceX首次发行优先无担保票据</title>
-      <link>https://www.tmtpost.com/8036644.html</link>
-      <description>&lt;![CDATA[【钛晨报】李强在辽宁大连调研：大力发展高端装备制造业，加快建设现代化产业体系；英伟达发布Halos机器人安全系统，推进Physical AI落地；SpaceX首次发行优先无担保票据]]&gt;</description>
-      <pubDate>Tue, 23 Jun 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8036644.html</guid>
+      <title>Dropbox发布Nova：用于大规模运行AI编程智能体的内部平台</title>
+      <link>https://www.infoq.cn/article/5UOHryk6Ck66376bCULb?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Dropbox发布Nova：用于大规模运行AI编程智能体的内部平台]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 09:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/5UOHryk6Ck66376bCULb?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>业绩连降、高位减持、低位定增，翔宇医疗脑机接口故事遇信任拷问</title>
-      <link>https://www.tmtpost.com/8036662.html</link>
-      <description>&lt;![CDATA[业绩连降、高位减持、低位定增，翔宇医疗脑机接口故事遇信任拷问]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 22:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8036662.html</guid>
+      <title>一个芯片公司发布AIDC储能认证标准，英伟达凭什么？算力重构供电逻辑，谁在抢跑谁被挡在门外？</title>
+      <link>https://www.tmtpost.com/8037455.html</link>
+      <description>&lt;![CDATA[一个芯片公司发布AIDC储能认证标准，英伟达凭什么？算力重构供电逻辑，谁在抢跑谁被挡在门外？]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 13:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8037455.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>回到未来：如果油价暴跌，该投资哪里</title>
-      <link>https://www.tmtpost.com/8036673.html</link>
-      <description>&lt;![CDATA[回到未来：如果油价暴跌，该投资哪里]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 21:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8036673.html</guid>
+      <title>探索 Snowflake 与 Postgres 之间的双向数据流动模式 ｜ 技术实践</title>
+      <link>https://www.infoq.cn/article/wvtzppvWzOlKYDVRzlYN?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[探索 Snowflake 与 Postgres 之间的双向数据流动模式 ｜ 技术实践]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 11:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/wvtzppvWzOlKYDVRzlYN?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>业绩四连降、募投项目进展缓慢，键邦股份拟不超3.2亿跨界设备自动化｜并购一线</title>
-      <link>https://www.tmtpost.com/8036450.html</link>
-      <description>&lt;![CDATA[业绩四连降、募投项目进展缓慢，键邦股份拟不超3.2亿跨界设备自动化｜并购一线]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 19:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8036450.html</guid>
+      <title>2026下半年中美AI创业机会：从技术红利到商业验证｜AICon上海</title>
+      <link>https://www.infoq.cn/article/gk0VlPy3hufsH4zKTh2X?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[2026下半年中美AI创业机会：从技术红利到商业验证｜AICon上海]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/gk0VlPy3hufsH4zKTh2X?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI 决定靠卖广告养 AI</title>
-      <link>https://www.tmtpost.com/8035950.html</link>
-      <description>&lt;![CDATA[OpenAI 决定靠卖广告养 AI]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 19:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8035950.html</guid>
+      <title>亚朵集团加码中端酒店市场发布轻居3.3；坦博尔通过港交所聆讯；巴奴2025全年营收利润双增长｜消研所周报</title>
+      <link>https://www.tmtpost.com/8037693.html</link>
+      <description>&lt;![CDATA[亚朵集团加码中端酒店市场发布轻居3.3；坦博尔通过港交所聆讯；巴奴2025全年营收利润双增长｜消研所周报]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 14:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8037693.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Netflix如何实时绘制数千个微服务的拓扑图</title>
-      <link>https://www.infoq.cn/article/kp5s7thcxtELg8TpdQYY?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Netflix如何实时绘制数千个微服务的拓扑图]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 19:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/kp5s7thcxtELg8TpdQYY?utm_source=rss&amp;utm_medium=article</guid>
+      <title>派早报：荣耀发布 X80 Pro Max 等新品等</title>
+      <link>https://sspai.com/post/111385</link>
+      <description>&lt;![CDATA[派早报：荣耀发布 X80 Pro Max 等新品等]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 08:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/111385</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派评 | 近期值得关注的 App</title>
-      <link>https://sspai.com/post/111360</link>
-      <description>&lt;![CDATA[派评 | 近期值得关注的 App]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 18:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/111360</guid>
+      <title>Angular官方的智能体Skills助力AI编程工具生成现代化的Angular代码</title>
+      <link>https://www.infoq.cn/article/0yjp8ZXwUkA656NjsdPC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Angular官方的智能体Skills助力AI编程工具生成现代化的Angular代码]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 16:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/0yjp8ZXwUkA656NjsdPC?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>谷歌推出Colab CLI：面向开发者、自动化与AI智能体的命令行工具</title>
+      <link>https://www.infoq.cn/article/UWmllxei7QLmEqZY5SrY?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌推出Colab CLI：面向开发者、自动化与AI智能体的命令行工具]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/UWmllxei7QLmEqZY5SrY?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>谷歌LiteRT-LM通过Gemma 4多Token预测将本地推理速度提升了最高2.2倍</title>
+      <link>https://www.infoq.cn/article/lv6xh4HeBfWaYubLv54y?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌LiteRT-LM通过Gemma 4多Token预测将本地推理速度提升了最高2.2倍]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 11:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/lv6xh4HeBfWaYubLv54y?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE</title>
+      <link>https://www.tmtpost.com/8037825.html</link>
+      <description>&lt;![CDATA[OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 16:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8037825.html</guid>
       <category>Technology</category>
     </item>
   </channel>
