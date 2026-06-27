@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-26 00:13
+**最后更新时间**: 2026-06-27 00:12
+
+---
+
+## 🆕 最新更新 (2026-06-27 00:12)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Accelerating Gemini Nano models on Pixel with frozen Multi-Token Prediction](https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/)
+**发布时间**: 2026-06-26 18:30
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [两个月连获两轮数亿元融资 深度机智以全栈自主路线加速国产物理AI基座模型落地](https://www.qbitai.com/2026/06/438887.html)
+**发布时间**: 2026-06-26 15:45
+
+#### [谷歌「推理之王」也跑路Meta了，当年还是李飞飞挖来的](https://www.qbitai.com/2026/06/438848.html)
+**发布时间**: 2026-06-26 08:05
+
+#### [Claude Fable 5分批重新上线！GPT-5.6秒跟](https://www.qbitai.com/2026/06/438789.html)
+**发布时间**: 2026-06-26 06:55
+
+#### [从需求到设计到代码，一个软件全搞定！TRAE Work Design实测来了](https://www.qbitai.com/2026/06/438750.html)
+**发布时间**: 2026-06-26 05:12
+
+#### [华勤技术与正行创新达成战略合作，加速机器人“走进工厂、走上产线”](https://www.qbitai.com/2026/06/438741.html)
+**发布时间**: 2026-06-26 04:00
+
+#### [让机器人学会“预判接触”：它石智航牵头四大顶尖机构发布TacForeSight，破解精细操作难题](https://www.qbitai.com/2026/06/438701.html)
+**发布时间**: 2026-06-26 03:47
+
+#### [英伟达MoE新开源：一行import，微调加速3.7倍](https://www.qbitai.com/2026/06/438703.html)
+**发布时间**: 2026-06-26 03:23
+
+#### [WAVES 2026：今年盛夏，在创投浪潮里，做迎风而立的少数人！](https://www.qbitai.com/2026/06/438698.html)
+**发布时间**: 2026-06-26 02:58
+
+#### [库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了](https://www.qbitai.com/2026/06/438690.html)
+**发布时间**: 2026-06-26 01:26
 
 ---
 
