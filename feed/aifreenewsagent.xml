@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 29 Jun 2026 09:50:00 GMT</pubDate>
-    <lastBuildDate>Mon, 29 Jun 2026 09:51:56 GMT</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2026 00:08:00 GMT</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2026 00:11:03 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,51 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Claude Mythos让梁文锋决定融资</title>
-      <link>https://www.qbitai.com/2026/06/439863.html</link>
-      <description>&lt;![CDATA[Claude Mythos让梁文锋决定融资]]&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 08:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/439863.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>OceanBase发布AI数据库：以一套引擎融合湖库与多模态数据</title>
-      <link>https://www.qbitai.com/2026/06/439876.html</link>
-      <description>&lt;![CDATA[OceanBase发布AI数据库：以一套引擎融合湖库与多模态数据]]&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 08:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/439876.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>国家队+千亿产业+头部财投集体入局，智平方200亿估值筑就大湾区具身智能名片</title>
-      <link>https://www.qbitai.com/2026/06/439861.html</link>
-      <description>&lt;![CDATA[国家队+千亿产业+头部财投集体入局，智平方200亿估值筑就大湾区具身智能名片]]&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 08:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/439861.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AI当老板，快给10家公司干破产了…</title>
-      <link>https://www.qbitai.com/2026/06/439864.html</link>
-      <description>&lt;![CDATA[AI当老板，快给10家公司干破产了…]]&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 08:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/439864.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>啥？做AI短剧可以免费，免费，免费了！</title>
-      <link>https://www.qbitai.com/2026/06/439750.html</link>
-      <description>&lt;![CDATA[啥？做AI短剧可以免费，免费，免费了！]]&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 05:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/439750.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>“词元盗用”正在成为AI商业化面临的新风险</title>
-      <link>https://www.qbitai.com/2026/06/439746.html</link>
-      <description>&lt;![CDATA[“词元盗用”正在成为AI商业化面临的新风险]]&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 02:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/439746.html</guid>
+      <title>全球首个：隐空间世界模型，打通长时序双向物理因果链了！</title>
+      <link>https://www.qbitai.com/2026/06/439891.html</link>
+      <description>&lt;![CDATA[全球首个：隐空间世界模型，打通长时序双向物理因果链了！]]&gt;</description>
+      <pubDate>Mon, 29 Jun 2026 14:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/439891.html</guid>
       <category>AI</category>
     </item>
   </channel>
