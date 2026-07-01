@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-30 00:08
+**最后更新时间**: 2026-07-01 00:10
+
+---
+
+## 🆕 最新更新 (2026-07-01 00:10)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Expanding our Heat Resilience data to 50+ global cities](https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities/)
+**发布时间**: 2026-06-30 17:03
+
+#### [Introducing TabFM: A zero-shot foundation model for tabular data](https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/)
+**发布时间**: 2026-06-30 10:26
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [百亿估值只是起点，跨维智能的物理AGI之路](https://www.qbitai.com/2026/06/440949.html)
+**发布时间**: 2026-06-30 11:04
+
+#### [港股新贵押注物理AI，乐动机器人打造万亿市场空间的核心基础设施](https://www.qbitai.com/2026/06/440818.html)
+**发布时间**: 2026-06-30 10:20
+
+#### [顶刊生物实验难复现？统一操作话术来了！编译通过率98.6%](https://www.qbitai.com/2026/06/440630.html)
+**发布时间**: 2026-06-30 10:09
+
+#### [Claude Code之父版「职场MBTI」：AI洗牌后只剩5类人，你选哪种？](https://www.qbitai.com/2026/06/440599.html)
+**发布时间**: 2026-06-30 09:34
+
+#### [GLM-5.3你来定！智谱唐杰全球征集意见，评论区清一色：视觉](https://www.qbitai.com/2026/06/440478.html)
+**发布时间**: 2026-06-30 08:46
+
+#### [中国信通院发布AI Infra运维领域首个评测基准](https://www.qbitai.com/2026/06/440454.html)
+**发布时间**: 2026-06-30 07:20
+
+#### [华尔街把美光当成「下一个英伟达」，市值一度超过特斯拉Meta](https://www.qbitai.com/2026/06/440332.html)
+**发布时间**: 2026-06-30 06:51
+
+#### [24小时直播，只靠一张照片？虎牙实时多模态数字人VAM 1.0率先突围行业三堵墙](https://www.qbitai.com/2026/06/440236.html)
+**发布时间**: 2026-06-30 05:53
+
+#### [Agent之间，有互联网了！](https://www.qbitai.com/2026/06/440199.html)
+**发布时间**: 2026-06-30 05:23
+
+#### [破天荒！DeepSeek V4正式版居然要涨价，而且翻着倍地涨](https://www.qbitai.com/2026/06/440162.html)
+**发布时间**: 2026-06-30 04:08
 
 ---
 
