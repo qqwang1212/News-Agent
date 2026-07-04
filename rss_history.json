@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "f3fa115111d084156f92dabfab59291f6770a356ef78d7b71e4b2fd23d8b520f": {
-        "title": "The next chapter in flood resilience: Open sourcing Google’s hydrology framework",
-        "link": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/",
-        "published_date": "Wed, 03 Jun 2026 18:37:00 GMT",
-        "first_seen": "2026-06-04T01:46:21.596333"
-      },
-      "c4b2eb1a0bd2c2490ca6d3bd32166eabb41a91d0dc03b4e4a3733d09ae2b08cd": {
-        "title": "从看懂世界到做对动作，卧安机器人OneModel 1.7用一条「隐式通路」打通了具身智能的关键断层",
-        "link": "https://www.qbitai.com/2026/06/428703.html",
-        "published_date": "Wed, 03 Jun 2026 12:28:00 GMT",
-        "first_seen": "2026-06-04T01:46:21.596618"
-      },
       "ebd50197092867aa6709f9892ff4b06645543b436ad6afb2331bb6f60f7b66e1": {
         "title": "A股账户可以买Robotaxi了",
         "link": "https://www.qbitai.com/2026/06/428954.html",
@@ -1380,129 +1368,15 @@
         "link": "https://www.qbitai.com/2026/07/442503.html",
         "published_date": "Fri, 03 Jul 2026 10:26:00 GMT",
         "first_seen": "2026-07-04T00:11:12.411584"
+      },
+      "efba80a60a165b7aaab6b706251e1d983dd48ff20cb4ed33fae9b68eab012ad5": {
+        "title": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
+        "link": "https://www.qbitai.com/2026/07/442958.html",
+        "published_date": "Sat, 04 Jul 2026 05:52:00 GMT",
+        "first_seen": "2026-07-04T07:52:35.179076"
       }
     },
     "Technology": {
-      "fb94330952143255fcb04b36fc80e0f382b094cc2b53873938d2fc3164a44540": {
-        "title": "外卖大战一年账单：烧掉1500亿，改变了什么？",
-        "link": "https://www.tmtpost.com/8014372.html",
-        "published_date": "Thu, 04 Jun 2026 09:29:00 GMT",
-        "first_seen": "2026-06-04T01:46:30.992056"
-      },
-      "cfa86f18dd15262aebaa4239d4893ee134b55233e1694aa536177a01f36e5523": {
-        "title": "不拼数量拼“抗噪”，微软拓扑量子芯片可靠性暴涨千倍，2029要掀算力洗牌？",
-        "link": "https://www.tmtpost.com/8013061.html",
-        "published_date": "Thu, 04 Jun 2026 09:06:00 GMT",
-        "first_seen": "2026-06-04T01:46:30.991984"
-      },
-      "915fd6670ad6bb8dfa97f0f24a4900581004a42d72a085b4940f1c5c1df5b242": {
-        "title": "Edge AI Daily 早报（6月4日）",
-        "link": "https://www.tmtpost.com/8014298.html",
-        "published_date": "Thu, 04 Jun 2026 08:29:00 GMT",
-        "first_seen": "2026-06-04T01:46:30.992068"
-      },
-      "44a2f62727de205e492a550e6f014d5bd395ad2b12a4a40b2f34d5b4ba645073": {
-        "title": "股价再创历史新高，72万散户“战胜”机构：工业富联1.6万亿市值的水位与暗涌 | 深度",
-        "link": "https://www.tmtpost.com/8014170.html",
-        "published_date": "Thu, 04 Jun 2026 08:00:00 GMT",
-        "first_seen": "2026-06-04T01:46:30.992082"
-      },
-      "51d90decfefddb8b8f92f59eb6314968ab056e50e4c90830c5cb84fb0412d0e8": {
-        "title": "【钛晨报】覆盖14个平台，市场监管总局开展网络餐饮专项抽检；Alphabet宣布将股权融资规模从800亿美元增至847.5亿美元；比亚迪入局人形机器人",
-        "link": "https://www.tmtpost.com/8014013.html",
-        "published_date": "Thu, 04 Jun 2026 07:20:00 GMT",
-        "first_seen": "2026-06-04T01:46:30.992017"
-      },
-      "3c8e361a36b4ac2b4f2f8fb75f91dd3973add964224bd964026e7284ee8af463": {
-        "title": "实控人遭立案后2亿加码产业基金，泰格医药的“投资依赖症”有多深？",
-        "link": "https://www.tmtpost.com/8014098.html",
-        "published_date": "Wed, 03 Jun 2026 23:09:00 GMT",
-        "first_seen": "2026-06-04T01:46:30.992093"
-      },
-      "fc816ad9dc0ba0f5e84dd17dc2d1ba1468b111013911965fd758a5039fe836dd": {
-        "title": "高德地图启动新加坡扫街榜 本地生活竞争迈向全球化",
-        "link": "https://www.tmtpost.com/8013835.html",
-        "published_date": "Wed, 03 Jun 2026 22:27:00 GMT",
-        "first_seen": "2026-06-04T01:46:30.992103"
-      },
-      "9e6950d546d12cfd3d7e01c9675ef43256b1a0d5ac6dbae028b149933a80d0e5": {
-        "title": "联芸科技上市1年半又抛20亿元定增，今年一季度突击花掉IPO募资",
-        "link": "https://www.tmtpost.com/8013979.html",
-        "published_date": "Wed, 03 Jun 2026 20:55:00 GMT",
-        "first_seen": "2026-06-04T01:46:30.992031"
-      },
-      "a23237f310b4e253bb9bb7fdd0db05ffc436ffeef80b3319369955f959566884": {
-        "title": "杰锋动力：大股东奇瑞身兼头号客户，高负债、存贷双高下仍大额分红｜IPO观察",
-        "link": "https://www.tmtpost.com/8013304.html",
-        "published_date": "Wed, 03 Jun 2026 20:33:00 GMT",
-        "first_seen": "2026-06-04T01:46:30.992113"
-      },
-      "84ea252c2d799f5bc7d8103f8b9c6ad2cf8a6c9c7f8bdbf4f195c0b4ead33f22": {
-        "title": "前次募投延期、挪用募资买理财，中谷物流手握72亿现金欲再募30亿",
-        "link": "https://www.tmtpost.com/8013303.html",
-        "published_date": "Wed, 03 Jun 2026 18:53:00 GMT",
-        "first_seen": "2026-06-04T01:46:21.681728"
-      },
-      "8e0c5aaca7c59d4f9662aee12f0b9fdf87674c6dd1624757baebc0826c39f8c4": {
-        "title": "199元的“AI功能机”和900亿市值，诺基亚的AI双重叙事",
-        "link": "https://www.tmtpost.com/8011965.html",
-        "published_date": "Wed, 03 Jun 2026 18:20:00 GMT",
-        "first_seen": "2026-06-04T01:46:21.682356"
-      },
-      "23ea308e2f4206daa72b185e87a05dea9982d83c3eafaf047aeb0639efe82c5c": {
-        "title": "怎么哈根达斯中国也要卖了？",
-        "link": "https://www.tmtpost.com/8013714.html",
-        "published_date": "Wed, 03 Jun 2026 18:19:00 GMT",
-        "first_seen": "2026-06-04T01:46:21.682677"
-      },
-      "3fb400d5916f835eddeebc11dc9cd49003ce2fdc78e23240a2e520225d193aa9": {
-        "title": "美团“换骨”：王兴保住外卖+到店「现实的肉」，还要重构「AI的壳」",
-        "link": "https://www.tmtpost.com/8012008.html",
-        "published_date": "Wed, 03 Jun 2026 18:19:00 GMT",
-        "first_seen": "2026-06-04T01:46:21.683494"
-      },
-      "50c4a4db5361fa88d73e09ec386d35653beab2bdb0ad60728cacb2edc3610ff7": {
-        "title": "日销百亿的网红基亏损21亿，德邦基金权益“支柱”雷涛隐退",
-        "link": "https://www.tmtpost.com/8012190.html",
-        "published_date": "Wed, 03 Jun 2026 18:17:00 GMT",
-        "first_seen": "2026-06-04T01:46:21.684161"
-      },
-      "b1dff3bca55c732862b60f90685abb9bb464218ff6d620cd641f7940a4ab9ecd": {
-        "title": "中外储能争霸，谁笑到了最后",
-        "link": "https://www.tmtpost.com/8013663.html",
-        "published_date": "Wed, 03 Jun 2026 18:17:00 GMT",
-        "first_seen": "2026-06-04T01:46:21.684696"
-      },
-      "496936230db133b2cdd0f60e709157fc2d611085c2513bd9efcc894b6e1788ad": {
-        "title": "即时零售鏖战空调：高调入局的美团，能颠覆家电渠道格局吗？",
-        "link": "https://www.tmtpost.com/8013705.html",
-        "published_date": "Wed, 03 Jun 2026 18:17:00 GMT",
-        "first_seen": "2026-06-04T01:46:21.685444"
-      },
-      "1ed9e81fd4d2a6b4df14a1b015b2bda0679b1f4eaab95aab0dbd4a99c460c469": {
-        "title": "clickhousectl 赋能：轻松对比 ClickHouse 版本性能！",
-        "link": "https://www.infoq.cn/article/LREmzrrTzb3DcpLmHmhr?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 04 Jun 2026 09:00:00 GMT",
-        "first_seen": "2026-06-04T01:46:21.686432"
-      },
-      "33e03a4e2d46c9e0821492bb87183ae0aa9ed65554a94f4388a1ffe49c662985": {
-        "title": "AI辅助迁移工具：数分钟完成ingress-nginx向Higress迁移",
-        "link": "https://www.infoq.cn/article/O8xvQlsgZ7OExQ7I9w3f?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 03 Jun 2026 18:00:00 GMT",
-        "first_seen": "2026-06-04T01:46:21.687425"
-      },
-      "12a5f67957f900ce72ba35be6cb6f987a5e94c9367544a566e585bc8219a58fa": {
-        "title": "派早报：豆包确认将推出付费版服务、樱桃发布 UWB 键盘等",
-        "link": "https://sspai.com/post/110698",
-        "published_date": "Thu, 04 Jun 2026 08:36:00 GMT",
-        "first_seen": "2026-06-04T01:46:30.992044"
-      },
-      "e6a95a145888a152b7967267591945862e24ea60f6dece245b0d9b8cd782a967": {
-        "title": "小车车里的大世界：车模收藏入坑指南",
-        "link": "https://sspai.com/post/110114",
-        "published_date": "Wed, 03 Jun 2026 17:00:00 GMT",
-        "first_seen": "2026-06-04T01:46:21.689154"
-      },
       "1a4f208390621c04548807414b1f1e4b063e56b99da2f25cb24288c3fbedda8f": {
         "title": "A New Hand on the Scoop: Häagen-Dazs Store Network Changes Hands",
         "link": "https://www.tmtpost.com/8015007.html",
@@ -9326,13 +9200,121 @@
         "link": "https://sspai.com/post/111917",
         "published_date": "Fri, 03 Jul 2026 17:35:00 GMT",
         "first_seen": "2026-07-04T00:11:02.921009"
+      },
+      "e3b57fbc1e8c0721ef9e7399caa71fab2f82b2504b349092e152e0cc87478c40": {
+        "title": "订单排到2027年，谁在支撑人形机器人的“量产元年”？",
+        "link": "https://www.tmtpost.com/8052511.html",
+        "published_date": "Sat, 04 Jul 2026 15:45:00 GMT",
+        "first_seen": "2026-07-04T07:52:35.031682"
+      },
+      "d5688d17c4ab4341f56e69361084cd1faf16fc5786f96d297b168e3900d2e5ed": {
+        "title": "从ARD协议说起，Agent行业的拐点到了",
+        "link": "https://www.tmtpost.com/8052499.html",
+        "published_date": "Sat, 04 Jul 2026 15:45:00 GMT",
+        "first_seen": "2026-07-04T07:52:35.031693"
+      },
+      "c1bfd1df46315a6cfe9f611c6a43569f6e1706b4feec44101c9760dacd1eb29d": {
+        "title": "芯片冷却，涌现大量“黑科技”",
+        "link": "https://www.tmtpost.com/8052444.html",
+        "published_date": "Sat, 04 Jul 2026 15:45:00 GMT",
+        "first_seen": "2026-07-04T07:52:35.031626"
+      },
+      "0655814345809e8f2086aafa7453900fad9f4f356269038c9de42f22749130f8": {
+        "title": "年入近7亿，跨境卖家养出了一家浏览器巨头",
+        "link": "https://www.tmtpost.com/8052430.html",
+        "published_date": "Sat, 04 Jul 2026 15:45:00 GMT",
+        "first_seen": "2026-07-04T07:52:35.031702"
+      },
+      "a9d72c746c6bfe8fd9a15d611b5e90578d44b0579589095149e2da37f00411b1": {
+        "title": "15年首次调整车船税，新能源车的“免税滤镜”正在慢慢消失",
+        "link": "https://www.tmtpost.com/8052855.html",
+        "published_date": "Sat, 04 Jul 2026 15:42:00 GMT",
+        "first_seen": "2026-07-04T07:52:35.031712"
+      },
+      "d0d0791f4089944c80a7c305e67a6471a31e4d045005c3bf411685bc45922a26": {
+        "title": "并购嘀嗒，同程“买”未来",
+        "link": "https://www.tmtpost.com/8052775.html",
+        "published_date": "Sat, 04 Jul 2026 15:34:00 GMT",
+        "first_seen": "2026-07-04T07:52:35.031722"
+      },
+      "810c0675279af3efa2ed019ef51555f642ac8f78ae7f1712139d3625cdf73f96": {
+        "title": "程一笑要带可灵AI打“对赌局”",
+        "link": "https://www.tmtpost.com/8052804.html",
+        "published_date": "Sat, 04 Jul 2026 15:25:00 GMT",
+        "first_seen": "2026-07-04T07:52:35.031733"
+      },
+      "24d92ed99069d2f475ced46385e7cdd7dadff8cf185d1a550c43e6cc0bd5ed2b": {
+        "title": "45℃的欧洲，把中国空调抬到新level",
+        "link": "https://www.tmtpost.com/8052792.html",
+        "published_date": "Sat, 04 Jul 2026 15:10:00 GMT",
+        "first_seen": "2026-07-04T07:52:35.031743"
+      },
+      "6cff9e2d302df21227eee93729e6c6e5a70b1ac858dd24867eb0bcf9ea4501f0": {
+        "title": "茅台还是那个茅台，顶流资本用真金白银投票",
+        "link": "https://www.tmtpost.com/8051788.html",
+        "published_date": "Sat, 04 Jul 2026 11:56:00 GMT",
+        "first_seen": "2026-07-04T07:52:25.514240"
+      },
+      "d6af92a7bbfceaa177a5a2be0d51c067a00684e681a5dd39ca6ff0abcc5c0cd1": {
+        "title": "99万买个不干活的机器人，“陪伴经济”催生下一个万亿风口？",
+        "link": "https://www.tmtpost.com/8052428.html",
+        "published_date": "Sat, 04 Jul 2026 11:55:00 GMT",
+        "first_seen": "2026-07-04T07:52:25.514676"
+      },
+      "9d5d05eaa6dfbaf13d10e2db802206b6c180e1211eb6cace2f9c9d69255903d1": {
+        "title": "阿维塔二次递表，有三个价值锚点被低估了",
+        "link": "https://www.tmtpost.com/8052616.html",
+        "published_date": "Sat, 04 Jul 2026 11:03:00 GMT",
+        "first_seen": "2026-07-04T07:52:25.515066"
+      },
+      "318b3d9ea4dc01e91ab71bf167e3323d20c5c8323bfcbed37cdcae2f2fcbac2c": {
+        "title": "24岁斯坦福天才，冲刺“国产DPU第一股”，腾讯是第一大股东",
+        "link": "https://www.tmtpost.com/8052654.html",
+        "published_date": "Sat, 04 Jul 2026 11:03:00 GMT",
+        "first_seen": "2026-07-04T07:52:25.515680"
+      },
+      "a89501f799bd3dc3e6010dea70f93caea16491b24139f5f95ad3e561b82c5904": {
+        "title": "阿里禁用Anthropic全系产品：不是保守排外，而是理性风控决策",
+        "link": "https://www.tmtpost.com/8052766.html",
+        "published_date": "Sat, 04 Jul 2026 11:03:00 GMT",
+        "first_seen": "2026-07-04T07:52:35.031655"
+      },
+      "fae39910ea609007cc8365e125884a51e34dfd306e086da0d644637206846aa3": {
+        "title": "WPS：整改之后，才是大考",
+        "link": "https://www.tmtpost.com/8052708.html",
+        "published_date": "Sat, 04 Jul 2026 11:03:00 GMT",
+        "first_seen": "2026-07-04T07:52:25.516809"
+      },
+      "c22af3c8e1d8202bc929ecf13d4e868145efae9c03c16e497dd0ef05de38b19c": {
+        "title": "雪王出海遭遇阶段性挫败",
+        "link": "https://www.tmtpost.com/8052740.html",
+        "published_date": "Sat, 04 Jul 2026 10:24:00 GMT",
+        "first_seen": "2026-07-04T07:52:25.517124"
+      },
+      "7c1fa9a6b56e92f49db2f990335e5f65436c6ce6a465f06e118fc0eb14714c94": {
+        "title": "世界杯带火佛得角旅游业，美国搜索增长800%",
+        "link": "https://www.tmtpost.com/8052727.html",
+        "published_date": "Sat, 04 Jul 2026 10:24:00 GMT",
+        "first_seen": "2026-07-04T07:52:25.517682"
+      },
+      "cc0b10b691b649e03a576392241939906b984ea9cc17320c5e82a7c1307b96ba": {
+        "title": "特朗普也狂买黄金？深读927页财务报告：他买了什么、卖了什么",
+        "link": "https://www.tmtpost.com/8052750.html",
+        "published_date": "Sat, 04 Jul 2026 09:56:00 GMT",
+        "first_seen": "2026-07-04T07:52:25.518484"
+      },
+      "d74aa57ebac92ce1e9e287f30e95e5840e11efbf546854ce560ecbf8ea00f48f": {
+        "title": "苹果首次将私有云计算平台扩展至谷歌云",
+        "link": "https://www.infoq.cn/article/UoJtxVXj0d1QT1ftyjtd?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 04 Jul 2026 09:00:00 GMT",
+        "first_seen": "2026-07-04T07:52:35.031669"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-07-04T00:11:12.419598",
-    "Technology": "2026-07-04T00:11:12.262397",
-    "Finance": "2026-07-04T00:11:12.284372"
+    "AI": "2026-07-04T07:52:35.186167",
+    "Technology": "2026-07-04T07:52:35.052195",
+    "Finance": "2026-07-04T07:52:35.071424"
   }
 }
