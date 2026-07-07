@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 06 Jul 2026 09:04:00 GMT</pubDate>
-    <lastBuildDate>Mon, 06 Jul 2026 09:04:40 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 00:14:00 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 00:14:20 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>腾讯混元Hy3正式发布，元宝同步上线Hy3 Agent能力、免费开放</title>
-      <link>https://www.infoq.cn/article/2IGjsbCMxxHjLGPJ7tls?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[腾讯混元Hy3正式发布，元宝同步上线Hy3 Agent能力、免费开放]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 16:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/2IGjsbCMxxHjLGPJ7tls?utm_source=rss&amp;utm_medium=article</guid>
+      <title>【钛晨报】涉及生态环境、电磁计量，45项国家计量技术规范发布；腾讯混元Hy3正式发布；SK海力士10日在纳斯达克上市290亿美元规模ADR，创外资企业史上最大规模</title>
+      <link>https://www.tmtpost.com/8054405.html</link>
+      <description>&lt;![CDATA[【钛晨报】涉及生态环境、电磁计量，45项国家计量技术规范发布；腾讯混元Hy3正式发布；SK海力士10日在纳斯达克上市290亿美元规模ADR，创外资企业史上最大规模]]&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8054405.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>亚马逊云科技推出 Workload Credentials Provider，用于自动化证书和密钥管理</title>
-      <link>https://www.infoq.cn/article/cE3cUpHYPN0IjSuIgcsh?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技推出 Workload Credentials Provider，用于自动化证书和密钥管理]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 16:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/cE3cUpHYPN0IjSuIgcsh?utm_source=rss&amp;utm_medium=article</guid>
+      <title>半年重建，腾讯再交卷：5分钟生成3D跑酷小游戏，混元 Hy3 正式发布</title>
+      <link>https://www.tmtpost.com/8054215.html</link>
+      <description>&lt;![CDATA[半年重建，腾讯再交卷：5分钟生成3D跑酷小游戏，混元 Hy3 正式发布]]&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 19:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8054215.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“我一行代码都没读就发布了”，被OpenAI收购后，uv工具创始人开始反思AI编程</title>
-      <link>https://www.infoq.cn/article/katE2jJKMX7FaGskhvRL?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[“我一行代码都没读就发布了”，被OpenAI收购后，uv工具创始人开始反思AI编程]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 15:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/katE2jJKMX7FaGskhvRL?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Linus 再谈 AI：大模型能写 Demo，但对复杂系统要有敬畏之心</title>
+      <link>https://www.infoq.cn/article/11fNtPYf59T76fyQkiPa?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Linus 再谈 AI：大模型能写 Demo，但对复杂系统要有敬畏之心]]&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 18:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/11fNtPYf59T76fyQkiPa?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GTLC 杭州站回顾｜AI 创业进入深水区，技术领导者都在关注什么？</title>
-      <link>https://www.infoq.cn/article/MOVBghUgQrXWr9igbK2p?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GTLC 杭州站回顾｜AI 创业进入深水区，技术领导者都在关注什么？]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 15:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/MOVBghUgQrXWr9igbK2p?utm_source=rss&amp;utm_medium=article</guid>
+      <title>补金片检出严重缺陷全线停产，益盛药业业绩连跌两年再遇合规大考</title>
+      <link>https://www.tmtpost.com/8054473.html</link>
+      <description>&lt;![CDATA[补金片检出严重缺陷全线停产，益盛药业业绩连跌两年再遇合规大考]]&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 23:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8054473.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Windows平台安全与保护AI智能体的竞赛</title>
-      <link>https://www.infoq.cn/article/LT7lx2Qe5KkS9QCVSXCQ?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Windows平台安全与保护AI智能体的竞赛]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 11:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/LT7lx2Qe5KkS9QCVSXCQ?utm_source=rss&amp;utm_medium=article</guid>
+      <title>跌停当晚，面板巨头拟19.16亿元收购虹阳显示33.42%股权；亏损封测厂拟贷款收购成都芯翼股权；【并购一线】</title>
+      <link>https://www.tmtpost.com/8054480.html</link>
+      <description>&lt;![CDATA[跌停当晚，面板巨头拟19.16亿元收购虹阳显示33.42%股权；亏损封测厂拟贷款收购成都芯翼股权；【并购一线】]]&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 22:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8054480.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>豆包、千问关停智能体功能；曝腾讯研发token额度1400元/月起步，有人过万；美团限豆包、阿里禁Claude Code｜AI周报</title>
-      <link>https://www.infoq.cn/article/rs0HJTRdN6Pl88LIFh1a?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[豆包、千问关停智能体功能；曝腾讯研发token额度1400元/月起步，有人过万；美团限豆包、阿里禁Claude Code｜AI周报]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 10:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/rs0HJTRdN6Pl88LIFh1a?utm_source=rss&amp;utm_medium=article</guid>
+      <title>账上仅141万却豪掷8000万跨界航天存储，凯瑞德“壳”局再起波澜</title>
+      <link>https://www.tmtpost.com/8054107.html</link>
+      <description>&lt;![CDATA[账上仅141万却豪掷8000万跨界航天存储，凯瑞德“壳”局再起波澜]]&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 22:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8054107.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布</title>
-      <link>https://www.infoq.cn/article/jpGdhU4YBXiXOloMEb2I?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 10:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/jpGdhU4YBXiXOloMEb2I?utm_source=rss&amp;utm_medium=article</guid>
+      <title>【Fintech 周报】上半年银行业罚单总额超过10亿元；年内首家银行评级被下调</title>
+      <link>https://www.tmtpost.com/8054257.html</link>
+      <description>&lt;![CDATA[【Fintech 周报】上半年银行业罚单总额超过10亿元；年内首家银行评级被下调]]&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 19:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8054257.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>数亿元融资落地！光象科技自研物理原生基座模型，跳出 VLA 与世界模型路线</title>
-      <link>https://www.infoq.cn/article/m4QJlWAyRq7Fp4yQImp9?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[数亿元融资落地！光象科技自研物理原生基座模型，跳出 VLA 与世界模型路线]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 10:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/m4QJlWAyRq7Fp4yQImp9?utm_source=rss&amp;utm_medium=article</guid>
+      <title>可灵成不了Seedance</title>
+      <link>https://www.tmtpost.com/8053660.html</link>
+      <description>&lt;![CDATA[可灵成不了Seedance]]&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 18:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8053660.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Azure Functions在Build 2026发布Serverless智能体运行时</title>
-      <link>https://www.infoq.cn/article/kGHZu2K5V8IrwYvo6Cm3?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Azure Functions在Build 2026发布Serverless智能体运行时]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 09:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/kGHZu2K5V8IrwYvo6Cm3?utm_source=rss&amp;utm_medium=article</guid>
+      <title>收菜鸟，放速卖通：蒋凡重划阿里电商版图</title>
+      <link>https://www.tmtpost.com/8053577.html</link>
+      <description>&lt;![CDATA[收菜鸟，放速卖通：蒋凡重划阿里电商版图]]&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 18:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8053577.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI穿过世界杯，发现高光仍属于人类</title>
-      <link>https://www.tmtpost.com/8053944.html</link>
-      <description>&lt;![CDATA[AI穿过世界杯，发现高光仍属于人类]]&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 16:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8053944.html</guid>
+      <title>日本机床，开始输给一个中国县城</title>
+      <link>https://www.tmtpost.com/8053968.html</link>
+      <description>&lt;![CDATA[日本机床，开始输给一个中国县城]]&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 18:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8053968.html</guid>
       <category>Technology</category>
     </item>
   </channel>
