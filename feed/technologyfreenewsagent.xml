@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 12 Jul 2026 00:01:00 GMT</pubDate>
-    <lastBuildDate>Sun, 12 Jul 2026 00:01:34 GMT</lastBuildDate>
+    <pubDate>Sun, 12 Jul 2026 07:31:00 GMT</pubDate>
+    <lastBuildDate>Sun, 12 Jul 2026 07:31:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,35 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>印度&quot;杀猪盘&quot;阳谋下，vivo交出控股权</title>
-      <link>https://www.tmtpost.com/8060716.html</link>
-      <description>&lt;![CDATA[印度&quot;杀猪盘&quot;阳谋下，vivo交出控股权]]&gt;</description>
-      <pubDate>Sat, 11 Jul 2026 18:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8060716.html</guid>
+      <title>三年高新企业资格被取消，朗姿股份的“科技外衣”破了</title>
+      <link>https://www.tmtpost.com/8061488.html</link>
+      <description>&lt;![CDATA[三年高新企业资格被取消，朗姿股份的“科技外衣”破了]]&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 11:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8061488.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>WorkBuddy与姚顺雨，腾讯AI的两条命?</title>
-      <link>https://www.tmtpost.com/8060588.html</link>
-      <description>&lt;![CDATA[WorkBuddy与姚顺雨，腾讯AI的两条命?]]&gt;</description>
-      <pubDate>Sat, 11 Jul 2026 18:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8060588.html</guid>
+      <title>算力基建，遭遇急刹车？</title>
+      <link>https://www.tmtpost.com/8061647.html</link>
+      <description>&lt;![CDATA[算力基建，遭遇急刹车？]]&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 15:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8061647.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>音乐圈版权保卫战：AI是如何洗劫音乐人的？</title>
-      <link>https://www.tmtpost.com/8061263.html</link>
-      <description>&lt;![CDATA[音乐圈版权保卫战：AI是如何洗劫音乐人的？]]&gt;</description>
-      <pubDate>Sat, 11 Jul 2026 18:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8061263.html</guid>
+      <title>港股年内最大IPO尴尬首秀，4800亿“果链一哥”破发</title>
+      <link>https://www.tmtpost.com/8061430.html</link>
+      <description>&lt;![CDATA[港股年内最大IPO尴尬首秀，4800亿“果链一哥”破发]]&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 15:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8061430.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>为什么中国人这么喜欢哈兰德？</title>
-      <link>https://www.tmtpost.com/8060888.html</link>
-      <description>&lt;![CDATA[为什么中国人这么喜欢哈兰德？]]&gt;</description>
-      <pubDate>Sat, 11 Jul 2026 18:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8060888.html</guid>
+      <title>内存三巨头，各选各路</title>
+      <link>https://www.tmtpost.com/8061616.html</link>
+      <description>&lt;![CDATA[内存三巨头，各选各路]]&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 11:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8061616.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>拆分电商业务、整治剧本带货，快手给复购喂“救心丸”</title>
+      <link>https://www.tmtpost.com/8061563.html</link>
+      <description>&lt;![CDATA[拆分电商业务、整治剧本带货，快手给复购喂“救心丸”]]&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 11:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8061563.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>具身智能460亿融资背后的“异类玩家”</title>
+      <link>https://www.tmtpost.com/8061597.html</link>
+      <description>&lt;![CDATA[具身智能460亿融资背后的“异类玩家”]]&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 11:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8061597.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>智谱，害怕成为下一个MiniMax</title>
+      <link>https://www.tmtpost.com/8061545.html</link>
+      <description>&lt;![CDATA[智谱，害怕成为下一个MiniMax]]&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 11:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8061545.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>300 元起的心理咨询，为什么输给了 30 元的树洞</title>
+      <link>https://www.tmtpost.com/8061554.html</link>
+      <description>&lt;![CDATA[300 元起的心理咨询，为什么输给了 30 元的树洞]]&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 10:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8061554.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>A股偿债能力百强榜：谁的财务底盘更稳？</title>
+      <link>https://www.tmtpost.com/8061587.html</link>
+      <description>&lt;![CDATA[A股偿债能力百强榜：谁的财务底盘更稳？]]&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 09:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8061587.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>【ESG-V评级观察】上海上市公司价值重估：金融科创抬升上限，先进制造与城市服务分化显现</title>
+      <link>https://www.tmtpost.com/8061583.html</link>
+      <description>&lt;![CDATA[【ESG-V评级观察】上海上市公司价值重估：金融科创抬升上限，先进制造与城市服务分化显现]]&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 09:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8061583.html</guid>
       <category>Technology</category>
     </item>
   </channel>
