@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 20 Jul 2026 23:59:00 GMT</pubDate>
-    <lastBuildDate>Tue, 21 Jul 2026 00:01:42 GMT</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2026 10:27:00 GMT</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2026 10:30:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,75 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践</title>
-      <link>https://www.qbitai.com/2026/07/455963.html</link>
-      <description>&lt;![CDATA[WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 10:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/455963.html</guid>
+      <title>WAIC重磅成果｜上海仪电智算牵头成立“智算系统架构联盟”并发布《超节点系统架构规范》</title>
+      <link>https://www.qbitai.com/2026/07/456052.html</link>
+      <description>&lt;![CDATA[WAIC重磅成果｜上海仪电智算牵头成立“智算系统架构联盟”并发布《超节点系统架构规范》]]&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 09:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/456052.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面</title>
-      <link>https://www.qbitai.com/2026/07/455805.html</link>
-      <description>&lt;![CDATA[不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 10:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/455805.html</guid>
+      <title>WAIC重磅成果｜上海市教育算力专区正式开启试运行</title>
+      <link>https://www.qbitai.com/2026/07/456026.html</link>
+      <description>&lt;![CDATA[WAIC重磅成果｜上海市教育算力专区正式开启试运行]]&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 09:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/456026.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>当AI进入最依赖“人”的行业：一家四线城市康复机构利润增长40%</title>
-      <link>https://www.qbitai.com/2026/07/455791.html</link>
-      <description>&lt;![CDATA[当AI进入最依赖“人”的行业：一家四线城市康复机构利润增长40%]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 09:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/455791.html</guid>
+      <title>WAIC重磅成果｜智爱赛思全面升级并发布科研专属Token Plan</title>
+      <link>https://www.qbitai.com/2026/07/456021.html</link>
+      <description>&lt;![CDATA[WAIC重磅成果｜智爱赛思全面升级并发布科研专属Token Plan]]&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 09:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/456021.html</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>全球首发技术路线+全域联盟双轮破局，AI for ADANES释放先进核能新质生产力</title>
-      <link>https://www.qbitai.com/2026/07/455729.html</link>
-      <description>&lt;![CDATA[全球首发技术路线+全域联盟双轮破局，AI for ADANES释放先进核能新质生产力]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 09:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/455729.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>启鸣达人首发《世界模型驱动的教育AGI白皮书》| WAIC 2026</title>
-      <link>https://www.qbitai.com/2026/07/455730.html</link>
-      <description>&lt;![CDATA[启鸣达人首发《世界模型驱动的教育AGI白皮书》| WAIC 2026]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 09:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/455730.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>AI语音进入“表演时代”：阿里Qwen-Audio-3.0-TTS登顶全球权威榜单</title>
-      <link>https://www.qbitai.com/2026/07/455658.html</link>
-      <description>&lt;![CDATA[AI语音进入“表演时代”：阿里Qwen-Audio-3.0-TTS登顶全球权威榜单]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 09:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/455658.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>WAIC之后，重新理解与爱为舞：一家AI原生企业的学习场景验证</title>
-      <link>https://www.qbitai.com/2026/07/455596.html</link>
-      <description>&lt;![CDATA[WAIC之后，重新理解与爱为舞：一家AI原生企业的学习场景验证]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 09:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/455596.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>GMI Cloud  “无界造物节”在WAIC圆满完赛，“MaaS+创意”赋能 AI 创作新生态！</title>
-      <link>https://www.qbitai.com/2026/07/455593.html</link>
-      <description>&lt;![CDATA[GMI Cloud  “无界造物节”在WAIC圆满完赛，“MaaS+创意”赋能 AI 创作新生态！]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 08:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/455593.html</guid>
-      <category>AI</category>
-    </item>
-    <item>
-      <title>国家具身智能应用中试基地发布首个合作世界模型 魔芯科技MoWorld 3D正式亮相</title>
-      <link>https://www.qbitai.com/2026/07/455517.html</link>
-      <description>&lt;![CDATA[国家具身智能应用中试基地发布首个合作世界模型 魔芯科技MoWorld 3D正式亮相]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 08:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/455517.html</guid>
+      <title>WAIC重磅成果｜仪电智算云在国家人工智能应用中试基地建设中展现全栈服务能力</title>
+      <link>https://www.qbitai.com/2026/07/455998.html</link>
+      <description>&lt;![CDATA[WAIC重磅成果｜仪电智算云在国家人工智能应用中试基地建设中展现全栈服务能力]]&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 09:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/455998.html</guid>
       <category>AI</category>
     </item>
   </channel>
