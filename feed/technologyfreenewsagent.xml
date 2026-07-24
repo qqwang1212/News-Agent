@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 23 Jul 2026 07:37:00 GMT</pubDate>
-    <lastBuildDate>Thu, 23 Jul 2026 07:37:22 GMT</lastBuildDate>
+    <pubDate>Fri, 24 Jul 2026 00:06:00 GMT</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2026 00:06:39 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782874584542208</feedId>
@@ -14,83 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>懂知识、能执行，滴普科技选择做更“Work”的Agent</title>
-      <link>https://www.tmtpost.com/8075680.html</link>
-      <description>&lt;![CDATA[懂知识、能执行，滴普科技选择做更“Work”的Agent]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 12:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8075680.html</guid>
+      <title>华东首个国产 TPU 千卡集群落地杭州，中昊芯英发布二代 AI 芯片“须臾”</title>
+      <link>https://www.tmtpost.com/8077591.html</link>
+      <description>&lt;![CDATA[华东首个国产 TPU 千卡集群落地杭州，中昊芯英发布二代 AI 芯片“须臾”]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 20:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8077591.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>凌迪科技WAIC 2026：从服装仿真到具身智能，柔性引擎怎么做跨界</title>
-      <link>https://www.tmtpost.com/8075832.html</link>
-      <description>&lt;![CDATA[凌迪科技WAIC 2026：从服装仿真到具身智能，柔性引擎怎么做跨界]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 12:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8075832.html</guid>
+      <title>腾讯云发布首个“流程原生”研发智能体 CodeBuddy NPC</title>
+      <link>https://www.infoq.cn/article/w6DHDb3QUYPLC1vaU8z1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[腾讯云发布首个“流程原生”研发智能体 CodeBuddy NPC]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 18:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/w6DHDb3QUYPLC1vaU8z1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>一目科技E轮融资超10亿：触觉传感器正在成为具身智能的最难的环节</title>
-      <link>https://www.tmtpost.com/8075805.html</link>
-      <description>&lt;![CDATA[一目科技E轮融资超10亿：触觉传感器正在成为具身智能的最难的环节]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 11:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8075805.html</guid>
+      <title>为什么决定法律 AI 成效的，是数据平台，而不是模型 ｜ 技术实践</title>
+      <link>https://www.infoq.cn/article/PZ5Xe45iTQlOXtZveBKU?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[为什么决定法律 AI 成效的，是数据平台，而不是模型 ｜ 技术实践]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 15:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/PZ5Xe45iTQlOXtZveBKU?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>郑纬民院士：国产算力的瓶颈不在芯片，在生态</title>
-      <link>https://www.tmtpost.com/8075814.html</link>
-      <description>&lt;![CDATA[郑纬民院士：国产算力的瓶颈不在芯片，在生态]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 11:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8075814.html</guid>
+      <title>【钛晨报】事关资本市场监管、改革与稳市工作，证监会明确七大要点；长鑫科技7月27日上市，发行价为8.66元/股；滔搏回应暴力打折甩卖耐克库存</title>
+      <link>https://www.tmtpost.com/8077701.html</link>
+      <description>&lt;![CDATA[【钛晨报】事关资本市场监管、改革与稳市工作，证监会明确七大要点；长鑫科技7月27日上市，发行价为8.66元/股；滔搏回应暴力打折甩卖耐克库存]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 07:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8077701.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Linkerd 2.20 发布：智能流量管理升级，资源占用大幅降低</title>
-      <link>https://www.infoq.cn/article/TJL8TIiuD6Cev0Ig0AAS?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Linkerd 2.20 发布：智能流量管理升级，资源占用大幅降低]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 13:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/TJL8TIiuD6Cev0Ig0AAS?utm_source=rss&amp;utm_medium=article</guid>
+      <title>“科技小登”为何跳水？</title>
+      <link>https://www.tmtpost.com/8075900.html</link>
+      <description>&lt;![CDATA[“科技小登”为何跳水？]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 18:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8075900.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从入鸿蒙到 AI Native：系统与 AI 融合下的应用智能化跃迁｜AICon深圳</title>
-      <link>https://www.infoq.cn/article/Ti4HDYkZAlbNmEFFYp24?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从入鸿蒙到 AI Native：系统与 AI 融合下的应用智能化跃迁｜AICon深圳]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/Ti4HDYkZAlbNmEFFYp24?utm_source=rss&amp;utm_medium=article</guid>
+      <title>开发并部署一个既能让业务部门理解、又能真正满足开发者需求的平台</title>
+      <link>https://www.infoq.cn/article/dgIQlw6lQc0qEol7VQE4?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[开发并部署一个既能让业务部门理解、又能真正满足开发者需求的平台]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/dgIQlw6lQc0qEol7VQE4?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谷歌联合多家企业发布 Agentic Resource Discovery 规范，为 AI Agent 建立统一资源发现机制</title>
-      <link>https://www.infoq.cn/article/9sEaQuLww0wAu016qH5R?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌联合多家企业发布 Agentic Resource Discovery 规范，为 AI Agent 建立统一资源发现机制]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 09:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/9sEaQuLww0wAu016qH5R?utm_source=rss&amp;utm_medium=article</guid>
+      <title>医疗与生命科学领导者必须回答的 10 个 Agentic AI 关键问题 ｜ 技术实践</title>
+      <link>https://www.infoq.cn/article/06XxocxibFHWsL53PPFc?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[医疗与生命科学领导者必须回答的 10 个 Agentic AI 关键问题 ｜ 技术实践]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 16:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/06XxocxibFHWsL53PPFc?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等</title>
-      <link>https://sspai.com/post/112647</link>
-      <description>&lt;![CDATA[派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 08:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/112647</guid>
+      <title>特斯拉受挫，分析师却不以为意</title>
+      <link>https://www.tmtpost.com/8077747.html</link>
+      <description>&lt;![CDATA[特斯拉受挫，分析师却不以为意]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 22:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8077747.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从全球化组织到 AI-Native 团队：Snowflake 营销 AI 委员会的转型实践 ｜ 技术实践</title>
-      <link>https://www.infoq.cn/article/HwODT4jsAeL4iOCUFHVV?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从全球化组织到 AI-Native 团队：Snowflake 营销 AI 委员会的转型实践 ｜ 技术实践]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/HwODT4jsAeL4iOCUFHVV?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AI模型失控叛变，而这些股票已准备好迎战</title>
+      <link>https://www.tmtpost.com/8077735.html</link>
+      <description>&lt;![CDATA[AI模型失控叛变，而这些股票已准备好迎战]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 22:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8077735.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>巨资豪赌世界杯，小红书赢了吗？</title>
-      <link>https://www.tmtpost.com/8076566.html</link>
-      <description>&lt;![CDATA[巨资豪赌世界杯，小红书赢了吗？]]&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 15:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8076566.html</guid>
+      <title>2026 国际低空经济博览会在沪开幕，452 家企业参展</title>
+      <link>https://www.tmtpost.com/8076691.html</link>
+      <description>&lt;![CDATA[2026 国际低空经济博览会在沪开幕，452 家企业参展]]&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 22:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8076691.html</guid>
       <category>Technology</category>
     </item>
   </channel>
