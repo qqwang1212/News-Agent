@@ -1626,6 +1626,24 @@
         "link": "https://www.qbitai.com/2026/07/459262.html",
         "published_date": "Fri, 24 Jul 2026 07:49:00 GMT",
         "first_seen": "2026-07-24T10:23:49.573641"
+      },
+      "1b4ccfa34a536c3a9ed39200282296aa899d4b2cf1f0793c2b5c009d10dc33a4": {
+        "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
+        "link": "https://www.qbitai.com/2026/07/460154.html",
+        "published_date": "Fri, 24 Jul 2026 14:42:00 GMT",
+        "first_seen": "2026-07-25T00:10:02.600370"
+      },
+      "83cf8773c8453cce25c173b092e65df675049a5025df4cd8370e618ee67b2ce7": {
+        "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
+        "link": "https://www.qbitai.com/2026/07/460041.html",
+        "published_date": "Fri, 24 Jul 2026 14:19:00 GMT",
+        "first_seen": "2026-07-25T00:10:02.600549"
+      },
+      "12590a17fc8e35948ec538304922d68da835887b7709c775796232ca2d67c302": {
+        "title": "菲尔兹奖得主王虹，也发过NeurIPS",
+        "link": "https://www.qbitai.com/2026/07/460042.html",
+        "published_date": "Fri, 24 Jul 2026 11:10:00 GMT",
+        "first_seen": "2026-07-25T00:10:02.600693"
       }
     },
     "Technology": {
@@ -10178,13 +10196,73 @@
         "link": "https://sspai.com/post/112232",
         "published_date": "Fri, 24 Jul 2026 15:00:00 GMT",
         "first_seen": "2026-07-24T10:23:49.700981"
+      },
+      "132f8a68ed0a303a702ea25828a78aa024c9d616e1a0b43d2ded9bc35aa57fd8": {
+        "title": "圆桌访谈：AI 创作场——当生成门槛降低，真正稀缺的是什么？",
+        "link": "https://www.infoq.cn/video/rIOauXdfJLSyeIE1pbuQ?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 25 Jul 2026 08:00:00 GMT",
+        "first_seen": "2026-07-25T00:10:02.698778"
+      },
+      "93e5667afec828e15bc77aa092d58b70ead6b89d8f1863f0d12af28bc1e9bea1": {
+        "title": "“因为AI不再招研究生了！”菲尔兹奖得主转身加盟OpenAI：数学家这份工作很难维持",
+        "link": "https://www.infoq.cn/article/7rHl2bfzSq4kNVPQ9219?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 24 Jul 2026 19:30:00 GMT",
+        "first_seen": "2026-07-25T00:10:02.698935"
+      },
+      "3c1af2772376819852c353a6c7a0c37183ac3f5a0bb8407a9f5608701f6093fb": {
+        "title": "“母告子”撤诉后股价大跌6.65%，广安爱众缺的何止这4.79亿元",
+        "link": "https://www.tmtpost.com/8078781.html",
+        "published_date": "Fri, 24 Jul 2026 20:03:00 GMT",
+        "first_seen": "2026-07-25T00:10:02.699140"
+      },
+      "c04edd6fb6027762a269ccd14d59861395e51cd2362bf4ff76477d5b6fa8e355": {
+        "title": "港交所最大IPO来了！市值暴涨500倍，光模块一哥被资本疯抢",
+        "link": "https://www.tmtpost.com/8078486.html",
+        "published_date": "Fri, 24 Jul 2026 19:13:00 GMT",
+        "first_seen": "2026-07-25T00:10:02.699380"
+      },
+      "acf605b358cc49d59b37ec639a7433f9cbde53a67bd8c87898f3182ed776724f": {
+        "title": "4100美元关口得而复失，下半年黄金还能涨吗？",
+        "link": "https://www.tmtpost.com/8078562.html",
+        "published_date": "Fri, 24 Jul 2026 19:13:00 GMT",
+        "first_seen": "2026-07-25T00:10:02.699600"
+      },
+      "ce14658a4c6554a02b6a4cae46000af33738b5db33f984228a8c1492d967d41a": {
+        "title": "大厂挤爆AI宠物赛道：年轻人不想铲屎，只想要不死的赛博猫咪？",
+        "link": "https://www.tmtpost.com/8078514.html",
+        "published_date": "Fri, 24 Jul 2026 19:13:00 GMT",
+        "first_seen": "2026-07-25T00:10:02.699972"
+      },
+      "e817afd71671562f238d9a95d41975b17e1859f06659bb9c854d9fa779f23402": {
+        "title": "中文播客，词汇通胀",
+        "link": "https://www.tmtpost.com/8078490.html",
+        "published_date": "Fri, 24 Jul 2026 18:43:00 GMT",
+        "first_seen": "2026-07-25T00:10:02.700198"
+      },
+      "8ccfc5b23beeaadfbcdff44d02900de53c10cc096ce87a1e627b46cb96a0f4b8": {
+        "title": "“药王”礼来，差一点错过GLP-1时代",
+        "link": "https://www.tmtpost.com/8078583.html",
+        "published_date": "Fri, 24 Jul 2026 18:43:00 GMT",
+        "first_seen": "2026-07-25T00:10:02.700548"
+      },
+      "9b4b15dadb2892c7b6c902aa0ade7174bae4edcf510217b1b714159c536d26db": {
+        "title": "Beyond General AI: Why an AI Guitar Drew the Biggest Lines at WAIC",
+        "link": "https://www.tmtpost.com/8078706.html",
+        "published_date": "Fri, 24 Jul 2026 18:22:00 GMT",
+        "first_seen": "2026-07-25T00:10:02.701325"
+      },
+      "31ccaaad6f2dac5618df476fb456ebe315abb685e284af2737a8ec7da59ada15": {
+        "title": "本周看什么 | 最近值得一看的 13 部作品",
+        "link": "https://sspai.com/post/112692",
+        "published_date": "Fri, 24 Jul 2026 17:38:00 GMT",
+        "first_seen": "2026-07-25T00:10:02.701801"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-07-24T10:23:49.624212",
-    "Technology": "2026-07-24T10:23:59.095208",
-    "Finance": "2026-07-24T10:23:59.114265"
+    "AI": "2026-07-25T00:10:02.632856",
+    "Technology": "2026-07-25T00:10:02.710209",
+    "Finance": "2026-07-25T00:10:02.729066"
   }
 }

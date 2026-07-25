@@ -1,7 +1,46 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-24 10:23
+**最后更新时间**: 2026-07-25 00:09
+
+---
+
+## 🆕 最新更新 (2026-07-25 00:09)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [圆桌访谈：AI 创作场——当生成门槛降低，真正稀缺的是什么？](https://www.infoq.cn/video/rIOauXdfJLSyeIE1pbuQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-25 08:00
+
+#### [“因为AI不再招研究生了！”菲尔兹奖得主转身加盟OpenAI：数学家这份工作很难维持](https://www.infoq.cn/article/7rHl2bfzSq4kNVPQ9219?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-24 19:30
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“母告子”撤诉后股价大跌6.65%，广安爱众缺的何止这4.79亿元](https://www.tmtpost.com/8078781.html)
+**发布时间**: 2026-07-24 20:03
+
+#### [港交所最大IPO来了！市值暴涨500倍，光模块一哥被资本疯抢](https://www.tmtpost.com/8078486.html)
+**发布时间**: 2026-07-24 19:13
+
+#### [4100美元关口得而复失，下半年黄金还能涨吗？](https://www.tmtpost.com/8078562.html)
+**发布时间**: 2026-07-24 19:13
+
+#### [大厂挤爆AI宠物赛道：年轻人不想铲屎，只想要不死的赛博猫咪？](https://www.tmtpost.com/8078514.html)
+**发布时间**: 2026-07-24 19:13
+
+#### [中文播客，词汇通胀](https://www.tmtpost.com/8078490.html)
+**发布时间**: 2026-07-24 18:43
+
+#### [“药王”礼来，差一点错过GLP-1时代](https://www.tmtpost.com/8078583.html)
+**发布时间**: 2026-07-24 18:43
+
+#### [Beyond General AI: Why an AI Guitar Drew the Biggest Lines at WAIC](https://www.tmtpost.com/8078706.html)
+**发布时间**: 2026-07-24 18:22
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 13 部作品](https://sspai.com/post/112692)
+**发布时间**: 2026-07-24 17:38
 
 ---
 
