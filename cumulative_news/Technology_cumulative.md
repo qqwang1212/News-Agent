@@ -1,7 +1,85 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-29 07:47
+**最后更新时间**: 2026-07-29 10:44
+
+---
+
+## 🆕 最新更新 (2026-07-29 10:44)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [海力士营业利润大涨557%，股价为什么跌了？](https://www.tmtpost.com/8083482.html)
+**发布时间**: 2026-07-29 18:40
+
+#### [澜起科技的“惊魂三日”](https://www.tmtpost.com/8083567.html)
+**发布时间**: 2026-07-29 18:36
+
+#### [成立1年融资3轮，前字节女高管创业，跑赢GPT-5登顶编程榜](https://www.tmtpost.com/8083966.html)
+**发布时间**: 2026-07-29 18:32
+
+#### [半年上线22万部AI漫剧，为什么赚到钱的不到1%？](https://www.tmtpost.com/8083982.html)
+**发布时间**: 2026-07-29 18:32
+
+#### [如何在虚拟的AI空间，搭建一个真实可感的影像世界](https://www.tmtpost.com/8083831.html)
+**发布时间**: 2026-07-29 18:32
+
+#### [上海、安徽都涨价，魏家凉皮当不成大学食堂了](https://www.tmtpost.com/8083896.html)
+**发布时间**: 2026-07-29 18:28
+
+#### [控制器只占两成营收，仙工智能凭什么撑起万亿故事？](https://www.tmtpost.com/8083573.html)
+**发布时间**: 2026-07-29 18:08
+
+#### [携程遭反垄断顶格处罚，新流量规则下酒旅或将重新洗牌](https://www.tmtpost.com/8083800.html)
+**发布时间**: 2026-07-29 18:07
+
+#### [字节阿里都没防住：腾讯WorkBuddy四个月“偷”下AI办公智能体第一](https://www.tmtpost.com/8083780.html)
+**发布时间**: 2026-07-29 18:00
+
+#### [益禾堂大震荡：CGO、找茶品牌负责人离职，供应链等多业务线同步调整](https://www.tmtpost.com/8083633.html)
+**发布时间**: 2026-07-29 17:57
+
+#### [希捷CEO直言：硬盘产能“已预订一空”](https://www.tmtpost.com/8083719.html)
+**发布时间**: 2026-07-29 17:57
+
+#### [六座车火了，大五座也火了，其实我们更需要“四座车”](https://www.tmtpost.com/8083599.html)
+**发布时间**: 2026-07-29 17:50
+
+#### [胖东来停售空调，击中家电行业软肋](https://www.tmtpost.com/8083876.html)
+**发布时间**: 2026-07-29 17:49
+
+#### [建业割肉30亿元，为什么整个文旅圈都在叫好？](https://www.tmtpost.com/8083836.html)
+**发布时间**: 2026-07-29 17:49
+
+#### [DeepSeek Harness开启内测？看来V4正式版也不远了](https://www.tmtpost.com/8083615.html)
+**发布时间**: 2026-07-29 17:49
+
+#### [8亿欧收购巴黎地标，Zara老板成全球头号房东，扎克伯格、贝佐斯是房客](https://www.tmtpost.com/8083746.html)
+**发布时间**: 2026-07-29 17:49
+
+#### [阿里、腾讯、360同时出手：你的办公桌，成了大厂的新战场](https://www.tmtpost.com/8083852.html)
+**发布时间**: 2026-07-29 17:40
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Yelp 借助 Training Orchestrator 实现机器学习模型训练的统一管理](https://www.infoq.cn/article/J3AlWZvIwrQT3R7dsoJo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-29 17:49
+
+#### [深度访谈｜Agentic 时代，谁来重新定义数据库？](https://www.infoq.cn/video/r4pZtYkEzaYWlFlwJXTk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-29 17:00
+
+#### [语义贯通：在 Snowflake 上构建可信、高效的数据智能 ｜Snowflake Discover AI 技术实战周](https://www.infoq.cn/video/UVPhU4AzuNX9YkF0oQUG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-29 16:52
+
+#### [AI智能体正击穿生物安全防线！智源、北大实测11款商用大模型，均能生成绕过筛查的拆分方案](https://www.infoq.cn/article/JOOv0RAS1AEZO92E4KyU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-29 16:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新](https://sspai.com/post/112787)
+**发布时间**: 2026-07-29 17:30
+
+#### [陕北看海，黄土难寻](https://sspai.com/post/112761)
+**发布时间**: 2026-07-29 15:00
 
 ---
 
