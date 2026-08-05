@@ -1,7 +1,34 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-04 10:45
+**最后更新时间**: 2026-08-05 00:09
+
+---
+
+## 🆕 最新更新 (2026-08-05 00:09)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】事关自动驾驶系统安全，强制性国标正式发布；央行今日将开展5000亿元买断式逆回购；申通快递被立案调查、鸿蒙智行回应“竹知了”事件](https://www.tmtpost.com/8091566.html)
+**发布时间**: 2026-08-05 07:20
+
+#### [收购标的对赌期刚过就“变脸”，昇辉科技收购案牵出西子洁能并购往事 | 并购一线](https://www.tmtpost.com/8091482.html)
+**发布时间**: 2026-08-04 20:38
+
+#### [业绩爆破与地缘悬疑之下，药明康德市值重返4200亿丨看财报](https://www.tmtpost.com/8091389.html)
+**发布时间**: 2026-08-04 19:26
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [倒计时 1 天｜跨境电商 AI Workforce 大会明日重磅启幕](https://www.infoq.cn/article/8TfMHMQEm0fW0wXu3IlB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-04 19:14
+
+#### [RAG 不够用了？揭秘纯向量检索的 3 个盲区！](https://www.infoq.cn/video/ZjMFQf6aMQyDcooqSiTU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-04 19:05
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [家庭饮品 DIY 指南（三）：常用固体物料推荐](https://sspai.com/prime/story/home-made-beverages-3)
+**发布时间**: 2026-08-04 17:54
 
 ---
 

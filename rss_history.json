@@ -1560,6 +1560,12 @@
         "link": "https://www.qbitai.com/2026/08/465814.html",
         "published_date": "Tue, 04 Aug 2026 08:18:00 GMT",
         "first_seen": "2026-08-04T10:45:12.645176"
+      },
+      "3aadc3b98a5949480aec30d6ee6ebc77039370cb75460c1060ffcb6f69ae2cc7": {
+        "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
+        "link": "https://www.qbitai.com/2026/08/466386.html",
+        "published_date": "Tue, 04 Aug 2026 13:14:00 GMT",
+        "first_seen": "2026-08-05T00:09:15.970479"
       }
     },
     "Technology": {
@@ -10730,13 +10736,49 @@
         "link": "http://www.geekpark.net/news/368373",
         "published_date": "Tue, 04 Aug 2026 16:21:00 GMT",
         "first_seen": "2026-08-04T10:45:12.746970"
+      },
+      "2efddc123b50c5188be98bebfd0871ba3b6bced542bad0f1ebf703984120c964": {
+        "title": "【钛晨报】事关自动驾驶系统安全，强制性国标正式发布；央行今日将开展5000亿元买断式逆回购；申通快递被立案调查、鸿蒙智行回应“竹知了”事件",
+        "link": "https://www.tmtpost.com/8091566.html",
+        "published_date": "Wed, 05 Aug 2026 07:20:00 GMT",
+        "first_seen": "2026-08-05T00:09:16.058825"
+      },
+      "34d5c047da8c5e0c481c2a43c9bc3ba802ca955bc0351ed70c51b1c94e41ff51": {
+        "title": "收购标的对赌期刚过就“变脸”，昇辉科技收购案牵出西子洁能并购往事 | 并购一线",
+        "link": "https://www.tmtpost.com/8091482.html",
+        "published_date": "Tue, 04 Aug 2026 20:38:00 GMT",
+        "first_seen": "2026-08-05T00:09:16.059037"
+      },
+      "e8fe338eb02ef9864d58dd39c556f2dbb2248b0550f591e1f94e6a7c5a4c8f5c": {
+        "title": "业绩爆破与地缘悬疑之下，药明康德市值重返4200亿丨看财报",
+        "link": "https://www.tmtpost.com/8091389.html",
+        "published_date": "Tue, 04 Aug 2026 19:26:00 GMT",
+        "first_seen": "2026-08-05T00:09:16.059202"
+      },
+      "29b1a049e756567650340a96a162fe6288691a977973b9df28c0e1766cf49c85": {
+        "title": "倒计时 1 天｜跨境电商 AI Workforce 大会明日重磅启幕",
+        "link": "https://www.infoq.cn/article/8TfMHMQEm0fW0wXu3IlB?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 04 Aug 2026 19:14:00 GMT",
+        "first_seen": "2026-08-05T00:09:16.059498"
+      },
+      "260c92c0d0c034cac6ed965f9f24f521041e24d28080860c3029f7795e861f03": {
+        "title": "RAG 不够用了？揭秘纯向量检索的 3 个盲区！",
+        "link": "https://www.infoq.cn/video/ZjMFQf6aMQyDcooqSiTU?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 04 Aug 2026 19:05:00 GMT",
+        "first_seen": "2026-08-05T00:09:16.059730"
+      },
+      "034f4a2ef1c268d997a7638dc5e63f53ee8453b291aac8eed24999f0ab0da759": {
+        "title": "家庭饮品 DIY 指南（三）：常用固体物料推荐",
+        "link": "https://sspai.com/prime/story/home-made-beverages-3",
+        "published_date": "Tue, 04 Aug 2026 17:54:00 GMT",
+        "first_seen": "2026-08-05T00:09:16.060033"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-08-04T10:45:12.667409",
-    "Technology": "2026-08-04T10:45:22.204580",
-    "Finance": "2026-08-04T10:45:22.223049"
+    "AI": "2026-08-05T00:09:15.992137",
+    "Technology": "2026-08-05T00:09:16.067602",
+    "Finance": "2026-08-05T00:09:16.086049"
   }
 }
