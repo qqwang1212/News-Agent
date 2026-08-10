@@ -1482,45 +1482,21 @@
         "link": "https://www.qbitai.com/2026/08/469520.html",
         "published_date": "Mon, 10 Aug 2026 06:58:00 GMT",
         "first_seen": "2026-08-10T09:28:26.131729"
+      },
+      "30a050190e50ba3be6318fd0b6e7eeec34184af71867b10d5f0d9b6c23f35358": {
+        "title": "AI倒查论文100年！99.2%的顶刊都有问题…",
+        "link": "https://www.qbitai.com/2026/08/469795.html",
+        "published_date": "Mon, 10 Aug 2026 13:58:00 GMT",
+        "first_seen": "2026-08-10T23:40:28.512881"
+      },
+      "025ee12db67c715496c669e2adf52a45c7c96c47b380a9170afe34c7a181fae3": {
+        "title": "PDF当死，ARA该立！论文是时候Agent原生了",
+        "link": "https://www.qbitai.com/2026/08/469721.html",
+        "published_date": "Mon, 10 Aug 2026 13:53:00 GMT",
+        "first_seen": "2026-08-10T23:40:28.513046"
       }
     },
     "Technology": {
-      "52464840480c02f7f2110d811fbeb84709fee3e61c2dfc5c786653284912296c": {
-        "title": "蜜雪模式出海失灵了吗？",
-        "link": "https://www.tmtpost.com/8061220.html",
-        "published_date": "Sat, 11 Jul 2026 17:24:00 GMT",
-        "first_seen": "2026-07-11T09:45:57.029316"
-      },
-      "db6f91e0473c9c5e9a3683497ae48f3ea55eb9eb3007f1dcd933f7e5f8005dfa": {
-        "title": "定义中国头部药企，要打开想象力",
-        "link": "https://www.tmtpost.com/8061199.html",
-        "published_date": "Sat, 11 Jul 2026 17:24:00 GMT",
-        "first_seen": "2026-07-11T09:45:57.029412"
-      },
-      "fa4c0e497fd34fcb3b713f6c43444d01722f88760f979e1722f7403d3629438a": {
-        "title": "GPT-5.6背后最恐怖的真相，AI已经开始自我进化了",
-        "link": "https://www.tmtpost.com/8061074.html",
-        "published_date": "Sat, 11 Jul 2026 17:23:00 GMT",
-        "first_seen": "2026-07-11T09:45:57.029537"
-      },
-      "09baba14d41d5151a68f80f087b24672f31916f5c3afab2efca64a25d84a04b4": {
-        "title": "算力过剩是个伪命题",
-        "link": "https://www.tmtpost.com/8061099.html",
-        "published_date": "Sat, 11 Jul 2026 17:23:00 GMT",
-        "first_seen": "2026-07-11T09:45:57.029625"
-      },
-      "b6642907bcb25466a5dba287f18259e011384668dbac4ee2e8a667702698e72e": {
-        "title": "苹果甩出41页PDF怒告OpenAI“偷师”其核心机密！网友：早知道就等印度开源了",
-        "link": "https://www.infoq.cn/article/Rzh9umgPl90MgGolBcWm?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 11 Jul 2026 17:00:00 GMT",
-        "first_seen": "2026-07-11T09:45:57.029859"
-      },
-      "71d37f4f225f6e75267fcc64eabbe9f0c3f0040d92bf7bd3db226fad511b5834": {
-        "title": "暴雨和洪涝的季节，这些技巧助你从容自保",
-        "link": "https://sspai.com/post/68024",
-        "published_date": "Sat, 11 Jul 2026 15:05:00 GMT",
-        "first_seen": "2026-07-11T09:45:57.030032"
-      },
       "4ef205474f9a091ff2825bfaa9096e23a17e26b84143dad7c5eed62e1eb3e019": {
         "title": "印度\"杀猪盘\"阳谋下，vivo交出控股权",
         "link": "https://www.tmtpost.com/8060716.html",
@@ -10820,13 +10796,139 @@
         "link": "https://sspai.com/post/113115",
         "published_date": "Mon, 10 Aug 2026 15:00:00 GMT",
         "first_seen": "2026-08-10T09:28:26.248093"
+      },
+      "71155b908f8f3aad8bf727717b23675bb5fc5d71c888cd907f4e0229db0d211a": {
+        "title": "【钛晨报】央行印发\"十五五\"改革发展规划，配套九份行动方案、部署五大重点任务；微软计划最快9月发布其下一代MAIA 300人工智能芯片；阿里云计划将全球数据中心产能提升两倍以上",
+        "link": "https://www.tmtpost.com/8098284.html",
+        "published_date": "Tue, 11 Aug 2026 07:20:00 GMT",
+        "first_seen": "2026-08-10T23:40:37.930593"
+      },
+      "9cf8d42db51e74c5047d90f17ca8d1561f41671f4d33581615bb477d59a03108": {
+        "title": "Franchise Operators Struggle as Meituan and Alibaba Densify Instant Neighborhood Depots",
+        "link": "https://www.tmtpost.com/8098406.html",
+        "published_date": "Tue, 11 Aug 2026 07:05:00 GMT",
+        "first_seen": "2026-08-10T23:40:37.930646"
+      },
+      "1d4f9c3e8238b5a460b7a70bdc00353a883fa8926463026ddda4196fa7689d58": {
+        "title": "字节高调转To B，为何回避To B主舞台？",
+        "link": "https://www.tmtpost.com/8098332.html",
+        "published_date": "Mon, 10 Aug 2026 23:13:00 GMT",
+        "first_seen": "2026-08-10T23:40:37.930655"
+      },
+      "a9e7c09be8e85f2ac742f7386df1dc017d97ed7a76fae46dad90962178348ee7": {
+        "title": "股价年内翻倍，复牌20CM跌停，宝莱特“芯片借壳”剧本落幕",
+        "link": "https://www.tmtpost.com/8098227.html",
+        "published_date": "Mon, 10 Aug 2026 20:48:00 GMT",
+        "first_seen": "2026-08-10T23:40:37.930621"
+      },
+      "0dd8d23713a8b3582d9e8782485c9e2f8df6dc832d88e36575de635e2f3001e7": {
+        "title": "天广实：22年无产品商业化，累亏超18亿，两轮定增后再募资3.49亿｜IPO观察",
+        "link": "https://www.tmtpost.com/8097690.html",
+        "published_date": "Mon, 10 Aug 2026 19:33:00 GMT",
+        "first_seen": "2026-08-10T23:40:37.930634"
+      },
+      "0d5bd25bf7cb8fb58009addc4053520713f5cf6903a9290380398dee6c85f5f7": {
+        "title": "汽水音乐翻过了网易云的那道墙",
+        "link": "https://www.tmtpost.com/8096734.html",
+        "published_date": "Mon, 10 Aug 2026 18:46:00 GMT",
+        "first_seen": "2026-08-10T23:40:37.930663"
+      },
+      "7073c6045c4d4833da7e523d9acc9f00494ca4a8963a63bdb92bf94a8b92661a": {
+        "title": "我们在瑞幸的二季报，看到了增速见顶的信号",
+        "link": "https://www.tmtpost.com/8097225.html",
+        "published_date": "Mon, 10 Aug 2026 18:46:00 GMT",
+        "first_seen": "2026-08-10T23:40:37.930670"
+      },
+      "094f496629a5a4015ad5938186766731d535d9001f03b44075427d916ebb67e5": {
+        "title": "换台电脑数据就丢了？千问办公Qwen3.8的精致与局限",
+        "link": "https://www.tmtpost.com/8096868.html",
+        "published_date": "Mon, 10 Aug 2026 18:46:00 GMT",
+        "first_seen": "2026-08-10T23:40:37.930678"
+      },
+      "9c1a6208c690347b759df6b5f1e2a3c53fafff8a8c8c2d25c4698eb2e697865c": {
+        "title": "秋天的第一场架，在奶茶店开打",
+        "link": "https://www.tmtpost.com/8096810.html",
+        "published_date": "Mon, 10 Aug 2026 18:46:00 GMT",
+        "first_seen": "2026-08-10T23:40:37.930685"
+      },
+      "99d4db30b42f61e884a64b92fc8ae22b124e20f44cc8000ba619b1e5454c82c6": {
+        "title": "长鑫IPO一步登顶三万亿：安徽「延迟满足」性格的胜利",
+        "link": "https://www.tmtpost.com/8082275.html",
+        "published_date": "Mon, 10 Aug 2026 18:45:00 GMT",
+        "first_seen": "2026-08-10T23:40:37.930692"
+      },
+      "57768d0ad6ba7dd8e497294fc346735858a70a64fe76cc255d7be4b25d96aaee": {
+        "title": "出境锁车风波，折射出怎样的智驾隐患？",
+        "link": "https://www.tmtpost.com/8095085.html",
+        "published_date": "Mon, 10 Aug 2026 18:45:00 GMT",
+        "first_seen": "2026-08-10T23:40:28.610995"
+      },
+      "e8e577c3dbfcca81a943d93ee879b2710b189cb9e1112af6a2552d139ac87588": {
+        "title": "王兴兴的低调劝退，挡不住宇树的疯狂定价",
+        "link": "https://www.tmtpost.com/8097913.html",
+        "published_date": "Mon, 10 Aug 2026 18:44:00 GMT",
+        "first_seen": "2026-08-10T23:40:28.611397"
+      },
+      "9dabc472a3c3909fc4b0ed3300273994540b96c8b9d54e96f23f7dd97b1ae78a": {
+        "title": "200亿身家，王兴兴告别王兴兴",
+        "link": "https://www.tmtpost.com/8097139.html",
+        "published_date": "Mon, 10 Aug 2026 18:44:00 GMT",
+        "first_seen": "2026-08-10T23:40:28.611772"
+      },
+      "fe1354fe77caa66b783ed138ef60b8e1c30af27716ef52a3b693c2c54a5d819b": {
+        "title": "金徽酒补税8381万，下一个会是“茅五泸洋”吗？",
+        "link": "https://www.tmtpost.com/8096877.html",
+        "published_date": "Mon, 10 Aug 2026 18:44:00 GMT",
+        "first_seen": "2026-08-10T23:40:28.612302"
+      },
+      "9b88e8b4bb957d09dba2f0f39facae147c14f27d303b866e1ab62229e5426b52": {
+        "title": "Ant Group Units Seek Independent Capital as AI and Global Businesses Step Forward",
+        "link": "https://www.tmtpost.com/8097997.html",
+        "published_date": "Mon, 10 Aug 2026 18:18:00 GMT",
+        "first_seen": "2026-08-10T23:40:28.613734"
+      },
+      "40999ca94d2de14c035f06dcc8bf8ecac3dc74a9bd0f3ec1f12581eec2940e56": {
+        "title": "ChinaJoy第二十三年：当漫展不再是漫展",
+        "link": "https://www.tmtpost.com/8097317.html",
+        "published_date": "Mon, 10 Aug 2026 17:55:00 GMT",
+        "first_seen": "2026-08-10T23:40:28.614391"
+      },
+      "1e3bdd22ded107f078ad60395ad417c227399fb0c3c73bde9236ce264b20bdc6": {
+        "title": "一张迟到的年报，照出中信消金的三处裂缝",
+        "link": "https://www.tmtpost.com/8097840.html",
+        "published_date": "Mon, 10 Aug 2026 17:47:00 GMT",
+        "first_seen": "2026-08-10T23:40:28.614986"
+      },
+      "a191de723b5eb3ed640d3837e75d7ae25324a3184b993e57ed53c65e555d8e85": {
+        "title": "不再拆机飞线：借助 ACC 实现旧手机直供电「改造」",
+        "link": "https://sspai.com/prime/story/direct-power-supply-mod",
+        "published_date": "Mon, 10 Aug 2026 21:50:00 GMT",
+        "first_seen": "2026-08-10T23:40:28.615758"
+      },
+      "fd50a3e7c0393cb0f5db5c36632019cdb35acf4a2e9c6167633abe3be8b86d5a": {
+        "title": "派评 | 近期值得关注的 App",
+        "link": "https://sspai.com/post/113283",
+        "published_date": "Mon, 10 Aug 2026 18:00:00 GMT",
+        "first_seen": "2026-08-10T23:40:28.616404"
+      },
+      "a4723df766e332f5de3ba959c12a569c5574f5494748bbaff06867dae8132a1b": {
+        "title": "语音成为 AI 关键入口，阿里一口气把全栈模型能力都拿出来了",
+        "link": "http://www.geekpark.net/news/368638",
+        "published_date": "Mon, 10 Aug 2026 20:41:00 GMT",
+        "first_seen": "2026-08-10T23:40:28.617334"
+      },
+      "b75584795d9066a20b09705b375b27f46c042d4ad9db696c4fb9aa4fa9980426": {
+        "title": "当 human in the loop 变成“闭着眼睛点确认”，企业Agent 安全还能靠谁？",
+        "link": "https://www.infoq.cn/article/5qWsLD6JV8N2zDgGuhK9?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 10 Aug 2026 17:29:00 GMT",
+        "first_seen": "2026-08-10T23:40:28.618760"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-08-10T09:28:26.160384",
-    "Technology": "2026-08-10T09:28:35.526483",
-    "Finance": "2026-08-10T09:28:35.545653"
+    "AI": "2026-08-10T23:40:28.537906",
+    "Technology": "2026-08-10T23:40:37.934346",
+    "Finance": "2026-08-10T23:40:37.953249"
   }
 }
