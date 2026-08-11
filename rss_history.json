@@ -1,18 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "13c70213e2632822dd85621434ec360a4fb4793b7b6d34112046675768d086ea": {
-        "title": "老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型",
-        "link": "https://www.qbitai.com/2026/07/447981.html",
-        "published_date": "Sun, 12 Jul 2026 01:37:00 GMT",
-        "first_seen": "2026-07-12T07:31:31.885355"
-      },
-      "cd795c680b413eeb0fb372fe7973a42b642c37b72faf47555eeeb0deba916c16": {
-        "title": "近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？",
-        "link": "https://www.qbitai.com/2026/07/447914.html",
-        "published_date": "Sun, 12 Jul 2026 01:14:00 GMT",
-        "first_seen": "2026-07-12T07:31:31.885535"
-      },
       "4afba1d4ba9dcb2b86cccc5c18816c621c1c995258300aec5f456f6eb81b6ba0": {
         "title": "98年哈工大教授创业，要做人形灵巧操作世界模型",
         "link": "https://www.qbitai.com/2026/07/448034.html",
@@ -1533,90 +1521,6 @@
       }
     },
     "Technology": {
-      "e85c8c5f41d34d31269a1d09a3eee08546c2a172a62c1da67a6be5207efdf422": {
-        "title": "算力基建，遭遇急刹车？",
-        "link": "https://www.tmtpost.com/8061647.html",
-        "published_date": "Sun, 12 Jul 2026 15:21:00 GMT",
-        "first_seen": "2026-07-12T07:31:31.730557"
-      },
-      "aad203d94c3ba746872d80473161e3f5b17d00f8f08ff51ebc4d1d3bfbb94ce4": {
-        "title": "港股年内最大IPO尴尬首秀，4800亿“果链一哥”破发",
-        "link": "https://www.tmtpost.com/8061430.html",
-        "published_date": "Sun, 12 Jul 2026 15:05:00 GMT",
-        "first_seen": "2026-07-12T07:31:31.730570"
-      },
-      "9e7f990d642ea11c9f35f7565876b49ed63aeb64b788aafd677d0e482c9c9133": {
-        "title": "内存三巨头，各选各路",
-        "link": "https://www.tmtpost.com/8061616.html",
-        "published_date": "Sun, 12 Jul 2026 11:16:00 GMT",
-        "first_seen": "2026-07-12T07:31:31.730578"
-      },
-      "1ffff8ac54542f1f7289ac17cffc0f06ba4dd1562677984621fcdcc0909a6125": {
-        "title": "拆分电商业务、整治剧本带货，快手给复购喂“救心丸”",
-        "link": "https://www.tmtpost.com/8061563.html",
-        "published_date": "Sun, 12 Jul 2026 11:10:00 GMT",
-        "first_seen": "2026-07-12T07:31:31.730616"
-      },
-      "e00af78f28e6088fa3341102a2e91ef7651cb915530c1ed6695e984ca2c9ffac": {
-        "title": "具身智能460亿融资背后的“异类玩家”",
-        "link": "https://www.tmtpost.com/8061597.html",
-        "published_date": "Sun, 12 Jul 2026 11:02:00 GMT",
-        "first_seen": "2026-07-12T07:31:31.730627"
-      },
-      "891e7766b6de2e6514159b9b5d3f5799d1e880d638aa65ca2c54dcca3fb955e1": {
-        "title": "三年高新企业资格被取消，朗姿股份的“科技外衣”破了",
-        "link": "https://www.tmtpost.com/8061488.html",
-        "published_date": "Sun, 12 Jul 2026 11:02:00 GMT",
-        "first_seen": "2026-07-12T07:31:31.730533"
-      },
-      "be547b2b8a2e91bbcac7c7606b6ebe0d655954ed9d935d4149d9e5c4181c2797": {
-        "title": "智谱，害怕成为下一个MiniMax",
-        "link": "https://www.tmtpost.com/8061545.html",
-        "published_date": "Sun, 12 Jul 2026 11:02:00 GMT",
-        "first_seen": "2026-07-12T07:31:31.730636"
-      },
-      "bfcc777f0aa93fe5d526d46c3e9c8249160d73fcc1115f813dfc27ce3ea261b2": {
-        "title": "300 元起的心理咨询，为什么输给了 30 元的树洞",
-        "link": "https://www.tmtpost.com/8061554.html",
-        "published_date": "Sun, 12 Jul 2026 10:01:00 GMT",
-        "first_seen": "2026-07-12T07:31:31.730646"
-      },
-      "fbfa2e1e5da13a12d6cb4265492439edaf2a42a34a7ec1b87c61dce33dc75206": {
-        "title": "A股偿债能力百强榜：谁的财务底盘更稳？",
-        "link": "https://www.tmtpost.com/8061587.html",
-        "published_date": "Sun, 12 Jul 2026 09:51:00 GMT",
-        "first_seen": "2026-07-12T07:31:31.730655"
-      },
-      "29c42fb0fb73e3543ecad8a5533562d363d2deb4897d651ddc8772d85fa05628": {
-        "title": "【ESG-V评级观察】上海上市公司价值重估：金融科创抬升上限，先进制造与城市服务分化显现",
-        "link": "https://www.tmtpost.com/8061583.html",
-        "published_date": "Sun, 12 Jul 2026 09:51:00 GMT",
-        "first_seen": "2026-07-12T07:31:31.730665"
-      },
-      "d2bae285409688c84ac8711bbc83c42c792c3aef29bc52bd248bdb929e1b50d2": {
-        "title": "价值判断：跌停板的投资机会和风险提示（7月10日）｜上市公司观察",
-        "link": "https://www.tmtpost.com/8061578.html",
-        "published_date": "Sun, 12 Jul 2026 09:50:00 GMT",
-        "first_seen": "2026-07-12T07:31:22.378469"
-      },
-      "66829eb07771cbe201f485e211784a1d3ec5ccddfc0a64ece08b879a7a1a6c97": {
-        "title": "Edge AI Daily 早报（7月12日）",
-        "link": "https://www.tmtpost.com/8061544.html",
-        "published_date": "Sun, 12 Jul 2026 08:36:00 GMT",
-        "first_seen": "2026-07-12T07:31:22.379694"
-      },
-      "8a1d3a335905bbf4b609e4fc6cb570778fbc8194d24ea56552a1d85e743ef4c9": {
-        "title": "6月音乐精选：不得不听的 17 张……没错 17 张专辑！",
-        "link": "https://sspai.com/post/112035",
-        "published_date": "Sun, 12 Jul 2026 10:03:00 GMT",
-        "first_seen": "2026-07-12T07:31:22.380360"
-      },
-      "1ea5ad91ccd7c24e8d20bfeda0a85f4a47c727b6fbdd262ad58567b3c33d40b3": {
-        "title": "面向 Qwen 系列模型线性注意力的高性能优化实践｜AICon深圳",
-        "link": "https://www.infoq.cn/article/wg5h3JBMvs5ZkoP0azha?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 12 Jul 2026 10:00:00 GMT",
-        "first_seen": "2026-07-12T07:31:22.381182"
-      },
       "f7512068b19164959a3b74e69a5c32058b5df5130a6304825b081af6c197bb33": {
         "title": "绿电不愿再“流浪”：国家能源局重磅发布行动计划，布局一批自用消纳的新能源基地",
         "link": "https://www.tmtpost.com/8061627.html",
@@ -11108,13 +11012,67 @@
         "link": "http://www.geekpark.net/news/368640",
         "published_date": "Tue, 11 Aug 2026 08:48:00 GMT",
         "first_seen": "2026-08-11T05:56:57.144879"
+      },
+      "c329d1e106b8c9474d194536edbc8b708387a1ce6169a1e8d0235f7c4d49fcd6": {
+        "title": "王兴重仓王兴兴，这盘棋到底有多大？",
+        "link": "https://www.tmtpost.com/8098120.html",
+        "published_date": "Tue, 11 Aug 2026 16:40:00 GMT",
+        "first_seen": "2026-08-11T09:03:50.182301"
+      },
+      "2bd2b4dc5e80833c139be5d563af80c98b585b397982b3b9d2b144d0ce40e2a5": {
+        "title": "盒马越来越“轻”",
+        "link": "https://www.tmtpost.com/8098669.html",
+        "published_date": "Tue, 11 Aug 2026 16:40:00 GMT",
+        "first_seen": "2026-08-11T09:03:50.182442"
+      },
+      "40e539ab620cc6753dbfde525d5b2b0b87ad039ba1c618590af28250f70c5878": {
+        "title": "Apple Reportedly Testing CXMT: What Signal Is the Memory Market Sending?",
+        "link": "https://www.tmtpost.com/8099034.html",
+        "published_date": "Tue, 11 Aug 2026 15:01:00 GMT",
+        "first_seen": "2026-08-11T09:03:50.182620"
+      },
+      "4521771eb7a98ef8144a7e0dfa656637d1708f7e3d0fc30378178c057e9eb73c": {
+        "title": "OpenAI 代理群利用 Artifactory 零日漏洞逃离沙箱并入侵 Hugging Face",
+        "link": "https://www.infoq.cn/article/gkzDEyCF5U4DtKAa1Eee?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 11 Aug 2026 16:36:00 GMT",
+        "first_seen": "2026-08-11T09:03:50.182915"
+      },
+      "216a04e9b0876f86bfe3812d9def5eea4e30db41ee5787346b93d48211a748df": {
+        "title": "腾讯WorkBuddy升级多端同步，支持手机远程授权和停止电脑端任务",
+        "link": "https://www.infoq.cn/article/kSqvyjVIwTvXsumYgRtf?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 11 Aug 2026 14:28:00 GMT",
+        "first_seen": "2026-08-11T09:03:50.183167"
+      },
+      "15e44f08ff3bef8da5a34dec463c531b9abe21fe49b79624957b1b52cec06064": {
+        "title": "让 Agent 读懂业务世界：Snowflake Cortex Agents 的本体驱动推理实践",
+        "link": "https://www.infoq.cn/article/2NsA9FT1uhjmdRrwzOo3?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 11 Aug 2026 14:18:00 GMT",
+        "first_seen": "2026-08-11T09:03:50.183587"
+      },
+      "33c6681f49cc3ff232f2cd376483a2dadf5c69f6155e3e5c341e7c2098528ae4": {
+        "title": "对话影溯章国锋：互联网数据才是空间智能最需要的「太阳能」",
+        "link": "http://www.geekpark.net/news/368667",
+        "published_date": "Tue, 11 Aug 2026 15:30:00 GMT",
+        "first_seen": "2026-08-11T09:03:50.183877"
+      },
+      "91e964df4825e5b63c99c92a40e495728b595212d415229cd5ffd59fdae17202": {
+        "title": "Seedance 2.5 上线后，LibTV 先帮创作者「学会」了新模型",
+        "link": "http://www.geekpark.net/news/368665",
+        "published_date": "Tue, 11 Aug 2026 15:21:00 GMT",
+        "first_seen": "2026-08-11T09:03:50.184316"
+      },
+      "7bb277e3199a10c1bf7e621ed2ec2109f99d8a0a4787c7f0200f84c4c6ce55dc": {
+        "title": "走通上架流程，拥抱新兴生态：《鸿蒙应用上架指南》上线",
+        "link": "https://sspai.com/post/112887",
+        "published_date": "Tue, 11 Aug 2026 13:59:00 GMT",
+        "first_seen": "2026-08-11T09:03:50.184725"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-08-11T05:56:57.052774",
-    "Technology": "2026-08-11T05:57:06.446935",
-    "Finance": "2026-08-11T05:57:06.466149"
+    "AI": "2026-08-11T09:03:50.115837",
+    "Technology": "2026-08-11T09:03:50.211531",
+    "Finance": "2026-08-11T09:03:50.229626"
   }
 }
