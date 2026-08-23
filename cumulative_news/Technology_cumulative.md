@@ -1,7 +1,40 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-23 05:34
+**最后更新时间**: 2026-08-23 08:38
+
+---
+
+## 🆕 最新更新 (2026-08-23 08:38)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [银行理财五星管理人评级报告 （2026年7月）](https://www.tmtpost.com/8113345.html)
+**发布时间**: 2026-08-23 16:14
+
+#### [在试错中求索：一套本土行业分类的突围之路](https://www.tmtpost.com/8113337.html)
+**发布时间**: 2026-08-23 16:14
+
+#### [价值判断：跌停板的投资机会和风险提示（8月21日）｜上市公司观察](https://www.tmtpost.com/8113335.html)
+**发布时间**: 2026-08-23 16:14
+
+#### [价值判断：涨停板的投资机会和风险提示（8月21日）｜上市公司观察](https://www.tmtpost.com/8113330.html)
+**发布时间**: 2026-08-23 16:14
+
+#### [伯南克加盟Anthropic：一个救火队长，守得住AI的门吗？](https://www.tmtpost.com/8113322.html)
+**发布时间**: 2026-08-23 16:13
+
+#### [阿里七年来最大的资本运作](https://www.tmtpost.com/8113306.html)
+**发布时间**: 2026-08-23 16:03
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本](https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard)
+**发布时间**: 2026-08-23 15:25
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索](https://www.infoq.cn/article/9YicfQysexJdmx11xG4m?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-23 14:09
 
 ---
 
