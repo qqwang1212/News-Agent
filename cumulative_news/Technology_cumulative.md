@@ -1,7 +1,81 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-24 08:54
+**最后更新时间**: 2026-08-24 23:27
+
+---
+
+## 🆕 最新更新 (2026-08-24 23:27)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Tesla Adds a Chinese Large Model to Its China Cars for the First Time](https://www.tmtpost.com/8115448.html)
+**发布时间**: 2026-08-25 07:24
+
+#### [【钛晨报】上海"十五五"产业规划出炉，新增三大万亿级产业集群；国管公积金新政，首套房最高可贷款340万元；TRAE、扣子并入豆包，字节将推“豆包工作”](https://www.tmtpost.com/8115315.html)
+**发布时间**: 2026-08-25 07:20
+
+#### [随着美加关税争端升级，钢铁股大涨](https://www.tmtpost.com/8115384.html)
+**发布时间**: 2026-08-24 22:57
+
+#### [四个正在大赚特赚的甲烷中间商](https://www.tmtpost.com/8115381.html)
+**发布时间**: 2026-08-24 22:52
+
+#### [说好AI三年回本，阿里转头找股东要800亿“救急”？](https://www.tmtpost.com/8113703.html)
+**发布时间**: 2026-08-24 20:18
+
+#### [说好“多模态不是主线”的梁文锋，怎么转头就发了个Vision模型？](https://www.tmtpost.com/8114555.html)
+**发布时间**: 2026-08-24 20:17
+
+#### [越失败越要上，这项运动为什么反而让人留下来](https://www.tmtpost.com/8114522.html)
+**发布时间**: 2026-08-24 20:17
+
+#### [网易云音乐不想被汽水抢走最后一个音符](https://www.tmtpost.com/8113993.html)
+**发布时间**: 2026-08-24 20:17
+
+#### [两天卖出十万份，从GAME JAM到爆款独游需要《多少兄弟？》](https://www.tmtpost.com/8113947.html)
+**发布时间**: 2026-08-24 20:17
+
+#### [影石似乎讲不出新故事](https://www.tmtpost.com/8113717.html)
+**发布时间**: 2026-08-24 20:17
+
+#### [荣耀太想进步了](https://www.tmtpost.com/8114496.html)
+**发布时间**: 2026-08-24 20:16
+
+#### [机器人会干活了，但还没学会“别多管闲事”](https://www.tmtpost.com/8114648.html)
+**发布时间**: 2026-08-24 20:16
+
+#### [离开了上海家化，丝芙兰如何破解连亏三年的困局？](https://www.tmtpost.com/8114859.html)
+**发布时间**: 2026-08-24 19:34
+
+#### [一款灵巧手打磨14个月才发售：这家交大系公司在攒什么](https://www.tmtpost.com/8114762.html)
+**发布时间**: 2026-08-24 19:05
+
+#### [维泛智能完成过亿元种子+轮融资，机器人端侧算力芯片进入产品化阶段](https://www.tmtpost.com/8113528.html)
+**发布时间**: 2026-08-24 18:19
+
+#### [Beijing Robot Conference Marks Industry Turn Toward Usable Machines](https://www.tmtpost.com/8114886.html)
+**发布时间**: 2026-08-24 18:03
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [「米芯」三连发：雷军五年花了 210 亿，归来已「不只手机」](http://www.geekpark.net/news/369302)
+**发布时间**: 2026-08-24 23:34
+
+#### [硅谷押注的下一个 Harness，是整个桌面操作系统](http://www.geekpark.net/news/369298)
+**发布时间**: 2026-08-24 17:57
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/113795)
+**发布时间**: 2026-08-24 17:52
+
+#### [Windows On ARM 原生应用少？你可以试试这些改造方法](https://sspai.com/prime/story/create-your-own-windows-apps)
+**发布时间**: 2026-08-24 16:28
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Next.js 16.3 发布：即时导航、开发内存最高降低 90%，构建速度大幅提升](https://www.infoq.cn/article/NedlVNN6E9uWbIE3WV07?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-24 17:15
 
 ---
 
