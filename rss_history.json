@@ -1,12 +1,6 @@
 {
   "published_articles": {
     "AI": {
-      "94e83bb94104f8f0a09093d8a2e200f473a5243eeb56f0b04115d5184b4aa766": {
-        "title": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence",
-        "link": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/",
-        "published_date": "Thu, 30 Jul 2026 20:36:00 GMT",
-        "first_seen": "2026-07-31T00:07:44.689478"
-      },
       "5de3266db42969610866cd8d80d2c5ed657e3ca392eb1fc8ae55dd7bf35a3614": {
         "title": "学习强国做了个AI社区，两周铺进68座城市",
         "link": "https://www.qbitai.com/2026/07/463727.html",
@@ -1302,117 +1296,51 @@
         "link": "https://www.qbitai.com/2026/08/480591.html",
         "published_date": "Fri, 28 Aug 2026 07:20:00 GMT",
         "first_seen": "2026-08-28T20:07:37.744513"
+      },
+      "4d66abc25df0a38f62706cd840f01dfe58a8dc8b61ccae10089b947645329dc0": {
+        "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+        "link": "https://www.qbitai.com/2026/08/481372.html",
+        "published_date": "Sat, 29 Aug 2026 13:11:00 GMT",
+        "first_seen": "2026-08-30T01:12:27.979331"
+      },
+      "b68cfc21e60238dcc971555de500cd3fa04ea0ad1b7ac4550a5ea652473bf4f8": {
+        "title": "去年归国的徐梦迪，成了清华姚班班主任",
+        "link": "https://www.qbitai.com/2026/08/481318.html",
+        "published_date": "Sat, 29 Aug 2026 13:01:00 GMT",
+        "first_seen": "2026-08-30T01:12:27.979463"
+      },
+      "1465fd2fc2f3d19fcd864525f18f5a957b5ef23e148ef7d7aea52922aadbec3e": {
+        "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+        "link": "https://www.qbitai.com/2026/08/481223.html",
+        "published_date": "Sat, 29 Aug 2026 12:50:00 GMT",
+        "first_seen": "2026-08-30T01:12:27.979665"
+      },
+      "168e15143613379a9db3b7bb2e8ba92105801d379ccd476beb03e873765ffd64": {
+        "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
+        "link": "https://www.qbitai.com/2026/08/481075.html",
+        "published_date": "Sat, 29 Aug 2026 12:26:00 GMT",
+        "first_seen": "2026-08-30T01:12:27.979862"
+      },
+      "b0571e03887b7bf906d4c1584af242fd2e801c88386679e114b0f6a6a54e2c28": {
+        "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
+        "link": "https://www.qbitai.com/2026/08/480940.html",
+        "published_date": "Sat, 29 Aug 2026 12:11:00 GMT",
+        "first_seen": "2026-08-30T01:12:27.980096"
+      },
+      "54c2c82c50f9463cc5697f3e978fe683da944c1b18d57f7e9e71d05fc41983e7": {
+        "title": "OpenClaw：红过，爱过，散了",
+        "link": "https://www.qbitai.com/2026/08/480855.html",
+        "published_date": "Sat, 29 Aug 2026 12:00:00 GMT",
+        "first_seen": "2026-08-30T01:12:27.980357"
+      },
+      "33136685396909045c091c461929fe3f82addd26fe8e9d18d4b4f2aa112f2c46": {
+        "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
+        "link": "https://www.qbitai.com/2026/08/480787.html",
+        "published_date": "Sat, 29 Aug 2026 11:35:00 GMT",
+        "first_seen": "2026-08-30T01:12:27.980728"
       }
     },
     "Technology": {
-      "78db552ce82761afa041c1d0cf2fae06aa4847b72fb14d0602f3ccdbc9f79f5d": {
-        "title": "【钛晨报】中央政治局会议定调下半年经济工作；独家｜字节调整飞书、火山、豆包组织架构，ToB业务走向一体化；宇树科技：初步询价日为8月5日，网上网下申购日为8月10日",
-        "link": "https://www.tmtpost.com/8085654.html",
-        "published_date": "Fri, 31 Jul 2026 07:20:00 GMT",
-        "first_seen": "2026-07-31T00:07:54.092066"
-      },
-      "3054b858c011d7cdc48a1fb586275068a3bc619686eec7f3e7e76bdaeb0b372a": {
-        "title": "联创电子易主落定：寿县国资6亿接盘，30亿化债成前置条件",
-        "link": "https://www.tmtpost.com/8085809.html",
-        "published_date": "Thu, 30 Jul 2026 23:03:00 GMT",
-        "first_seen": "2026-07-31T00:07:54.092119"
-      },
-      "ad8f04acd460a3bb60662bc60f8034bf90d819b2475cf94503f6ac8ab9ce3c45": {
-        "title": "四年并购7家、累计耗资49亿之后，华润双鹤拟再砸56亿跨界农化丨并购一线",
-        "link": "https://www.tmtpost.com/8085679.html",
-        "published_date": "Thu, 30 Jul 2026 22:31:00 GMT",
-        "first_seen": "2026-07-31T00:07:54.092127"
-      },
-      "4ca3e72f2943c7186d47aae9298ed62986f0040768901e54efff1bc1f4fab4f4": {
-        "title": "Haier Faces a Delicate Local Balancing Act in Thailand After Fan Event Tensions",
-        "link": "https://www.tmtpost.com/8085651.html",
-        "published_date": "Thu, 30 Jul 2026 21:28:00 GMT",
-        "first_seen": "2026-07-31T00:07:54.092139"
-      },
-      "4a2f9f3e2099925cd591cc63c1bbb11ef502ff027578adaddd3d1f96b18c1729": {
-        "title": "兆日科技易主：连年亏损实控人清仓离场，“满月”接盘方身份成谜",
-        "link": "https://www.tmtpost.com/8085351.html",
-        "published_date": "Thu, 30 Jul 2026 19:27:00 GMT",
-        "first_seen": "2026-07-31T00:07:54.092094"
-      },
-      "20a19c2733f7504c888fa3fe13c949f8147109ca03baf1ebb8b4a7aa13d16f33": {
-        "title": "独家｜西南五省市里，几乎只有成都的医疗企业能融到资了",
-        "link": "https://www.tmtpost.com/8084639.html",
-        "published_date": "Thu, 30 Jul 2026 19:02:00 GMT",
-        "first_seen": "2026-07-31T00:07:54.092147"
-      },
-      "33a1c1b757bd127fac477ecaacda9bd51057b7d5bfbf3794ccd7f7957700e724": {
-        "title": "黄仁勋，给中国超节点带货",
-        "link": "https://www.tmtpost.com/8085024.html",
-        "published_date": "Thu, 30 Jul 2026 19:00:00 GMT",
-        "first_seen": "2026-07-31T00:07:54.092155"
-      },
-      "8fdc2160e319793b8bd3f9225da460e761d594d9a3882f63e61f83168bf0cc5c": {
-        "title": "自由现金流，卡住了AI巨头的脖子",
-        "link": "https://www.tmtpost.com/8085007.html",
-        "published_date": "Thu, 30 Jul 2026 18:59:00 GMT",
-        "first_seen": "2026-07-31T00:07:54.092162"
-      },
-      "f1dc7a60ee36e4e0debc7452edb80fc5a8129e5d7e06411f47a0608103b2f6d1": {
-        "title": "老铺跌了70%，但我旗帜鲜明地支持它",
-        "link": "https://www.tmtpost.com/8085017.html",
-        "published_date": "Thu, 30 Jul 2026 18:59:00 GMT",
-        "first_seen": "2026-07-31T00:07:54.092170"
-      },
-      "831d2eb192f66cb7d37fc710feff3e869df250b572d5ba8b57618ade12704528": {
-        "title": "AI教父失去了AI时代",
-        "link": "https://www.tmtpost.com/8085168.html",
-        "published_date": "Thu, 30 Jul 2026 18:59:00 GMT",
-        "first_seen": "2026-07-31T00:07:44.785186"
-      },
-      "fb58f3675dc2e70c29bedf62268c24de490ab74468181029b310a41a217e149e": {
-        "title": "聊聊字节的AI调整：两个关键人物和一个新方向",
-        "link": "https://www.tmtpost.com/8085266.html",
-        "published_date": "Thu, 30 Jul 2026 18:58:00 GMT",
-        "first_seen": "2026-07-31T00:07:44.785574"
-      },
-      "760599123bec2d60da5dde4c2926533a27742c8a536d2c873f8d4decfea1e446": {
-        "title": "AI大厂开始借钱烧算力",
-        "link": "https://www.tmtpost.com/8084949.html",
-        "published_date": "Thu, 30 Jul 2026 18:18:00 GMT",
-        "first_seen": "2026-07-31T00:07:44.785835"
-      },
-      "4384a18ff0725996fe68ce5766608f934616767a0b8cb89e688195dd9e1c8ac0": {
-        "title": "飞书变成了豆包",
-        "link": "https://www.tmtpost.com/8085035.html",
-        "published_date": "Thu, 30 Jul 2026 18:18:00 GMT",
-        "first_seen": "2026-07-31T00:07:44.786102"
-      },
-      "6ff7825b2a57dbcfbde54cf8a99287990aac988d5ac9485922363ab43d5c9a56": {
-        "title": "财报后Meta大跌10％，扎男还要为汪滔买单多久？",
-        "link": "https://www.tmtpost.com/8085006.html",
-        "published_date": "Thu, 30 Jul 2026 18:18:00 GMT",
-        "first_seen": "2026-07-31T00:07:44.786575"
-      },
-      "e6d6f28c69d2a8244ac1c91a30fee630b70b16cda175ec144a0cc479b42dfd8f": {
-        "title": "Kubernetes 统治了容器时代，谷歌 Agent Substrate 意在拿下下一个十年",
-        "link": "https://www.infoq.cn/article/h0WG6p7z3tyTk3hxQIhT?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 30 Jul 2026 19:50:00 GMT",
-        "first_seen": "2026-07-31T00:07:44.787445"
-      },
-      "26a088687f321fc2df4e3c7d162d8d0a09f5e46b7b3c23ac43fd569fc74e373d": {
-        "title": "为什么黑灯软件工厂会失败",
-        "link": "https://www.infoq.cn/article/zaRGeRH3RSKub9tALUj6?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 30 Jul 2026 19:44:00 GMT",
-        "first_seen": "2026-07-31T00:07:44.787785"
-      },
-      "59033e243717a3dfc4071b8caedf8f4301ff09ed167df81089f7c5f5073bbe21": {
-        "title": "编程界新分水岭：Uncle Bob说“绝不读AI写的代码”，Hashimoto却说他“逐行阅读”，你站谁？",
-        "link": "https://www.infoq.cn/article/WbtENUlDowovNCHxECMf?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 30 Jul 2026 19:31:00 GMT",
-        "first_seen": "2026-07-31T00:07:44.788820"
-      },
-      "cbb710cda11586c1d14a9ca64473c22fd37a8e90d28202f2c60eb53f6f9bd4a2": {
-        "title": "别再让团队失忆：从研发上下文到 AI Native 团队资产基础设施 | 腾讯云数据库 DBTalk",
-        "link": "https://www.infoq.cn/video/YCKedQpovL6VPFGUALxZ?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 30 Jul 2026 19:00:00 GMT",
-        "first_seen": "2026-07-31T00:07:54.092109"
-      },
       "d19bdb973c2333e6a4c8484537b98540f775eec2fa2a548ec5ad6dfbedd9ab51": {
         "title": "安踏的CEO不好当",
         "link": "https://www.tmtpost.com/8086315.html",
@@ -11138,13 +11066,31 @@
         "link": "https://www.infoq.cn/article/KbbHdAQFxQM7AJIYMLqR?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 29 Aug 2026 12:00:00 GMT",
         "first_seen": "2026-08-29T11:33:30.860113"
+      },
+      "d6e94272d56d685418d98cb55ed420fb748da6e56de8bfc134c8850841c4d097": {
+        "title": "Edge AI Daily 早报（8月30日）",
+        "link": "https://www.tmtpost.com/8121865.html",
+        "published_date": "Sun, 30 Aug 2026 08:52:00 GMT",
+        "first_seen": "2026-08-30T01:12:27.800551"
+      },
+      "7dc1011fafbabc07647a421aa7080974a61cad64b7b0e69a94cba14fdfce4873": {
+        "title": "八万亿中国人寿的科技进阶",
+        "link": "https://www.tmtpost.com/8121809.html",
+        "published_date": "Sat, 29 Aug 2026 20:49:00 GMT",
+        "first_seen": "2026-08-30T01:12:27.800686"
+      },
+      "6bd275157da759cb5938650ee7860434334cbc4c4aa1700a47075cd2a5b6c7f5": {
+        "title": "OpenAI 终止与 Cursor 合作；雷军：2600名小米车主行程超 10 万公里；华纳与索尼起诉 Anthropic，索赔数十亿美元",
+        "link": "http://www.geekpark.net/news/369551",
+        "published_date": "Sun, 30 Aug 2026 08:28:00 GMT",
+        "first_seen": "2026-08-30T01:12:27.801099"
       }
     },
     "Finance": {}
   },
   "last_update": {
-    "AI": "2026-08-29T11:33:40.410100",
-    "Technology": "2026-08-29T11:33:40.276705",
-    "Finance": "2026-08-29T11:33:40.296099"
+    "AI": "2026-08-30T01:12:27.988115",
+    "Technology": "2026-08-30T01:12:27.855731",
+    "Finance": "2026-08-30T01:12:27.874086"
   }
 }
