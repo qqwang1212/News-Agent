@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>AI 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 07 Sep 2026 00:47:00 GMT</pubDate>
-    <lastBuildDate>Mon, 07 Sep 2026 00:49:49 GMT</lastBuildDate>
+    <pubDate>Mon, 07 Sep 2026 10:01:00 GMT</pubDate>
+    <lastBuildDate>Mon, 07 Sep 2026 10:03:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>150782771375663104</feedId>
@@ -14,11 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>具身ICL来了创业玩家！上下文成Scaling新赛道</title>
-      <link>https://www.qbitai.com/2026/09/484897.html</link>
-      <description>&lt;![CDATA[具身ICL来了创业玩家！上下文成Scaling新赛道]]&gt;</description>
-      <pubDate>Sun, 06 Sep 2026 11:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/484897.html</guid>
+      <title>GPT-6不只Astra！Sol内测结果曝光，速度快6倍</title>
+      <link>https://www.qbitai.com/2026/09/485431.html</link>
+      <description>&lt;![CDATA[GPT-6不只Astra！Sol内测结果曝光，速度快6倍]]&gt;</description>
+      <pubDate>Mon, 07 Sep 2026 09:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/485431.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布</title>
+      <link>https://www.qbitai.com/2026/09/485154.html</link>
+      <description>&lt;![CDATA[DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布]]&gt;</description>
+      <pubDate>Mon, 07 Sep 2026 08:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/485154.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3</title>
+      <link>https://www.qbitai.com/2026/09/485108.html</link>
+      <description>&lt;![CDATA[菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3]]&gt;</description>
+      <pubDate>Mon, 07 Sep 2026 08:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/485108.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%</title>
+      <link>https://www.qbitai.com/2026/09/485064.html</link>
+      <description>&lt;![CDATA[国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%]]&gt;</description>
+      <pubDate>Mon, 07 Sep 2026 06:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/485064.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied</title>
+      <link>https://www.qbitai.com/2026/09/485056.html</link>
+      <description>&lt;![CDATA[原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied]]&gt;</description>
+      <pubDate>Mon, 07 Sep 2026 06:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/485056.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>业内首个！“千问办公”推出“多人工作台”</title>
+      <link>https://www.qbitai.com/2026/09/485046.html</link>
+      <description>&lt;![CDATA[业内首个！“千问办公”推出“多人工作台”]]&gt;</description>
+      <pubDate>Mon, 07 Sep 2026 05:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/485046.html</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>产业龙头领投！中科类脑完成数亿元B+轮战略融资</title>
+      <link>https://www.qbitai.com/2026/09/485039.html</link>
+      <description>&lt;![CDATA[产业龙头领投！中科类脑完成数亿元B+轮战略融资]]&gt;</description>
+      <pubDate>Mon, 07 Sep 2026 04:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/485039.html</guid>
       <category>AI</category>
     </item>
   </channel>
