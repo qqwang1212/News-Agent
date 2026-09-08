@@ -1,7 +1,96 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-07 10:03
+**最后更新时间**: 2026-09-08 01:06
+
+---
+
+## 🆕 最新更新 (2026-09-08 01:06)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [年销25亿的彩妆黑马AKF：起于流量，困于内斗](https://www.tmtpost.com/8131666.html)
+**发布时间**: 2026-09-08 09:02
+
+#### [跟《牛来》坐一桌的《后西游记》，如何撬动百亿市值？](https://www.tmtpost.com/8131629.html)
+**发布时间**: 2026-09-08 08:58
+
+#### [《早春晴朗》冲上Netflix周榜第二，古偶的出海生意被现偶抢了？](https://www.tmtpost.com/8131663.html)
+**发布时间**: 2026-09-08 08:57
+
+#### [脱口秀也会老](https://www.tmtpost.com/8131609.html)
+**发布时间**: 2026-09-08 08:34
+
+#### [Edge AI Daily 早报（9月8日）](https://www.tmtpost.com/8131798.html)
+**发布时间**: 2026-09-08 08:28
+
+#### [长城一打鼓，敲碎lululemon的增长神话？](https://www.tmtpost.com/8131528.html)
+**发布时间**: 2026-09-08 08:14
+
+#### [通用机器人，正在从一种身体变成一种架构](https://www.tmtpost.com/8131405.html)
+**发布时间**: 2026-09-08 08:09
+
+#### [星宇总经理被罚一年薪水，一次招聘失误背后的制造业成本重构](https://www.tmtpost.com/8131331.html)
+**发布时间**: 2026-09-08 08:01
+
+#### [【钛晨报】信息通信行业发展“十五五”规划发布，部署26项重点任务；微信内测“小微AI社交”：AI先聊再带回结果；央行：8月末黄金储备升至7673万盎司，连续22个月增持](https://www.tmtpost.com/8131620.html)
+**发布时间**: 2026-09-08 07:20
+
+#### [智能体出海东南亚，还缺懂本土落地的人 ｜SEA Frontline](https://www.tmtpost.com/8128887.html)
+**发布时间**: 2026-09-08 06:45
+
+#### [航空股正陷入困境，反而让这一只成为值得长期买入的标的](https://www.tmtpost.com/8131646.html)
+**发布时间**: 2026-09-07 22:27
+
+#### [AI+能源：未来前景与投资思路](https://www.tmtpost.com/8131644.html)
+**发布时间**: 2026-09-07 22:24
+
+#### [AI Video Generation Crosses Real-Time Threshold, Enabling Continuous Streams and Interactive Stories](https://www.tmtpost.com/8131491.html)
+**发布时间**: 2026-09-07 18:44
+
+#### [AI and the Evolution of Value Investing: A Conversation with Zhong Zhaomin](https://www.tmtpost.com/8131485.html)
+**发布时间**: 2026-09-07 18:40
+
+#### [广东神秘老板，闷声买下欧洲卫浴龙头](https://www.tmtpost.com/8105371.html)
+**发布时间**: 2026-09-07 18:21
+
+#### [理想不会是最后一个增资欣旺达的车企](https://www.tmtpost.com/8130319.html)
+**发布时间**: 2026-09-07 18:20
+
+#### [华为、小米、苹果争相入局，阔折叠为啥火了？](https://www.tmtpost.com/8130488.html)
+**发布时间**: 2026-09-07 18:14
+
+#### [新Qoder“不止于编程”，阿里AI办公赛马又起](https://www.tmtpost.com/8130900.html)
+**发布时间**: 2026-09-07 18:13
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [传字节开发实时空间视频生成模型，张一鸣亲自督导；微信内测「AI 社交」功能；华为小米同天发布折叠屏手机](http://www.geekpark.net/news/369965)
+**发布时间**: 2026-09-08 08:34
+
+#### [AI 时代，「种草」这件事会变成什么样？](http://www.geekpark.net/news/369962)
+**发布时间**: 2026-09-07 21:01
+
+#### [判断用不用你的软件，Agent 只需 500 个 Token](http://www.geekpark.net/news/369960)
+**发布时间**: 2026-09-07 18:32
+
+#### [童欣加入 Meshy，3D 世界终于等到自己的「互联网时刻」](http://www.geekpark.net/news/369959)
+**发布时间**: 2026-09-07 18:26
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面](https://www.infoq.cn/article/dcIyMXGTNE2vY6NiH6tm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-07 19:33
+
+#### [从 Harness 到 Loop：阿福 Agent 小队如何处理持续涌入的线上 Badcase｜QCon上海](https://www.infoq.cn/article/5Xy6jTfq7Si98XvXAJCp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-07 19:30
+
+#### [利用 Workload Identity Federation 清除 GCP 中长期有效的凭据](https://www.infoq.cn/article/bEwEWltvchcPZUACt36w?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-07 18:24
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派评｜近期值得关注的 App](https://sspai.com/post/114288)
+**发布时间**: 2026-09-07 18:08
 
 ---
 
