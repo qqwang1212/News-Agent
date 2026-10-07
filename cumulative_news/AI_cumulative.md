@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-10-06 11:52
+**最后更新时间**: 2026-10-07 02:10
+
+---
+
+## 🆕 最新更新 (2026-10-07 02:10)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来](https://www.qbitai.com/2026/10/501749.html)
+**发布时间**: 2026-10-07 01:05
+
+#### [刚刚，诺贝尔物理奖一人独揽！](https://www.qbitai.com/2026/10/501746.html)
+**发布时间**: 2026-10-06 10:44
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Unlocking Earth AI’s planetary geospatial foundation models for global public health](https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/)
+**发布时间**: 2026-10-06 15:05
 
 ---
 
